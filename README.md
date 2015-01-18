@@ -28,8 +28,8 @@ I welcome every contribution to the list!
 * [How To Ship New Code Without Taking Your System Down](https://www.youtube.com/watch?v=NfCLCmRi4_Y) by **Martin Rehfeld**
 
 ####Haskell
-[Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) by **Andrew Rademacher** (for Beginners)
-[The Algebra In Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) by **Chris Taylor**
+* [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) by **Andrew Rademacher** (for Beginners)
+* [The Algebra In Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) by **Chris Taylor**
 
 ####Javascript & Node.js
 * [Crockford on JavaScript](http://yuiblog.com/crockford/) by **Douglas Crockford** (it's 10 hours long!)
