@@ -16,6 +16,7 @@ I welcome every contribution to the list!
 * [Using C++11 to speed up your Qt 5 programs](http://www.youtube.com/watch?v=sajBj_eiH10) by **Marc Mutz**
 * [Don't Help the Compiler](https://www.youtube.com/watch?v=AKtHxKJRwp4) by **Stephan Lavavej**
 * [The Effective C++11/14 Sampler](http://channel9.msdn.com/Events/GoingNative/2013/An-Effective-Cpp11-14-Sampler) by **Scott Meyers**
+* [The Last Thing D Needs](https://www.youtube.com/watch?v=48kP_Ssg2eY) by **Scott Meyers**
 * [C++ Seasoning](http://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) by **Sean Patent**
 
 ####Elixir
@@ -63,6 +64,7 @@ I welcome every contribution to the list!
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) by **Thomas Figg**
 * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** 
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** 
+* [Why C++ Sails Whenthe Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) by **Scott Meyers**
 * [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** 
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** 
 * [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) by **Bret Victor**
