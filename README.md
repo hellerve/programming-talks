@@ -21,6 +21,10 @@ I welcome every contribution to the list!
 ####Elixir
 [Think Different](http://www.confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different) by **Dave Thomas**
 
+####Erlang
+[Writing Quality Code in Erlang](https://www.youtube.com/watch?v=CQyt9Vlkbis) by **Garreth Smith**
+[Erlang: Evolution](https://www.youtube.com/watch?v=od6CfA8xEcM) by **Robert Virding**
+[How To Ship New Code Without Taking Your System Down](https://www.youtube.com/watch?v=NfCLCmRi4_Y) by **Martin Rehfeld**
 
 ####Haskell
 [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) by **Andrew Rademacher** (for Beginners)
