@@ -68,6 +68,7 @@ I welcome every contribution to the list!
 * [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** 
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** 
 * [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) by **Bret Victor**
+* [Make Simple Tasks Simple!](https://www.youtube.com/watch?v=nesCaocNjtQ) by **Bjarne Stroustrup**
 
 #####Functional Programming
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** 
