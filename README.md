@@ -12,20 +12,20 @@ I welcome every contribution to the list!
 ###On Programming Languages
 
 ####C++
-[C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) by **Bartosz Milewski**
-[Using C++11 to speed up your Qt 5 programs](http://www.youtube.com/watch?v=sajBj_eiH10) by **Marc Mutz**
-[Don't Help the Compiler](https://www.youtube.com/watch?v=AKtHxKJRwp4) by **Stephan Lavavej**
-[The Effective C++11/14 Sampler](http://channel9.msdn.com/Events/GoingNative/2013/An-Effective-Cpp11-14-Sampler) by **Scott Meyers**
-[C++ Seasoning](http://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) by **Sean Patent**
+* [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) by **Bartosz Milewski**
+* [Using C++11 to speed up your Qt 5 programs](http://www.youtube.com/watch?v=sajBj_eiH10) by **Marc Mutz**
+* [Don't Help the Compiler](https://www.youtube.com/watch?v=AKtHxKJRwp4) by **Stephan Lavavej**
+* [The Effective C++11/14 Sampler](http://channel9.msdn.com/Events/GoingNative/2013/An-Effective-Cpp11-14-Sampler) by **Scott Meyers**
+* [C++ Seasoning](http://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) by **Sean Patent**
 
 ####Elixir
-[Think Different](http://www.confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different) by **Dave Thomas**
+* [Think Different](http://www.confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different) by **Dave Thomas**
 
 ####Erlang
-[Writing Quality Code in Erlang](https://www.youtube.com/watch?v=CQyt9Vlkbis) by **Garreth Smith**
-[Erlang: Evolution](https://www.youtube.com/watch?v=od6CfA8xEcM) by **Robert Virding**
-[Implementing Languages on the BEAM](https://www.youtube.com/watch?v=qm0mbQbc9Kc) by **Robert Virding**
-[How To Ship New Code Without Taking Your System Down](https://www.youtube.com/watch?v=NfCLCmRi4_Y) by **Martin Rehfeld**
+* [Writing Quality Code in Erlang](https://www.youtube.com/watch?v=CQyt9Vlkbis) by **Garreth Smith**
+* [Erlang: Evolution](https://www.youtube.com/watch?v=od6CfA8xEcM) by **Robert Virding**
+* [Implementing Languages on the BEAM](https://www.youtube.com/watch?v=qm0mbQbc9Kc) by **Robert Virding**
+* [How To Ship New Code Without Taking Your System Down](https://www.youtube.com/watch?v=NfCLCmRi4_Y) by **Martin Rehfeld**
 
 ####Haskell
 [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) by **Andrew Rademacher** (for Beginners)
@@ -65,6 +65,7 @@ I welcome every contribution to the list!
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** 
 * [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** 
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** 
+* [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) by **Bret Victor**
 
 #####Functional Programming
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** 
