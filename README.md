@@ -24,6 +24,7 @@ I welcome every contribution to the list!
 ####Erlang
 [Writing Quality Code in Erlang](https://www.youtube.com/watch?v=CQyt9Vlkbis) by **Garreth Smith**
 [Erlang: Evolution](https://www.youtube.com/watch?v=od6CfA8xEcM) by **Robert Virding**
+[Implementing Languages on the BEAM](https://www.youtube.com/watch?v=qm0mbQbc9Kc) by **Robert Virding**
 [How To Ship New Code Without Taking Your System Down](https://www.youtube.com/watch?v=NfCLCmRi4_Y) by **Martin Rehfeld**
 
 ####Haskell
