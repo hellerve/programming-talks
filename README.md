@@ -34,7 +34,7 @@ I welcome every contribution to the list!
 * [The Algebra In Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) by **Chris Taylor**
 
 ####Javascript & Node.js
-* [Crockford on JavaScript](http://yuiblog.com/crockford/) by **Douglas Crockford** (it's 10 hours long!)
+* [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** (it's 10 hours long!)
 * [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) by **Ryan Dahl** 
 * [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford** 
 
