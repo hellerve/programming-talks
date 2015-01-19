@@ -19,6 +19,7 @@ I welcome every contribution to the list!
 * [The Last Thing D Needs](https://www.youtube.com/watch?v=48kP_Ssg2eY) by **Scott Meyers**
 * [C++ Seasoning](http://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) by **Sean Parent**
 * [Efficiency with Algorithms, Performance with Data](https://www.youtube.com/watch?v=fHNmRkzxHWs) by **Chandler Carruth**
+* [Back to the Basics! Essentials of Modern C++ Style](https://www.youtube.com/watch?v=xnqTKD8uD64) by **Herb Sutter**
 
 ####Elixir
 * [Think Different](http://www.confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different) by **Dave Thomas**
