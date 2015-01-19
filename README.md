@@ -22,6 +22,7 @@ I welcome every contribution to the list!
 
 ####Elixir
 * [Think Different](http://www.confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different) by **Dave Thomas**
+* [Elixir: The Power of Erlang, the Joy of Ruby](https://www.youtube.com/watch?v=lww1aZ-ldz0) by **Dave Thomas**
 
 ####Erlang
 * [Writing Quality Code in Erlang](https://www.youtube.com/watch?v=CQyt9Vlkbis) by **Garreth Smith**
@@ -48,6 +49,7 @@ I welcome every contribution to the list!
 * [Inside the Python GIL](https://www.youtube.com/watch?v=ph374fJqFPE) by **David Beazley**
 * [The Cython Compiler for Python](https://www.youtube.com/watch?v=ZHpkLX2VFMU) by **Dr. Stefan Behnel**
 * [Python Metaprogramming for Mad Scientists and Evil Geniuses](https://www.youtube.com/watch?v=Adr_QuDZxuM) by **Walker Hale**
+* [pandas: Powerful data analysis tools for Python](https://www.youtube.com/watch?v=qbYYamU42Sw) by **Wes McKinney**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
