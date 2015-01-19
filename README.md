@@ -47,6 +47,7 @@ I welcome every contribution to the list!
 * [Understanding the Python GIL](https://www.youtube.com/watch?v=Obt-vMVdM8s) by **David Beazley**
 * [Inside the Python GIL](https://www.youtube.com/watch?v=ph374fJqFPE) by **David Beazley**
 * [The Cython Compiler for Python](https://www.youtube.com/watch?v=ZHpkLX2VFMU) by **Dr. Stefan Behnel**
+* [Python Metaprogramming for Mad Scientists and Evil Geniuses](https://www.youtube.com/watch?v=Adr_QuDZxuM) by **Walker Hale**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
