@@ -54,6 +54,7 @@ I welcome every contribution to the list!
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
 * [Y Not - Adventures in Functional Programming](http://www.confreaks.com/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming) by **Jim Weirich**
+* [Make awesome command line apps with Ruby](https://www.youtube.com/watch?v=1ILEw6Qca3U) by **Dave Copeland**
 
 ####VimL
 * [More Instantly Better Vim](https://www.youtube.com/watch?v=aHm36-na4-4) by **Damian Conway**
