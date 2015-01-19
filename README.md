@@ -24,6 +24,7 @@ I welcome every contribution to the list!
 ####Elixir
 * [Think Different](http://www.confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different) by **Dave Thomas**
 * [Elixir: The Power of Erlang, the Joy of Ruby](https://www.youtube.com/watch?v=lww1aZ-ldz0) by **Dave Thomas**
+* [elixir Conf 2014 Keynote](https://www.youtube.com/watch?v=aZXc11eOEpI) by **Jose Valim**
 
 ####Erlang
 * [Writing Quality Code in Erlang](https://www.youtube.com/watch?v=CQyt9Vlkbis) by **Garreth Smith**
