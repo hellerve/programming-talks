@@ -65,7 +65,7 @@ I welcome every contribution to the list!
 #####Software Development
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) by **Thomas Figg**
 * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** 
-* [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** 
+* [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) by **Joe Armstrong** 
 * [Why C++ Sails Whenthe Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) by **Scott Meyers**
 * [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** 
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** 
