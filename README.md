@@ -18,6 +18,7 @@ I welcome every contribution to the list!
 * [The Effective C++11/14 Sampler](http://channel9.msdn.com/Events/GoingNative/2013/An-Effective-Cpp11-14-Sampler) by **Scott Meyers**
 * [The Last Thing D Needs](https://www.youtube.com/watch?v=48kP_Ssg2eY) by **Scott Meyers**
 * [C++ Seasoning](http://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) by **Sean Patent**
+* [Efficiency with Algorithms, Performance with Data](https://www.youtube.com/watch?v=fHNmRkzxHWs) by **Chandler Carruth**
 
 ####Elixir
 * [Think Different](http://www.confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different) by **Dave Thomas**
