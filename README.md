@@ -17,7 +17,7 @@ I welcome every contribution to the list!
 * [Don't Help the Compiler](https://www.youtube.com/watch?v=AKtHxKJRwp4) by **Stephan Lavavej**
 * [The Effective C++11/14 Sampler](http://channel9.msdn.com/Events/GoingNative/2013/An-Effective-Cpp11-14-Sampler) by **Scott Meyers**
 * [The Last Thing D Needs](https://www.youtube.com/watch?v=48kP_Ssg2eY) by **Scott Meyers**
-* [C++ Seasoning](http://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) by **Sean Patent**
+* [C++ Seasoning](http://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) by **Sean Parent**
 * [Efficiency with Algorithms, Performance with Data](https://www.youtube.com/watch?v=fHNmRkzxHWs) by **Chandler Carruth**
 
 ####Elixir
