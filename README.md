@@ -37,6 +37,11 @@ I welcome every contribution to the list!
 * [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) by **Andrew Rademacher** (for Beginners)
 * [The Algebra In Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) by **Chris Taylor**
 
+####Java & Android
+* [Common crypto mistakes in Android](http://vimeo.com/115219591) by **Isaax Potoczny-Jones**
+* [Java 8 Lambda Expressions & Streams](https://www.youtube.com/watch?v=8pDm_kH4YKY) by **Adib Saikali**
+* [Java 8 Language Capabilities, What's in it for you?](https://www.youtube.com/watch?v=j9nj5dTo54Q) by **Venkat Subramaniam**
+
 ####Javascript & Node.js
 * [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** (it's 10 hours long!)
 * [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) by **Ryan Dahl** 
