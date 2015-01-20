@@ -5,7 +5,8 @@ As I consider all Githubbers my friends(oh yeah!), I decided it's time to share 
 list.
 
 I have programmng languages specifics as well as a more general section I call "theory",
-but do not expect to always get Theoretical Computer Science for every talk there.
+but do not expect to always get Theoretical Computer Science for every talk there,
+most of them are on the Architecture and Design of Software.
 
 I welcome every contribution to the list!
 
