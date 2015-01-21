@@ -51,6 +51,7 @@ tell me and I'll sort it out with you.
 
 ####Javascript & Node.js
 * [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** (it's 10 hours long!)
+* [Really. JavaScript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) by **Douglas Crockford**
 * [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) by **Ryan Dahl** 
 * [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford** 
 
