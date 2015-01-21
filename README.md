@@ -28,6 +28,10 @@ tell me and I'll sort it out with you.
 * [Efficiency with Algorithms, Performance with Data](https://www.youtube.com/watch?v=fHNmRkzxHWs) by **Chandler Carruth**
 * [Back to the Basics! Essentials of Modern C++ Style](https://www.youtube.com/watch?v=xnqTKD8uD64) by **Herb Sutter**
 
+####CSS 
+*(yeah, I know, stylesheets are not programming)*
+* [CSS Levels Up](https://www.youtube.com/watch?v=UpVj5azI-iI) by **Angelina Fabbro**
+
 ####Elixir
 * [Think Different](http://www.confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different) by **Dave Thomas**
 * [Elixir: The Power of Erlang, the Joy of Ruby](https://www.youtube.com/watch?v=lww1aZ-ldz0) by **Dave Thomas**
