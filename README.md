@@ -59,6 +59,7 @@ I welcome every contribution to the list!
 * [The Cython Compiler for Python](https://www.youtube.com/watch?v=ZHpkLX2VFMU) by **Dr. Stefan Behnel**
 * [Python Metaprogramming for Mad Scientists and Evil Geniuses](https://www.youtube.com/watch?v=Adr_QuDZxuM) by **Walker Hale**
 * [pandas: Powerful data analysis tools for Python](https://www.youtube.com/watch?v=qbYYamU42Sw) by **Wes McKinney**
+* [Scalability at YouTube](https://www.youtube.com/watch?v=G-lGCC4KKok) by **Mike Solomon** (long intro; starts about 8 minutes in)
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
