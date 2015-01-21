@@ -10,6 +10,12 @@ most of them are on the Architecture and Design of Software.
 
 I welcome every contribution to the list!
 
+**Disclaimer:** I did not do any of the talks on the list and am responsible neither
+for their content nor for their presentation. All links below will direct you to
+external sites(mostly YouTube, really), be aware of that. If you are one of the people
+responsible for the talks or the platform presenting it and want it removed,
+tell me and I'll sort it out with you.
+
 ###On Programming Languages
 
 ####C++
