@@ -100,7 +100,6 @@ tell me and I'll sort it out with you.
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** 
 * [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) by **Bret Victor**
 * [Make Simple Tasks Simple!](https://www.youtube.com/watch?v=nesCaocNjtQ) by **Bjarne Stroustrup**
-* [Scalability at YouTube](https://www.youtube.com/watch?v=G-lGCC4KKok) by **Mike Solomon** (long intro; starts about 8 minutes in)
 
 #####Functional Programming
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** 
@@ -119,3 +118,7 @@ tell me and I'll sort it out with you.
 * [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) by **Chris Williams** 
 * [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) by **James Mickens** 
 * [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) by **Scott Hanselmann**
+
+####System Architecture
+* [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) by **Fred Hebert**
+* [Scalability at YouTube](https://www.youtube.com/watch?v=G-lGCC4KKok) by **Mike Solomon** (long intro; starts about 8 minutes in)
