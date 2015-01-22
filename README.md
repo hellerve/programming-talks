@@ -117,3 +117,4 @@ tell me and I'll sort it out with you.
 * [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) by **Chris Williams** 
 * [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) by **Chris Williams** 
 * [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) by **James Mickens** 
+* [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) by **Scott Hanselmann**
