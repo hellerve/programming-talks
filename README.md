@@ -80,7 +80,7 @@ tell me and I'll sort it out with you.
 * [Make awesome command line apps with Ruby](https://www.youtube.com/watch?v=1ILEw6Qca3U) by **Dave Copeland**
 
 ####Swift
-[Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=TlvLGTXn_gk) by **J.P. Simard**
+* [Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=TlvLGTXn_gk) by **J.P. Simard**
 
 ####VimL
 * [More Instantly Better Vim](https://www.youtube.com/watch?v=aHm36-na4-4) by **Damian Conway**
