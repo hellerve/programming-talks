@@ -86,6 +86,7 @@ tell me and I'll sort it out with you.
 
 ####Swift
 * [Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=TlvLGTXn_gk) by **J.P. Simard**
+* [Thinking in Swift](http://vimeo.com/105440181) by **Abizer Nasir**
 
 ####VimL
 * [More Instantly Better Vim](https://www.youtube.com/watch?v=aHm36-na4-4) by **Damian Conway**
