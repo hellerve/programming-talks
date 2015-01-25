@@ -28,6 +28,7 @@ tell me and I'll sort it out with you.
 * [Efficiency with Algorithms, Performance with Data](https://www.youtube.com/watch?v=fHNmRkzxHWs) by **Chandler Carruth**
 * [Back to the Basics! Essentials of Modern C++ Style](https://www.youtube.com/watch?v=xnqTKD8uD64) by **Herb Sutter**
 * [Writing Quick Code in C++, Quickly](https://www.youtube.com/watch?v=ea5DiCg8HOY) by **Andrei Alexandrescu**
+* [Optimizing the Emergent Structures of C++](https://www.youtube.com/watch?v=eR34r7HOU14) by **Chandler Carruth** (somewhat annoyingly bad quality)
 
 ####CSS 
 *(yeah, I know, stylesheets are not traditionally programming)*
