@@ -83,6 +83,7 @@ tell me and I'll sort it out with you.
 
 ####Scala
 * [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA) by **Dan Rosen**
+* [Svala Versus Java](https://www.youtube.com/watch?v=PKc5IwHG68k) by **Dan Rosen**
 * [What's Next for Scala](https://www.youtube.com/watch?v=qqQNqIy5LdM) by **Martin Odersky**
 * [Scala Collections: Why Not?](https://www.youtube.com/watch?v=uiJycy6dFSQ) by **Paul Phillips** (beware: not very optimistic!)
 * [Concurrency Anti-Patterns in Scala](https://www.youtube.com/watch?v=dCEZDlH1ygo) by **Blake Matheny**
