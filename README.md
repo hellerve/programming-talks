@@ -36,6 +36,9 @@ tell me and I'll sort it out with you.
 *(yeah, I know, stylesheets are not traditionally programming)*
 * [CSS Levels Up](https://www.youtube.com/watch?v=UpVj5azI-iI) by **Angelina Fabbro**
 
+####D
+* [High Performance Code Using D](https://www.youtube.com/watch?v=eh8WETRT7q4) by **Walter Bright**
+
 ####Elixir
 * [Think Different](http://www.confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different) by **Dave Thomas**
 * [Elixir: The Power of Erlang, the Joy of Ruby](https://www.youtube.com/watch?v=lww1aZ-ldz0) by **Dave Thomas**
