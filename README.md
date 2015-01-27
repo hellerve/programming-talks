@@ -61,6 +61,7 @@ tell me and I'll sort it out with you.
 * [Living in the Matrix with Bytecode Manipulation ](https://www.youtube.com/watch?v=39kdr1mNZ_s) by **Ashley Puls**
 
 ####Javascript & Node.js
+* [Node.js in 20 Minutes](https://www.youtube.com/watch?v=mq6uCM4ynpc) by **Edmond Meinfelder**
 * [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** (it's 10 hours long!)
 * [Really. JavaScript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) by **Douglas Crockford**
 * [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc) by **Douglas Crockford**
@@ -132,6 +133,7 @@ tell me and I'll sort it out with you.
 * [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) by **Chris Williams** 
 * [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) by **James Mickens** 
 * [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) by **Scott Hanselmann**
+* [Paul Irish on HTML5 Boilerplate](https://www.youtube.com/watch?v=qyM37XKkmKQ) by **Paul Irish**
 
 ####System Architecture
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) by **Fred Hebert**
