@@ -58,7 +58,8 @@ tell me and I'll sort it out with you.
 * [Common crypto mistakes in Android](http://vimeo.com/115219591) by **Isaax Potoczny-Jones**
 * [Java 8 Lambda Expressions & Streams](https://www.youtube.com/watch?v=8pDm_kH4YKY) by **Adib Saikali**
 * [Java 8 Language Capabilities, What's in it for you?](https://www.youtube.com/watch?v=j9nj5dTo54Q) by **Venkat Subramaniam**
-* [Living in the Matrix with Bytecode Manipulation ](https://www.youtube.com/watch?v=39kdr1mNZ_s) by **Ashley Puls**
+* [Living in the Matrix with Bytecode Manipulation](https://www.youtube.com/watch?v=39kdr1mNZ_s) by **Ashley Puls**
+* [JVM Bytecode for Dummies (and the Rest of Us Too)](https://www.youtube.com/watch?v=rPyqB1l4gko) by **Charles O. Nutter**
 
 ####Javascript & Node.js
 * [Node.js in 20 Minutes](https://www.youtube.com/watch?v=mq6uCM4ynpc) by **Edmond Meinfelder**
