@@ -68,6 +68,7 @@ tell me and I'll sort it out with you.
 * [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc) by **Douglas Crockford**
 * [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) by **Ryan Dahl** 
 * [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford** 
+* [Dissecting WebGL](http://new.livestream.com/hugeinc/events/2192947) by **Justin Windle**
 
 ####Python
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** 
