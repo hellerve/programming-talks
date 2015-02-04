@@ -131,6 +131,9 @@ tell me and I'll sort it out with you.
 * [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) by **Phillip Wadler** 
 * [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) by **Dr. Brian Beckman** 
 
+####Computer Graphics
+* [Principles of Lighting and Rendering](https://www.youtube.com/watch?v=IyUgHPs86XM) by **John Carmack**
+
 #####Web Development
 * [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** 
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernhardt** 
