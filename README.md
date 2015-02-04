@@ -109,15 +109,18 @@ tell me and I'll sort it out with you.
 * [Writing a Nanopass Compiler](https://www.youtube.com/watch?v=Os7FE3J-U5Q) by **Andy Keep**
 
 ###On theory
+#####Thoughts on Languages
+* [Why C++ Sails Whenthe Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) by **Scott Meyers**
+* [Make Simple Tasks Simple!](https://www.youtube.com/watch?v=nesCaocNjtQ) by **Bjarne Stroustrup**
+* [Running a startup on Haskell](https://www.youtube.com/watch?v=ZR3Jirqk6W8) by **Bryan O'Sullivan**
+
 #####Software Development
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) by **Thomas Figg**
 * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** 
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) by **Joe Armstrong** 
-* [Why C++ Sails Whenthe Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) by **Scott Meyers**
 * [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** 
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** 
 * [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) by **Bret Victor**
-* [Make Simple Tasks Simple!](https://www.youtube.com/watch?v=nesCaocNjtQ) by **Bjarne Stroustrup**
 
 #####Functional Programming
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** 
