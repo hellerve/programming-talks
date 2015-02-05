@@ -68,6 +68,7 @@ tell me and I'll sort it out with you.
 * [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc) by **Douglas Crockford**
 * [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) by **Ryan Dahl** 
 * [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford** 
+* [ Creating A Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=b5pFv9NB9fs) by **Nicholas Zakas**
 * [Dissecting WebGL](http://new.livestream.com/hugeinc/events/2192947) by **Justin Windle** 
     (you might want to take a look at [the slides](https://github.com/hugeinc/doctype-meetup/tree/master/dissecting-webgl), you cannot really see them well)
 
