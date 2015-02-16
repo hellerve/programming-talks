@@ -53,6 +53,7 @@ tell me and I'll sort it out with you.
 ####Haskell
 * [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) by **Andrew Rademacher** (for Beginners)
 * [The Algebra In Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) by **Chris Taylor**
+* [Writing a game in Haskell](https://www.youtube.com/watch?v=1MNTerD8IuI) by **Elise Huard**
 
 ####Java & Android
 * [Common crypto mistakes in Android](http://vimeo.com/115219591) by **Isaax Potoczny-Jones**
