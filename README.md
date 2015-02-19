@@ -78,6 +78,7 @@ tell me and I'll sort it out with you.
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) by **Dwight J. Browne**
+* [Crossing Language Barriers with Julia, SciPy,IPython](https://www.youtube.com/watch?v=jhlVHoeB05A) by **Stephen G. Johnson**
 
 ####Python
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** 
@@ -93,6 +94,7 @@ tell me and I'll sort it out with you.
 * [pandas: Powerful data analysis tools for Python](https://www.youtube.com/watch?v=qbYYamU42Sw) by **Wes McKinney**
 * [Loop like a native: while, for, iterators, generators](https://www.youtube.com/watch?v=EnSu9hHGq5o) by **Ned Batchelder**
 * [Decorators: A Powerful Weapon in your Python Arsenal](https://www.youtube.com/watch?v=9oyr0mocZTg) by **Colton Myers** (only about function decorators)
+* [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) by **Raymond Hettlinger**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
