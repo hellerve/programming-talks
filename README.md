@@ -76,6 +76,9 @@ tell me and I'll sort it out with you.
 * [Dissecting WebGL](http://new.livestream.com/hugeinc/events/2192947) by **Justin Windle** 
     (you might want to take a look at [the slides](https://github.com/hugeinc/doctype-meetup/tree/master/dissecting-webgl), you cannot really see them well)
 
+####Julia
+* [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) by **Dwight J. Browne**
+
 ####Python
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** 
 * [Super Advanced Python](http://www.youtube.com/watch?v=u2KZJzoz-qI) by **Raymond Chandler**
