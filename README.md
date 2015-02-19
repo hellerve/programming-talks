@@ -88,6 +88,7 @@ tell me and I'll sort it out with you.
 * [The Cython Compiler for Python](https://www.youtube.com/watch?v=ZHpkLX2VFMU) by **Dr. Stefan Behnel**
 * [Python Metaprogramming for Mad Scientists and Evil Geniuses](https://www.youtube.com/watch?v=Adr_QuDZxuM) by **Walker Hale**
 * [pandas: Powerful data analysis tools for Python](https://www.youtube.com/watch?v=qbYYamU42Sw) by **Wes McKinney**
+* [Loop like a native: while, for, iterators, generators](https://www.youtube.com/watch?v=EnSu9hHGq5o) by **Ned Batchelder**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
