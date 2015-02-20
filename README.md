@@ -65,6 +65,7 @@ tell me and I'll sort it out with you.
 * [JVM Bytecode for Dummies (and the Rest of Us Too)](https://www.youtube.com/watch?v=rPyqB1l4gko) by **Charles O. Nutter**
 
 ####Javascript & Node.js
+(There is a good list of talks about JS to be found [here](https://github.com/bolshchikov/js-must-watch))
 * [Node.js in 20 Minutes](https://www.youtube.com/watch?v=mq6uCM4ynpc) by **Edmond Meinfelder**
 * [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** (it's 10 hours long!)
 * [Really. JavaScript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) by **Douglas Crockford**
@@ -82,6 +83,7 @@ tell me and I'll sort it out with you.
 * [Convex Optimization in Julia](https://www.youtube.com/watch?v=SoI0lEaUvTs) by **Madeleine Udell**
 
 ####Python
+(There is a good list of talks about Python to be found [here](https://github.com/s16h/py-must-watch))
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** 
 * [Super Advanced Python](http://www.youtube.com/watch?v=u2KZJzoz-qI) by **Raymond Chandler**
 * [Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI) by **David Beazley**
