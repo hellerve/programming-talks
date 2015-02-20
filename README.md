@@ -79,6 +79,7 @@ tell me and I'll sort it out with you.
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) by **Dwight J. Browne**
 * [Crossing Language Barriers with Julia, SciPy,IPython](https://www.youtube.com/watch?v=jhlVHoeB05A) by **Stephen G. Johnson**
+* [Convex Optimization in Julia](https://www.youtube.com/watch?v=SoI0lEaUvTs) by **Madeleine Udell**
 
 ####Python
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** 
