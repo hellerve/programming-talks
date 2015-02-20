@@ -18,6 +18,9 @@ tell me and I'll sort it out with you.
 
 ###On Programming Languages
 
+####Clojure
+* [Clojure Concurrency](https://www.youtube.com/watch?v=dGVqrGmwOAw) by **Rich Hickey**
+
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) by **Bartosz Milewski**
 * [Using C++11 to speed up your Qt 5 programs](http://www.youtube.com/watch?v=sajBj_eiH10) by **Marc Mutz**
