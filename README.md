@@ -101,7 +101,6 @@ tell me and I'll sort it out with you.
 * [Loop like a native: while, for, iterators, generators](https://www.youtube.com/watch?v=EnSu9hHGq5o) by **Ned Batchelder**
 * [Decorators: A Powerful Weapon in your Python Arsenal](https://www.youtube.com/watch?v=9oyr0mocZTg) by **Colton Myers** (only about function decorators)
 * [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) by **Raymond Hettlinger**
-* [How To Shut Down Tolkien](https://www.youtube.com/watch?v=qVlqBxpCG24) by **Brandon Rhodes**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
@@ -168,3 +167,6 @@ tell me and I'll sort it out with you.
 ####System Architecture
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) by **Fred Hebert**
 * [Scalability at YouTube](https://www.youtube.com/watch?v=G-lGCC4KKok) by **Mike Solomon** (long intro; starts about 8 minutes in)
+
+####Misc
+* [How To Shut Down Tolkien](https://www.youtube.com/watch?v=qVlqBxpCG24) by **Brandon Rhodes** (for the fun)
