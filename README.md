@@ -18,6 +18,9 @@ tell me and I'll sort it out with you.
 
 ###On Programming Languages
 
+####C
+* [Advanced C Coding For Fun!](https://www.youtube.com/watch?v=BEQ3sRakIs0) by **Rusty Russell**
+
 ####Clojure
 * [Clojure Concurrency](https://www.youtube.com/watch?v=dGVqrGmwOAw) by **Rich Hickey**
 
