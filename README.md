@@ -175,6 +175,7 @@ tell me and I'll sort it out with you.
 ####Theoretical Computer Science
 * [Church's Coincidences](https://www.youtube.com/watch?v=2PJ_DbKGFUA) by **Philip Wadler**
 * [Programming the Turing Machine](https://www.youtube.com/watch?v=ibRar7sWulM) by **Barbara Liskov**
+* [Turing and the Riemann zeta function](https://www.youtube.com/watch?v=pQS7X_8iTCA) by **Andrew Odlyzko**
 
 ####Misc
 * [How To Shut Down Tolkien](https://www.youtube.com/watch?v=qVlqBxpCG24) by **Brandon Rhodes** (for the fun)
