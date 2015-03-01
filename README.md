@@ -172,5 +172,8 @@ tell me and I'll sort it out with you.
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) by **Fred Hebert**
 * [Scalability at YouTube](https://www.youtube.com/watch?v=G-lGCC4KKok) by **Mike Solomon** (long intro; starts about 8 minutes in)
 
+####Theoretical Computer Science
+* [Church's Coincidences](https://www.youtube.com/watch?v=2PJ_DbKGFUA) by **Philip Wadler**
+
 ####Misc
 * [How To Shut Down Tolkien](https://www.youtube.com/watch?v=qVlqBxpCG24) by **Brandon Rhodes** (for the fun)
