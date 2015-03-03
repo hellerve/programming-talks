@@ -56,6 +56,9 @@ tell me and I'll sort it out with you.
 * [Implementing Languages on the BEAM](https://www.youtube.com/watch?v=qm0mbQbc9Kc) by **Robert Virding**
 * [How To Ship New Code Without Taking Your System Down](https://www.youtube.com/watch?v=NfCLCmRi4_Y) by **Martin Rehfeld**
 
+####Go
+* [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) by **Rob Pike**
+
 ####Haskell
 * [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) by **Andrew Rademacher** (for Beginners)
 * [The Algebra In Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) by **Chris Taylor**
