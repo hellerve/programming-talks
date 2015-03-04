@@ -160,6 +160,7 @@ tell me and I'll sort it out with you.
 ####Computer Graphics
 * [Principles of Lighting and Rendering](https://www.youtube.com/watch?v=IyUgHPs86XM) by **John Carmack**
 * [Making WebGL Dance](https://www.youtube.com/watch?v=GNO_CYUjMK8) by **Steven Wittens**
+* [Making things with maths](https://www.youtube.com/watch?v=Zkx1aKv2z8o) by **Steven Wittens**
 
 #####Web Development
 * [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** 
