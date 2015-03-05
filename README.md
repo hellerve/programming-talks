@@ -85,6 +85,7 @@ tell me and I'll sort it out with you.
 * [Large Scale JavaScript Application Architecture](https://www.youtube.com/watch?v=kNrnRG1YgAQ) by **Dan Lynch**
 * [Dissecting WebGL](http://new.livestream.com/hugeinc/events/2192947) by **Justin Windle** 
     (you might want to take a look at [the slides](https://github.com/hugeinc/doctype-meetup/tree/master/dissecting-webgl), you cannot really see them well)
+* [10 Angular JS Patterns](https://www.youtube.com/watch?v=UlvCbnKAH3g) by **John Papa**
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) by **Dwight J. Browne**
