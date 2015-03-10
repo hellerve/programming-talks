@@ -4,7 +4,7 @@ I watch a lot of talks that I love to share with my friends, fellows and coworke
 As I consider all Githubbers my friends(oh yeah!), I decided it's time to share the
 list.
 
-I have programmng languages specifics as well as a more general section I call "theory",
+There are talks on programming languages specifics as well as a more general section I call "theory",
 but do not expect to always get Theoretical Computer Science for every talk there,
 most of them are on the Architecture and Design of Software.
 
@@ -139,12 +139,12 @@ tell me and I'll sort it out with you.
 * ["Linux Sucks" - 2014](https://www.youtube.com/watch?v=5pOxlazS3zs) by **Bryan Lunduke**
 
 ###On theory
-#####Thoughts on Languages
+####Thoughts on Languages
 * [Why C++ Sails Whenthe Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) by **Scott Meyers**
 * [Make Simple Tasks Simple!](https://www.youtube.com/watch?v=nesCaocNjtQ) by **Bjarne Stroustrup**
 * [Running a startup on Haskell](https://www.youtube.com/watch?v=ZR3Jirqk6W8) by **Bryan O'Sullivan**
 
-#####Software Development
+####Software Development
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) by **Thomas Figg**
 * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** 
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) by **Joe Armstrong** 
@@ -153,7 +153,7 @@ tell me and I'll sort it out with you.
 * [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) by **Bret Victor**
 * [CPU Caches and Why You care](https://vimeo.com/97337258) by **Scott Meyers** (written in C++, reasonable for almost every software developer)
 
-#####Functional Programming
+####Functional Programming
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** 
 * [Adventures in Functional Programming](https://vimeo.com/45140590) by **Jim Weirich** 
 * [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) by **Gilad Bracha** 
@@ -167,7 +167,7 @@ tell me and I'll sort it out with you.
 * [Making WebGL Dance](https://www.youtube.com/watch?v=GNO_CYUjMK8) by **Steven Wittens**
 * [Making things with maths](https://www.youtube.com/watch?v=Zkx1aKv2z8o) by **Steven Wittens**
 
-#####Web Development
+####Web Development
 * [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** 
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernhardt** 
 * [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) by **Brian Lonsdorf** 
@@ -177,7 +177,6 @@ tell me and I'll sort it out with you.
 * [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) by **Scott Hanselmann**
 * [Paul Irish on HTML5 Boilerplate](https://www.youtube.com/watch?v=qyM37XKkmKQ) by **Paul Irish**
 * [Unlock the next era of UI development with Polymer](https://www.youtube.com/watch?v=HKrYfrAzqFA) by **Rob Dodson**
-
 
 ####System Architecture
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) by **Fred Hebert**
