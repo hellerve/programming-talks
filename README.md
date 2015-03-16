@@ -61,6 +61,7 @@ tell me and I'll sort it out with you.
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) by **Rob Pike**
 * [Advanced Go Concurrency Patterns](https://www.youtube.com/watch?v=QDDwwePbDtw) by **Sameer Ajmani**
 * [Parctical Go Programming](https://www.youtube.com/watch?v=2-pPAvqyluI) by **Andrew Gerrand**
+* [Go for Pythonistas](https://www.youtube.com/watch?v=elu0VpLzJL8) by **Francesc Campoy Flores**
 
 ####Haskell
 * [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) by **Andrew Rademacher** (for Beginners)
