@@ -139,7 +139,8 @@ tell me and I'll sort it out with you.
 * [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt** 
 * [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) by **Linus Torvalds**
 * [Writing a Nanopass Compiler](https://www.youtube.com/watch?v=Os7FE3J-U5Q) by **Andy Keep**
-* ["Linux Sucks" - 2014](https://www.youtube.com/watch?v=5pOxlazS3zs) by **Bryan Lunduke**
+* [Linux Sucks - 2014](https://www.youtube.com/watch?v=5pOxlazS3zs) by **Bryan Lunduke**
+* [You csn be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) by **Julia Evans**
 
 ###On theory
 ####Thoughts on Languages
