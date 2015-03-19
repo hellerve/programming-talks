@@ -182,6 +182,7 @@ tell me and I'll sort it out with you.
 * [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) by **Scott Hanselmann**
 * [Paul Irish on HTML5 Boilerplate](https://www.youtube.com/watch?v=qyM37XKkmKQ) by **Paul Irish**
 * [Unlock the next era of UI development with Polymer](https://www.youtube.com/watch?v=HKrYfrAzqFA) by **Rob Dodson**
+* [React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) by **Pete Hunt**
 
 ####System Architecture
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) by **Fred Hebert**
