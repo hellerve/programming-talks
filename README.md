@@ -93,6 +93,7 @@ tell me and I'll sort it out with you.
 * [10 Angular JS Patterns](https://www.youtube.com/watch?v=UlvCbnKAH3g) by **John Papa**
 * [Design Decisions in AngularJS](https://www.youtube.com/watch?v=HCR7i5F5L8c) by **Brad Green & Miško Hevery**
 * [ES6 and 7, the future of JS](https://vimeo.com/113913703) by **Brendan Eich**
+* [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by **Philip Roberts**
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) by **Dwight J. Browne**
