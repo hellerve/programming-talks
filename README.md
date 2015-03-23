@@ -43,6 +43,7 @@ tell me and I'll sort it out with you.
 *(yeah, I know, stylesheets are not traditionally programming)*
 * [CSS Levels Up](https://www.youtube.com/watch?v=UpVj5azI-iI) by **Angelina Fabbro**
 * [Your CSS is a Mess](https://www.youtube.com/watch?v=C4z_9F6nfS8) by **Jonathan Snook**
+* [CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA) by **Addy Osmani**
 
 ####D
 * [High Performance Code Using D](https://www.youtube.com/watch?v=eh8WETRT7q4) by **Walter Bright**
