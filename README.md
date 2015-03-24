@@ -178,6 +178,7 @@ tell me and I'll sort it out with you.
 
 ####Computer Vision
 * [OpenCV and High-Performance Vision on GPU](https://www.youtube.com/watch?v=0CNSCpcKiQ4) by **Victor Eruhimov**
+* [Robots: You're Still Doing It Wrong](https://www.youtube.com/watch?v=gFW0schumkE) by **Katy Levinson** (not very formal, DefCon)
 
 ####Web Development
 * [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** 
