@@ -73,6 +73,7 @@ tell me and I'll sort it out with you.
 * [Lenses, Folds, and Traversals](https://www.youtube.com/watch?v=cefnmjtAolY) by **Edward Kmett**
 * [Haskell Amuse-Bouche](https://www.youtube.com/watch?v=b9FagOVqxmI) by **Mark Lentczner** (the audio quality is scarily bad)
 * [Enigmatic Haskell, Haskellish Enigma](https://www.youtube.com/watch?v=9-u2n4GgcVw) by **Rishiyur S. Nikhil**
+* [Pure Type Systems](https://www.youtube.com/watch?v=ZGqKsalJi4s) by **Cody Roux**
 
 ####Java & Android
 * [Common crypto mistakes in Android](http://vimeo.com/115219591) by **Isaax Potoczny-Jones**
