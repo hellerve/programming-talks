@@ -165,6 +165,7 @@ tell me and I'll sort it out with you.
 
 ####Compilers/Interpreters
 * [Parsing with Derivatives](https://www.youtube.com/watch?v=ZzsK8Am6dKU) by **Matthew Might**
+* [The Clang AST](https://www.youtube.com/watch?v=VqCkCDFLSsc) by **Manuel Klimek**
 
 ####Functional Programming
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** 
