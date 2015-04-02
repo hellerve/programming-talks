@@ -59,6 +59,7 @@ tell me and I'll sort it out with you.
 * [Erlang: Evolution](https://www.youtube.com/watch?v=od6CfA8xEcM) by **Robert Virding**
 * [Implementing Languages on the BEAM](https://www.youtube.com/watch?v=qm0mbQbc9Kc) by **Robert Virding**
 * [How To Ship New Code Without Taking Your System Down](https://www.youtube.com/watch?v=NfCLCmRi4_Y) by **Martin Rehfeld**
+* [Why The Cool Kids Don't Use Erlang](https://www.youtube.com/watch?v=3MvKLOecT1I) by **Garreth Smith**
 
 ####Go
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) by **Rob Pike**
