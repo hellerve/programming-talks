@@ -151,7 +151,7 @@ tell me and I'll sort it out with you.
 
 ###On theory
 ####Thoughts on Languages
-* [Why C++ Sails Whenthe Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) by **Scott Meyers**
+* [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) by **Scott Meyers**
 * [Make Simple Tasks Simple!](https://www.youtube.com/watch?v=nesCaocNjtQ) by **Bjarne Stroustrup**
 * [Running a startup on Haskell](https://www.youtube.com/watch?v=ZR3Jirqk6W8) by **Bryan O'Sullivan**
 
@@ -169,6 +169,7 @@ tell me and I'll sort it out with you.
 * [The Clang AST](https://www.youtube.com/watch?v=VqCkCDFLSsc) by **Manuel Klimek**
 * [Writing a Nanopass Compiler](https://www.youtube.com/watch?v=Os7FE3J-U5Q) by **Andy Keep**
 * [Superoptimizing LLVM](https://www.youtube.com/watch?v=Ux0YnVEaI6A) by **John Regehr**
+* [Papers We Love: Fundamental Concepts in Programming Languages](https://www.youtube.com/watch?v=cO41uoi5cZs) by **John Myles White**
 
 ####Functional Programming
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** 
@@ -178,6 +179,7 @@ tell me and I'll sort it out with you.
 * [Tangible Functional Programming](https://www.youtube.com/watch?v=faJ8N0giqzw) by **Conal Elliott** 
 * [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) by **Phillip Wadler** 
 * [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) by **Dr. Brian Beckman** 
+* [Papers We Love: Composable and Compilable Macros](https://www.youtube.com/watch?v=pK2E63mhRxI) by **Sam Tobin-Hochstadt**
 
 ####Computer Graphics
 * [Principles of Lighting and Rendering](https://www.youtube.com/watch?v=IyUgHPs86XM) by **John Carmack**
@@ -205,6 +207,9 @@ tell me and I'll sort it out with you.
 ####System Architecture
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) by **Fred Hebert**
 * [Scalability at YouTube](https://www.youtube.com/watch?v=G-lGCC4KKok) by **Mike Solomon** (long intro; starts about 8 minutes in)
+
+####Distributed Programming
+* [Distributed Eventually Consistent Computations](https://www.youtube.com/watch?v=uwpakTIg9r8) by **Christopher Meiklejohn**
 
 ####Theoretical Computer Science
 * [Church's Coincidences](https://www.youtube.com/watch?v=2PJ_DbKGFUA) by **Philip Wadler**
