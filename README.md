@@ -211,6 +211,7 @@ tell me and I'll sort it out with you.
 * [Programming the Turing Machine](https://www.youtube.com/watch?v=ibRar7sWulM) by **Barbara Liskov**
 * [Turing and the Riemann zeta function](https://www.youtube.com/watch?v=pQS7X_8iTCA) by **Andrew Odlyzko**
 * [Lambda Calculus Then and Now](https://www.youtube.com/watch?v=SphBW9ILVPU) by **Dana S. Scott**
+* [Papers We Love: An Axiomatic Basis for Computer Programming](https://www.youtube.com/watch?v=GQi-6-d5ooQ) by **Jean Yang**
 
 ####Misc
 * [How To Shut Down Tolkien](https://www.youtube.com/watch?v=qVlqBxpCG24) by **Brandon Rhodes** (for the fun)
