@@ -20,7 +20,7 @@ tell me and I'll sort it out with you.
 
 ####C
 * [Advanced C Coding For Fun!](https://www.youtube.com/watch?v=BEQ3sRakIs0) by **Rusty Russell**
-* [Writing application fault handlers](http://free-electrons.com/pub/video/2008/ols/ols2008-gilad-ben-yossef-fault-handlers.ogg) by **Gilad Ben-Yossef*
+* [Writing application fault handlers](http://free-electrons.com/pub/video/2008/ols/ols2008-gilad-ben-yossef-fault-handlers.ogg) by **Gilad Ben-Yossef**
 
 ####Clojure
 * [Clojure Concurrency](https://www.youtube.com/watch?v=dGVqrGmwOAw) by **Rich Hickey**
@@ -75,6 +75,7 @@ tell me and I'll sort it out with you.
 * [Haskell Amuse-Bouche](https://www.youtube.com/watch?v=b9FagOVqxmI) by **Mark Lentczner** (the audio quality is scarily bad)
 * [Enigmatic Haskell, Haskellish Enigma](https://www.youtube.com/watch?v=9-u2n4GgcVw) by **Rishiyur S. Nikhil**
 * [Pure Type Systems](https://www.youtube.com/watch?v=ZGqKsalJi4s) by **Cody Roux**
+* [Framing the Discussion with EDSLs](https://www.youtube.com/watch?v=_KioQRICpmo) by **Anthony Cowley**
 
 ####Java & Android
 * [Common crypto mistakes in Android](http://vimeo.com/115219591) by **Isaax Potoczny-Jones**
