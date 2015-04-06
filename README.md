@@ -107,6 +107,9 @@ tell me and I'll sort it out with you.
 * [Crossing Language Barriers with Julia, SciPy,IPython](https://www.youtube.com/watch?v=jhlVHoeB05A) by **Stephen G. Johnson**
 * [Convex Optimization in Julia](https://www.youtube.com/watch?v=SoI0lEaUvTs) by **Madeleine Udell**
 
+####PureScript
+* [PureScript (Maybe This Time We Get JavaScript Right)](https://www.youtube.com/watch?v=yIlDBPiMb0o) by **Bodil Stokke**
+
 ####Python
 (There is a good list of talks about Python to be found [here](https://github.com/s16h/py-must-watch))
 * [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** 
