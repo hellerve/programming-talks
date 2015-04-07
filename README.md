@@ -176,6 +176,7 @@ tell me and I'll sort it out with you.
 * [Writing a Nanopass Compiler](https://www.youtube.com/watch?v=Os7FE3J-U5Q) by **Andy Keep**
 * [Superoptimizing LLVM](https://www.youtube.com/watch?v=Ux0YnVEaI6A) by **John Regehr**
 * [Papers We Love: Fundamental Concepts in Programming Languages](https://www.youtube.com/watch?v=cO41uoi5cZs) by **John Myles White**
+* [Implementing Domain Specific Languages with LLVM](https://www.youtube.com/watch?v=1Hwnagof1Wo) by **David Chisnall**
 
 ####Functional Programming
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** 
