@@ -161,6 +161,7 @@ tell me and I'll sort it out with you.
 * [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) by **Scott Meyers**
 * [Make Simple Tasks Simple!](https://www.youtube.com/watch?v=nesCaocNjtQ) by **Bjarne Stroustrup**
 * [Running a startup on Haskell](https://www.youtube.com/watch?v=ZR3Jirqk6W8) by **Bryan O'Sullivan**
+* [Dan Friedman - Cool Ideas](https://www.youtube.com/watch?v=IHP7P_HlcBk) by **Guy Steele**
 
 ####Software Development
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) by **Thomas Figg**
