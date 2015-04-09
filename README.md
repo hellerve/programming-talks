@@ -61,6 +61,7 @@ tell me and I'll sort it out with you.
 * [How To Ship New Code Without Taking Your System Down](https://www.youtube.com/watch?v=NfCLCmRi4_Y) by **Martin Rehfeld**
 * [Why The Cool Kids Don't Use Erlang](https://www.youtube.com/watch?v=3MvKLOecT1I) by **Garreth Smith**
 * [26 years with Erlang or How I got my grey hairs](https://www.youtube.com/watch?v=HCwRGHj5jOE) by **Joe Armstrong**
+* [The How and Why of Fitting Things Together](https://www.youtube.com/watch?v=ed7A7r6DBsM) by **Joe Armstrong**
 
 ####Go
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) by **Rob Pike**
