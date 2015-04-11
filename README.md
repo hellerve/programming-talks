@@ -80,6 +80,7 @@ tell me and I'll sort it out with you.
 * [Enigmatic Haskell, Haskellish Enigma](https://www.youtube.com/watch?v=9-u2n4GgcVw) by **Rishiyur S. Nikhil**
 * [Pure Type Systems](https://www.youtube.com/watch?v=ZGqKsalJi4s) by **Cody Roux**
 * [Framing the Discussion with EDSLs](https://www.youtube.com/watch?v=_KioQRICpmo) by **Anthony Cowley** (There is a repository containing the slides and code [here](https://github.com/acowley/BostonHaskell2015))
+* [Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY) by **Dan Doel*
 
 ####Java & Android
 * [Common crypto mistakes in Android](http://vimeo.com/115219591) by **Isaax Potoczny-Jones**
