@@ -115,6 +115,9 @@ tell me and I'll sort it out with you.
 * [Crossing Language Barriers with Julia, SciPy,IPython](https://www.youtube.com/watch?v=jhlVHoeB05A) by **Stephen G. Johnson**
 * [Convex Optimization in Julia](https://www.youtube.com/watch?v=SoI0lEaUvTs) by **Madeleine Udell**
 
+####Objective C
+* [RACify Non-Reactive Code](https://www.youtube.com/watch?v=sek0ohbboNU) by **Dave Lee**
+
 ####PureScript
 * [PureScript (Maybe This Time We Get JavaScript Right)](https://www.youtube.com/watch?v=yIlDBPiMb0o) by **Bodil Stokke**
 
