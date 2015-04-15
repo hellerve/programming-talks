@@ -105,6 +105,7 @@ tell me and I'll sort it out with you.
     (you might want to take a look at [the slides](https://github.com/hugeinc/doctype-meetup/tree/master/dissecting-webgl), you cannot really see them well)
 * [10 Angular JS Patterns](https://www.youtube.com/watch?v=UlvCbnKAH3g) by **John Papa**
 * [Design Decisions in AngularJS](https://www.youtube.com/watch?v=HCR7i5F5L8c) by **Brad Green & Miško Hevery**
+* [Bringing Angular Apps to Life with Animation](https://www.youtube.com/watch?v=cF_JsA9KsDM) by **Miško Hevery**
 * [ES6 and 7, the future of JS](https://vimeo.com/113913703) by **Brendan Eich**
 * [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by **Philip Roberts**
 * [Build Production Ready Javascript Apps With Grunt](https://www.youtube.com/watch?v=BpMKxF-HUqA) by **Shai Reznik**
