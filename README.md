@@ -109,6 +109,7 @@ tell me and I'll sort it out with you.
 * [ES6 and 7, the future of JS](https://vimeo.com/113913703) by **Brendan Eich**
 * [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by **Philip Roberts**
 * [Build Production Ready Javascript Apps With Grunt](https://www.youtube.com/watch?v=BpMKxF-HUqA) by **Shai Reznik**
+* [Javascript Combinators](https://vimeo.com/97408202) by **Reginald Braithwaite**
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) by **Dwight J. Browne**
