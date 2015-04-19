@@ -111,6 +111,7 @@ tell me and I'll sort it out with you.
 * [Build Production Ready Javascript Apps With Grunt](https://www.youtube.com/watch?v=BpMKxF-HUqA) by **Shai Reznik**
 * [Javascript Combinators](https://vimeo.com/97408202) by **Reginald Braithwaite**
 * [Functional programming patterns for the non-mathematician](https://www.youtube.com/watch?v=AvgwKjTPMmM) by **Brian Lonsdorf** (beware; the pace is somewhat high)
+* [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) by **Brian Lonsdorf**
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) by **Dwight J. Browne**
