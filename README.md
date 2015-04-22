@@ -71,6 +71,7 @@ tell me and I'll sort it out with you.
 * [Advanced Go Concurrency Patterns](https://www.youtube.com/watch?v=QDDwwePbDtw) by **Sameer Ajmani**
 * [Parctical Go Programming](https://www.youtube.com/watch?v=2-pPAvqyluI) by **Andrew Gerrand**
 * [Go for Pythonistas](https://www.youtube.com/watch?v=elu0VpLzJL8) by **Francesc Campoy Flores**
+* [High Performance Systems in Go](https://www.youtube.com/watch?v=ylRKac5kSOk) by **Derek Collison**
 
 ####Haskell
 * [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) by **Andrew Rademacher** (for Beginners)
@@ -146,7 +147,8 @@ tell me and I'll sort it out with you.
 * [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) by **Raymond Hettlinger**
 * [A Python Æsthetic: Beauty and Why I Python](https://www.youtube.com/watch?v=x-kB2o8sd5c) by **Brandon Rhodes**
 * [Python Epiphanies](https://www.youtube.com/watch?v=Pi9NpxAvYSs) by **Stuart Williams** (PDF version/code can be found [here](http://swilliams.ca/Python-Epiphanies.pdf))
-* [PyPy.js: What? How? Why?](https://www.youtube.com/watch?v=8C9q94F6Uqo) by **Ryan Kelly**
+* [PyPy.js: What? How? Why?](https://www.youtube.com/watch?v=8C9q94F6Uqo) by **Ryan Kelly** (2014 version)
+* [PyPy.js: What? How? Why?](https://www.youtube.com/watch?v=PiBfOFqDIAI) by **Rian Kelly** (2015 version)
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
