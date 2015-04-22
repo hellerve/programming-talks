@@ -146,6 +146,7 @@ tell me and I'll sort it out with you.
 * [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) by **Raymond Hettlinger**
 * [A Python Æsthetic: Beauty and Why I Python](https://www.youtube.com/watch?v=x-kB2o8sd5c) by **Brandon Rhodes**
 * [Python Epiphanies](https://www.youtube.com/watch?v=Pi9NpxAvYSs) by **Stuart Williams** (PDF version/code can be found [here](http://swilliams.ca/Python-Epiphanies.pdf))
+* [PyPy.js: What? How? Why?](https://www.youtube.com/watch?v=8C9q94F6Uqo) by **Ryan Kelly**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
