@@ -201,6 +201,7 @@ tell me and I'll sort it out with you.
 * [Superoptimizing LLVM](https://www.youtube.com/watch?v=Ux0YnVEaI6A) by **John Regehr**
 * [Papers We Love: Fundamental Concepts in Programming Languages](https://www.youtube.com/watch?v=cO41uoi5cZs) by **John Myles White**
 * [Implementing Domain Specific Languages with LLVM](https://www.youtube.com/watch?v=1Hwnagof1Wo) by **David Chisnall**
+* [PTX Back-End: GPU Programming With LLVM](https://www.youtube.com/watch?v=Ux3F5MKuPjI) by **Justin Holewinski**
 
 ####Functional Programming
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** 
