@@ -149,6 +149,7 @@ tell me and I'll sort it out with you.
 * [Python Epiphanies](https://www.youtube.com/watch?v=Pi9NpxAvYSs) by **Stuart Williams** (PDF version/code can be found [here](http://swilliams.ca/Python-Epiphanies.pdf))
 * [PyPy.js: What? How? Why?](https://www.youtube.com/watch?v=8C9q94F6Uqo) by **Ryan Kelly** (2014 version)
 * [PyPy.js: What? How? Why?](https://www.youtube.com/watch?v=PiBfOFqDIAI) by **Rian Kelly** (2015 version)
+* [PyCon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE) by **Jacob Kaplan-Moss**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
