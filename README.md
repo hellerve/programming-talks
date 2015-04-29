@@ -176,8 +176,9 @@ tell me and I'll sort it out with you.
 * [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) by **Julia Evans**
 
 ###On theory
-####Thought on the industry
+####Thoughts on the industry
 * [PyCon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE) by **Jacob Kaplan-Moss**
+* [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w) by **Andrew Godwin**
 
 ####Thoughts on Languages
 * [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) by **Scott Meyers**
