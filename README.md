@@ -206,6 +206,7 @@ tell me and I'll sort it out with you.
 * [Papers We Love: Fundamental Concepts in Programming Languages](https://www.youtube.com/watch?v=cO41uoi5cZs) by **John Myles White**
 * [Implementing Domain Specific Languages with LLVM](https://www.youtube.com/watch?v=1Hwnagof1Wo) by **David Chisnall**
 * [PTX Back-End: GPU Programming With LLVM](https://www.youtube.com/watch?v=Ux3F5MKuPjI) by **Justin Holewinski**
+* [Intel OpenCL SDK Vectorizer](https://www.youtube.com/watch?v=QsoLyvvhRuc) by **Natav Rotem**
 
 ####Functional Programming
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** 
