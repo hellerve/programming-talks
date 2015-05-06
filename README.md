@@ -85,6 +85,7 @@ tell me and I'll sort it out with you.
 * [Introduction to Low Level Haskell Optimization](https://www.youtube.com/watch?v=McFNkLPTOSY) by **Dan Doel**
 * [Haste: Full-Stack Haskell for Non-PhD Candidates](https://www.youtube.com/watch?v=3v03NFcyvzc) by **Erin Swenson-Healey and James Cooper** (the sound quality is really bad in the first 5:30 min or so, but it gets better, promise)
 * [Getting a Quick Fix on Comonads](https://www.youtube.com/watch?v=F7F-BzOB670) by **Kenneth Foner** (for best watching experience, watch it after the optimization talk by dan doel)
+* [Safe Zero-Cost Coercions for Haskell](https://www.youtube.com/watch?v=xFy_8n_HdI4) by **Richard A. Eisenberg**
 
 ####Java & Android
 * [Common crypto mistakes in Android](http://vimeo.com/115219591) by **Isaax Potoczny-Jones**
@@ -150,6 +151,7 @@ tell me and I'll sort it out with you.
 * [PyPy.js: What? How? Why?](https://www.youtube.com/watch?v=8C9q94F6Uqo) by **Ryan Kelly** (2014 version)
 * [PyPy.js: What? How? Why?](https://www.youtube.com/watch?v=PiBfOFqDIAI) by **Rian Kelly** (2015 version)
 * [Type Hints](https://www.youtube.com/watch?v=2wDvzy6Hgxg) by **Guido van Rossum**
+* [Terminal whispering](https://www.youtube.com/watch?v=WAitSilLDUA) by **Thomas Ballinger**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
