@@ -148,7 +148,8 @@ tell me and I'll sort it out with you.
 * [pandas: Powerful data analysis tools for Python](https://www.youtube.com/watch?v=qbYYamU42Sw) by **Wes McKinney**
 * [Loop like a native: while, for, iterators, generators](https://www.youtube.com/watch?v=EnSu9hHGq5o) by **Ned Batchelder**
 * [Decorators: A Powerful Weapon in your Python Arsenal](https://www.youtube.com/watch?v=9oyr0mocZTg) by **Colton Myers** (only about function decorators)
-* [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) by **Raymond Hettlinger**
+* [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) by **Raymond Hettinger**
+* [Beyond PEP 8 - Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M) by **Raymond Hettinger**
 * [A Python Æsthetic: Beauty and Why I Python](https://www.youtube.com/watch?v=x-kB2o8sd5c) by **Brandon Rhodes**
 * [Python Epiphanies](https://www.youtube.com/watch?v=Pi9NpxAvYSs) by **Stuart Williams** (PDF version/code can be found [here](http://swilliams.ca/Python-Epiphanies.pdf))
 * [PyPy.js: What? How? Why?](https://www.youtube.com/watch?v=8C9q94F6Uqo) by **Ryan Kelly** (2014 version)
