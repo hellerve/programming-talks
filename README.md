@@ -155,6 +155,7 @@ tell me and I'll sort it out with you.
 * [PyPy.js: What? How? Why?](https://www.youtube.com/watch?v=PiBfOFqDIAI) by **Rian Kelly** (2015 version)
 * [Type Hints](https://www.youtube.com/watch?v=2wDvzy6Hgxg) by **Guido van Rossum**
 * [Terminal whispering](https://www.youtube.com/watch?v=WAitSilLDUA) by **Thomas Ballinger**
+* [Serialization formats are not toys](https://www.youtube.com/watch?v=kjZHjvrAS74) by **Tom Eastman**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
