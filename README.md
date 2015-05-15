@@ -24,6 +24,7 @@ tell me and I'll sort it out with you.
 
 ####Clojure
 * [Clojure Concurrency](https://www.youtube.com/watch?v=dGVqrGmwOAw) by **Rich Hickey**
+* [Persistent Data Structures and Managed References](http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey) by **Rich Hickey**
 * [Making Games at Runtime with Clojure](https://www.youtube.com/watch?v=0GzzFeS5cMc) by **Zach Oakes** (He's a very funny guy!)
 * [Clojure Data Science](https://www.youtube.com/watch?v=RVmY2lQ4DHE) by **Edmund Jackson**
 * [Machine Learning Live](https://www.youtube.com/watch?v=QJ1qgCr09j8) by **Mike Anderson**
@@ -143,6 +144,7 @@ tell me and I'll sort it out with you.
 * [Understanding the Python GIL](https://www.youtube.com/watch?v=Obt-vMVdM8s) by **David Beazley**
 * [Inside the Python GIL](https://www.youtube.com/watch?v=ph374fJqFPE) by **David Beazley**
 * [Learn Python Through Public Data Hacking](https://www.youtube.com/watch?v=RrPZza_vZ3w) by **David Beazley**
+* [Python Concurrency From the Ground Up: LIVE!](https://www.youtube.com/watch?v=MCs5OvhV9S4) by **David Beazley**
 * [The Cython Compiler for Python](https://www.youtube.com/watch?v=ZHpkLX2VFMU) by **Dr. Stefan Behnel**
 * [Python Metaprogramming for Mad Scientists and Evil Geniuses](https://www.youtube.com/watch?v=Adr_QuDZxuM) by **Walker Hale**
 * [pandas: Powerful data analysis tools for Python](https://www.youtube.com/watch?v=qbYYamU42Sw) by **Wes McKinney**
