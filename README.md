@@ -187,7 +187,7 @@ tell me and I'll sort it out with you.
 * [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) by **Julia Evans**
 
 ###On theory
-####Thoughts on the industry
+####Thoughts on the Industry/Community
 * [PyCon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE) by **Jacob Kaplan-Moss**
 * [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w) by **Andrew Godwin**
 
@@ -208,6 +208,7 @@ tell me and I'll sort it out with you.
 * [Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) by **Leslie Lamport**
 * [I have a good feeling about this - Why tooling is poised to make the jump to hyperspace](https://vimeo.com/76141334) by **Reginald Braithwaite**
 * [The Not-So-Big Software Design](https://www.youtube.com/watch?v=arsK-CN5YDg) by **Reginald Braithwaite**
+* [The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o) by **Alan Kay**
 
 ####Compilers/Interpreters
 * [Parsing with Derivatives](https://www.youtube.com/watch?v=ZzsK8Am6dKU) by **Matthew Might**
@@ -253,6 +254,7 @@ tell me and I'll sort it out with you.
 * [Unlock the next era of UI development with Polymer](https://www.youtube.com/watch?v=HKrYfrAzqFA) by **Rob Dodson**
 * [React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) by **Pete Hunt**
 * [React: RESTful UI Rendering](https://www.youtube.com/watch?v=IVvHPPcl2TM) by **Pete Hunt**
+* [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw) by **Tom Occhino, Jing Chen & Pete Hunt** (it starts pretty slow and marketingy, but gets much better over time)
 
 ####System Architecture
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) by **Fred Hebert**
