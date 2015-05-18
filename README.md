@@ -25,10 +25,10 @@ tell me and I'll sort it out with you.
 ####Clojure
 * [Clojure Concurrency](https://www.youtube.com/watch?v=dGVqrGmwOAw) by **Rich Hickey**
 * [Persistent Data Structures and Managed References](http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey) by **Rich Hickey**
-* [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by **Rich Hickey**
 * [Making Games at Runtime with Clojure](https://www.youtube.com/watch?v=0GzzFeS5cMc) by **Zach Oakes** (He's a very funny guy!)
 * [Clojure Data Science](https://www.youtube.com/watch?v=RVmY2lQ4DHE) by **Edmund Jackson**
 * [Machine Learning Live](https://www.youtube.com/watch?v=QJ1qgCr09j8) by **Mike Anderson**
+* [Make Your Own Lisp](https://www.youtube.com/watch?v=DHubfS8E--o) by **Bodil Stokke**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) by **Bartosz Milewski**
@@ -173,6 +173,7 @@ tell me and I'll sort it out with you.
 * [What's Next for Scala](https://www.youtube.com/watch?v=qqQNqIy5LdM) by **Martin Odersky**
 * [Scala Collections: Why Not?](https://www.youtube.com/watch?v=uiJycy6dFSQ) by **Paul Phillips** (beware: not very optimistic!)
 * [Concurrency Anti-Patterns in Scala](https://www.youtube.com/watch?v=dCEZDlH1ygo) by **Blake Matheny**
+* [Run free with the monads: Free Monads for fun and profit](https://www.youtube.com/watch?t=11&v=fU8eKoakd6o) by **Ken Scrambler**
 
 ####Swift
 * [Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=TlvLGTXn_gk) by **J.P. Simard**
@@ -204,6 +205,7 @@ tell me and I'll sort it out with you.
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) by **Joe Armstrong** 
 * [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** 
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** 
+* [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by **Rich Hickey**
 * [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) by **Bret Victor**
 * [CPU Caches and Why You care](https://vimeo.com/97337258) by **Scott Meyers** (written in C++, reasonable for almost every software developer)
 * [Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) by **Leslie Lamport**
