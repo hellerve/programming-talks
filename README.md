@@ -88,6 +88,7 @@ tell me and I'll sort it out with you.
 * [Haste: Full-Stack Haskell for Non-PhD Candidates](https://www.youtube.com/watch?v=3v03NFcyvzc) by **Erin Swenson-Healey and James Cooper** (the sound quality is really bad in the first 5:30 min or so, but it gets better, promise)
 * [Getting a Quick Fix on Comonads](https://www.youtube.com/watch?v=F7F-BzOB670) by **Kenneth Foner** (for best watching experience, watch it after the optimization talk by dan doel)
 * [Safe Zero-Cost Coercions for Haskell](https://www.youtube.com/watch?v=xFy_8n_HdI4) by **Richard A. Eisenberg**
+* [How Haskell is Changing my Brain](https://vimeo.com/96639840) by **Alissa Pajer**
 
 ####Java & Android
 * [Common crypto mistakes in Android](http://vimeo.com/115219591) by **Isaax Potoczny-Jones**
