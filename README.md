@@ -25,7 +25,7 @@ tell me and I'll sort it out with you.
 ####Clojure
 * [Clojure Concurrency](https://www.youtube.com/watch?v=dGVqrGmwOAw) by **Rich Hickey**
 * [Persistent Data Structures and Managed References](http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey) by **Rich Hickey**
-* [Expert to Expert - Inside Clojure](https://www.youtube.com/watch?v=wASCH_gPnDw) by **Rich Hickey & Brian Beckman**
+* [Expert to Expert - Inside Clojure](https://www.youtube.com/watch?v=wASCH_gPnDw) by **Rich Hickey & Brian Beckman** (it's not so much a talk as a conversation)
 * [Making Games at Runtime with Clojure](https://www.youtube.com/watch?v=0GzzFeS5cMc) by **Zach Oakes** (He's a very funny guy!)
 * [Clojure Data Science](https://www.youtube.com/watch?v=RVmY2lQ4DHE) by **Edmund Jackson**
 * [Machine Learning Live](https://www.youtube.com/watch?v=QJ1qgCr09j8) by **Mike Anderson**
