@@ -26,6 +26,7 @@ tell me and I'll sort it out with you.
 * [Expert to Expert - Inside Clojure](https://www.youtube.com/watch?v=wASCH_gPnDw) by **Rich Hickey & Brian Beckman** (it's not so much a talk as a conversation; awesome for beginners)
 * [Clojure Concurrency](https://www.youtube.com/watch?v=dGVqrGmwOAw) by **Rich Hickey**
 * [Persistent Data Structures and Managed References](http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey) by **Rich Hickey**
+* [Design, Composition and Performance](http://www.infoq.com/presentations/Design-Composition-Performance) by **Rich Hickey**
 * [Making Games at Runtime with Clojure](https://www.youtube.com/watch?v=0GzzFeS5cMc) by **Zach Oakes** (He's a very funny guy!)
 * [Clojure Data Science](https://www.youtube.com/watch?v=RVmY2lQ4DHE) by **Edmund Jackson**
 * [Machine Learning Live](https://www.youtube.com/watch?v=QJ1qgCr09j8) by **Mike Anderson**
@@ -229,6 +230,9 @@ tell me and I'll sort it out with you.
 * [PTX Back-End: GPU Programming With LLVM](https://www.youtube.com/watch?v=Ux3F5MKuPjI) by **Justin Holewinski**
 * [Intel OpenCL SDK Vectorizer](https://www.youtube.com/watch?v=QsoLyvvhRuc) by **Natav Rotem**
 
+####Databases
+* [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) by **Martin Fowler**
+
 ####Functional Programming
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** 
 * [Adventures in Functional Programming](https://vimeo.com/45140590) by **Jim Weirich** 
@@ -250,6 +254,9 @@ tell me and I'll sort it out with you.
 
 ####Robotics
 * [Robots: You're Still Doing It Wrong](https://www.youtube.com/watch?v=gFW0schumkE) by **Katy Levinson** (not very formal, DefCon)
+
+####UX/UI
+* [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) by **Janne Jul Jensen**
 
 ####Web Development
 * [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** 
