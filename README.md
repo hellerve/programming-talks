@@ -31,6 +31,7 @@ tell me and I'll sort it out with you.
 * [Clojure Data Science](https://www.youtube.com/watch?v=RVmY2lQ4DHE) by **Edmund Jackson**
 * [Machine Learning Live](https://www.youtube.com/watch?v=QJ1qgCr09j8) by **Mike Anderson**
 * [ClojureScript: Lisp's Revenge](https://www.youtube.com/watch?v=MTawgp3SKy8) by **David Nolen**
+* [Clojure Library Core.async for Asynchronous Programming](https://www.youtube.com/watch?v=AhxcGGeh5ho) by **David Nolen**
 * [Make Your Own Lisp](https://www.youtube.com/watch?v=DHubfS8E--o) by **Bodil Stokke**
 
 ####C++
