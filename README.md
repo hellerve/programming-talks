@@ -33,6 +33,7 @@ tell me and I'll sort it out with you.
 * [ClojureScript: Lisp's Revenge](https://www.youtube.com/watch?v=MTawgp3SKy8) by **David Nolen**
 * [Clojure Library Core.async for Asynchronous Programming](https://www.youtube.com/watch?v=AhxcGGeh5ho) by **David Nolen**
 * [Make Your Own Lisp](https://www.youtube.com/watch?v=DHubfS8E--o) by **Bodil Stokke**
+* [ClojureScript + React.js: How I learned to stop worrying and love the browser](https://www.youtube.com/watch?v=ey7Ms2ub7wY) by **Norbert Wójtowicz**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) by **Bartosz Milewski**
