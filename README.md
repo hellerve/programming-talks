@@ -106,7 +106,7 @@ tell me and I'll sort it out with you.
 * [JVM Bytecode for Dummies (and the Rest of Us Too)](https://www.youtube.com/watch?v=rPyqB1l4gko) by **Charles O.o Nutter**
 * [Recursion Schemes](https://www.youtube.com/watch?v=Zw9KeP3OzpU&feature=share) by **Tim Williams**
 
-####Javascript & Node.js
+####Javascript
 (There is a good list of talks about JS to be found [here](https://github.com/bolshchikov/js-must-watch))
 * [Node.js in 20 Minutes](https://www.youtube.com/watch?v=mq6uCM4ynpc) by **Edmond Meinfelder**
 * [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** (it's 10 hours long!)
@@ -132,6 +132,7 @@ tell me and I'll sort it out with you.
 * [Version 7: The Evolution of JavaScript](https://www.youtube.com/watch?v=DqMFX91ToLw) by **Jafar Husain**
 * [Redemption from Callback Hell](https://www.youtube.com/watch?v=hf1T_AONQJU) by **Michael Jackson & Domenic Denicola**
 * [Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=FAZJsxcykPs) by **Jafar Husain**
+* [Immutability, interactivity & JavaScript](https://www.youtube.com/watch?v=mS264h8KGwk) by **David Nolen**
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) by **Dwight J. Browne**
