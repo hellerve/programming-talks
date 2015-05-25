@@ -48,6 +48,9 @@ tell me and I'll sort it out with you.
 * [Writing Quick Code in C++, Quickly](https://www.youtube.com/watch?v=ea5DiCg8HOY) by **Andrei Alexandrescu**
 * [Optimizing the Emergent Structures of C++](https://www.youtube.com/watch?v=eR34r7HOU14) by **Chandler Carruth** (somewhat annoyingly bad quality)
 * [Making C++ Code Beautiful](https://www.youtube.com/watch?v=BiYliKliFvs) by **James McNellis & Kate Gregory**
+* [C++11 Style - A Touch of Class](https://www.youtube.com/watch?v=0iWb_qi2-uI) by **Bjarne Stroustrup**
+* [Plain Threads are the GOTO of todays computing](https://www.youtube.com/watch?v=4OCUEgSNIAY) by **Hartmut Kaiser**
+* [Scaling with C++11](https://www.youtube.com/watch?v=Zrq9Mxllk74) by **Edouard Alligand**
 
 ####CSS 
 *(yeah, I know, stylesheets are not traditionally programming)*
