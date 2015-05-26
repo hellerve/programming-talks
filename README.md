@@ -141,6 +141,7 @@ tell me and I'll sort it out with you.
 * [Redemption from Callback Hell](https://www.youtube.com/watch?v=hf1T_AONQJU) by **Michael Jackson & Domenic Denicola**
 * [Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=FAZJsxcykPs) by **Jafar Husain**
 * [Immutability, interactivity & JavaScript](https://www.youtube.com/watch?v=mS264h8KGwk) by **David Nolen**
+* [Raw WebGL](https://www.youtube.com/watch?v=H4c8t6myAWU) by **Nick Desaulniers**
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) by **Dwight J. Browne**
