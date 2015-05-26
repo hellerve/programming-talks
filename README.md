@@ -42,6 +42,7 @@ tell me and I'll sort it out with you.
 * [The Effective C++11/14 Sampler](http://channel9.msdn.com/Events/GoingNative/2013/An-Effective-Cpp11-14-Sampler) by **Scott Meyers**
 * [The Last Thing D Needs](https://www.youtube.com/watch?v=48kP_Ssg2eY) by **Scott Meyers**
 * [Support for Embedded Programming in C++11 and C++14](https://www.youtube.com/watch?v=J-tA17slViE) by **Scott Meyers**
+* [Type Deduction and Why You Care](https://www.youtube.com/watch?v=wQxj20X-tIU) by **Scott Meyers**
 * [C++ Seasoning](http://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) by **Sean Parent**
 * [Efficiency with Algorithms, Performance with Data](https://www.youtube.com/watch?v=fHNmRkzxHWs) by **Chandler Carruth**
 * [Back to the Basics! Essentials of Modern C++ Style](https://www.youtube.com/watch?v=xnqTKD8uD64) by **Herb Sutter**
