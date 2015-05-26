@@ -142,6 +142,7 @@ tell me and I'll sort it out with you.
 * [Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=FAZJsxcykPs) by **Jafar Husain**
 * [Immutability, interactivity & JavaScript](https://www.youtube.com/watch?v=mS264h8KGwk) by **David Nolen**
 * [Raw WebGL](https://www.youtube.com/watch?v=H4c8t6myAWU) by **Nick Desaulniers**
+* [How to effortlessly integrate Three.js into your projects](https://www.youtube.com/watch?v=IlLqMEjinN4) by **Jason Farrell** (not as technical as the other \*GL talks)
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) by **Dwight J. Browne**
