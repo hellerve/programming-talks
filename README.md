@@ -179,6 +179,7 @@ tell me and I'll sort it out with you.
 * [Type Hints](https://www.youtube.com/watch?v=2wDvzy6Hgxg) by **Guido van Rossum**
 * [Terminal whispering](https://www.youtube.com/watch?v=WAitSilLDUA) by **Thomas Ballinger**
 * [Serialization formats are not toys](https://www.youtube.com/watch?v=kjZHjvrAS74) by **Tom Eastman**
+* [Slightly Advanced Python: Some Python Internals](https://www.youtube.com/watch?v=23s9Wc3aWGY) by **Alex Martelli**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
