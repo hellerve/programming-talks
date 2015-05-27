@@ -260,6 +260,7 @@ tell me and I'll sort it out with you.
 * [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) by **Dr. Brian Beckman** 
 * [Papers We Love: Composable and Compilable Macros](https://www.youtube.com/watch?v=pK2E63mhRxI) by **Sam Tobin-Hochstadt**
 * [Functional Programming; What? Why? When? How?](https://www.youtube.com/watch?v=7Zlp9rKHGD4) by **Robert C Martin**
+* [The Functional Final Frontier](https://www.youtube.com/watch?v=DMtwq3QtddY) by **David Nolen**
 
 ####Computer Graphics
 * [Principles of Lighting and Rendering](https://www.youtube.com/watch?v=IyUgHPs86XM) by **John Carmack**
