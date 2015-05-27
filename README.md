@@ -152,6 +152,9 @@ tell me and I'll sort it out with you.
 ####Objective C
 * [RACify Non-Reactive Code](https://www.youtube.com/watch?v=sek0ohbboNU) by **Dave Lee**
 
+####OCaml
+* [Caml Trading](https://www.youtube.com/watch?v=hKcOkWzj0_s) by **Yaron Minsky**
+
 ####PureScript
 * [PureScript (Maybe This Time We Get JavaScript Right)](https://www.youtube.com/watch?v=yIlDBPiMb0o) by **Bodil Stokke**
 
