@@ -55,6 +55,7 @@ tell me and I'll sort it out with you.
 * [C++11 Style - A Touch of Class](https://www.youtube.com/watch?v=0iWb_qi2-uI) by **Bjarne Stroustrup**
 * [Plain Threads are the GOTO of todays computing](https://www.youtube.com/watch?v=4OCUEgSNIAY) by **Hartmut Kaiser**
 * [Scaling with C++11](https://www.youtube.com/watch?v=Zrq9Mxllk74) by **Edouard Alligand**
+* [On Static If, C++11 in 2012, Modern Libraries, and Metaprogramming](http://channel9.msdn.com/Shows/Going+Deep/Alexandrescu-Meyers-Sutter-On-Static-If-C11-in-2012-Modern-Libraries-and-Metaprogramming) by **Andrei Alexandrescu, Scott Meyers & Herb Sutter**
 
 ####CSS 
 *(yeah, I know, stylesheets are not traditionally programming)*
