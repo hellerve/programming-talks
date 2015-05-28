@@ -233,6 +233,7 @@ tell me and I'll sort it out with you.
 * [The Value Of Values](http://www.infoq.com/presentations/Value-Values) by **Rich Hickey**
 * [The Language of the System](https://www.youtube.com/watch?v=ROor6_NGIWU) by **Rich Hickey**
 * [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) by **Bret Victor**
+* [The Most Important Design Guideline](https://www.youtube.com/watch?v=5tg1ONG18H8) by **Scott Meyers**
 * [CPU Caches and Why You care](https://vimeo.com/97337258) by **Scott Meyers** (written in C++, reasonable for almost every software developer)
 * [Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) by **Leslie Lamport**
 * [I have a good feeling about this - Why tooling is poised to make the jump to hyperspace](https://vimeo.com/76141334) by **Reginald Braithwaite**
@@ -279,7 +280,6 @@ tell me and I'll sort it out with you.
 
 ####UX/UI
 * [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) by **Janne Jul Jensen**
-* [The Most Important Design Guideline](https://www.youtube.com/watch?v=5tg1ONG18H8) by **Scott Meyers**
 
 ####Web Development
 * [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** 
