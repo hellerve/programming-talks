@@ -50,6 +50,7 @@ tell me and I'll sort it out with you.
   * [Lock-Free Programming (or, Juggling Razor Blades), Part I](https://www.youtube.com/watch?v=c1gO9aB9nbs) by **Herb Sutter**
   * [Lock-Free Programming (or, Juggling Razor Blades), Part II]() by **Herb Sutter**
 * [Writing Quick Code in C++, Quickly](https://www.youtube.com/watch?v=ea5DiCg8HOY) by **Andrei Alexandrescu**
+* [Optimization Tips - Mo' Hustle Mo' Problems](https://www.youtube.com/watch?v=Qq_WaiwzOtI) by **Andrei Alexandrescu**
 * [Optimizing the Emergent Structures of C++](https://www.youtube.com/watch?v=eR34r7HOU14) by **Chandler Carruth** (somewhat annoyingly bad quality)
 * [Making C++ Code Beautiful](https://www.youtube.com/watch?v=BiYliKliFvs) by **James McNellis & Kate Gregory**
 * [C++11 Style - A Touch of Class](https://www.youtube.com/watch?v=0iWb_qi2-uI) by **Bjarne Stroustrup**
