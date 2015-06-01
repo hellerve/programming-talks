@@ -298,6 +298,7 @@ tell me and I'll sort it out with you.
 * [React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) by **Pete Hunt**
 * [React: RESTful UI Rendering](https://www.youtube.com/watch?v=IVvHPPcl2TM) by **Pete Hunt**
 * [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw) by **Tom Occhino, Jing Chen & Pete Hunt** (it starts pretty slow and marketingy, but gets much better over time)
+* [Reactive Programming Overview](https://www.youtube.com/watch?v=dwP1TNXE6fc) by **Jafa Husain** (very concise and dense)
 
 ####System Architecture
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) by **Fred Hebert**
