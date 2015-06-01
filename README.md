@@ -326,13 +326,14 @@ of his talks are also very beginner-friendly.
 * [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) by **James Mickens** 
 * [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) by **Scott Hanselmann**
 * [HTML5 Boilerplate](https://www.youtube.com/watch?v=qyM37XKkmKQ) by **Paul Irish**
+* [Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw) by **Paul Irish**
+* [Parallax Performance](https://www.youtube.com/watch?v=R6TXuXV1bbY) by **Paul Irish**
 * [Unlock the next era of UI development with Polymer](https://www.youtube.com/watch?v=HKrYfrAzqFA) by **Rob Dodson**
 * [React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) by **Pete Hunt**
 * [React: RESTful UI Rendering](https://www.youtube.com/watch?v=IVvHPPcl2TM) by **Pete Hunt**
 * [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw) by **Tom Occhino, Jing Chen & Pete Hunt** (it starts pretty slow and marketingy, but gets much better over time)
-* [Reactive Programming Overview](https://www.youtube.com/watch?v=dwP1TNXE6fc) by **Jafa Husain** (very concise and dense)
+* [Reactive Programming Overview](https://www.youtube.com/watch?v=dwP1TNXE6fc) by **Jafar Husain** (very concise and dense)
 * [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) by **David Nolen**
-* [Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw) by **Paul Irish**
 
 ####System Architecture
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) by **Fred Hebert**
