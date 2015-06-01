@@ -245,6 +245,7 @@ of his talks are also very beginner-friendly.
 ####Thoughts on the Industry/Community
 * [PyCon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE) by **Jacob Kaplan-Moss**
 * [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w) by **Andrew Godwin**
+* [Being Human](https://www.youtube.com/watch?v=LlO2_GecWo8) by **Brian J. Brennan** (not technical, but very important)
 
 ####Thoughts on Languages
 * [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) by **Scott Meyers**
