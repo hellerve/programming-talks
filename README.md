@@ -16,6 +16,32 @@ external sites(mostly YouTube, really), be aware of that. If you are one of the 
 responsible for the talks or the platform presenting it and want it removed,
 tell me and I'll sort it out with you.
 
+###Names to look out for
+
+To make choosing the right speakers a tad easier, let me give you a quick overview
+over my favourite speakers in no particular order:
+
+* **Scott Meyers**(C++): Scott Meyers is one of the most entertaining and knowledgeable
+speaker when it comes to all things C++. His talks cover a variety of topics, from type 
+inference to API design and cache lines.
+* **Rich Hickey**(Clojure): I am not a Clojure programmer, but I like reasoning about
+and building programming languages. Even if you don't, Rich Hickeys talks are inspiring
+and thought-provoking. Whenever he talks about the fundamentals of programming and reasoning,
+you are sure to learn a ton. Oh, and if you program in Clojure, you have no excuse for
+not watching this guy speak.
+* **Reginald Braithwaite**(Javascript): one of my favourite Javascript speakers. He
+also has a variety of talks on my list, but is more true to his realm (Javscript) than
+most of the other speakers on my list.
+* **David Nolen**(Clojure/Clojurescript): The core maintainer of Clojurescript. His talks
+mostly focus on immutability and share a bit of their structure. He doesn't get boring, though,
+and is another very smart person with deep insights in such fields as immutability.
+* **David Beazley**(Python): The person who singlehandedly made me a Pythonista. Need I say
+more? He has a lot of low-level knowledge about Python and makes poking at the Python interpreter
+seem more fun than it actually is.
+* **Joe Armstrong**(Erlang): One of the few people I actually had the chance to see live already.
+He is a funny, witty and smart guy and if you want to learn about Erlang, watch his talks. Most
+of his talks are also very beginner-friendly.
+
 ###On Programming Languages
 
 ####C
