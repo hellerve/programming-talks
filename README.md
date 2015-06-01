@@ -234,7 +234,9 @@ of his talks are also very beginner-friendly.
 * [Thinking in Swift](http://vimeo.com/105440181) by **Abizer Nasir**
 
 ####VimL
+* [Vim - I Wish I Knew How To :q You](https://www.youtube.com/watch?v=X7lZ8MVGl4A) by **Chris Maiden** (not really about VimL, more of a general introduction into vim)
 * [More Instantly Better Vim](https://www.youtube.com/watch?v=aHm36-na4-4) by **Damian Conway**
+* [Write code faster: expert-level vim](https://www.youtube.com/watch?v=SkdrYWhh-8s) by **Ben Orenstein** (not really expert level)
 
 ####Miscellaneous
 * [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt** 
