@@ -260,6 +260,7 @@ of his talks are also very beginner-friendly.
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) by **Joe Armstrong** 
 * [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** 
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** 
+* [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) by **Rich Hickey** (Simple Made Easy revisited)
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by **Rich Hickey**
 * [The Value Of Values](http://www.infoq.com/presentations/Value-Values) by **Rich Hickey**
 * [The Language of the System](https://www.youtube.com/watch?v=ROor6_NGIWU) by **Rich Hickey**
@@ -285,6 +286,7 @@ of his talks are also very beginner-friendly.
 
 ####Databases
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) by **Martin Fowler**
+* [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey**
 
 ####Functional Programming
 * [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** 
