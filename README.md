@@ -173,6 +173,7 @@ of his talks are also very beginner-friendly.
 * [How to effortlessly integrate Three.js into your projects](https://www.youtube.com/watch?v=IlLqMEjinN4) by **Jason Farrell** (not as technical as the other \*GL talks)
 * [Classical Inheritance is Obsolete - How to Think in Prototypal OO](https://vimeo.com/69255635) by **Eric Elliott**
 * [Reactive Game Development For The Discerning Hipster](https://www.youtube.com/watch?v=x8mmAu7ZR9Y) by **Bodil Stokke**
+* [Angular + React = Speed](https://www.youtube.com/watch?v=XQM0K6YG18s) by **Dave Smith**
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) by **Dwight J. Browne**
