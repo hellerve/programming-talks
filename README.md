@@ -335,6 +335,7 @@ of his talks are also very beginner-friendly.
 * [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw) by **Tom Occhino, Jing Chen & Pete Hunt** (it starts pretty slow and marketingy, but gets much better over time)
 * [Reactive Programming Overview](https://www.youtube.com/watch?v=dwP1TNXE6fc) by **Jafar Husain** (very concise and dense)
 * [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) by **David Nolen**
+* [How I learned to Code by Making 180 websites in 180 days](https://www.youtube.com/watch?v=QaSbL4sRff8) by **Jennifer De Walt**
 
 ####System Architecture
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) by **Fred Hebert**
