@@ -351,5 +351,8 @@ of his talks are also very beginner-friendly.
 * [Lambda Calculus Then and Now](https://www.youtube.com/watch?v=SphBW9ILVPU) by **Dana S. Scott**
 * [Papers We Love: An Axiomatic Basis for Computer Programming](https://www.youtube.com/watch?v=GQi-6-d5ooQ) by **Jean Yang**
 
+####DevOps
+* [Chef Style DevOps Kungfu](https://www.youtube.com/watch?v=_DEToXsgrPc) by **Adam Jacob**
+
 ####Misc
 * [How To Shut Down Tolkien](https://www.youtube.com/watch?v=qVlqBxpCG24) by **Brandon Rhodes** (for the fun)
