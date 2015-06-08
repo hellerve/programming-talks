@@ -317,6 +317,7 @@ of his talks are also very beginner-friendly.
 
 ####UX/UI
 * [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) by **Janne Jul Jensen**
+* [We Will All Be Game Programmers](https://www.youtube.com/watch?v=avwDj3KRuLc) by **Hunter Loftis**
 
 ####Web Development
 * [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** 
