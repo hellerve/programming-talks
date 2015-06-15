@@ -83,6 +83,7 @@ of his talks are also very beginner-friendly.
 * [Plain Threads are the GOTO of todays computing](https://www.youtube.com/watch?v=4OCUEgSNIAY) by **Hartmut Kaiser**
 * [Scaling with C++11](https://www.youtube.com/watch?v=Zrq9Mxllk74) by **Edouard Alligand**
 * [On Static If, C++11 in 2012, Modern Libraries, and Metaprogramming](http://channel9.msdn.com/Shows/Going+Deep/Alexandrescu-Meyers-Sutter-On-Static-If-C11-in-2012-Modern-Libraries-and-Metaprogramming) by **Andrei Alexandrescu, Scott Meyers & Herb Sutter**
+* [Pragmatic Type Erasure: Solving OOP Problems with Elegant Design Pattern](https://www.youtube.com/watch?v=0I0FD3N5cgM) by **Zach Laine**
 
 ####CSS 
 *(yeah, I know, stylesheets are not traditionally programming)*
@@ -174,6 +175,7 @@ of his talks are also very beginner-friendly.
 * [Classical Inheritance is Obsolete - How to Think in Prototypal OO](https://vimeo.com/69255635) by **Eric Elliott**
 * [Reactive Game Development For The Discerning Hipster](https://www.youtube.com/watch?v=x8mmAu7ZR9Y) by **Bodil Stokke**
 * [Angular + React = Speed](https://www.youtube.com/watch?v=XQM0K6YG18s) by **Dave Smith**
+* [j2me.js - a multi-threaded Java VM in JavaScript](https://www.youtube.com/watch?v=I7hZ8I9G5KA) by **Andreas Gal**
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) by **Dwight J. Browne**
