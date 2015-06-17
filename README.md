@@ -91,6 +91,7 @@ of his talks are also very beginner-friendly.
 * [Your CSS is a Mess](https://www.youtube.com/watch?v=C4z_9F6nfS8) by **Jonathan Snook**
 * [CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA) by **Addy Osmani**
 * [Stuff About Cascading Style Sheets](https://www.youtube.com/watch?v=R_py8gCTTAc) by **Mark Otto & Connor Sears**
+* [Your Very Own Component Library](https://www.youtube.com/watch?v=zSYo7m5kGHQ) by **Alex Sexton**
 
 ####D
 * [High Performance Code Using D](https://www.youtube.com/watch?v=eh8WETRT7q4) by **Walter Bright**
