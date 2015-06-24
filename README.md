@@ -280,6 +280,7 @@ of his talks are also very beginner-friendly.
 * [The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o) by **Alan Kay**
 * [The S.O.L.I.D. Principles of Agile OO Design](https://www.youtube.com/watch?v=QHnLmvDxGTY) by **Robert C. Martin** (way more interesting than it sounds)
 * [Whence Complexity?](https://www.youtube.com/watch?v=l_tULSeO9yg) by **Michael Nygard**
+* [What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0) by **Erik Meijer**
 
 ####Compilers/Interpreters
 * [Parsing with Derivatives](https://www.youtube.com/watch?v=ZzsK8Am6dKU) by **Matthew Might**
