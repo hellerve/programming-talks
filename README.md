@@ -220,6 +220,7 @@ of his talks are also very beginner-friendly.
 * [Serialization formats are not toys](https://www.youtube.com/watch?v=kjZHjvrAS74) by **Tom Eastman**
 * [Slightly Advanced Python: Some Python Internals](https://www.youtube.com/watch?v=23s9Wc3aWGY) by **Alex Martelli**
 * [Getting Hy on Python: How to implement a Lisp front-end to Python](https://www.youtube.com/watch?v=AmMaN1AokTI) by **Paul Tagliamonte**
+* [Fast Python, Slow Python](https://www.youtube.com/watch?v=7eeEf_rAJds) by **Alex Gaynor**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
