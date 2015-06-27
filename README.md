@@ -292,6 +292,7 @@ of his talks are also very beginner-friendly.
 * [Implementing Domain Specific Languages with LLVM](https://www.youtube.com/watch?v=1Hwnagof1Wo) by **David Chisnall**
 * [PTX Back-End: GPU Programming With LLVM](https://www.youtube.com/watch?v=Ux3F5MKuPjI) by **Justin Holewinski**
 * [Intel OpenCL SDK Vectorizer](https://www.youtube.com/watch?v=QsoLyvvhRuc) by **Natav Rotem**
+* [Rise of the Transpilers](https://www.youtube.com/watch?v=DspYurD75Ns) by **Jeremy Ashkenas**
 
 ####Databases
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) by **Martin Fowler**
