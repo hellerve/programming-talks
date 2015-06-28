@@ -227,6 +227,9 @@ of his talks are also very beginner-friendly.
 * [Y Not - Adventures in Functional Programming](http://www.confreaks.com/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming) by **Jim Weirich**
 * [Make awesome command line apps with Ruby](https://www.youtube.com/watch?v=1ILEw6Qca3U) by **Dave Copeland**
 
+####Rust
+* [Concurrency in Rust](https://www.youtube.com/watch?v=oAZ7F7bqT-o) by **Alex Crichton**
+
 ####Scala
 * [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA) by **Dan Rosen**
 * [Scala Versus Java](https://www.youtube.com/watch?v=PKc5IwHG68k) by **Dan Rosen**
