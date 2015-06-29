@@ -116,6 +116,7 @@ of his talks are also very beginner-friendly.
 
 ####Go
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) by **Rob Pike**
+* [The move from C to Go in the toolchain](https://www.hakkalabs.co/articles/gopherfest-2015-rob-pike-move-c-go-toolchain) by **Rob Pike**
 * [Advanced Go Concurrency Patterns](https://www.youtube.com/watch?v=QDDwwePbDtw) by **Sameer Ajmani**
 * [Parctical Go Programming](https://www.youtube.com/watch?v=2-pPAvqyluI) by **Andrew Gerrand**
 * [Go for Pythonistas](https://www.youtube.com/watch?v=elu0VpLzJL8) by **Francesc Campoy Flores**
@@ -364,6 +365,12 @@ of his talks are also very beginner-friendly.
 
 ####DevOps
 * [Chef Style DevOps Kungfu](https://www.youtube.com/watch?v=_DEToXsgrPc) by **Adam Jacob**
+
+####Mathematics
+*Those are not necessarily programming-related and possibly very advanced mathematics.*
+* [Category Theory](https://www.youtube.com/watch?v=o6L6XeNdd_k) by **Tom LaGatta**
+* [The Continuum Hypothesis and the search for Mathematical Infinity](https://youtu.be/nVF4N1Ix5WI) by **W. Hugh Woodin**
+* [Field of Rationality and Category Theory](https://www.youtube.com/watch?v=jjfE2jTAQrE) by **Michał Heller**
 
 ####Misc
 * [How To Shut Down Tolkien](https://www.youtube.com/watch?v=qVlqBxpCG24) by **Brandon Rhodes** (for the fun)
