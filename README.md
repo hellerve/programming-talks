@@ -222,6 +222,7 @@ of his talks are also very beginner-friendly.
 * [Slightly Advanced Python: Some Python Internals](https://www.youtube.com/watch?v=23s9Wc3aWGY) by **Alex Martelli**
 * [Getting Hy on Python: How to implement a Lisp front-end to Python](https://www.youtube.com/watch?v=AmMaN1AokTI) by **Paul Tagliamonte**
 * [Fast Python, Slow Python](https://www.youtube.com/watch?v=7eeEf_rAJds) by **Alex Gaynor**
+* [Flask by Example](https://www.youtube.com/watch?v=FGrIyBDQLPg) by **Miguel Grinberg**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
