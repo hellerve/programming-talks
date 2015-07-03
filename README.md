@@ -138,6 +138,7 @@ of his talks are also very beginner-friendly.
 * [How Haskell is Changing my Brain](https://vimeo.com/96639840) by **Alissa Pajer**
 
 ####Java & Android
+* [Java - The Good, Bad and Ugly Parts](https://www.youtube.com/watch?v=hcY8cYfAEwU) by **Josh Bloch**
 * [Common crypto mistakes in Android](http://vimeo.com/115219591) by **Isaax Potoczny-Jones**
 * [Java 8 Lambda Expressions & Streams](https://www.youtube.com/watch?v=8pDm_kH4YKY) by **Adib Saikali**
 * [Java 8 Language Capabilities, What's in it for you?](https://www.youtube.com/watch?v=j9nj5dTo54Q) by **Venkat Subramaniam**
