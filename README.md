@@ -141,6 +141,7 @@ of his talks are also very beginner-friendly.
 * [Java - The Good, Bad and Ugly Parts](https://www.youtube.com/watch?v=hcY8cYfAEwU) by **Josh Bloch**
 * [A Few Ok Libraries](https://www.youtube.com/watch?v=WvyScM_S88c) by **Jake Wharton**
 * [Common crypto mistakes in Android](http://vimeo.com/115219591) by **Isaax Potoczny-Jones**
+* [Effective Java; Still Effective After All These Years](https://www.youtube.com/watch?v=V1vQf4qyMXg) by **Joshua Bloch**
 * [Functional Reactive Programming with RxJava](https://www.youtube.com/watch?v=_t06LRX0DV0) by **Ben Christensen**
 * [Java 8 Lambda Expressions & Streams](https://www.youtube.com/watch?v=8pDm_kH4YKY) by **Adib Saikali**
 * [Java 8 Language Capabilities, What's in it for you?](https://www.youtube.com/watch?v=j9nj5dTo54Q) by **Venkat Subramaniam**
