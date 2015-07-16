@@ -113,6 +113,7 @@ of his talks are also very beginner-friendly.
 * [26 years with Erlang or How I got my grey hairs](https://www.youtube.com/watch?v=HCwRGHj5jOE) by **Joe Armstrong**
 * [The How and Why of Fitting Things Together](https://www.youtube.com/watch?v=ed7A7r6DBsM) by **Joe Armstrong**
 * [Using Logic Programming Tools to Drive Property-based Testing](https://www.youtube.com/watch?v=fSCIfsUcY4Y) by **Zachary Kessin**
+* [Chicago Boss: A Web Framework Built for Comfort (and Speed)](https://www.youtube.com/watch?v=LGGo6bIuj8w) by **Evan Miller**
 
 ####Go
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) by **Rob Pike**
