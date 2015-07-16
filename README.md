@@ -304,6 +304,9 @@ of his talks are also very beginner-friendly.
 * [Intel OpenCL SDK Vectorizer](https://www.youtube.com/watch?v=QsoLyvvhRuc) by **Natav Rotem**
 * [Rise of the Transpilers](https://www.youtube.com/watch?v=DspYurD75Ns) by **Jeremy Ashkenas**
 
+####Data Structures & Algorithms
+* [Hash Functions and You: Partners in Freedom](https://www.youtube.com/watch?v=IGwNQfjLTp0) by **Curtis Lassam**
+
 ####Databases
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) by **Martin Fowler**
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) by **Rich Hickey**
