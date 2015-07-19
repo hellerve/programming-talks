@@ -229,7 +229,8 @@ of his talks are also very beginner-friendly.
 * [Getting Hy on Python: How to implement a Lisp front-end to Python](https://www.youtube.com/watch?v=AmMaN1AokTI) by **Paul Tagliamonte**
 * [Fast Python, Slow Python](https://www.youtube.com/watch?v=7eeEf_rAJds) by **Alex Gaynor**
 * [Flask by Example](https://www.youtube.com/watch?v=FGrIyBDQLPg) by **Miguel Grinberg**
-* [Outlier Detection in Time Series Signals ](https://www.youtube.com/watch?v=t4zEeujVht8) by **Bugra Akyildiz**
+* [Outlier Detection in Time Series Signals](https://www.youtube.com/watch?v=t4zEeujVht8) by **Bugra Akyildiz**
+* [Up and Down the Python Data and Web Visualization Stack](https://www.youtube.com/watch?v=kmy-sfm3cC8) by **Rob Story**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
