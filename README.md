@@ -150,7 +150,7 @@ of his talks are also very beginner-friendly.
 * [JVM Bytecode for Dummies (and the Rest of Us Too)](https://www.youtube.com/watch?v=rPyqB1l4gko) by **Charles O.o Nutter**
 * [Recursion Schemes](https://www.youtube.com/watch?v=Zw9KeP3OzpU&feature=share) by **Tim Williams**
 
-####Javascript
+####JavaScript
 (There is a good list of talks about JS to be found [here](https://github.com/bolshchikov/js-must-watch))
 * [Node.js in 20 Minutes](https://www.youtube.com/watch?v=mq6uCM4ynpc) by **Edmond Meinfelder**
 * [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** (it's 10 hours long!)
@@ -183,6 +183,7 @@ of his talks are also very beginner-friendly.
 * [Reactive Game Development For The Discerning Hipster](https://www.youtube.com/watch?v=x8mmAu7ZR9Y) by **Bodil Stokke**
 * [Angular + React = Speed](https://www.youtube.com/watch?v=XQM0K6YG18s) by **Dave Smith**
 * [j2me.js - a multi-threaded Java VM in JavaScript](https://www.youtube.com/watch?v=I7hZ8I9G5KA) by **Andreas Gal**
+* [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ) by **Ashley Williams**
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) by **Dwight J. Browne**
