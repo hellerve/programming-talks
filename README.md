@@ -233,6 +233,7 @@ of his talks are also very beginner-friendly.
 * [Outlier Detection in Time Series Signals](https://www.youtube.com/watch?v=t4zEeujVht8) by **Bugra Akyildiz**
 * [Up and Down the Python Data and Web Visualization Stack](https://www.youtube.com/watch?v=kmy-sfm3cC8) by **Rob Story**
 * [Advanced Data Storage](https://www.youtube.com/watch?v=AXlp7qxqu8E) by **Thomas Pfaff**
+* [Introduction to SQLAlchemy](https://youtu.be/woKYyhLCcnU) by **Mike Bayer**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
