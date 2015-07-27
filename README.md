@@ -234,6 +234,7 @@ of his talks are also very beginner-friendly.
 * [Up and Down the Python Data and Web Visualization Stack](https://www.youtube.com/watch?v=kmy-sfm3cC8) by **Rob Story**
 * [Advanced Data Storage](https://www.youtube.com/watch?v=AXlp7qxqu8E) by **Thomas Pfaff**
 * [Introduction to SQLAlchemy](https://youtu.be/woKYyhLCcnU) by **Mike Bayer**
+* [Facts and Myths about Python names and values](https://www.youtube.com/watch?v=_AEJHKGk9ns) by **Ned Batchelder**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
