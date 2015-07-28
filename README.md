@@ -373,6 +373,9 @@ of his talks are also very beginner-friendly.
 * [Distributed Systems 101](https://www.youtube.com/watch?v=YAFGQurdJ3U) by **lvh**
 * [Distributed Eventually Consistent Computations](https://www.youtube.com/watch?v=uwpakTIg9r8) by **Christopher Meiklejohn**
 
+####Machine Learning
+* [Neural Nets for Newbies](https://www.youtube.com/watch?v=g-BJSl4zV_g) by **Melanie Warrick**
+
 ####Theoretical Computer Science
 * [Church's Coincidences](https://www.youtube.com/watch?v=2PJ_DbKGFUA) by **Philip Wadler**
 * [Programming the Turing Machine](https://www.youtube.com/watch?v=ibRar7sWulM) by **Barbara Liskov**
