@@ -29,8 +29,8 @@ and building programming languages. Even if you don't, Rich Hickeys talks are in
 and thought-provoking. Whenever he talks about the fundamentals of programming and reasoning,
 you are sure to learn a ton. Oh, and if you program in Clojure, you have no excuse for
 not watching this guy speak.
-* **Reginald Braithwaite**(Javascript): one of my favourite Javascript speakers. He
-also has a variety of talks on my list, but is more true to his realm (Javscript) than
+* **Reginald Braithwaite**(JavaScript): one of my favourite JavaScript speakers. He
+also has a variety of talks on my list, but is more true to his realm (JavaScript) than
 most of the other speakers on my list.
 * **David Nolen**(Clojure/Clojurescript): The core maintainer of Clojurescript. His talks
 mostly focus on immutability and share a bit of their structure. He doesn't get boring, though,
@@ -184,6 +184,7 @@ of his talks are also very beginner-friendly.
 * [Angular + React = Speed](https://www.youtube.com/watch?v=XQM0K6YG18s) by **Dave Smith**
 * [j2me.js - a multi-threaded Java VM in JavaScript](https://www.youtube.com/watch?v=I7hZ8I9G5KA) by **Andreas Gal**
 * [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ) by **Ashley Williams**
+* [Constraint programming in the browser](https://www.youtube.com/watch?v=72sWgwaAoyk) by **Adam Solove**
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) by **Dwight J. Browne**
