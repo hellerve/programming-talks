@@ -370,6 +370,7 @@ of his talks are also very beginner-friendly.
 * [Scalability at YouTube](https://www.youtube.com/watch?v=G-lGCC4KKok) by **Mike Solomon** (long intro; starts about 8 minutes in)
 
 ####Distributed Programming
+* [Distributed Systems 101](https://www.youtube.com/watch?v=YAFGQurdJ3U) by **lvh**
 * [Distributed Eventually Consistent Computations](https://www.youtube.com/watch?v=uwpakTIg9r8) by **Christopher Meiklejohn**
 
 ####Theoretical Computer Science
