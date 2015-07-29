@@ -238,6 +238,7 @@ of his talks are also very beginner-friendly.
 * [Facts and Myths about Python names and values](https://www.youtube.com/watch?v=_AEJHKGk9ns) by **Ned Batchelder**
 * [How to build a brain with Python](https://www.youtube.com/watch?v=7hvpoLKJHOw) by **Trevor Bekolay**
 * [Porting Python to run without an OS](https://www.youtube.com/watch?v=bYQ_lq5dcvM) by **Josh Triplett**
+* [Losing your Loops Fast Numerical Computing with NumPy](https://www.youtube.com/watch?v=EEUXKG97YRw) by **Jake VanderPlas**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
