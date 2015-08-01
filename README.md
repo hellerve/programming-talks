@@ -245,6 +245,7 @@ mind you).
 * [Losing your Loops Fast Numerical Computing with NumPy](https://www.youtube.com/watch?v=EEUXKG97YRw) by **Jake VanderPlas**
 * [How to Be More Effective with Functions](https://www.youtube.com/watch?v=WjJUPxKB164) by **Brett Slatkin**
 * [Oh, Come On Who Needs Bytearrays](https://www.youtube.com/watch?v=z9Hmys8ojno) by **Brandon Rhodes**
+* [Investigating Python Wats](https://www.youtube.com/watch?v=sH4XF6pKKmk) by **Amy Hanlon**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
