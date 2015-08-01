@@ -268,6 +268,7 @@ of his talks are also very beginner-friendly.
 
 ####Miscellaneous
 * [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt** 
+* [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernhardt**
 * [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) by **Linus Torvalds**
 * [Linux Sucks - 2014](https://www.youtube.com/watch?v=5pOxlazS3zs) by **Bryan Lunduke**
 * [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) by **Julia Evans**
