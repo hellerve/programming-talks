@@ -41,6 +41,10 @@ seem more fun than it actually is.
 * **Joe Armstrong**(Erlang): One of the few people I actually had the chance to see live already.
 He is a funny, witty and smart guy and if you want to learn about Erlang, watch his talks. Most
 of his talks are also very beginner-friendly.
+* **Brandon Rhodes**(Python): Yet another Pythonista. His talks are enjoyable, enlightening
+and his way of talking is *just enjoyable* - you might think that is secondary, but it is really
+important. His talk on Tolkien is one of the most enjoyable diversions on this list (and a bit off-topic,
+mind you).
 
 ###On Programming Languages
 
@@ -240,6 +244,7 @@ of his talks are also very beginner-friendly.
 * [Porting Python to run without an OS](https://www.youtube.com/watch?v=bYQ_lq5dcvM) by **Josh Triplett**
 * [Losing your Loops Fast Numerical Computing with NumPy](https://www.youtube.com/watch?v=EEUXKG97YRw) by **Jake VanderPlas**
 * [How to Be More Effective with Functions](https://www.youtube.com/watch?v=WjJUPxKB164) by **Brett Slatkin**
+* [Oh, Come On Who Needs Bytearrays](https://www.youtube.com/watch?v=z9Hmys8ojno) by **Brandon Rhodes**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
