@@ -99,6 +99,8 @@ mind you).
 
 ####D
 * [High Performance Code Using D](https://www.youtube.com/watch?v=eh8WETRT7q4) by **Walter Bright**
+* [Refactoring JIT Compilation](https://www.youtube.com/watch?v=FGgFMZhnXvU) by **Maxime Chevalier-Boisvert**
+* [SDC, a D Compiler as a Library](https://www.youtube.com/watch?v=AhR4PSExnqk) by **Amaury Sechet**
 
 ####Elixir
 * [Think Different](http://www.confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different) by **Dave Thomas**
