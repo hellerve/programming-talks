@@ -249,6 +249,7 @@ mind you).
 * [Oh, Come On Who Needs Bytearrays](https://www.youtube.com/watch?v=z9Hmys8ojno) by **Brandon Rhodes**
 * [Investigating Python Wats](https://www.youtube.com/watch?v=sH4XF6pKKmk) by **Amy Hanlon**
 * [Is Your REST API RESTful?](https://www.youtube.com/watch?v=pZYRC8IbCwk) by **Miguel Grinberg**
+* [pyREtic: Reversing Obfuscated Python Bytecode Live Python Objects](https://www.youtube.com/playlist?list=PLD9pG_bivfcZs5VwdnSF40lxH44eInxUk) by **Rich Smith**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
