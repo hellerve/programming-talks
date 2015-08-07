@@ -251,6 +251,7 @@ mind you).
 * [Is Your REST API RESTful?](https://www.youtube.com/watch?v=pZYRC8IbCwk) by **Miguel Grinberg**
 * [pyREtic: Reversing Obfuscated Python Bytecode Live Python Objects](https://www.youtube.com/playlist?list=PLD9pG_bivfcZs5VwdnSF40lxH44eInxUk) by **Rich Smith**
 * [Bytes in the Machine: Inside the CPython interpreter](https://www.youtube.com/watch?v=HVUTjQzESeo) by **Allison Kaptur**
+* [My Python's a little Rust-y](https://www.youtube.com/watch?v=3CwJ0MH-4MA) by **Dan Callahan**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) by **Tom Stuart**
