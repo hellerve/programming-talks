@@ -316,6 +316,7 @@ mind you).
 * [The S.O.L.I.D. Principles of Agile OO Design](https://www.youtube.com/watch?v=QHnLmvDxGTY) by **Robert C. Martin** (way more interesting than it sounds)
 * [Whence Complexity?](https://www.youtube.com/watch?v=l_tULSeO9yg) by **Michael Nygard**
 * [What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0) by **Erik Meijer**
+* [Demystifying Docker](https://www.youtube.com/watch?v=GVVtR_hrdKI) by **Andrew T. Baker**
 
 ####Compilers/Interpreters
 * [Parsing with Derivatives](https://www.youtube.com/watch?v=ZzsK8Am6dKU) by **Matthew Might**
