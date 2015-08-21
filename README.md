@@ -404,6 +404,7 @@ mind you).
 
 ####DevOps
 * [Chef Style DevOps Kungfu](https://www.youtube.com/watch?v=_DEToXsgrPc) by **Adam Jacob**
+* [Salting things up in the sysadmin's world](https://www.youtube.com/watch?v=w1zcUNMwac0) by **Juan Manuel Santos**
 
 ####Mathematics
 *Those are not necessarily programming-related and possibly very advanced mathematics.*
