@@ -191,6 +191,7 @@ mind you).
 * [j2me.js - a multi-threaded Java VM in JavaScript](https://www.youtube.com/watch?v=I7hZ8I9G5KA) by **Andreas Gal**
 * [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ) by **Ashley Williams**
 * [Constraint programming in the browser](https://www.youtube.com/watch?v=72sWgwaAoyk) by **Adam Solove**
+* [Snappy Performance Apps with Ember.js](https://www.youtube.com/watch?v=9a0OP4in-ac) by **Anthony Bull**
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) by **Dwight J. Browne**
