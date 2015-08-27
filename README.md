@@ -320,6 +320,7 @@ mind you).
 * [Whence Complexity?](https://www.youtube.com/watch?v=l_tULSeO9yg) by **Michael Nygard**
 * [What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0) by **Erik Meijer**
 * [Demystifying Docker](https://www.youtube.com/watch?v=GVVtR_hrdKI) by **Andrew T. Baker**
+* [Big Code: Developer Infrastructure at Facebook's Scale](https://developers.facebooklive.com/videos/561/big-code-developer-infrastructure-at-facebook-s-scale) by **Bryan O'Sullivan**
 
 ####Compilers/Interpreters
 * [Parsing with Derivatives](https://www.youtube.com/watch?v=ZzsK8Am6dKU) by **Matthew Might**
