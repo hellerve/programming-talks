@@ -106,6 +106,7 @@ mind you).
 * [Think Different](http://www.confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different) by **Dave Thomas**
 * [Elixir: The Power of Erlang, the Joy of Ruby](https://www.youtube.com/watch?v=lww1aZ-ldz0) by **Dave Thomas**
 * [elixir Conf 2014 Keynote](https://www.youtube.com/watch?v=aZXc11eOEpI) by **Jose Valim**
+* [Phoenix - Productive. Reliable. Fast.](https://youtu.be/STO-uN0xHDQ) by **Chris McCord**
 
 ####Elm
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) by **Evan Czaplicki**
