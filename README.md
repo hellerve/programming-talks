@@ -262,6 +262,7 @@ mind you).
 * [Y Not - Adventures in Functional Programming](http://www.confreaks.com/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming) by **Jim Weirich**
 * [Make awesome command line apps with Ruby](https://www.youtube.com/watch?v=1ILEw6Qca3U) by **Dave Copeland**
 * [Confident Code](https://www.youtube.com/watch?v=T8J0j2xJFgQ) by **Avdi Grimm**
+* [Building a binary protocol client in Ruby: A magical journey!](https://www.youtube.com/watch?v=JLoOAGEAAjo) by **Trevor Rosen and egypt (James Lee)**
 
 ####Rust
 * [Concurrency in Rust](https://www.youtube.com/watch?v=oAZ7F7bqT-o) by **Alex Crichton**
