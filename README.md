@@ -156,6 +156,7 @@ mind you).
 * [Living in the Matrix with Bytecode Manipulation](https://www.youtube.com/watch?v=39kdr1mNZ_s) by **Ashley Puls**
 * [JVM Bytecode for Dummies (and the Rest of Us Too)](https://www.youtube.com/watch?v=rPyqB1l4gko) by **Charles O.o Nutter**
 * [Recursion Schemes](https://www.youtube.com/watch?v=Zw9KeP3OzpU&feature=share) by **Tim Williams**
+* [Fast as C: How to write really terrible Java](https://vimeo.com/131394615) by **Charles Oliver Nutter**
 
 ####JavaScript
 (There is a good list of talks about JS to be found [here](https://github.com/bolshchikov/js-must-watch))
