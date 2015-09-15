@@ -194,6 +194,7 @@ mind you).
 * [Constraint programming in the browser](https://www.youtube.com/watch?v=72sWgwaAoyk) by **Adam Solove**
 * [Snappy Performance Apps with Ember.js](https://www.youtube.com/watch?v=9a0OP4in-ac) by **Anthony Bull**
 * [Ember 2.0](https://www.youtube.com/watch?v=U1HEzVWseng) by **Erik Bryn**
+* [Solving the real callback hell](https://www.youtube.com/watch?v=Wu9n7Ry0PWw) by **Tim Ruffles**
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) by **Dwight J. Browne**
