@@ -333,11 +333,14 @@ mind you).
 * [The Clang AST](https://www.youtube.com/watch?v=VqCkCDFLSsc) by **Manuel Klimek**
 * [Writing a Nanopass Compiler](https://www.youtube.com/watch?v=Os7FE3J-U5Q) by **Andy Keep**
 * [Superoptimizing LLVM](https://www.youtube.com/watch?v=Ux0YnVEaI6A) by **John Regehr**
-* [Papers We Love: Fundamental Concepts in Programming Languages](https://www.youtube.com/watch?v=cO41uoi5cZs) by **John Myles White**
 * [Implementing Domain Specific Languages with LLVM](https://www.youtube.com/watch?v=1Hwnagof1Wo) by **David Chisnall**
 * [PTX Back-End: GPU Programming With LLVM](https://www.youtube.com/watch?v=Ux3F5MKuPjI) by **Justin Holewinski**
 * [Intel OpenCL SDK Vectorizer](https://www.youtube.com/watch?v=QsoLyvvhRuc) by **Natav Rotem**
 * [Rise of the Transpilers](https://www.youtube.com/watch?v=DspYurD75Ns) by **Jeremy Ashkenas**
+
+####Programming Language Design
+* [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it)
+* [Papers We Love: Fundamental Concepts in Programming Languages](https://www.youtube.com/watch?v=cO41uoi5cZs) by **John Myles White**
 
 ####Data Structures & Algorithms
 * [Hash Functions and You: Partners in Freedom](https://www.youtube.com/watch?v=IGwNQfjLTp0) by **Curtis Lassam**
