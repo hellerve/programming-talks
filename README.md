@@ -341,7 +341,8 @@ mind you).
 ####Programming Language Design
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it)
 * [Papers We Love: Fundamental Concepts in Programming Languages](https://www.youtube.com/watch?v=cO41uoi5cZs) [01:16:39] by **John Myles White**
-* [Eve](https://www.youtube.com/watch?v=5V1ynVyud4M) [00:46:03]by **Chris Granger**
+* [Eve](https://www.youtube.com/watch?v=5V1ynVyud4M) [00:46:03] by **Chris Granger**
+* [Propositions Of Types](https://www.youtube.com/watch?v=IOiZatlZtGU) [00:42:42] by **Philip Wadler**
 
 ####Data Structures & Algorithms
 * [Hash Functions and You: Partners in Freedom](https://www.youtube.com/watch?v=IGwNQfjLTp0) [00:27:06] by **Curtis Lassam**
