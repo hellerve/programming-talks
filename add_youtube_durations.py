@@ -13,9 +13,7 @@ def load_youtube_api_key():
 
 def get_number_of_lines(file_name):
     with open(file_name, 'r') as f:
-        for i, l in enumerate(f):
-            pass
-    return i + 2
+        return sum(1 for l in f)
         
 def get_duration(json_video):
     hours = 0
@@ -38,30 +36,10 @@ def get_duration(json_video):
     return hours, minutes, seconds
 
 def print_duration(duration):
-    hours = duration[0]
-    minutes = duration[1]
-    seconds = duration[2]
-    output = ' ['
-    if hours == '':
-        output += '00'
-    else:
-        output += '0' + str(hours)
-    output += ':'
-    if minutes == '':
-        output += '00'
-    elif int(minutes) < 10:
-        output += '0' + minutes
-    else:
-        output += minutes
-    output += ':'
-    if seconds == '':
-        output += '00'
-    elif int(seconds) < 10:
-        output += '0' + seconds
-    else:
-        output += seconds
-    output += ']'
-    return output
+    hours = duration[0] or 0
+    minutes = duration[1] or 0
+    seconds = duration[2] or 0
+    return ' [%02d:%02d:%02d]' % (hours, minutes, seconds)
 
 def handle_log(log):
     print('Done!')
