@@ -2,6 +2,7 @@ import requests
 import re
 import optparse
 
+from urllib.parse import parse_qs
 
 def load_youtube_api_key():
     try:
@@ -62,10 +63,9 @@ def main():
     with open(input_file, 'r+') as f:
         data = f.read()
         new_data = []
-        line_counter = 0
-        for line in data.split('\n'):
-            line_counter += 1
-            print('Parsing line: ' + str(line_counter) + ' of ' + str(number_of_lines))
+        for i, line in enumerate(data.split('\n'), 1):
+            print('Parsing line: ' + str(i) + ' of ' + str(number_of_lines))
+            # FIXME: Assumes that no two videos have the exact same length
             has_been_added_earlier = re.findall('\[\d\d:\d\d:\d\d\]', line)
             if has_been_added_earlier:
                 new_data.append(line)
@@ -73,7 +73,7 @@ def main():
                 youtube_match = re.findall('http[s]?://www.youtube.com/watch\?v\=[a-zA-Z0-9_-]+', line)
                 if youtube_match:
                     link = youtube_match[0]
-                    video_id = link.split('=')[1]
+                    video_id = parse_qs(link.split('?')[1]).get('v')
                     try:
                         r = requests.get('https://www.googleapis.com/youtube/v3/videos?key=' + youtube_api_key + '&part=contentDetails&id=' + video_id)
                     except:
