@@ -1,3 +1,8 @@
+"""
+A script for generating durations for Youtube videos.
+
+Written by Bruno Thalmann (https://github.com/thalmann).
+"""
 import requests
 import re
 import optparse
