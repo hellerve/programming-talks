@@ -88,6 +88,8 @@ mind you).
 * [Scaling with C++11](https://www.youtube.com/watch?v=Zrq9Mxllk74) [01:18:27] by **Edouard Alligand**
 * [On Static If, C++11 in 2012, Modern Libraries, and Metaprogramming](http://channel9.msdn.com/Shows/Going+Deep/Alexandrescu-Meyers-Sutter-On-Static-If-C11-in-2012-Modern-Libraries-and-Metaprogramming) by **Andrei Alexandrescu, Scott Meyers & Herb Sutter**
 * [Pragmatic Type Erasure: Solving OOP Problems with Elegant Design Pattern](https://www.youtube.com/watch?v=0I0FD3N5cgM) [00:43:47] by **Zach Laine**
+* [Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!](https://www.youtube.com/watch?v=nXaxk27zwlk) [01:29:53] by **Chandler Carruth**
+* [C++ on Mars: Incorporating C++ into Mars Rover Flight Software](https://www.youtube.com/watch?v=3SdSKZFoUa8) [01:26:18] by **Mark Maimone**
 
 ####CSS 
 *(yeah, I know, stylesheets are not traditionally programming)*
