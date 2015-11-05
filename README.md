@@ -377,6 +377,7 @@ mind you).
 
 ####Robotics
 * [Robots: You're Still Doing It Wrong](https://www.youtube.com/watch?v=gFW0schumkE) [00:49:51] by **Katy Levinson** (not very formal, DefCon)
+* [No, Really... Robots and JavaScript?!](https://www.youtube.com/watch?v=3v75aX5-gSA) [00:36:26] by **Raquel Vélez**
 
 ####UX/UI
 * [User Interface (UX) [00:51:20] Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) by **Janne Jul Jensen**
