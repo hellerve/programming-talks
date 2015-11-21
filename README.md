@@ -64,6 +64,8 @@ mind you).
 * [Clojure Library Core.async for Asynchronous Programming](https://www.youtube.com/watch?v=AhxcGGeh5ho) [00:55:32] by **David Nolen**
 * [Make Your Own Lisp](https://www.youtube.com/watch?v=DHubfS8E--o) [00:53:52] by **Bodil Stokke**
 * [ClojureScript + React.js: How I learned to stop worrying and love the browser](https://www.youtube.com/watch?v=ey7Ms2ub7wY) [00:52:24] by **Norbert Wójtowicz**
+* [ClojureScript for Skeptics](https://www.youtube.com/watch?v=gsffg5xxFQI) [00:41:08] by **Derek Slager**
+* [Solving Problems with Automata](https://www.youtube.com/watch?v=AEhULv4ruL4) [00:38:03] by **Mark Engelberg & Alex Engelberg**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
@@ -334,6 +336,9 @@ mind you).
 * [What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0) [00:46:39] by **Erik Meijer**
 * [Demystifying Docker](https://www.youtube.com/watch?v=GVVtR_hrdKI) [00:29:53] by **Andrew T. Baker**
 * [Big Code: Developer Infrastructure at Facebook's Scale](https://developers.facebooklive.com/videos/561/big-code-developer-infrastructure-at-facebook-s-scale) by **Bryan O'Sullivan, Christian Legnitto & Katie Coons**
+
+####Debugging
+* [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway**
 
 ####Compilers/Interpreters
 * [Parsing with Derivatives](https://www.youtube.com/watch?v=ZzsK8Am6dKU) [01:13:10] by **Matthew Might**
