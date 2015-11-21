@@ -66,6 +66,7 @@ mind you).
 * [ClojureScript + React.js: How I learned to stop worrying and love the browser](https://www.youtube.com/watch?v=ey7Ms2ub7wY) [00:52:24] by **Norbert Wójtowicz**
 * [ClojureScript for Skeptics](https://www.youtube.com/watch?v=gsffg5xxFQI) [00:41:08] by **Derek Slager**
 * [Solving Problems with Automata](https://www.youtube.com/watch?v=AEhULv4ruL4) [00:38:03] by **Mark Engelberg & Alex Engelberg**
+* [Om Next](https://www.youtube.com/watch?v=MDZpSIngwm4) [00:39:22] by **David Nolen**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
