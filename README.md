@@ -67,6 +67,7 @@ mind you).
 * [ClojureScript for Skeptics](https://www.youtube.com/watch?v=gsffg5xxFQI) [00:41:08] by **Derek Slager**
 * [Solving Problems with Automata](https://www.youtube.com/watch?v=AEhULv4ruL4) [00:38:03] by **Mark Engelberg & Alex Engelberg**
 * [Om Next](https://www.youtube.com/watch?v=MDZpSIngwm4) [00:39:22] by **David Nolen**
+* [Genetic Programming in Clojure](https://www.youtube.com/watch?v=HWMJdO4klIE) [00:40:07] by **Lee Spector**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
