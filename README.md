@@ -68,6 +68,7 @@ mind you).
 * [Solving Problems with Automata](https://www.youtube.com/watch?v=AEhULv4ruL4) [00:38:03] by **Mark Engelberg & Alex Engelberg**
 * [Om Next](https://www.youtube.com/watch?v=MDZpSIngwm4) [00:39:22] by **David Nolen**
 * [Genetic Programming in Clojure](https://www.youtube.com/watch?v=HWMJdO4klIE) [00:40:07] by **Lee Spector**
+* [Specter: overcome your fear of nested Clojure data](https://www.youtube.com/watch?v=mXZxkpX5nt8) [00:41:50] by **Nathan Marz**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
