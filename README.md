@@ -372,7 +372,7 @@ mind you).
 * [Postgres Performance for Humans](https://www.youtube.com/watch?v=MpH8W5hce9I) [00:33:49] by **Craig Kerstiens**
 
 ####Functional Programming
-* [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) [00:51:14] by **Jessica Kerr** 
+* [Functional Principles for Object Oriented Development](http://www.youtube.com/watch?v=pMGY9ViIGNU) [00:51:13] by **Jessica Kerr** 
 * [Adventures in Functional Programming](https://vimeo.com/45140590) by **Jim Weirich** 
 * [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) by **Gilad Bracha** 
 * [Living in a Post-Functional World](http://www.infoq.com/presentations/post-functional-scala-clojure-haskell) by **Daniel Spiewak** 
@@ -382,7 +382,6 @@ mind you).
 * [Papers We Love: Composable and Compilable Macros](https://www.youtube.com/watch?v=pK2E63mhRxI) [00:54:49] by **Sam Tobin-Hochstadt**
 * [Functional Programming; What? Why? When? How?](https://www.youtube.com/watch?v=7Zlp9rKHGD4) [00:58:27] by **Robert C Martin**
 * [The Functional Final Frontier](https://www.youtube.com/watch?v=DMtwq3QtddY) [00:27:02] by **David Nolen**
-* [Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU) [00:51:14] by **Jessica Kerr**
 
 ####Computer Graphics
 * [Principles of Lighting and Rendering](https://www.youtube.com/watch?v=IyUgHPs86XM) [01:31:00] by **John Carmack**
