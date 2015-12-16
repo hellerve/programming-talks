@@ -70,6 +70,7 @@ mind you).
 * [Genetic Programming in Clojure](https://www.youtube.com/watch?v=HWMJdO4klIE) [00:40:07] by **Lee Spector**
 * [Specter: overcome your fear of nested Clojure data](https://www.youtube.com/watch?v=mXZxkpX5nt8) [00:41:50] by **Nathan Marz**
 * [From REST to CQRS with Clojure, Kafka, & Datomic](https://www.youtube.com/watch?v=qDNPQo9UmJA) [00:44:24] by **Bobby Calderwood**
+* [Game Development Development](https://www.youtube.com/watch?v=ajX09xQ_UEg) [00:35:09] by **Michael Nygard & Ragnar Svensson**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
