@@ -362,6 +362,7 @@ mind you).
 * [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) [00:42:42] by **Philip Wadler**
 * [Let's be mainstream! User focused design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE) [00:58:23] by **Evan Czaplicki**
 * [Pixie - A Lightweight Lisp with 'Magical' Powers](https://www.youtube.com/watch?v=1AjhFZVfB9c) [00:33:12] by **Timothy Baldridge** (a good intro on tracing JITs)
+* [Transducers](https://www.youtube.com/watch?v=6mTbuzafcII) [00:45:00] by **Rich Hickey**
 
 ####Data Structures & Algorithms
 * [Hash Functions and You: Partners in Freedom](https://www.youtube.com/watch?v=IGwNQfjLTp0) [00:27:06] by **Curtis Lassam**
