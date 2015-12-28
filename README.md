@@ -365,6 +365,8 @@ mind you).
 * [Let's be mainstream! User focused design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE) [00:58:23] by **Evan Czaplicki**
 * [Pixie - A Lightweight Lisp with 'Magical' Powers](https://www.youtube.com/watch?v=1AjhFZVfB9c) [00:33:12] by **Timothy Baldridge** (a good intro on tracing JITs)
 * [Transducers](https://www.youtube.com/watch?v=6mTbuzafcII) [00:45:00] by **Rich Hickey**
+* [The Sociology of Programming Languages](https://www.youtube.com/watch?v=M4Gsl8sVgdQ) [00:42:11] by **Leo Meyerovich**
+* [Implement an Esoteric Programming Language for Fun](https://www.youtube.com/watch?v=oCPT3L33848) [00:22:16] by **Arne Martin Aurlien**
 
 ####Data Structures & Algorithms
 * [Hash Functions and You: Partners in Freedom](https://www.youtube.com/watch?v=IGwNQfjLTp0) [00:27:06] by **Curtis Lassam**
