@@ -435,6 +435,7 @@ mind you).
 ####Machine Learning
 * [Neural Nets for Newbies](https://www.youtube.com/watch?v=g-BJSl4zV_g) [00:30:57] by **Melanie Warrick**
 * [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) [01:07:24] by **Yann LeCun**
+* [Automatic Algorithm Invention with a GPU](https://youtu.be/xQDazGrKsuM) [01:02:04] by **Wesley Faler**
 
 ####Theoretical Computer Science
 * [Church's Coincidences](https://www.youtube.com/watch?v=2PJ_DbKGFUA) [01:03:41] by **Philip Wadler**
