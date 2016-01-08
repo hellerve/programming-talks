@@ -423,6 +423,7 @@ mind you).
 * [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) [00:22:06] by **David Nolen**
 * [How I learned to Code by Making 180 websites in 180 days](https://www.youtube.com/watch?v=QaSbL4sRff8) [00:22:03] by **Jennifer De Walt**
 * [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) [00:42:59] by **Gil Tene**
+* [C10M - Defending The Internet At Scale](https://youtu.be/73XNtI0w7jA) [00:47:53] by **Robert Graham**
 
 ####System Architecture
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) [00:28:06] by **Fred Hebert**
