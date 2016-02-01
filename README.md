@@ -368,6 +368,7 @@ mind you).
 * [Transducers](https://www.youtube.com/watch?v=6mTbuzafcII) [00:45:00] by **Rich Hickey**
 * [The Sociology of Programming Languages](https://www.youtube.com/watch?v=M4Gsl8sVgdQ) [00:42:11] by **Leo Meyerovich**
 * [Implement an Esoteric Programming Language for Fun](https://www.youtube.com/watch?v=oCPT3L33848) [00:22:16] by **Arne Martin Aurlien**
+* [A Dinosaur's Thoughts on Programming Language Evolution](https://www.youtube.com/watch?v=Z9OYc1YYLT4) by **Matthew Flatt**
 
 ####Data Structures & Algorithms
 * [Hash Functions and You: Partners in Freedom](https://www.youtube.com/watch?v=IGwNQfjLTp0) [00:27:06] by **Curtis Lassam**
