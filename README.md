@@ -321,6 +321,7 @@ mind you).
 * [Make Simple Tasks Simple!](https://www.youtube.com/watch?v=nesCaocNjtQ) [01:37:36] by **Bjarne Stroustrup**
 * [Running a startup on Haskell](https://www.youtube.com/watch?v=ZR3Jirqk6W8) [00:50:23] by **Bryan O'Sullivan**
 * [Dan Friedman - Cool Ideas](https://www.youtube.com/watch?v=IHP7P_HlcBk) [00:57:01] by **Guy Steele**
+* [Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM) [00:23:11] by **Rob Pike**
 
 ####Software Development
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) [01:06:44] by **Thomas Figg**
