@@ -333,6 +333,7 @@ mind you).
 * [The Value Of Values](http://www.infoq.com/presentations/Value-Values) by **Rich Hickey**
 * [The Language of the System](https://www.youtube.com/watch?v=ROor6_NGIWU) [01:02:50] by **Rich Hickey**
 * [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) [00:32:56] by **Bret Victor**
+* [Inventing on Principle](https://vimeo.com/36579366) [00:54:20] by **Bret Victor**
 * [The Most Important Design Guideline](https://www.youtube.com/watch?v=5tg1ONG18H8) [00:58:42] by **Scott Meyers**
 * [CPU Caches and Why You care](https://vimeo.com/97337258) by **Scott Meyers** (written in C++, reasonable for almost every software developer)
 * [Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) [00:59:51] by **Leslie Lamport**
