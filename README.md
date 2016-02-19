@@ -73,6 +73,7 @@ mind you).
 * [Game Development Development](https://www.youtube.com/watch?v=ajX09xQ_UEg) [00:35:09] by **Michael Nygard & Ragnar Svensson**
 * [Typed Clojure in Practice](https://www.youtube.com/watch?v=a0gT0syAXsY) [00:41:59] by **Ambrose Bonnaire**
 * [Clojure for Schemers](https://vimeo.com/22675078) [01:17:27] by **David Nolen**
+* [Variants are Not Unions](https://www.youtube.com/watch?v=ZQkIWWTygio) [00:37:53] by **Jeanine Adkisson**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
