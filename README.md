@@ -275,6 +275,7 @@ mind you).
 * [Bytes in the Machine: Inside the CPython interpreter](https://www.youtube.com/watch?v=HVUTjQzESeo) [00:34:33] by **Allison Kaptur**
 * [My Python's a little Rust-y](https://www.youtube.com/watch?v=3CwJ0MH-4MA) [00:29:18] by **Dan Callahan**
 * [Does your stuff scale?](https://www.youtube.com/watch?v=LguTqd6CtOw) [00:24:31] by **Steven Holmes**
+* [Keynote at PyCon Brasil 2015](https://www.youtube.com/watch?v=lYe8W04ERnY) [00:56:29] by **David Beazley** (about asyncio)
 
 ####Racket
 * [Generic Collections: One Interface to Rule Them All](https://www.youtube.com/watch?v=JUD_JwG0alg) [00:18:26] by **Alexis King**
