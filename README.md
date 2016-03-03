@@ -354,6 +354,7 @@ mind you).
 * [What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0) [00:46:39] by **Erik Meijer**
 * [Demystifying Docker](https://www.youtube.com/watch?v=GVVtR_hrdKI) [00:29:53] by **Andrew T. Baker**
 * [Big Code: Developer Infrastructure at Facebook's Scale](https://developers.facebooklive.com/videos/561/big-code-developer-infrastructure-at-facebook-s-scale) by **Bryan O'Sullivan, Christian Legnitto & Katie Coons**
+* [Kicking the Complexity Habit](https://www.youtube.com/watch?v=XqgwHXsQA1g) [00:55:30] by **Dan North**
 
 ####Debugging
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway**
