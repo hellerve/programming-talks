@@ -381,7 +381,7 @@ mind you).
 * [Implement an Esoteric Programming Language for Fun](https://www.youtube.com/watch?v=oCPT3L33848) [00:22:16] by **Arne Martin Aurlien**
 * [A Dinosaur's Thoughts on Programming Language Evolution](https://www.youtube.com/watch?v=Z9OYc1YYLT4) by **Matthew Flatt**
 * [Lisp Flavoured Erlang](https://erlangcentral.org/lisp-flavoured-erlang-lfe/) [01:02:49] by **Robert Virding**
-* [syntaxation](https://www.youtube.com/watch?v=Nlqv6NtBXcA) [00:49:39] by **Douglas Crockford**
+* [Syntaxation](https://www.youtube.com/watch?v=Nlqv6NtBXcA) [00:49:39] by **Douglas Crockford**
 
 ####Data Structures & Algorithms
 * [Hash Functions and You: Partners in Freedom](https://www.youtube.com/watch?v=IGwNQfjLTp0) [00:27:06] by **Curtis Lassam**
@@ -444,6 +444,7 @@ mind you).
 ####System Architecture
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) [00:28:06] by **Fred Hebert**
 * [Scalability at YouTube](https://www.youtube.com/watch?v=G-lGCC4KKok) [00:38:43] by **Mike Solomon** (long intro; starts about 8 minutes in)
+* [The Power Of UNIX](https://www.youtube.com/watch?v=7uwW20odwEk) [00:30:03] by **Dan North**
 
 ####Distributed Programming
 * [Distributed Systems 101](https://www.youtube.com/watch?v=YAFGQurdJ3U) [00:45:25] by **lvh**
