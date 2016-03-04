@@ -304,6 +304,7 @@ mind you).
 * [Scala Collections: Why Not?](https://www.youtube.com/watch?v=uiJycy6dFSQ) [00:45:42] by **Paul Phillips** (beware: not very optimistic!)
 * [Concurrency Anti-Patterns in Scala](https://www.youtube.com/watch?v=dCEZDlH1ygo) [00:29:53] by **Blake Matheny**
 * [Run free with the monads: Free Monads for fun and profit](https://www.youtube.com/watch?t=11&v=fU8eKoakd6o) by **Ken Scrambler**
+* [Minimizing the Slippery Surface of Failure](https://www.youtube.com/watch?v=26UHdZUsKkE) [00:59:26] by **Jon Pretty**
 
 ####Swift
 * [Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=TlvLGTXn_gk) [00:41:19] by **J.P. Simard**
