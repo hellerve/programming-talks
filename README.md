@@ -77,6 +77,7 @@ mind you).
 * [Always Be Composing](https://www.youtube.com/watch?v=3oQTSP4FngY) [00:35:11] by **Zach Tellman**
 * [Clojure core.async](http://www.infoq.com/presentations/clojure-core-async) [00:44:25] by **Rich Hickey**
 * [Core.Async](https://www.youtube.com/watch?v=enwIIGzhahw) [00:39:45] by **Timothy Baldridge**
+* [Full stack FP in Datomic, Clojure, and ClojureScript](https://www.youtube.com/watch?v=FjUKmTIHyXo) [00:51:30] by **Priyatam Mudivarti**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
