@@ -377,6 +377,7 @@ mind you).
 * [Rise of the Transpilers](https://www.youtube.com/watch?v=DspYurD75Ns) [00:44:00] by **Jeremy Ashkenas**
 * [How the PyPy JIT works](https://www.youtube.com/watch?v=NIcijUt-HlE) [00:29:05] by **Benjamin Peterson**
 * [A VM is a VM is a VM: The Secret Path to High Performance Multi-Language Runtimes](https://www.youtube.com/watch?v=kOnyJurioyw) [00:47:07] by **Mark Stoodley**
+* [Ruby and OMR: Experiments in utilizing OMR technologies in MRI](http://bofh.nikhef.nl/events/FOSDEM/2016/h2213/ruby-and-omr.mp4) [00:45:38] by **Charlie Gracie**
 
 ####Programming Language Design
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it)
