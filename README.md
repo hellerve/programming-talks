@@ -376,6 +376,7 @@ mind you).
 * [Intel OpenCL SDK Vectorizer](https://www.youtube.com/watch?v=QsoLyvvhRuc) [00:35:45] by **Natav Rotem**
 * [Rise of the Transpilers](https://www.youtube.com/watch?v=DspYurD75Ns) [00:44:00] by **Jeremy Ashkenas**
 * [How the PyPy JIT works](https://www.youtube.com/watch?v=NIcijUt-HlE) [00:29:05] by **Benjamin Peterson**
+* [A VM is a VM is a VM: The Secret Path to High Performance Multi-Language Runtimes](https://www.youtube.com/watch?v=kOnyJurioyw) [00:47:07] by **Mark Stoodley**
 
 ####Programming Language Design
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it)
