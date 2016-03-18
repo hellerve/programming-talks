@@ -405,6 +405,7 @@ mind you).
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) [00:54:52] by **Martin Fowler**
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) [01:06:24] by **Rich Hickey**
 * [Postgres Performance for Humans](https://www.youtube.com/watch?v=MpH8W5hce9I) [00:33:49] by **Craig Kerstiens**
+* [The Impedance Mismatch is Our Fault](http://www.infoq.com/presentations/Impedance-Mismatch) [00:58:31] by **Stuart D. Halloway**
 
 ####Functional Programming
 * [Functional Principles for Object Oriented Development](http://www.youtube.com/watch?v=pMGY9ViIGNU) [00:51:13] by **Jessica Kerr** 
