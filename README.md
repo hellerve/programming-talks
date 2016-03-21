@@ -124,6 +124,7 @@ mind you).
 * [Elixir: The Power of Erlang, the Joy of Ruby](https://www.youtube.com/watch?v=lww1aZ-ldz0) [00:49:42] by **Dave Thomas**
 * [elixir Conf 2014 Keynote](https://www.youtube.com/watch?v=aZXc11eOEpI) [00:59:32] by **Jose Valim**
 * [Phoenix - Productive. Reliable. Fast.](https://youtu.be/STO-uN0xHDQ) by **Chris McCord**
+* [New Heights](https://www.youtube.com/watch?v=E6RTBlO9TZQ) [00:48:42] by **Chris McCord**
 
 ####Elm
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) [00:40:55] by **Evan Czaplicki**
@@ -364,6 +365,7 @@ mind you).
 * [Demystifying Docker](https://www.youtube.com/watch?v=GVVtR_hrdKI) [00:29:53] by **Andrew T. Baker**
 * [Big Code: Developer Infrastructure at Facebook's Scale](https://developers.facebooklive.com/videos/561/big-code-developer-infrastructure-at-facebook-s-scale) by **Bryan O'Sullivan, Christian Legnitto & Katie Coons**
 * [Kicking the Complexity Habit](https://www.youtube.com/watch?v=XqgwHXsQA1g) [00:55:30] by **Dan North**
+* [One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w) [00:55:36] by **Erik Meijer**
 
 ####Debugging
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway**
