@@ -125,6 +125,7 @@ mind you).
 * [elixir Conf 2014 Keynote](https://www.youtube.com/watch?v=aZXc11eOEpI) [00:59:32] by **Jose Valim**
 * [Phoenix - Productive. Reliable. Fast.](https://youtu.be/STO-uN0xHDQ) by **Chris McCord**
 * [New Heights](https://www.youtube.com/watch?v=E6RTBlO9TZQ) [00:48:42] by **Chris McCord**
+* [Learn Elixir: Building a Neural Network from Scratch](https://www.youtube.com/watch?v=YE0h9DURSOo) [00:32:26] by **Karmen Blake**
 
 ####Elm
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) [00:40:55] by **Evan Czaplicki**
