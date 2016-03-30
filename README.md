@@ -91,8 +91,8 @@ mind you).
 * [Efficiency with Algorithms, Performance with Data](https://www.youtube.com/watch?v=fHNmRkzxHWs) [01:13:41] by **Chandler Carruth**
 * [Back to the Basics! Essentials of Modern C++ Style](https://www.youtube.com/watch?v=xnqTKD8uD64) [01:40:27] by **Herb Sutter**
 * **Lock-Free Programming (or, Juggling Razor Blades)**: This talk has two parts. I recommend taking a short break after watching the first part.
-  * [Lock-Free Programming (or, Juggling Razor Blades) [01:24:00], Part I](https://www.youtube.com/watch?v=c1gO9aB9nbs) by **Herb Sutter**
-  * [Lock-Free Programming (or, Juggling Razor Blades), Part II]() by **Herb Sutter**
+  * [Lock-Free Programming (or, Juggling Razor Blades), Part I](https://www.youtube.com/watch?v=c1gO9aB9nbs) [01:24:00] by **Herb Sutter**
+  * [Lock-Free Programming (or, Juggling Razor Blades), Part II](https://www.youtube.com/watch?v=CmxkPChOcvw) by **Herb Sutter**
 * [Writing Quick Code in C++, Quickly](https://www.youtube.com/watch?v=ea5DiCg8HOY) [01:11:37] by **Andrei Alexandrescu**
 * [Optimization Tips - Mo' Hustle Mo' Problems](https://www.youtube.com/watch?v=Qq_WaiwzOtI) [00:58:19] by **Andrei Alexandrescu**
 * [Optimizing the Emergent Structures of C++](https://www.youtube.com/watch?v=eR34r7HOU14) [01:33:02] by **Chandler Carruth** (somewhat annoyingly bad quality)
@@ -181,6 +181,7 @@ mind you).
 * [JVM Bytecode for Dummies (and the Rest of Us Too) [00:50:34]](https://www.youtube.com/watch?v=rPyqB1l4gko) by **Charles O.o Nutter**
 * [Recursion Schemes](https://www.youtube.com/watch?v=Zw9KeP3OzpU&feature=share) [01:50:29] by **Tim Williams**
 * [Fast as C: How to write really terrible Java](https://vimeo.com/131394615) by **Charles Oliver Nutter**
+* [Ludicrous Speed: Designing For Performance on the JVM](https://www.youtube.com/watch?v=X1rWgshr3PY) [00:39:54] by **Cliff Moon**
 
 ####JavaScript
 (There is a good list of talks about JS to be found [here](https://github.com/bolshchikov/js-must-watch))
