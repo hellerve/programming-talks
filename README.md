@@ -465,6 +465,7 @@ mind you).
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) [00:28:06] by **Fred Hebert**
 * [Scalability at YouTube](https://www.youtube.com/watch?v=G-lGCC4KKok) [00:38:43] by **Mike Solomon** (long intro; starts about 8 minutes in)
 * [The Power Of UNIX](https://www.youtube.com/watch?v=7uwW20odwEk) [00:30:03] by **Dan North**
+* [Speed & Scale: How to get there](https://www.youtube.com/watch?v=BeNrVl2_nyI) [01:04:51] by **Adrian Cockcroft**
 
 ####Distributed Programming
 * [Distributed Systems 101](https://www.youtube.com/watch?v=YAFGQurdJ3U) [00:45:25] by **lvh**
