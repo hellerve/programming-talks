@@ -13,14 +13,15 @@ def load_youtube_api_key():
     try:
         return open('youtube_api_key.txt', 'r').read().strip()
     except:
-        print('Add file called youtube_ api.txt and insert a youtube api key.')
-        print('Youtube api key can be obtained at: https://console.developers.google.com.')
-        exit(0)
+        print('Add a file called youtube_api.txt and insert a youtube API key.')
+        print('A youtube API key can be obtained at: https://console.developers.google.com.')
+        exit(1)
 
 def get_number_of_lines(file_name):
     with open(file_name, 'r') as f:
-        return sum(1 for l in f)
-        
+        # no really, this is somehow faster than sum()
+        return len([l for l in f])
+
 def get_duration(json_video):
     hours = 0
     minutes = 0
