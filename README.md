@@ -126,6 +126,7 @@ mind you).
 * [Phoenix - Productive. Reliable. Fast.](https://youtu.be/STO-uN0xHDQ) by **Chris McCord**
 * [New Heights](https://www.youtube.com/watch?v=E6RTBlO9TZQ) [00:48:42] by **Chris McCord**
 * [Learn Elixir: Building a Neural Network from Scratch](https://www.youtube.com/watch?v=YE0h9DURSOo) [00:32:26] by **Karmen Blake**
+* [Explicit Elixir](https://www.youtube.com/watch?v=sr5I5ncg0kU) [00:27:50] by **Paul Lamb**
 
 ####Elm
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) [00:40:55] by **Evan Czaplicki**
