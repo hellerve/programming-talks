@@ -114,6 +114,7 @@ mind you).
 * [CSS Performance Tooling](https://www.youtube.com/watch?v=FEs2jgZBaQA) [00:46:28] by **Addy Osmani**
 * [Stuff About Cascading Style Sheets](https://www.youtube.com/watch?v=R_py8gCTTAc) [00:20:52] by **Mark Otto & Connor Sears**
 * [Your Very Own Component Library](https://www.youtube.com/watch?v=zSYo7m5kGHQ) [00:20:04] by **Alex Sexton**
+* [CSS FlexBox Essentials](https://www.youtube.com/watch?v=G7EIAgfkhmg) [00:31:24] by **Travis Neilson**
 
 ####D
 * [High Performance Code Using D](https://www.youtube.com/watch?v=eh8WETRT7q4) [00:58:52] by **Walter Bright**
