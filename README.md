@@ -8,7 +8,7 @@ There are talks on programming languages specifics as well as a more general sec
 but do not expect to always get Theoretical Computer Science for every talk there,
 most of them are on the Architecture and Design of Software.
 
-I welcome every contribution to the list!
+I welcome every contribution to the list; for guidelines look [below](#contributing).
 
 **Disclaimer:** I did not give any of the talks on the list and am responsible neither
 for their content nor for their presentation. All links below will direct you to
@@ -502,3 +502,11 @@ mind you).
 * [How To Shut Down Tolkien](https://www.youtube.com/watch?v=qVlqBxpCG24) [00:42:41] by **Brandon Rhodes**
 * [DjangoCon EU 2013 Keynote](https://www.youtube.com/watch?v=yvMWUGx7Fx8) [00:31:10] by **Brandon Rhodes**
 * [Clojure: Programming with Hand Tools](https://www.youtube.com/watch?v=ShEez0JkOFw) [00:58:38] by **Tim Ewald**
+
+## Contributing
+
+Generally, a lot of talks are welcome on this list. The topic does not matter too much - it
+should be linked to Computer Science - but the format does. Talks are welcome if
+* they were recorded at a conference or meetup (i.e. no screencasts or vlogging)
+* they are awesome™!
+I hope that is straightforward, understandable and makes sense.
