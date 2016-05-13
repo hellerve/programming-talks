@@ -1,18 +1,18 @@
 #Programming Talks
 
 I watch a lot of talks that I love to share with my friends, fellows and coworkers.
-As I consider all Githubbers my friends(oh yeah!), I decided it's time to share the
+As I consider all Githubbers my friends (oh yeah!), I decided it's time to share the
 list.
 
-There are talks on programming languages specifics as well as a more general section I call "theory",
-but do not expect to always get Theoretical Computer Science for every talk there,
-most of them are on the Architecture and Design of Software.
+There are talks on programming languages specifics as well as a more general section I call "theory".
+But don't expect to always get theoretical computer science for every talk there;
+most of them are on the architecture and design of software.
 
 I welcome every contribution to the list; for guidelines look [below](#contributing).
 
 **Disclaimer:** I did not give any of the talks on the list and am responsible neither
 for their content nor for their presentation. All links below will direct you to
-external sites(mostly YouTube, really), be aware of that. If you are one of the people
+external sites (mostly YouTube, really), be aware of that. If you are one of the people
 responsible for the talks or the platform presenting it and want it removed,
 tell me and I'll sort it out with you.
 
@@ -21,27 +21,27 @@ tell me and I'll sort it out with you.
 To make choosing the right speakers a tad easier, let me give you a quick overview
 over my favourite speakers in no particular order:
 
-* **Scott Meyers**(C++): Scott Meyers is one of the most entertaining and knowledgeable
+* **Scott Meyers** (C++): Scott Meyers is one of the most entertaining and knowledgeable
 speaker when it comes to all things C++. His talks cover a variety of topics, from type 
 inference to API design and cache lines.
-* **Rich Hickey**(Clojure): I am not a Clojure programmer, but I like reasoning about
+* **Rich Hickey** (Clojure): I am not a Clojure programmer, but I like reasoning about
 and building programming languages. Even if you don't, Rich Hickeys talks are inspiring
 and thought-provoking. Whenever he talks about the fundamentals of programming and reasoning,
 you are sure to learn a ton. Oh, and if you program in Clojure, you have no excuse for
 not watching this guy speak.
-* **Reginald Braithwaite**(JavaScript): one of my favourite JavaScript speakers. He
+* **Reginald Braithwaite** (JavaScript): one of my favourite JavaScript speakers. He
 also has a variety of talks on my list, but is more true to his realm (JavaScript) than
 most of the other speakers on my list.
-* **David Nolen**(Clojure/Clojurescript): The core maintainer of Clojurescript. His talks
+* **David Nolen** (Clojure/Clojurescript): The core maintainer of Clojurescript. His talks
 mostly focus on immutability and share a bit of their structure. He doesn't get boring, though,
 and is another very smart person with deep insights in such fields as immutability.
-* **David Beazley**(Python): The person who singlehandedly made me a Pythonista. Need I say
+* **David Beazley** (Python): The person who singlehandedly made me a Pythonista. Need I say
 more? He has a lot of low-level knowledge about Python and makes poking at the Python interpreter
 seem more fun than it actually is.
-* **Joe Armstrong**(Erlang): One of the few people I actually had the chance to see live already.
+* **Joe Armstrong** (Erlang): One of the few people I actually had the chance to see live already.
 He is a funny, witty and smart guy and if you want to learn about Erlang, watch his talks. Most
 of his talks are also very beginner-friendly.
-* **Brandon Rhodes**(Python): Yet another Pythonista. His talks are enjoyable, enlightening
+* **Brandon Rhodes** (Python): Yet another Pythonista. His talks are enjoyable, enlightening
 and his way of talking is *just enjoyable* - you might think that is secondary, but it is really
 important. His talk on Tolkien is one of the most enjoyable diversions on this list (and a bit off-topic,
 mind you).
