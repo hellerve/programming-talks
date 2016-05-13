@@ -512,4 +512,5 @@ Generally, a lot of talks are welcome on this list. The topic does not matter to
 should be linked to Computer Science - but the format does. Talks are welcome if
 * they were recorded at a conference or meetup (i.e. no screencasts or vlogging)
 * they are awesome™!
+
 I hope that is straightforward, understandable and makes sense.
