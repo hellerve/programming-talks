@@ -130,6 +130,7 @@ mind you).
 * [New Heights](https://www.youtube.com/watch?v=E6RTBlO9TZQ) [00:48:42] by **Chris McCord**
 * [Learn Elixir: Building a Neural Network from Scratch](https://www.youtube.com/watch?v=YE0h9DURSOo) [00:32:26] by **Karmen Blake**
 * [Explicit Elixir](https://www.youtube.com/watch?v=sr5I5ncg0kU) [00:27:50] by **Paul Lamb**
+* [Enhanced Embedded Systems with Nerves](https://www.youtube.com/watch?v=118-g0ODfgg) [00:56:11] by **Justin Schneck**
 
 ####Elm
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) [00:40:55] by **Evan Czaplicki**
