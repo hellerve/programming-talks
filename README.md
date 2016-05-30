@@ -132,6 +132,7 @@ mind you).
 * [Explicit Elixir](https://www.youtube.com/watch?v=sr5I5ncg0kU) [00:27:50] by **Paul Lamb**
 * [Enhanced Embedded Systems with Nerves](https://www.youtube.com/watch?v=118-g0ODfgg) [00:56:11] by **Justin Schneck**
 * [Securing Elixir Applications](https://www.youtube.com/watch?v=r0DuAse9tK8) [00:42:52] by **Bram Verburg**
+* [Building Multiplayer Games with Phoenix and Phaser](https://www.youtube.com/watch?v=I5L9_cXwBcU) [00:34:47] by **Keith Salisbury**
 
 ####Elm
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) [00:40:55] by **Evan Czaplicki**
