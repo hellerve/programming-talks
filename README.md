@@ -154,10 +154,11 @@ mind you).
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) [00:51:27] by **Rob Pike**
 * [The move from C to Go in the toolchain](https://www.hakkalabs.co/articles/gopherfest-2015-rob-pike-move-c-go-toolchain) by **Rob Pike**
 * [Advanced Go Concurrency Patterns](https://www.youtube.com/watch?v=QDDwwePbDtw) [00:34:11] by **Sameer Ajmani**
-* [Parctical Go Programming](https://www.youtube.com/watch?v=2-pPAvqyluI) [00:59:20] by **Andrew Gerrand**
+* [Practical Go Programming](https://www.youtube.com/watch?v=2-pPAvqyluI) [00:59:20] by **Andrew Gerrand**
 * [Go for Pythonistas](https://www.youtube.com/watch?v=elu0VpLzJL8) [00:51:17] by **Francesc Campoy Flores**
 * [High Performance Systems in Go](https://www.youtube.com/watch?v=ylRKac5kSOk) [00:29:39] by **Derek Collison**
 * [Communicating Sequential Processes](https://www.youtube.com/watch?v=3gXWA6WEvOM) [00:43:21] by **Eric Shull**
+* [Stupid Gopher Tricks](https://www.youtube.com/watch?v=UECh7X07m6E) [00:53:10] by **Andrew Gerrand**
 
 ####Haskell
 * [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) [00:26:11] by **Andrew Rademacher** (for Beginners)
@@ -483,6 +484,7 @@ mind you).
 ####Distributed Programming
 * [Distributed Systems 101](https://www.youtube.com/watch?v=YAFGQurdJ3U) [00:45:25] by **lvh**
 * [Distributed Eventually Consistent Computations](https://www.youtube.com/watch?v=uwpakTIg9r8) [00:49:37] by **Christopher Meiklejohn**
+* [Jepsen IV: Hope Springs Eternal](https://www.youtube.com/watch?v=dE3KT7hHkKY) [00:54:33] by **Kyle Kingsbury**
 
 ####Machine Learning
 * [Neural Nets for Newbies](https://www.youtube.com/watch?v=g-BJSl4zV_g) [00:30:57] by **Melanie Warrick**
