@@ -380,6 +380,7 @@ mind you).
 * [Big Code: Developer Infrastructure at Facebook's Scale](https://developers.facebooklive.com/videos/561/big-code-developer-infrastructure-at-facebook-s-scale) by **Bryan O'Sullivan, Christian Legnitto & Katie Coons**
 * [Kicking the Complexity Habit](https://www.youtube.com/watch?v=XqgwHXsQA1g) [00:55:30] by **Dan North**
 * [One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w) [00:55:36] by **Erik Meijer**
+* [Apparatus: A Hybrid Graphics Editor / Programming Environment](https://www.youtube.com/watch?v=i3Xack9ufYk) [00:37:56] by **Toby Schachman**
 
 ####Debugging
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway**
