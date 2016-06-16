@@ -230,6 +230,7 @@ mind you).
 * [Snappy Performance Apps with Ember.js](https://www.youtube.com/watch?v=9a0OP4in-ac) [00:28:39] by **Anthony Bull**
 * [Ember 2.0](https://www.youtube.com/watch?v=U1HEzVWseng) [00:40:21] by **Erik Bryn**
 * [Solving the real callback hell](https://www.youtube.com/watch?v=Wu9n7Ry0PWw) [00:21:54] by **Tim Ruffles**
+* [Benchmarking JavaScript](https://www.youtube.com/watch?v=g0ek4vV7nEA) [00:40:54] by **Vyacheslav Egorov**
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) [00:26:19] by **Dwight J. Browne**
@@ -308,6 +309,7 @@ mind you).
 * [Make awesome command line apps with Ruby](https://www.youtube.com/watch?v=1ILEw6Qca3U) [00:28:57] by **Dave Copeland**
 * [Confident Code](https://www.youtube.com/watch?v=T8J0j2xJFgQ) [00:31:24] by **Avdi Grimm**
 * [Building a binary protocol client in Ruby: A magical journey!](https://www.youtube.com/watch?v=JLoOAGEAAjo) [00:30:27] by **Trevor Rosen and egypt (James Lee)**
+* [Fun with the Lambda Calculus](https://www.youtube.com/watch?v=QPqoFCHpLF4) [00:48:48] by **Corey Haines**
 
 ####Rust
 * [In Rust We Trust](https://www.youtube.com/watch?v=-dxqbhLIgdM) [00:45:01] by **Alex Burkhardt**
