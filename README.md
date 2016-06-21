@@ -80,6 +80,8 @@ mind you).
 * [Full stack FP in Datomic, Clojure, and ClojureScript](https://www.youtube.com/watch?v=FjUKmTIHyXo) [00:51:30] by **Priyatam Mudivarti**
 * [Why Is A Monad Like A Writing Desk?](http://www.infoq.com/presentations/Why-is-a-Monad-Like-a-Writing-Desk) [00:30:38] by **Carin Meier**
 * [Parallel Programming, Fork Join, and Reducers](https://www.youtube.com/watch?v=eRq5UBx6cbA) [00:40:53] by **Daniel Higginbotham**
+* [The Relevance of ClojureScript](https://www.youtube.com/watch?v=pX6tUpgktxo) [00:36:16] by **Jearvon Dharrie**
+* [Building a Bicycle for the Mind](https://www.youtube.com/watch?v=nKyHvVIotBo) [00:26:39] by **David Nolen**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
