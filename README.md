@@ -235,6 +235,7 @@ mind you).
 * [Solving the real callback hell](https://www.youtube.com/watch?v=Wu9n7Ry0PWw) [00:21:54] by **Tim Ruffles**
 * [Benchmarking JavaScript](https://www.youtube.com/watch?v=g0ek4vV7nEA) [00:40:54] by **Vyacheslav Egorov**
 * [ECMAScript 6 & Web Components](https://www.youtube.com/watch?v=2w4sRkTnhPM) [00:36:11] by **Brian LeRoux**
+* [Improving Your Workflow With Code Transformation](https://www.youtube.com/watch?v=OFuDvqZmUrE) [00:30:18] by **Sebastian McKenzie**
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) [00:26:19] by **Dwight J. Browne**
