@@ -499,6 +499,7 @@ mind you).
 * [Distributed Systems 101](https://www.youtube.com/watch?v=YAFGQurdJ3U) [00:45:25] by **lvh**
 * [Distributed Eventually Consistent Computations](https://www.youtube.com/watch?v=uwpakTIg9r8) [00:49:37] by **Christopher Meiklejohn**
 * [Jepsen IV: Hope Springs Eternal](https://www.youtube.com/watch?v=dE3KT7hHkKY) [00:54:33] by **Kyle Kingsbury**
+* [Coordination-Free Computations](https://www.youtube.com/watch?v=AF8fpDzfUOc) [00:46:15] by **Cristopher Meiklejohn** (really fast talker)
 
 ####Machine Learning
 * [Neural Nets for Newbies](https://www.youtube.com/watch?v=g-BJSl4zV_g) [00:30:57] by **Melanie Warrick**
