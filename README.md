@@ -354,6 +354,7 @@ mind you).
 * [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w) [00:31:07] by **Andrew Godwin**
 * [Being Human](https://www.youtube.com/watch?v=LlO2_GecWo8) [00:19:45] by **Brian J. Brennan** (not technical, but very important)
 * [How to become a Data Scientist in 6 months - A hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc) [00:56:24] by **Tetiana Ivanova**
+* [Software, Faster](https://www.youtube.com/watch?v=USc-yLHXNUg) [00:54:19] by **Dan North**
 
 ####Thoughts on Languages
 * [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) [01:07:03] by **Scott Meyers**
