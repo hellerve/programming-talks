@@ -307,6 +307,7 @@ mind you).
 * [Generic Syntax Expanders and Extensible Macros](https://www.youtube.com/watch?v=PoHGvY4RZ9U) [00:16:26] by **Jack Firth**
 * [Purely Functional 3D in Typed Racket](https://www.youtube.com/watch?v=t3xdv4UP9-U) [00:22:15] by **Neil Toronto**
 * [Racket: A Programming-Language Programming Language](https://www.youtube.com/watch?v=hFlIl0Zo234) [00:51:42] by **Robby Findler**
+* [The Racket Manifesto](https://www.youtube.com/watch?v=JnczIyPXGfc) [00:52:42] by **Matthias Felleisen**
 
 ####Ruby
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) [00:40:50] by **Tom Stuart**
