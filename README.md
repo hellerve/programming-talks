@@ -348,6 +348,7 @@ mind you).
 * [Linux Sucks - 2014](https://www.youtube.com/watch?v=5pOxlazS3zs) [00:44:59] by **Bryan Lunduke**
 * [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) [00:33:31] by **Julia Evans**
 * [A Brief History of Time](https://www.youtube.com/watch?v=WoUn2XQvGDw) [00:45:17] by **Fred Hebert**
+* [Complexity and the Art of the Left Turn](https://www.youtube.com/watch?v=bSfe5M_zG2s) [00:52:05] by **K Lars Lohn**
 
 ###On theory
 ####Thoughts on the Industry/Community
