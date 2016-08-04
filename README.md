@@ -431,6 +431,9 @@ mind you).
 * [Everything old is new again: Quoted Domain-Specific Languages](https://www.youtube.com/watch?v=FiflFiZ6pPI) [00:39:06] by **Philip Wadler**
 * [I See What You Mean](https://www.youtube.com/watch?v=R2Aa4PivG0g) [00:52:28] by **Peter Alvaro**
 
+####Data Science
+* [Data as Software as Data](https://www.youtube.com/watch?v=LOMk8TD6l5k) [00:40:27] by **Andrea Burbank**
+
 ####Data Structures & Algorithms
 * [Hash Functions and You: Partners in Freedom](https://www.youtube.com/watch?v=IGwNQfjLTp0) [00:27:06] by **Curtis Lassam**
 * [An Overview of Probabilistic Programming](https://www.youtube.com/watch?v=-8QMqSWU76Q) [01:02:54] by **Vikash K. Mansinghka** (I am unsure where to put this)
