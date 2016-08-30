@@ -83,6 +83,7 @@ mind you).
 * [The Relevance of ClojureScript](https://www.youtube.com/watch?v=pX6tUpgktxo) [00:36:16] by **Jearvon Dharrie**
 * [Building a Bicycle for the Mind](https://www.youtube.com/watch?v=nKyHvVIotBo) [00:26:39] by **David Nolen**
 * [Clojure in 10 Big Ideas](https://www.youtube.com/watch?v=noiGVQoyYHw) [00:30:48] by **Stu Halloway**
+* [Clojure Enemy of the State](https://www.youtube.com/watch?v=qe60zwUAOqE) [01:06:31] by **Alex Miller**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
