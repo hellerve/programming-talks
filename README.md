@@ -71,7 +71,7 @@ mind you).
 * [Specter: overcome your fear of nested Clojure data](https://www.youtube.com/watch?v=mXZxkpX5nt8) [00:41:50] by **Nathan Marz**
 * [From REST to CQRS with Clojure, Kafka, & Datomic](https://www.youtube.com/watch?v=qDNPQo9UmJA) [00:44:24] by **Bobby Calderwood**
 * [Game Development Development](https://www.youtube.com/watch?v=ajX09xQ_UEg) [00:35:09] by **Michael Nygard & Ragnar Svensson**
-* [Typed Clojure in Practice](https://www.youtube.com/watch?v=a0gT0syAXsY) [00:41:59] by **Ambrose Bonnaire**
+* [Typed Clojure in Practice](https://www.youtube.com/watch?v=a0gT0syAXsY) [00:41:57] by **Ambrose Bonnaire Sergeant**
 * [Clojure for Schemers](https://vimeo.com/22675078) [01:17:27] by **David Nolen**
 * [Variants are Not Unions](https://www.youtube.com/watch?v=ZQkIWWTygio) [00:37:53] by **Jeanine Adkisson**
 * [Always Be Composing](https://www.youtube.com/watch?v=3oQTSP4FngY) [00:35:11] by **Zach Tellman**
