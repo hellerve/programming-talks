@@ -85,6 +85,11 @@ mind you).
 * [Clojure in 10 Big Ideas](https://www.youtube.com/watch?v=noiGVQoyYHw) [00:30:48] by **Stu Halloway**
 * [Clojure Enemy of the State](https://www.youtube.com/watch?v=qe60zwUAOqE) [01:06:31] by **Alex Miller**
 * [Managing One of the World's Largest Clojure Code Bases](https://www.youtube.com/watch?v=iUC7noGU1mQ) [00:41:05] by **Donevan Dolby**
+* [The ReactJS Landscape](https://www.youtube.com/watch?v=oRmj3IUkRVk) [00:41:03] by **Luke VanderHart**
+* [Simplicity in Practice](https://www.youtube.com/watch?v=2YmmfS5YTQ0) [00:30:47] by **Luke VanderHart**
+* [Developing ClojureScript With Figwheel](https://www.youtube.com/watch?v=j-kj2qwJa_E) [00:45:30] by **Bruce Hauman**
+* [How Clojure Works: Understanding the Clojure Runtime](https://www.youtube.com/watch?v=8NUI07y1SlQ) [00:30:07] by **Daniel Solano Gomez**
+* [Hoplon and Javelin, WebDev Alternative Reality](https://www.youtube.com/watch?v=UoZyyo2Bwr8) [00:22:07] by **Micha Niskin**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
