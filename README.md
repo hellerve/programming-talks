@@ -540,6 +540,8 @@ mind you).
 * [Chef Style DevOps Kungfu](https://www.youtube.com/watch?v=_DEToXsgrPc) [01:16:08] by **Adam Jacob**
 * [Salting things up in the sysadmin's world](https://www.youtube.com/watch?v=w1zcUNMwac0) [00:37:21] by **Juan Manuel Santos**
 * [Demistifying SNMP](https://www.youtube.com/watch?v=SQlz_Zd6enU) [00:49:19] by **Douglas Mauro**
+* [Your infrastructure is not a unique snowflake, and that's ok!](https://www.youtube.com/watch?v=x-zwxuIb1lY) [00:37:39] by **Jeremy Edberg**
+* [I got 10 trillion problems, but logging ain't one](https://www.youtube.com/watch?v=LA-gNoxSLCE) [00:25:17] by **John Graham-Cumming**
 
 ####Mathematics
 *Those are not necessarily programming-related and possibly very advanced mathematics.*
