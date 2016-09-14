@@ -90,6 +90,8 @@ mind you).
 * [Developing ClojureScript With Figwheel](https://www.youtube.com/watch?v=j-kj2qwJa_E) [00:45:30] by **Bruce Hauman**
 * [How Clojure Works: Understanding the Clojure Runtime](https://www.youtube.com/watch?v=8NUI07y1SlQ) [00:30:07] by **Daniel Solano Gomez**
 * [Hoplon and Javelin, WebDev Alternative Reality](https://www.youtube.com/watch?v=UoZyyo2Bwr8) [00:22:07] by **Micha Niskin**
+* [Predictably Fast Clojure](https://www.youtube.com/watch?v=iQwQXVM6oiY) [00:34:01] by **Zach Tellman**
+* [Playing Go with Clojure](https://www.youtube.com/watch?v=v5dYE0CMmHQ) [00:35:53] by **Zach Tellman**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
@@ -457,6 +459,7 @@ mind you).
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) [01:06:24] by **Rich Hickey**
 * [Postgres Performance for Humans](https://www.youtube.com/watch?v=MpH8W5hce9I) [00:33:49] by **Craig Kerstiens**
 * [The Impedance Mismatch is Our Fault](http://www.infoq.com/presentations/Impedance-Mismatch) [00:58:31] by **Stuart D. Halloway**
+* [Sharding and Scaling Your Database](https://www.youtube.com/watch?v=p3ytSdUQZzA) [00:42:53] by **Neha Narula**
 
 ####Functional Programming
 * [Functional Principles for Object Oriented Development](http://www.youtube.com/watch?v=pMGY9ViIGNU) [00:51:13] by **Jessica Kerr** 
@@ -528,6 +531,7 @@ mind you).
 * [Automatic Algorithm Invention with a GPU](https://youtu.be/xQDazGrKsuM) [01:02:04] by **Wesley Faler**
 * [From the Lab to the Factory: Building a Production Machine Learning Infrastructure](https://www.youtube.com/watch?v=v-91JycaKjc) [01:04:27] by **Josh Wills**
 * [The Unreasonable Effectiveness of Data](https://www.youtube.com/watch?v=yvDCzhbjYWs) [01:02:56] by **Peter Norvig**
+* [Machine learning is not the future](https://www.youtube.com/watch?v=3dXQxSI3XDY) [00:38:59] by **Rajat Monga**
 
 ####Theoretical Computer Science
 * [Church's Coincidences](https://www.youtube.com/watch?v=2PJ_DbKGFUA) [01:03:41] by **Philip Wadler**
