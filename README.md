@@ -93,6 +93,9 @@ mind you).
 * [Predictably Fast Clojure](https://www.youtube.com/watch?v=iQwQXVM6oiY) [00:34:01] by **Zach Tellman**
 * [Playing Go with Clojure](https://www.youtube.com/watch?v=v5dYE0CMmHQ) [00:35:53] by **Zach Tellman**
 * [Domain Specific Type Systems](https://www.youtube.com/watch?v=gY0H0KVc_h0) [00:40:05] by **Nathan Sorenson**
+* [Enter the Matrix](https://www.youtube.com/watch?v=_h9TLJtjSJo) [00:40:00] by **Mike Anderson**
+* [Purely Random](https://www.youtube.com/watch?v=u0t-6lUvXHo) [00:38:04] by **Gary Fredericks**
+* [Data Science in Clojure](https://www.youtube.com/watch?v=omSTAwSjYc8) [00:44:03] by **Soren Macbeth**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
