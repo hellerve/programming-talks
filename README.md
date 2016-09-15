@@ -96,6 +96,7 @@ mind you).
 * [Enter the Matrix](https://www.youtube.com/watch?v=_h9TLJtjSJo) [00:40:00] by **Mike Anderson**
 * [Purely Random](https://www.youtube.com/watch?v=u0t-6lUvXHo) [00:38:04] by **Gary Fredericks**
 * [Data Science in Clojure](https://www.youtube.com/watch?v=omSTAwSjYc8) [00:44:03] by **Soren Macbeth**
+* [Pattern Matching in Clojure](https://www.youtube.com/watch?v=n7aE6k8o_BU) [00:47:02] by **Sean Johnson**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
@@ -125,7 +126,7 @@ mind you).
 * [Transducers: from Clojure to C++](https://www.youtube.com/watch?v=vohGJjGxtJQ) [01:00:03] by **Juan Pedro Bolívar**
 * [Better Code: Data Structures](https://www.youtube.com/watch?v=sWgDk-o-6ZE) [01:03:59] by **Sean Parent**
 
-####CSS 
+####CSS
 *(yeah, I know, stylesheets are not traditionally programming)*
 * [CSS Levels Up](https://www.youtube.com/watch?v=UpVj5azI-iI) [00:31:39] by **Angelina Fabbro**
 * [Your CSS is a Mess](https://www.youtube.com/watch?v=C4z_9F6nfS8) [00:51:26] by **Jonathan Snook**
