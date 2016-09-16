@@ -368,6 +368,7 @@ mind you).
 * [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) [00:33:31] by **Julia Evans**
 * [A Brief History of Time](https://www.youtube.com/watch?v=WoUn2XQvGDw) [00:45:17] by **Fred Hebert**
 * [Complexity and the Art of the Left Turn](https://www.youtube.com/watch?v=bSfe5M_zG2s) [00:52:05] by **K Lars Lohn**
+* [Well I Wouldn't Want To Make a \*Dys\*functional Game](https://www.youtube.com/watch?v=TDDJsKLUh1Y) [00:18:17] by **Morgan Mullaney**
 
 ###On theory
 ####Thoughts on the Industry/Community
