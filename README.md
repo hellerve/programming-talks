@@ -335,6 +335,8 @@ mind you).
 * [Confident Code](https://www.youtube.com/watch?v=T8J0j2xJFgQ) [00:31:24] by **Avdi Grimm**
 * [Building a binary protocol client in Ruby: A magical journey!](https://www.youtube.com/watch?v=JLoOAGEAAjo) [00:30:27] by **Trevor Rosen and egypt (James Lee)**
 * [Fun with the Lambda Calculus](https://www.youtube.com/watch?v=QPqoFCHpLF4) [00:48:48] by **Corey Haines**
+* [How Are Method Calls Formed?](https://www.youtube.com/watch?v=6Dkjus07d9Y) [00:52:16] by **Aaron Patterson**
+* [Inside Ruby's VM: The TMI Edition](https://www.youtube.com/watch?v=CT8JSJkymZM) [00:39:10] by **Aaron Patterson**
 
 ####Rust
 * [In Rust We Trust](https://www.youtube.com/watch?v=-dxqbhLIgdM) [00:45:01] by **Alex Burkhardt**
