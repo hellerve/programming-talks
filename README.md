@@ -97,6 +97,8 @@ mind you).
 * [Purely Random](https://www.youtube.com/watch?v=u0t-6lUvXHo) [00:38:04] by **Gary Fredericks**
 * [Data Science in Clojure](https://www.youtube.com/watch?v=omSTAwSjYc8) [00:44:03] by **Soren Macbeth**
 * [Pattern Matching in Clojure](https://www.youtube.com/watch?v=n7aE6k8o_BU) [00:47:02] by **Sean Johnson**
+* [Predicate Dispatch](https://www.youtube.com/watch?v=iCl9rB1tyxo) [00:28:58] by **David Nolen**
+* [Jelly stains. Thoughts on JavaScript, LISP & Play ](https://www.youtube.com/watch?v=AnzMEdC2FDk) [00:19:12] by **David Nolen**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
