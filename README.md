@@ -264,6 +264,7 @@ mind you).
 * [Convex Optimization in Julia](https://www.youtube.com/watch?v=SoI0lEaUvTs) [00:40:12] by **Madeleine Udell**
 * [Julia 1.0](https://www.youtube.com/watch?v=5gXMpbY1kJY) [00:29:46] by **Stefan Karpinski**
 * [The Two Cultures of Programming](https://www.youtube.com/watch?v=C3iR_PknlFc) [00:29:40] by **Joshua Ballanco**
+* [Machine Code](https://www.youtube.com/watch?v=ErGi9sNgUjw) [00:38:11] by **Jameson Nash**
 
 ####Lisp
 * [Lisp](https://www.youtube.com/watch?v=FRaNUsiD_BA) [00:56:00] by **Igor Wiedler**
