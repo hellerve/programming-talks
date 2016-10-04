@@ -99,6 +99,7 @@ mind you).
 * [Pattern Matching in Clojure](https://www.youtube.com/watch?v=n7aE6k8o_BU) [00:47:02] by **Sean Johnson**
 * [Predicate Dispatch](https://www.youtube.com/watch?v=iCl9rB1tyxo) [00:28:58] by **David Nolen**
 * [Jelly stains. Thoughts on JavaScript, LISP & Play ](https://www.youtube.com/watch?v=AnzMEdC2FDk) [00:19:12] by **David Nolen**
+* [The Next Five Years of ClojureScript](https://www.youtube.com/watch?v=mty0RwkPmE8) [01:00:57] by **David Nolen**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
@@ -360,6 +361,10 @@ mind you).
 * [Minimizing the Slippery Surface of Failure](https://www.youtube.com/watch?v=26UHdZUsKkE) [00:59:26] by **Jon Pretty**
 * [Simplifying Scala Collections](https://www.youtube.com/watch?v=UBjzbkhvYTU) [00:46:52] by **Bill Venners**
 * [Lawful Asynchronous Programming](https://www.youtube.com/watch?v=B0L91sW3XHw) [01:04:31] by **Daniel Spiewak**
+
+####Scheme
+* [miniKanren](https://www.youtube.com/watch?v=5Q9x16uIsKA) [00:46:23] by **Dan Friedman & William Byrd**
+* [Dan Friedman - Cool Ideas](https://www.youtube.com/watch?v=IHP7P_HlcBk) [00:57:00]] by **Guy Steele**
 
 ####Swift
 * [Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=TlvLGTXn_gk) [00:41:19] by **J.P. Simard**
