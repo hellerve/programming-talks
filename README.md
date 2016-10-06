@@ -129,6 +129,7 @@ mind you).
 * [Transducers: from Clojure to C++](https://www.youtube.com/watch?v=vohGJjGxtJQ) [01:00:03] by **Juan Pedro Bolívar**
 * [Better Code: Data Structures](https://www.youtube.com/watch?v=sWgDk-o-6ZE) [01:03:59] by **Sean Parent**
 * [Writing Good C++14... By Default](https://www.youtube.com/watch?v=hEx5DNLWGgA) [01:29:05] by **Herb Sutter**
+* [Fastware](https://www.youtube.com/watch?v=AxnotgLql0k) [01:02:16] by **Andrei Alexandrescu**
 
 ####CSS
 *(yeah, I know, stylesheets are not traditionally programming)*
