@@ -347,6 +347,7 @@ mind you).
 * [Concurrency in Rust](https://www.youtube.com/watch?v=oAZ7F7bqT-o) [00:31:24] by **Alex Crichton**
 * [What Rust can teach us about Ruby](https://www.youtube.com/watch?v=Jbfyhx8t-F8) [00:34:07] by **Steve Klabnik**
 * [Rusty Runtimes](https://www.youtube.com/watch?v=U4upi-y2pCk) [00:35:30] by **Aditya Siram**
+* [The History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY) [00:58:41] by **Steve Klabnik**
 
 ####Scala
 * [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA) [00:31:22] by **Dan Rosen**
