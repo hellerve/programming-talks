@@ -99,6 +99,7 @@ mind you).
 * [Pattern Matching in Clojure](https://www.youtube.com/watch?v=n7aE6k8o_BU) [00:47:02] by **Sean Johnson**
 * [Predicate Dispatch](https://www.youtube.com/watch?v=iCl9rB1tyxo) [00:28:58] by **David Nolen**
 * [Jelly stains. Thoughts on JavaScript, LISP & Play ](https://www.youtube.com/watch?v=AnzMEdC2FDk) [00:19:12] by **David Nolen**
+* [The Next Five Years of ClojureScript](https://www.youtube.com/watch?v=mty0RwkPmE8) [01:00:57] by **David Nolen**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
@@ -128,6 +129,9 @@ mind you).
 * [Transducers: from Clojure to C++](https://www.youtube.com/watch?v=vohGJjGxtJQ) [01:00:03] by **Juan Pedro Bolívar**
 * [Better Code: Data Structures](https://www.youtube.com/watch?v=sWgDk-o-6ZE) [01:03:59] by **Sean Parent**
 * [Writing Good C++14... By Default](https://www.youtube.com/watch?v=hEx5DNLWGgA) [01:29:05] by **Herb Sutter**
+* [Fastware](https://www.youtube.com/watch?v=AxnotgLql0k) [01:02:16] by **Andrei Alexandrescu**
+* [Design Patterns in Modern C++](https://www.youtube.com/watch?v=sJnoIF4_Ug8) [01:07:04] by **Dmitri Nesteruk**
+* [STL Algorithms - How To Use Them and How to Write Your Own](https://www.youtube.com/watch?v=3nXLxMYXgWs) [01:30:36] by **Marshall Clow**
 
 ####CSS
 *(yeah, I know, stylesheets are not traditionally programming)*
@@ -213,6 +217,7 @@ mind you).
 * [Recursion Schemes](https://www.youtube.com/watch?v=Zw9KeP3OzpU&feature=share) [01:50:29] by **Tim Williams**
 * [Fast as C: How to write really terrible Java](https://vimeo.com/131394615) [00:51:42] by **Charles Oliver Nutter**
 * [Ludicrous Speed: Designing For Performance on the JVM](https://www.youtube.com/watch?v=X1rWgshr3PY) [00:39:54] by **Cliff Moon**
+* [Nashorn: implementing a dynamic language runtime on JVM in 2014](https://www.youtube.com/watch?v=KKaHkkpdHxg) [00::44:32] by **Attila Szegedi**
 
 ####JavaScript
 (There is a good list of talks about JS to be found [here](https://github.com/bolshchikov/js-must-watch))
@@ -261,6 +266,10 @@ mind you).
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) [00:26:19] by **Dwight J. Browne**
 * [Crossing Language Barriers with Julia, SciPy,IPython](https://www.youtube.com/watch?v=jhlVHoeB05A) [01:11:18] by **Stephen G. Johnson**
 * [Convex Optimization in Julia](https://www.youtube.com/watch?v=SoI0lEaUvTs) [00:40:12] by **Madeleine Udell**
+* [Julia 1.0](https://www.youtube.com/watch?v=5gXMpbY1kJY) [00:29:46] by **Stefan Karpinski**
+* [The Two Cultures of Programming](https://www.youtube.com/watch?v=C3iR_PknlFc) [00:29:40] by **Joshua Ballanco**
+* [Machine Code](https://www.youtube.com/watch?v=ErGi9sNgUjw) [00:38:11] by **Jameson Nash**
+* [Introduction to Writing High Performance Julia (Workshop)](https://www.youtube.com/watch?v=szE4txAD8mk) [02:48:30] by **Arch D. Robison**
 
 ####Lisp
 * [Lisp](https://www.youtube.com/watch?v=FRaNUsiD_BA) [00:56:00] by **Igor Wiedler**
@@ -324,6 +333,10 @@ mind you).
 * [Keynote at PyCon Brasil 2015](https://www.youtube.com/watch?v=lYe8W04ERnY) [00:56:29] by **David Beazley** (about asyncio)
 * [Python and Johnny Cash](https://www.youtube.com/watch?v=L3j2qw9XZCc) [00:43:15] by **James Powell**
 * [Side Effects are a Public API](https://www.youtube.com/watch?v=D37dc9EoFus) [00:38:26] by **Christopher Armstrong**
+* [Removing Python's GIL: The Gilectomy](https://www.youtube.com/watch?v=P3AyI_u66Bw) [00:32:06] by **Larry Hastings**
+* [Finding closures with closures](https://www.youtube.com/watch?v=E9wS6LdXM8Y) [00:31:05] by **Thomas Ballinger**
+* [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA) [00:40:44] by **Jake Vanderplas**
+* [Machete-mode debugging: Hacking your way out of a tight spot](https://www.youtube.com/watch?v=bAcfPzxB3dk) [00:35:13] by **Ned Batchelder**
 
 ####Racket
 * [Generic Collections: One Interface to Rule Them All](https://www.youtube.com/watch?v=JUD_JwG0alg) [00:18:26] by **Alexis King**
@@ -341,6 +354,8 @@ mind you).
 * [Fun with the Lambda Calculus](https://www.youtube.com/watch?v=QPqoFCHpLF4) [00:48:48] by **Corey Haines**
 * [How Are Method Calls Formed?](https://www.youtube.com/watch?v=6Dkjus07d9Y) [00:52:16] by **Aaron Patterson**
 * [Inside Ruby's VM: The TMI Edition](https://www.youtube.com/watch?v=CT8JSJkymZM) [00:39:10] by **Aaron Patterson**
+* [Softly, softly typing](https://www.youtube.com/watch?v=XGLYHQ1BLfM) [00:44:33] by **John Cinnamond**
+* [How to Performance](https://www.youtube.com/watch?v=obyrJ_aJU6A) [00:30:03] by **Eileen Uchitelle**
 
 ####Rust
 * [In Rust We Trust](https://www.youtube.com/watch?v=-dxqbhLIgdM) [00:45:01] by **Alex Burkhardt**
@@ -359,6 +374,10 @@ mind you).
 * [Minimizing the Slippery Surface of Failure](https://www.youtube.com/watch?v=26UHdZUsKkE) [00:59:26] by **Jon Pretty**
 * [Simplifying Scala Collections](https://www.youtube.com/watch?v=UBjzbkhvYTU) [00:46:52] by **Bill Venners**
 * [Lawful Asynchronous Programming](https://www.youtube.com/watch?v=B0L91sW3XHw) [01:04:31] by **Daniel Spiewak**
+
+####Scheme
+* [miniKanren](https://www.youtube.com/watch?v=5Q9x16uIsKA) [00:46:23] by **Dan Friedman & William Byrd**
+* [Dan Friedman - Cool Ideas](https://www.youtube.com/watch?v=IHP7P_HlcBk) [00:57:00]] by **Guy Steele**
 
 ####Swift
 * [Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=TlvLGTXn_gk) [00:41:19] by **J.P. Simard**
@@ -446,6 +465,7 @@ mind you).
 * [The Java Virtual Machine is Over - The Polyglot VM is here](https://www.youtube.com/watch?v=OKJgMwTLmEY) [00:51:02] by **Marcus Lagergren**
 * [Instaparse](https://www.youtube.com/watch?v=b2AUW6psVcE) [00:38:38] by **Mark Engelberg**
 * [Hello Om Next!](https://www.youtube.com/watch?v=xz389Ek2eS8) [01:20:25] by **David Nolen**
+* [Understanding Compiler Optimizations](https://www.youtube.com/watch?v=FnGCDLhaxKU) [01:50:14] by **Chandler Carruth**
 
 ####Programming Language Design
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) [00:43:46] by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it)
