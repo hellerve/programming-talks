@@ -133,6 +133,10 @@ mind you).
 * [Design Patterns in Modern C++](https://www.youtube.com/watch?v=sJnoIF4_Ug8) [01:07:04] by **Dmitri Nesteruk**
 * [STL Algorithms - How To Use Them and How to Write Your Own](https://www.youtube.com/watch?v=3nXLxMYXgWs) [01:30:36] by **Marshall Clow**
 
+####Crystal
+* [Introducing the Crystal Programming Language](https://www.youtube.com/watch?v=5QjvGuL4Opo) [00:29:53] by **Will Leinweber**
+* [Writing CLI applications in Crystal](https://www.youtube.com/watch?v=Tpw1vcxw290) [00:26:20] by **Mark Ranallo**
+
 ####CSS
 *(yeah, I know, stylesheets are not traditionally programming)*
 * [CSS Levels Up](https://www.youtube.com/watch?v=UpVj5azI-iI) [00:31:39] by **Angelina Fabbro**
