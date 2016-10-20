@@ -280,6 +280,10 @@ mind you).
 ####OCaml
 * [Caml Trading](https://www.youtube.com/watch?v=hKcOkWzj0_s) [01:12:43] by **Yaron Minsky**
 
+####Prolog
+* [Production Prolog](https://www.youtube.com/watch?v=G_eYTctGZw8) [00:39:57] by **Michael Hendricks**
+* [A Taste of Prolog](https://www.youtube.com/watch?v=hEOVcLAPRG8) [00:33:48] by **Aja Hammerly**
+
 ####PureScript
 * [PureScript (Maybe This Time We Get JavaScript Right)](https://www.youtube.com/watch?v=yIlDBPiMb0o) [00:44:31] by **Bodil Stokke**
 
