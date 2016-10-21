@@ -45,6 +45,8 @@ of his talks are also very beginner-friendly.
 and his way of talking is *just enjoyable* - you might think that is secondary, but it is really
 important. His talk on Tolkien is one of the most enjoyable diversions on this list (and a bit off-topic,
 mind you).
+* **Aaron Patterson** (Ruby): Probably the most entertaining speaker on the list. As a core
+developer of both Ruby and Rails, he works close to the heart of the Ruby community.
 
 ###On Programming Languages
 
@@ -365,6 +367,7 @@ mind you).
 * [Softly, softly typing](https://www.youtube.com/watch?v=XGLYHQ1BLfM) [00:44:33] by **John Cinnamond**
 * [How to Performance](https://www.youtube.com/watch?v=obyrJ_aJU6A) [00:30:03] by **Eileen Uchitelle**
 * [MiniTest: Write Awesome Tests](https://www.youtube.com/watch?v=6hBghQ-Ic_o) [00:32:27] by **Michael J.I. Jackson**
+* [Speed up Rails, Speed up Your Code](https://www.youtube.com/watch?v=NKs1PjkheQY) [00:41:04] by **Aaron Patterson**
 
 ####Rust
 * [In Rust We Trust](https://www.youtube.com/watch?v=-dxqbhLIgdM) [00:45:01] by **Alex Burkhardt**
