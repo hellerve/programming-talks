@@ -565,6 +565,7 @@ mind you).
 * [The Power Of UNIX](https://www.youtube.com/watch?v=7uwW20odwEk) [00:30:03] by **Dan North**
 * [Speed & Scale: How to get there](https://www.youtube.com/watch?v=BeNrVl2_nyI) [01:04:51] by **Adrian Cockcroft**
 * [Runtime scheduling: theory and reality](https://www.youtube.com/watch?v=8g9fG7cApbc) [00:42:11] by **Eben Freeman**
+* [Kill "Microservices" before its too late](https://www.youtube.com/watch?v=-UKEPd2ipEk) [00:39:41] by **Chad Fowler**
 
 ####Distributed Programming
 * [Distributed Systems 101](https://www.youtube.com/watch?v=YAFGQurdJ3U) [00:45:25] by **lvh**
