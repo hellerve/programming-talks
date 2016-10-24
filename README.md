@@ -368,6 +368,8 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [How to Performance](https://www.youtube.com/watch?v=obyrJ_aJU6A) [00:30:03] by **Eileen Uchitelle**
 * [MiniTest: Write Awesome Tests](https://www.youtube.com/watch?v=6hBghQ-Ic_o) [00:32:27] by **Michael J.I. Jackson**
 * [Speed up Rails, Speed up Your Code](https://www.youtube.com/watch?v=NKs1PjkheQY) [00:41:04] by **Aaron Patterson**
+* [Refactoring Ruby with Monads](https://www.youtube.com/watch?v=J1jYlPtkrqQ) [00:30:04] by **Tom Stuart**
+* [That's Not Very Ruby of You](https://www.youtube.com/watch?v=OB-xFC8AN_s) [00:36:57] by **Ernie Miller**
 
 ####Rust
 * [In Rust We Trust](https://www.youtube.com/watch?v=-dxqbhLIgdM) [00:45:01] by **Alex Burkhardt**
