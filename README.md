@@ -549,6 +549,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 ####UX/UI
 * [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) [00:51:20] by **Janne Jul Jensen**
 * [We Will All Be Game Programmers](https://www.youtube.com/watch?v=avwDj3KRuLc) [00:29:34] by **Hunter Loftis**
+* [Practical UI physics](https://www.youtube.com/watch?v=90oMnMFozEE) [00:34:12] by **David DeSandro**
 
 ####Web Development
 * [Go To There and Back Again](http://vimeo.com/78893726) [00:49:06] by **Douglas Crockford** 
