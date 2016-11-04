@@ -190,6 +190,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Communicating Sequential Processes](https://www.youtube.com/watch?v=3gXWA6WEvOM) [00:43:21] by **Eric Shull**
 * [Stupid Gopher Tricks](https://www.youtube.com/watch?v=UECh7X07m6E) [00:53:10] by **Andrew Gerrand**
 * [Golang: The good, the bad, & the ugly](https://www.youtube.com/watch?v=cMYhGNofHA4) [00:48:31] by **Vincent Batts**
+* [gRPC: Google's high-performance, open-source RPC framework](https://www.youtube.com/watch?v=sZx3oZt7LVg) [00:29:22] by **Sameer Ajmani**
 
 ####Haskell
 * [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) [00:26:11] by **Andrew Rademacher** (for Beginners)
