@@ -348,6 +348,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Finding closures with closures](https://www.youtube.com/watch?v=E9wS6LdXM8Y) [00:31:05] by **Thomas Ballinger**
 * [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA) [00:40:44] by **Jake Vanderplas**
 * [Machete-mode debugging: Hacking your way out of a tight spot](https://www.youtube.com/watch?v=bAcfPzxB3dk) [00:35:13] by **Ned Batchelder**
+* [Builtin Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s) [00:42:13] by **David Beazley**
 
 ####Racket
 * [Generic Collections: One Interface to Rule Them All](https://www.youtube.com/watch?v=JUD_JwG0alg) [00:18:26] by **Alexis King**
@@ -490,6 +491,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Instaparse](https://www.youtube.com/watch?v=b2AUW6psVcE) [00:38:38] by **Mark Engelberg**
 * [Hello Om Next!](https://www.youtube.com/watch?v=xz389Ek2eS8) [01:20:25] by **David Nolen**
 * [Understanding Compiler Optimizations](https://www.youtube.com/watch?v=FnGCDLhaxKU) [01:50:14] by **Chandler Carruth**
+* [So you want to write an interpreter?](https://www.youtube.com/watch?v=LCslqgM48D4) [00:40:38] by **Alex Gaynor**
 
 ####Programming Language Design
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) [00:43:46] by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it)
