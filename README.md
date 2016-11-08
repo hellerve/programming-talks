@@ -492,6 +492,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Hello Om Next!](https://www.youtube.com/watch?v=xz389Ek2eS8) [01:20:25] by **David Nolen**
 * [Understanding Compiler Optimizations](https://www.youtube.com/watch?v=FnGCDLhaxKU) [01:50:14] by **Chandler Carruth**
 * [So you want to write an interpreter?](https://www.youtube.com/watch?v=LCslqgM48D4) [00:40:38] by **Alex Gaynor**
+* [Let's Write an Interpreter](https://www.youtube.com/watch?v=RPxvx9OkNic) [00:28:34] by **Ryan Davis**
 
 ####Programming Language Design
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) [00:43:46] by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it)
@@ -612,6 +613,9 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Demistifying SNMP](https://www.youtube.com/watch?v=SQlz_Zd6enU) [00:49:19] by **Douglas Mauro**
 * [Your infrastructure is not a unique snowflake, and that's ok!](https://www.youtube.com/watch?v=x-zwxuIb1lY) [00:37:39] by **Jeremy Edberg**
 * [I got 10 trillion problems, but logging ain't one](https://www.youtube.com/watch?v=LA-gNoxSLCE) [00:25:17] by **John Graham-Cumming**
+
+####Hardware
+* [Let's Build a Computer!](https://www.youtube.com/watch?v=uZsiMG7N_B8) [00:29:03] by **Ryan Davis**
 
 ####Mathematics
 *Those are not necessarily programming-related and possibly very advanced mathematics.*
