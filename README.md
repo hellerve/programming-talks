@@ -468,6 +468,8 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Apparatus: A Hybrid Graphics Editor / Programming Environment](https://www.youtube.com/watch?v=i3Xack9ufYk) [00:37:56] by **Toby Schachman**
 * [Microservices @ Spotify](https://www.youtube.com/watch?v=7LGPeBgNFuU) [00:49:07] by **Kevin Goldsmith**
 * [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) [00:50:17] by **Martin Thompson**
+* [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) [00:38:46] by **Sandi Metz**
+* [Get a Whiff of This](https://www.youtube.com/watch?v=PJjHfa5yxlU) [00:38:14] by **Sandi Metz**
 
 ####Debugging
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway**
