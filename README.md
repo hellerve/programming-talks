@@ -530,6 +530,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [The Impedance Mismatch is Our Fault](http://www.infoq.com/presentations/Impedance-Mismatch) [00:58:31] by **Stuart D. Halloway**
 * [Sharding and Scaling Your Database](https://www.youtube.com/watch?v=p3ytSdUQZzA) [00:42:53] by **Neha Narula**
 * [An Ode to 17 Databases in 33 Minutes](https://www.youtube.com/watch?v=lzwAJxIESNU) [00:38:12] by **Toby Hede**
+* [Jepsen II: Linearizable Boogaloo](https://www.youtube.com/watch?v=QdkS6ZjeR7Q) [00:44:46] by **Kyle Kingsbury**
 
 ####Functional Programming
 * [Functional Principles for Object Oriented Development](http://www.youtube.com/watch?v=pMGY9ViIGNU) [00:51:13] by **Jessica Kerr** 
