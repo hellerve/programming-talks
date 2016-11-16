@@ -523,6 +523,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 ####Data Structures & Algorithms
 * [Hash Functions and You: Partners in Freedom](https://www.youtube.com/watch?v=IGwNQfjLTp0) [00:27:06] by **Curtis Lassam**
 * [An Overview of Probabilistic Programming](https://www.youtube.com/watch?v=-8QMqSWU76Q) [01:02:54] by **Vikash K. Mansinghka** (I am unsure where to put this)
+* [Visualizing Persistent Data Structures](https://www.youtube.com/watch?v=2XH_q494U3U) [00:37:24] by **Dann Toliver**
 
 ####Databases
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) [00:54:52] by **Martin Fowler**
