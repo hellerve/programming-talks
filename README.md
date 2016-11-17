@@ -269,6 +269,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [ECMAScript 6 & Web Components](https://www.youtube.com/watch?v=2w4sRkTnhPM) [00:36:11] by **Brian LeRoux**
 * [Improving Your Workflow With Code Transformation](https://www.youtube.com/watch?v=OFuDvqZmUrE) [00:30:18] by **Sebastian McKenzie**
 * [Immutable Data and Rect](https://www.youtube.com/watch?v=I7IdS-PbEgI) [00:31:10] by **Lee Byron**
+* [The first ever presentation on Node.js](https://www.youtube.com/watch?v=ztspvPYybIY) [00:48:31] by **Ryan Dahl**
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) [00:26:19] by **Dwight J. Browne**
