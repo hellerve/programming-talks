@@ -380,6 +380,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [The History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY) [00:58:41] by **Steve Klabnik**
 * [Back to the Futures](https://www.youtube.com/watch?v=bcrzfivXpc4) [00:29:53] by **Alex Crichton**
 * [Rust: Safe and Scalable Systems Programming](https://www.youtube.com/watch?v=GbWECt0M3CI) [01:00:09] by **Alex Crichton**
+* [Using Generics Effectively](https://www.youtube.com/watch?v=erJdCIti_O8) [00:23:42] by **Without Boats**
 
 ####Scala
 * [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA) [00:31:22] by **Dan Rosen**
