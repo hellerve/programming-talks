@@ -190,6 +190,8 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Communicating Sequential Processes](https://www.youtube.com/watch?v=3gXWA6WEvOM) [00:43:21] by **Eric Shull**
 * [Stupid Gopher Tricks](https://www.youtube.com/watch?v=UECh7X07m6E) [00:53:10] by **Andrew Gerrand**
 * [Golang: The good, the bad, & the ugly](https://www.youtube.com/watch?v=cMYhGNofHA4) [00:48:31] by **Vincent Batts**
+* [gRPC: Google's high-performance, open-source RPC framework](https://www.youtube.com/watch?v=sZx3oZt7LVg) [00:29:22] by **Sameer Ajmani**
+* [The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA) [00:23:56] by **Rob Pike**
 
 ####Haskell
 * [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) [00:26:11] by **Andrew Rademacher** (for Beginners)
@@ -267,6 +269,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [ECMAScript 6 & Web Components](https://www.youtube.com/watch?v=2w4sRkTnhPM) [00:36:11] by **Brian LeRoux**
 * [Improving Your Workflow With Code Transformation](https://www.youtube.com/watch?v=OFuDvqZmUrE) [00:30:18] by **Sebastian McKenzie**
 * [Immutable Data and Rect](https://www.youtube.com/watch?v=I7IdS-PbEgI) [00:31:10] by **Lee Byron**
+* [The first ever presentation on Node.js](https://www.youtube.com/watch?v=ztspvPYybIY) [00:48:31] by **Ryan Dahl**
 
 ####Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) [00:26:19] by **Dwight J. Browne**
@@ -347,6 +350,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Finding closures with closures](https://www.youtube.com/watch?v=E9wS6LdXM8Y) [00:31:05] by **Thomas Ballinger**
 * [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA) [00:40:44] by **Jake Vanderplas**
 * [Machete-mode debugging: Hacking your way out of a tight spot](https://www.youtube.com/watch?v=bAcfPzxB3dk) [00:35:13] by **Ned Batchelder**
+* [Builtin Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s) [00:42:13] by **David Beazley**
 
 ####Racket
 * [Generic Collections: One Interface to Rule Them All](https://www.youtube.com/watch?v=JUD_JwG0alg) [00:18:26] by **Alexis King**
@@ -371,6 +375,11 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Refactoring Ruby with Monads](https://www.youtube.com/watch?v=J1jYlPtkrqQ) [00:30:04] by **Tom Stuart**
 * [That's Not Very Ruby of You](https://www.youtube.com/watch?v=OB-xFC8AN_s) [00:36:57] by **Ernie Miller**
 * [Ruby, threads, events ... and Flying Robots!](https://www.youtube.com/watch?v=YidL5j10jiU) [01:12:54] by **Jim Weirich**
+* [A Rubyist in Clojure-land](https://www.youtube.com/watch?v=PbeCeM344z8) [00:37:50] by **David Chelimsky**
+* [You Gotta Try This](https://www.youtube.com/watch?v=ZhINjILA5yw) [00:45:12] by **Avdi Grimm**
+* [REPL driven development with Pry](https://www.youtube.com/watch?v=D9j_Mf91M0I) [00:39:26] by **Conrad Irwin**
+* [Pry - The Good Parts!](https://www.youtube.com/watch?v=jDXsEzOHb2M) [00:33:33] by **Conrad Irwin**
+* [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE) [00:35:52] by **Sandi Metz**
 
 ####Rust
 * [In Rust We Trust](https://www.youtube.com/watch?v=-dxqbhLIgdM) [00:45:01] by **Alex Burkhardt**
@@ -380,6 +389,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [The History of Rust](https://www.youtube.com/watch?v=79PSagCD_AY) [00:58:41] by **Steve Klabnik**
 * [Back to the Futures](https://www.youtube.com/watch?v=bcrzfivXpc4) [00:29:53] by **Alex Crichton**
 * [Rust: Safe and Scalable Systems Programming](https://www.youtube.com/watch?v=GbWECt0M3CI) [01:00:09] by **Alex Crichton**
+* [Cap'n Proto and Rust: Type Systems for Sharing](https://www.youtube.com/watch?v=A65w-qoyTYg) [00:40:47] by **David Renshaw**
 * [Using Generics Effectively](https://www.youtube.com/watch?v=erJdCIti_O8) [00:23:42] by **Without Boats**
 
 ####Scala
@@ -392,10 +402,11 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Minimizing the Slippery Surface of Failure](https://www.youtube.com/watch?v=26UHdZUsKkE) [00:59:26] by **Jon Pretty**
 * [Simplifying Scala Collections](https://www.youtube.com/watch?v=UBjzbkhvYTU) [00:46:52] by **Bill Venners**
 * [Lawful Asynchronous Programming](https://www.youtube.com/watch?v=B0L91sW3XHw) [01:04:31] by **Daniel Spiewak**
+* [How types can turn a SQL interpreter into a SQL compiler](https://www.youtube.com/watch?v=NTAJNYcsAEE) [00:40:31] by **Tiark Rompf**
 
 ####Scheme
 * [miniKanren](https://www.youtube.com/watch?v=5Q9x16uIsKA) [00:46:23] by **Dan Friedman & William Byrd**
-* [Dan Friedman - Cool Ideas](https://www.youtube.com/watch?v=IHP7P_HlcBk) [00:57:00]] by **Guy Steele**
+* [Dan Friedman - Cool Ideas](https://www.youtube.com/watch?v=IHP7P_HlcBk) [00:57:00] by **Guy Steele**
 
 ####Swift
 * [Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=TlvLGTXn_gk) [00:41:19] by **J.P. Simard**
@@ -425,6 +436,8 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [How to become a Data Scientist in 6 months - A hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc) [00:56:24] by **Tetiana Ivanova**
 * [Software, Faster](https://www.youtube.com/watch?v=USc-yLHXNUg) [00:54:19] by **Dan North**
 * [It's Simple](https://www.youtube.com/watch?v=a8Re9Cvv6nU) [00:37:35] by **Adrian Cockcroft**
+* [Common pitfalls of junior developers](https://www.youtube.com/watch?v=tYOx8mA5p2c) [00:09:37] by **Rachel Warbelow**
+* [You are Not an Impostor](https://www.youtube.com/watch?v=l_Vqp1dPuPo) [00:33:02] by **Nickolas Means**
 
 ####Thoughts on Languages
 * [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) [01:07:03] by **Scott Meyers**
@@ -461,6 +474,8 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Apparatus: A Hybrid Graphics Editor / Programming Environment](https://www.youtube.com/watch?v=i3Xack9ufYk) [00:37:56] by **Toby Schachman**
 * [Microservices @ Spotify](https://www.youtube.com/watch?v=7LGPeBgNFuU) [00:49:07] by **Kevin Goldsmith**
 * [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) [00:50:17] by **Martin Thompson**
+* [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) [00:38:46] by **Sandi Metz**
+* [Get a Whiff of This](https://www.youtube.com/watch?v=PJjHfa5yxlU) [00:38:14] by **Sandi Metz**
 
 ####Debugging
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway**
@@ -484,6 +499,8 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Instaparse](https://www.youtube.com/watch?v=b2AUW6psVcE) [00:38:38] by **Mark Engelberg**
 * [Hello Om Next!](https://www.youtube.com/watch?v=xz389Ek2eS8) [01:20:25] by **David Nolen**
 * [Understanding Compiler Optimizations](https://www.youtube.com/watch?v=FnGCDLhaxKU) [01:50:14] by **Chandler Carruth**
+* [So you want to write an interpreter?](https://www.youtube.com/watch?v=LCslqgM48D4) [00:40:38] by **Alex Gaynor**
+* [Let's Write an Interpreter](https://www.youtube.com/watch?v=RPxvx9OkNic) [00:28:34] by **Ryan Davis**
 
 ####Programming Language Design
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) [00:43:46] by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it)
@@ -508,6 +525,9 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 ####Data Structures & Algorithms
 * [Hash Functions and You: Partners in Freedom](https://www.youtube.com/watch?v=IGwNQfjLTp0) [00:27:06] by **Curtis Lassam**
 * [An Overview of Probabilistic Programming](https://www.youtube.com/watch?v=-8QMqSWU76Q) [01:02:54] by **Vikash K. Mansinghka** (I am unsure where to put this)
+* [Visualizing Persistent Data Structures](https://www.youtube.com/watch?v=2XH_q494U3U) [00:37:24] by **Dann Toliver**
+* [Persistent Data Structures for Special Occasions](https://www.youtube.com/watch?v=Z_iLjL0mc4I) [00:44:44] by **Michał Marczyk**
+* [Practical Fractals in Space](https://www.youtube.com/watch?v=uEBzS9tpmTo) [00:38:27] by **Michelle Brush**
 
 ####Databases
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) [00:54:52] by **Martin Fowler**
@@ -515,6 +535,9 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Postgres Performance for Humans](https://www.youtube.com/watch?v=MpH8W5hce9I) [00:33:49] by **Craig Kerstiens**
 * [The Impedance Mismatch is Our Fault](http://www.infoq.com/presentations/Impedance-Mismatch) [00:58:31] by **Stuart D. Halloway**
 * [Sharding and Scaling Your Database](https://www.youtube.com/watch?v=p3ytSdUQZzA) [00:42:53] by **Neha Narula**
+* [An Ode to 17 Databases in 33 Minutes](https://www.youtube.com/watch?v=lzwAJxIESNU) [00:38:12] by **Toby Hede**
+* [Jepsen II: Linearizable Boogaloo](https://www.youtube.com/watch?v=QdkS6ZjeR7Q) [00:44:46] by **Kyle Kingsbury**
+* [Cassandra and Go Doubleheader](https://www.youtube.com/watch?v=oEFqxi_n1vU) [00:58:23] by **Kyle Kingsbury & Al Tobey** (this video features two distinct talks)
 
 ####Functional Programming
 * [Functional Principles for Object Oriented Development](http://www.youtube.com/watch?v=pMGY9ViIGNU) [00:51:13] by **Jessica Kerr** 
@@ -545,6 +568,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 ####UX/UI
 * [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) [00:51:20] by **Janne Jul Jensen**
 * [We Will All Be Game Programmers](https://www.youtube.com/watch?v=avwDj3KRuLc) [00:29:34] by **Hunter Loftis**
+* [Practical UI physics](https://www.youtube.com/watch?v=90oMnMFozEE) [00:34:12] by **David DeSandro**
 
 ####Web Development
 * [Go To There and Back Again](http://vimeo.com/78893726) [00:49:06] by **Douglas Crockford** 
@@ -604,6 +628,9 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Your infrastructure is not a unique snowflake, and that's ok!](https://www.youtube.com/watch?v=x-zwxuIb1lY) [00:37:39] by **Jeremy Edberg**
 * [I got 10 trillion problems, but logging ain't one](https://www.youtube.com/watch?v=LA-gNoxSLCE) [00:25:17] by **John Graham-Cumming**
 
+####Hardware
+* [Let's Build a Computer!](https://www.youtube.com/watch?v=uZsiMG7N_B8) [00:29:03] by **Ryan Davis**
+
 ####Mathematics
 *Those are not necessarily programming-related and possibly very advanced mathematics.*
 * [Category Theory](https://www.youtube.com/watch?v=o6L6XeNdd_k) [01:36:54] by **Tom LaGatta**
@@ -616,6 +643,8 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Clojure: Programming with Hand Tools](https://www.youtube.com/watch?v=ShEez0JkOFw) [00:58:38] by **Tim Ewald**
 * [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) [00:52:43] by **Russ Olsen**
 * [States and Nomads: Handling Software Complexity](https://www.youtube.com/watch?v=yP2ApYFtLu0) [00:23:31] by **Zach Tellman**
+* [Software Development Lessons from the Apollo Program](https://www.youtube.com/watch?v=hrsT9wmPVoo) [00:29:59] by **Julian Simioni**
+* [Madam Sandi Tells Your Future](https://www.youtube.com/watch?v=JOM5_V5jLAs) [00:38:13] by **Sandi Metz**
 
 ## Contributing
 
