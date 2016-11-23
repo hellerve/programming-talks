@@ -391,6 +391,9 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Back to the Futures](https://www.youtube.com/watch?v=bcrzfivXpc4) [00:29:53] by **Alex Crichton**
 * [Rust: Safe and Scalable Systems Programming](https://www.youtube.com/watch?v=GbWECt0M3CI) [01:00:09] by **Alex Crichton**
 * [Cap'n Proto and Rust: Type Systems for Sharing](https://www.youtube.com/watch?v=A65w-qoyTYg) [00:40:47] by **David Renshaw**
+* [Using Generics Effectively](https://www.youtube.com/watch?v=erJdCIti_O8) [00:23:42] by **Without Boats**
+* [The /r/playrust Classifier](https://www.youtube.com/watch?v=lY10kTcM8ek) [00:30:34] by **Suchin Gururangan & Colin O'Brien**
+* [RFC: In Order to Form a More Perfect \`union\`](https://www.youtube.com/watch?v=U8Gl3RTXf88) [00:28:21] by **Josh Triplet**
 
 ####Scala
 * [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA) [00:31:22] by **Dan Rosen**
