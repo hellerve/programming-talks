@@ -381,6 +381,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Pry - The Good Parts!](https://www.youtube.com/watch?v=jDXsEzOHb2M) [00:33:33] by **Conrad Irwin**
 * [Nothing is Something](https://www.youtube.com/watch?v=OMPfEXIlTVE) [00:35:52] by **Sandi Metz**
 * [Composition](https://www.youtube.com/watch?v=zwo7ZTHS8Wg) [00:47:55] by **James Dabbs**
+* [ Halve Your Memory Usage With These 12 Weird Tricks](https://www.youtube.com/watch?v=kZcqyuPeDao) [00:45:30] by **Nate Berkopec**
 
 ####Rust
 * [In Rust We Trust](https://www.youtube.com/watch?v=-dxqbhLIgdM) [00:45:01] by **Alex Burkhardt**
