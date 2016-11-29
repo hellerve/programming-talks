@@ -104,6 +104,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [The Next Five Years of ClojureScript](https://www.youtube.com/watch?v=mty0RwkPmE8) [01:00:57] by **David Nolen**
 * [Bare Metal Clojure with clojure.spec](https://www.youtube.com/watch?v=yGko70hIEwk) [00:36:07] by **Michael Reitzenstein**
 * [Live-Coding Mathematics Your First Clojure Proof](https://www.youtube.com/watch?v=5YTCY7wm0Nw) [00:41:54] by **Frederic Peschanski**
+* [Condition Systems in an Exceptional Language](https://www.youtube.com/watch?v=zp0OEDcAro0) [00:33:31] by **Chris Houser**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
