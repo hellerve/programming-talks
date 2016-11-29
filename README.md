@@ -102,6 +102,8 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Predicate Dispatch](https://www.youtube.com/watch?v=iCl9rB1tyxo) [00:28:58] by **David Nolen**
 * [Jelly stains. Thoughts on JavaScript, LISP & Play ](https://www.youtube.com/watch?v=AnzMEdC2FDk) [00:19:12] by **David Nolen**
 * [The Next Five Years of ClojureScript](https://www.youtube.com/watch?v=mty0RwkPmE8) [01:00:57] by **David Nolen**
+* [Bare Metal Clojure with clojure.spec](https://www.youtube.com/watch?v=yGko70hIEwk) [00:36:07] by **Michael Reitzenstein**
+* [Live-Coding Mathematics Your First Clojure Proof](https://www.youtube.com/watch?v=5YTCY7wm0Nw) [00:41:54] by **Frederic Peschanski**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
