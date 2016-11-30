@@ -105,6 +105,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Bare Metal Clojure with clojure.spec](https://www.youtube.com/watch?v=yGko70hIEwk) [00:36:07] by **Michael Reitzenstein**
 * [Live-Coding Mathematics Your First Clojure Proof](https://www.youtube.com/watch?v=5YTCY7wm0Nw) [00:41:54] by **Frederic Peschanski**
 * [Condition Systems in an Exceptional Language](https://www.youtube.com/watch?v=zp0OEDcAro0) [00:33:31] by **Chris Houser**
+* [Bottom Up vs Top Down Design in Clojure](https://www.youtube.com/watch?v=Tb823aqgX_0) [00:36:41] by **Mark Bastian**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
