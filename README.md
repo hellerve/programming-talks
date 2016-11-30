@@ -547,7 +547,8 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Sharding and Scaling Your Database](https://www.youtube.com/watch?v=p3ytSdUQZzA) [00:42:53] by **Neha Narula**
 * [An Ode to 17 Databases in 33 Minutes](https://www.youtube.com/watch?v=lzwAJxIESNU) [00:38:12] by **Toby Hede**
 * [Jepsen II: Linearizable Boogaloo](https://www.youtube.com/watch?v=QdkS6ZjeR7Q) [00:44:46] by **Kyle Kingsbury**
-* [Cassandra and Go Doubleheader](https://www.youtube.com/watch?v=oEFqxi_n1vU) [00:58:23] by **Kyle Kingsbury & Al Tobey** (this video features two distinct talks)
+* [Cassandra and Go Doubleheader](https://www.youtube.com/watch?v=oEFqxi_n1vU) [00:58:23] by **Kyle Kingsbury & Al Tobey** (this video features two distinct talks, only the first one deals with databases)
+* [Consistency without consensus in production systems](https://www.youtube.com/watch?v=em9zLzM8O7c) [00:41:09] by **Peter Bourgon**]
 
 ####Functional Programming
 * [Functional Principles for Object Oriented Development](http://www.youtube.com/watch?v=pMGY9ViIGNU) [00:51:13] by **Jessica Kerr** 
