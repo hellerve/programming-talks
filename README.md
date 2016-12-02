@@ -108,6 +108,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Bottom Up vs Top Down Design in Clojure](https://www.youtube.com/watch?v=Tb823aqgX_0) [00:36:41] by **Mark Bastian**
 * [Clojure, Made Simple](https://www.youtube.com/watch?v=VSdnJDO-xdg) [01:00:43] by **Rich Hickey**
 * [Spec-ulation](https://www.youtube.com/watch?v=oyLBGkS5ICk) [01:16:23] by **Rich Hickey**
+* [Proto REPL, a New Clojure Development and Visualization Tool](https://www.youtube.com/watch?v=buPPGxOnBnk) [00:30:10] by **Jason Gilman**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
