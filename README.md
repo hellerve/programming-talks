@@ -110,6 +110,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Spec-ulation](https://www.youtube.com/watch?v=oyLBGkS5ICk) [01:16:23] by **Rich Hickey**
 * [Proto REPL, a New Clojure Development and Visualization Tool](https://www.youtube.com/watch?v=buPPGxOnBnk) [00:30:10] by **Jason Gilman**
 * [Using Clojure with C APIs for crypto and more](https://www.youtube.com/watch?v=Lf-M1ZH6KME) [00:41:07] by **lvh**
+* [Clojure at DataStax: The Long Road From Python to Clojure](https://www.youtube.com/watch?v=wfrajaEyNX0) [00:29:28] by **Nick Bailey**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
