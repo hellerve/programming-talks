@@ -548,6 +548,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Visualizing Persistent Data Structures](https://www.youtube.com/watch?v=2XH_q494U3U) [00:37:24] by **Dann Toliver**
 * [Persistent Data Structures for Special Occasions](https://www.youtube.com/watch?v=Z_iLjL0mc4I) [00:44:44] by **Michał Marczyk**
 * [Practical Fractals in Space](https://www.youtube.com/watch?v=uEBzS9tpmTo) [00:38:27] by **Michelle Brush**
+* [Exotic Functional Data Structures: Hitchhiker Trees](https://www.youtube.com/watch?v=jdn617M3-P4) [00:40:32] by **David Greenberg**
 
 ####Databases
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) [00:54:52] by **Martin Fowler**
