@@ -538,6 +538,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Make Your Own Programming Language!](https://www.youtube.com/watch?v=DE18fHyZ0GI) [00:26:07] by **Nick Heiner**
 * [Everything old is new again: Quoted Domain-Specific Languages](https://www.youtube.com/watch?v=FiflFiZ6pPI) [00:39:06] by **Philip Wadler**
 * [I See What You Mean](https://www.youtube.com/watch?v=R2Aa4PivG0g) [00:52:28] by **Peter Alvaro**
+* [Sketch-n-Sketch: Interactive SVG Programming with Direct Manipulation](https://www.youtube.com/watch?v=YuGVC8VqXz0) [00:40:17] by **Ravi Chugh**
 
 ####Data Science
 * [Data as Software as Data](https://www.youtube.com/watch?v=LOMk8TD6l5k) [00:40:27] by **Andrea Burbank**
