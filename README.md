@@ -47,6 +47,10 @@ important. His talk on Tolkien is one of the most enjoyable diversions on this l
 mind you).
 * **Aaron Patterson** (Ruby): Probably the most entertaining speaker on the list. As a core
 developer of both Ruby and Rails, he works close to the heart of the Ruby community.
+* **Philip Wadler** (Haskell, Theory, ...): Incredibly knowledgeable gentleman. If you use generics
+in Java, you owe that to him. If you use Haskell and/or monads, you probably already know him,
+but in case you do not, try to change that fact. He makes theoretical computer science more
+approachable than it actually is, and that is a good thing.
 
 ###On Programming Languages
 
@@ -645,6 +649,7 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 * [Turing and the Riemann zeta function](https://www.youtube.com/watch?v=pQS7X_8iTCA) [01:06:54] by **Andrew Odlyzko**
 * [Lambda Calculus Then and Now](https://www.youtube.com/watch?v=SphBW9ILVPU) [00:30:08] by **Dana S. Scott**
 * [Papers We Love: An Axiomatic Basis for Computer Programming](https://www.youtube.com/watch?v=GQi-6-d5ooQ) [01:04:32] by **Jean Yang**
+* [Category Theory for the Working Hacker](https://www.youtube.com/watch?v=V10hzjgoklA) [00:50:51] by **Philip Wadler**
 
 ####DevOps
 * [Chef Style DevOps Kungfu](https://www.youtube.com/watch?v=_DEToXsgrPc) [01:16:08] by **Adam Jacob**
