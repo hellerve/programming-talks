@@ -581,6 +581,7 @@ approachable than it actually is, and that is a good thing.
 * [The Functional Final Frontier](https://www.youtube.com/watch?v=DMtwq3QtddY) [00:27:02] by **David Nolen**
 * [Functional Programming Design Patterns](https://www.youtube.com/watch?v=E8I19uA-wGY) [01:05:43] by **Scott Wlaschin**
 * [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) [00:36:00] by **Carin Meier**
+* [Why Functional Programming Matters](https://www.youtube.com/watch?v=XrNdvWqxBvA) [00:56:09] by **John Hughes**
 
 ####Computer Graphics
 * [Principles of Lighting and Rendering](https://www.youtube.com/watch?v=IyUgHPs86XM) [01:31:00] by **John Carmack**
