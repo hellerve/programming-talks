@@ -662,6 +662,9 @@ approachable than it actually is, and that is a good thing.
 ####Hardware
 * [Let's Build a Computer!](https://www.youtube.com/watch?v=uZsiMG7N_B8) [00:29:03] by **Ryan Davis**
 
+####Research
+* [How to Give a Great Research Talk](https://www.youtube.com/watch?v=sT_-owjKIbA) [00:58:41] by **Simon Peyton Jones**
+
 ####Mathematics
 *Those are not necessarily programming-related and possibly very advanced mathematics.*
 * [Category Theory](https://www.youtube.com/watch?v=o6L6XeNdd_k) [01:36:54] by **Tom LaGatta**
