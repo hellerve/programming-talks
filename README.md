@@ -225,6 +225,7 @@ approachable than it actually is, and that is a good thing.
 
 ####Idris
 * [Type-Driven Development in Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ) [00:46:35] by **Edwin Brady**
+* [Dependently Typed Functional Programming in Idris 1 of 3](https://vimeo.com/117221082) [01:20:29] by **David Christiansen**
 
 ####Java & Android
 * [Java - The Good, Bad and Ugly Parts](https://www.youtube.com/watch?v=hcY8cYfAEwU) [00:14:34] by **Josh Bloch**
