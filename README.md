@@ -424,6 +424,7 @@ approachable than it actually is, and that is a good thing.
 * [Simplifying Scala Collections](https://www.youtube.com/watch?v=UBjzbkhvYTU) [00:46:52] by **Bill Venners**
 * [Lawful Asynchronous Programming](https://www.youtube.com/watch?v=B0L91sW3XHw) [01:04:31] by **Daniel Spiewak**
 * [How types can turn a SQL interpreter into a SQL compiler](https://www.youtube.com/watch?v=NTAJNYcsAEE) [00:40:31] by **Tiark Rompf**
+* [Evolving Functional Programming Languages](https://www.youtube.com/watch?v=sBXF8SG_XNw) [00:40:59] by **Erik Osheim**
 
 ####Scheme
 * [miniKanren](https://www.youtube.com/watch?v=5Q9x16uIsKA) [00:46:23] by **Dan Friedman & William Byrd**
