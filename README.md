@@ -647,6 +647,7 @@ approachable than it actually is, and that is a good thing.
 ####Logic Programming
 * [Challenges for Logic Programming](https://www.youtube.com/watch?v=y6WKr9j76kw) [00:40:45] by **Steve Miner**
 * [Constraint Logic Propagation Conflict Spreadsheets](https://www.youtube.com/watch?v=voG5-15aDu4) [00:33:50] by **William Taysom**
+* [Web Testing with Logic Programming](https://www.youtube.com/watch?v=ZW2Pl0bIN5U) [00:39:10] by **Daniel Gregoire**
 
 ####Machine Learning
 * [Neural Nets for Newbies](https://www.youtube.com/watch?v=g-BJSl4zV_g) [00:30:57] by **Melanie Warrick**
