@@ -207,6 +207,7 @@ approachable than it actually is, and that is a good thing.
 * [Golang: The good, the bad, & the ugly](https://www.youtube.com/watch?v=cMYhGNofHA4) [00:48:31] by **Vincent Batts**
 * [gRPC: Google's high-performance, open-source RPC framework](https://www.youtube.com/watch?v=sZx3oZt7LVg) [00:29:22] by **Sameer Ajmani**
 * [The Design of the Go Assembler](https://www.youtube.com/watch?v=KINIAgRpkDA) [00:23:56] by **Rob Pike**
+* [Go](https://www.youtube.com/watch?v=PTZqkyivnHk) [00:38:18] by **Rob Pike**
 
 ####Haskell
 * [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) [00:26:11] by **Andrew Rademacher** (for Beginners)
