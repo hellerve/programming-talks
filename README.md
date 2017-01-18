@@ -224,6 +224,7 @@ approachable than it actually is, and that is a good thing.
 * [Safe Zero-Cost Coercions for Haskell](https://www.youtube.com/watch?v=xFy_8n_HdI4) [00:26:01] by **Richard A. Eisenberg**
 * [How Haskell is Changing my Brain](https://vimeo.com/96639840) [00:48:32] by **Alissa Pajer**
 * [Point-Free or Die: Tacit Programming in Haskell and Beyond](https://www.youtube.com/watch?v=seVSlKazsNk) [00:36:12] by **Amar Shah**
+* [Data Parallel Haskell](https://www.youtube.com/watch?v=NWSZ4c9yqW8) [01:19:56] by **Simon Peyton Jones**
 
 ####Idris
 * [Type-Driven Development in Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ) [00:46:35] by **Edwin Brady**
