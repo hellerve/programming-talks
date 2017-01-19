@@ -195,6 +195,7 @@ approachable than it actually is, and that is a good thing.
 * [Chicago Boss: A Web Framework Built for Comfort (and Speed)](https://www.youtube.com/watch?v=LGGo6bIuj8w) [00:45:59] by **Evan Miller**
 * [Optimizing Native Code for Erlang](https://www.youtube.com/watch?v=57AkoJfojK8) [00:26:46] by **Steve Vinoski**
 * [Scaling Distributed Erlang](https://www.youtube.com/watch?v=usEs3GPnZDg) [00:47:23] by **Zandra Norman**
+* [Erlang and Deep Learning](https://www.youtube.com/watch?v=iMhBEVCgPdg) [00:47:15] by **Garrett Smith**
 
 ####Go
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) [00:51:27] by **Rob Pike**
