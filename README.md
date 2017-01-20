@@ -180,6 +180,7 @@ approachable than it actually is, and that is a good thing.
 * [Securing Elixir Applications](https://www.youtube.com/watch?v=r0DuAse9tK8) [00:42:52] by **Bram Verburg**
 * [Building Multiplayer Games with Phoenix and Phaser](https://www.youtube.com/watch?v=I5L9_cXwBcU) [00:34:47] by **Keith Salisbury**
 * [The Climb: Experiencing the Rise of Elixir from the Inside](https://www.youtube.com/watch?v=fklep3sUSWo) [00:43:22] by **Bruce Tate & Dave Thomas**
+* [Build Your Own Elxir](https://www.youtube.com/watch?v=IONWi9hayEA) [00:45:37] by **Louis Pilfold**
 
 ####Elm
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) [00:40:55] by **Evan Czaplicki**
