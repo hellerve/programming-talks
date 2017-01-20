@@ -477,6 +477,7 @@ approachable than it actually is, and that is a good thing.
 * [You are Not an Impostor](https://www.youtube.com/watch?v=l_Vqp1dPuPo) [00:33:02] by **Nickolas Means**
 * [“Am I Senior Yet?” Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [00:37:57] by **Katlyn Parvin**
 * [Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc) [01:07:26] by **Alan Kay**
+* [Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA) [01:03:35] by **Christopher Alexander**
 
 ####Thoughts on Languages
 * [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) [01:07:03] by **Scott Meyers**
