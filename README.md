@@ -117,6 +117,7 @@ approachable than it actually is, and that is a good thing.
 * [Clojure at DataStax: The Long Road From Python to Clojure](https://www.youtube.com/watch?v=wfrajaEyNX0) [00:29:28] by **Nick Bailey**
 * [Composing music with clojure.spec](https://www.youtube.com/watch?v=404UXttr8kw) [00:46:30] by **Wojciech Franke**
 * [Creating DSLs - A tale of spec tacular success and failure](https://www.youtube.com/watch?v=cO67QNn9hPY) [00:39:46] by **Claire Alvis**
+* [Clarifying Rules Engines with Clara Rules](https://www.youtube.com/watch?v=Q_k5MkZmd-o) [00:37:07] by **Mike Rodriguez**
 
 ####C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
@@ -178,6 +179,8 @@ approachable than it actually is, and that is a good thing.
 * [Enhanced Embedded Systems with Nerves](https://www.youtube.com/watch?v=118-g0ODfgg) [00:56:11] by **Justin Schneck**
 * [Securing Elixir Applications](https://www.youtube.com/watch?v=r0DuAse9tK8) [00:42:52] by **Bram Verburg**
 * [Building Multiplayer Games with Phoenix and Phaser](https://www.youtube.com/watch?v=I5L9_cXwBcU) [00:34:47] by **Keith Salisbury**
+* [The Climb: Experiencing the Rise of Elixir from the Inside](https://www.youtube.com/watch?v=fklep3sUSWo) [00:43:22] by **Bruce Tate & Dave Thomas**
+* [Build Your Own Elxir](https://www.youtube.com/watch?v=IONWi9hayEA) [00:45:37] by **Louis Pilfold**
 
 ####Elm
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) [00:40:55] by **Evan Czaplicki**
@@ -194,6 +197,8 @@ approachable than it actually is, and that is a good thing.
 * [Chicago Boss: A Web Framework Built for Comfort (and Speed)](https://www.youtube.com/watch?v=LGGo6bIuj8w) [00:45:59] by **Evan Miller**
 * [Optimizing Native Code for Erlang](https://www.youtube.com/watch?v=57AkoJfojK8) [00:26:46] by **Steve Vinoski**
 * [Scaling Distributed Erlang](https://www.youtube.com/watch?v=usEs3GPnZDg) [00:47:23] by **Zandra Norman**
+* [Erlang and Deep Learning](https://www.youtube.com/watch?v=iMhBEVCgPdg) [00:47:15] by **Garrett Smith**
+* [Pilgrim's Progress to the Promised Land](https://www.youtube.com/watch?v=84UI5mRXU7g) [00:52:24] by **Robert Virding**
 
 ####Go
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) [00:51:27] by **Rob Pike**
@@ -224,6 +229,7 @@ approachable than it actually is, and that is a good thing.
 * [Safe Zero-Cost Coercions for Haskell](https://www.youtube.com/watch?v=xFy_8n_HdI4) [00:26:01] by **Richard A. Eisenberg**
 * [How Haskell is Changing my Brain](https://vimeo.com/96639840) [00:48:32] by **Alissa Pajer**
 * [Point-Free or Die: Tacit Programming in Haskell and Beyond](https://www.youtube.com/watch?v=seVSlKazsNk) [00:36:12] by **Amar Shah**
+* [Data Parallel Haskell](https://www.youtube.com/watch?v=NWSZ4c9yqW8) [01:19:56] by **Simon Peyton Jones**
 
 ####Idris
 * [Type-Driven Development in Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ) [00:46:35] by **Edwin Brady**
@@ -473,6 +479,7 @@ approachable than it actually is, and that is a good thing.
 * [You are Not an Impostor](https://www.youtube.com/watch?v=l_Vqp1dPuPo) [00:33:02] by **Nickolas Means**
 * [“Am I Senior Yet?” Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [00:37:57] by **Katlyn Parvin**
 * [Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc) [01:07:26] by **Alan Kay**
+* [Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA) [01:03:35] by **Christopher Alexander**
 
 ####Thoughts on Languages
 * [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) [01:07:03] by **Scott Meyers**
@@ -556,6 +563,7 @@ approachable than it actually is, and that is a good thing.
 * [I See What You Mean](https://www.youtube.com/watch?v=R2Aa4PivG0g) [00:52:28] by **Peter Alvaro**
 * [Sketch-n-Sketch: Interactive SVG Programming with Direct Manipulation](https://www.youtube.com/watch?v=YuGVC8VqXz0) [00:40:17] by **Ravi Chugh**
 * [Let's Build a Hygienic Macro Expander](https://www.youtube.com/watch?v=Or_yKiI3Ha4) [00:40:04] by **Matthew Flatt**
+* [Into the Core - Squeezing Haskell into Nine Constructors](https://www.youtube.com/watch?v=uR_VzYxvbxg) [01:07:48] by **Simon Peyton Jones**
 
 ####Data Science
 * [Data as Software as Data](https://www.youtube.com/watch?v=LOMk8TD6l5k) [00:40:27] by **Andrea Burbank**
@@ -679,6 +687,7 @@ approachable than it actually is, and that is a good thing.
 
 ####Hardware
 * [Let's Build a Computer!](https://www.youtube.com/watch?v=uZsiMG7N_B8) [00:29:03] by **Ryan Davis**
+* [The Future of Microprocessors](https://www.youtube.com/watch?v=_9mzmvhwMqw) [00:46:35] by **Sophie Wilson**
 
 ####Research
 * [How to Give a Great Research Talk](https://www.youtube.com/watch?v=sT_-owjKIbA) [00:58:41] by **Simon Peyton Jones**
