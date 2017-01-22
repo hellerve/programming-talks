@@ -556,7 +556,6 @@ approachable than it actually is, and that is a good thing.
 * [The Sociology of Programming Languages](https://www.youtube.com/watch?v=M4Gsl8sVgdQ) [00:42:11] by **Leo Meyerovich**
 * [Implement an Esoteric Programming Language for Fun](https://www.youtube.com/watch?v=oCPT3L33848) [00:22:16] by **Arne Martin Aurlien**
 * [A Dinosaur's Thoughts on Programming Language Evolution](https://www.youtube.com/watch?v=Z9OYc1YYLT4) [00:48:47] by **Matthew Flatt**
-* [Lisp Flavoured Erlang](https://erlangcentral.org/lisp-flavoured-erlang-lfe/) [01:02:49] by **Robert Virding**
 * [Syntaxation](https://www.youtube.com/watch?v=Nlqv6NtBXcA) [00:49:39] by **Douglas Crockford**
 * [Make Your Own Programming Language!](https://www.youtube.com/watch?v=DE18fHyZ0GI) [00:26:07] by **Nick Heiner**
 * [Everything old is new again: Quoted Domain-Specific Languages](https://www.youtube.com/watch?v=FiflFiZ6pPI) [00:39:06] by **Philip Wadler**
