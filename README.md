@@ -575,6 +575,7 @@ approachable than it actually is, and that is a good thing.
 * [Persistent Data Structures for Special Occasions](https://www.youtube.com/watch?v=Z_iLjL0mc4I) [00:44:44] by **Michał Marczyk**
 * [Practical Fractals in Space](https://www.youtube.com/watch?v=uEBzS9tpmTo) [00:38:27] by **Michelle Brush**
 * [Exotic Functional Data Structures: Hitchhiker Trees](https://www.youtube.com/watch?v=jdn617M3-P4) [00:40:32] by **David Greenberg**
+* [Parsing Text with a Virtual Machine](https://www.youtube.com/watch?v=9Q--oX5muxw) [00:43:53] by **Ghadi Shayban**
 
 ####Databases
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) [00:54:52] by **Martin Fowler**
