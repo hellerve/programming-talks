@@ -252,6 +252,7 @@ approachable than it actually is, and that is a good thing.
 * [New Concurrency Models on the JVM: Fibres, Verticles, Agents and Actors](https://www.youtube.com/watch?v=EMv_8dxSqdE) [01:03:01] by **Lutz Hühnken**
 * [4 JVM Web Frameworks in 40 Minutes](https://www.youtube.com/watch?v=nyz0AVIOTkI) [00:58:38] by **Joe Kutner** (this is actually for a few JVM languages, not only Java)
 * [Optional - The Mother of All Bikesheds](https://www.youtube.com/watch?v=Ej0sss6cq14) [00:58:42] by **Stuart Marks**
+* [A JVM does that???](https://www.youtube.com/watch?v=-vizTDSz8NU) [00:51:58] by **Dr Cliff Click**
 
 ####JavaScript
 (There is a good list of talks about JS to be found [here](https://github.com/bolshchikov/js-must-watch))
