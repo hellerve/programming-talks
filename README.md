@@ -199,6 +199,7 @@ approachable than it actually is, and that is a good thing.
 * [Scaling Distributed Erlang](https://www.youtube.com/watch?v=usEs3GPnZDg) [00:47:23] by **Zandra Norman**
 * [Erlang and Deep Learning](https://www.youtube.com/watch?v=iMhBEVCgPdg) [00:47:15] by **Garrett Smith**
 * [Pilgrim's Progress to the Promised Land](https://www.youtube.com/watch?v=84UI5mRXU7g) [00:52:24] by **Robert Virding**
+* [A Few Improvements to Erlang](http://www.erlang-factory.com/conference/ErlangUserConference2012/speakers/joearmstrong) [00:43:30] by **Joe Armstrong**
 
 ####Go
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) [00:51:27] by **Rob Pike**
