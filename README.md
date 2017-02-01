@@ -182,6 +182,7 @@ approachable than it actually is, and that is a good thing.
 * [The Climb: Experiencing the Rise of Elixir from the Inside](https://www.youtube.com/watch?v=fklep3sUSWo) [00:43:22] by **Bruce Tate & Dave Thomas**
 * [Build Your Own Elxir](https://www.youtube.com/watch?v=IONWi9hayEA) [00:45:37] by **Louis Pilfold**
 * [Code Generation in Elixir](https://www.youtube.com/watch?v=-mgwW3RVI50) [00:43:54] by **Bryan Weber**
+* [Elixir in Elixir](https://www.youtube.com/watch?v=p8MGNw045AE) [00:46:12] by **Jay Hayes**
 
 ####Elm
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) [00:40:55] by **Evan Czaplicki**
