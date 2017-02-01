@@ -607,6 +607,7 @@ approachable than it actually is, and that is a good thing.
 * [Principles of Lighting and Rendering](https://www.youtube.com/watch?v=IyUgHPs86XM) [01:31:00] by **John Carmack**
 * [Making WebGL Dance](https://www.youtube.com/watch?v=GNO_CYUjMK8) [00:30:55] by **Steven Wittens**
 * [Making things with maths](https://www.youtube.com/watch?v=Zkx1aKv2z8o) [00:53:45] by **Steven Wittens**
+* [Simit: A Language for Computing on Sparse Systems when Performance Matters](https://www.youtube.com/watch?v=raPkxhHy5ro) [00:58:37] by **Fredrik Kjolstad**
 
 ####Computer Vision
 * [OpenCV and High-Performance Vision on GPU](https://www.youtube.com/watch?v=0CNSCpcKiQ4) [02:24:59] by **Victor Eruhimov**
