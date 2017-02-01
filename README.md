@@ -199,6 +199,8 @@ approachable than it actually is, and that is a good thing.
 * [Scaling Distributed Erlang](https://www.youtube.com/watch?v=usEs3GPnZDg) [00:47:23] by **Zandra Norman**
 * [Erlang and Deep Learning](https://www.youtube.com/watch?v=iMhBEVCgPdg) [00:47:15] by **Garrett Smith**
 * [Pilgrim's Progress to the Promised Land](https://www.youtube.com/watch?v=84UI5mRXU7g) [00:52:24] by **Robert Virding**
+* [A Few Improvements to Erlang](http://www.erlang-factory.com/conference/ErlangUserConference2012/speakers/joearmstrong) [00:43:30] by **Joe Armstrong**
+* [Erlang in production: I wish I'd known that when I started](https://www.youtube.com/watch?v=G0eBDWigORY) [00:42:43] by **Bernard Duggan**
 
 ####Go
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) [00:51:27] by **Rob Pike**
@@ -251,6 +253,8 @@ approachable than it actually is, and that is a good thing.
 * [Nashorn: implementing a dynamic language runtime on JVM in 2014](https://www.youtube.com/watch?v=KKaHkkpdHxg) [00::44:32] by **Attila Szegedi**
 * [New Concurrency Models on the JVM: Fibres, Verticles, Agents and Actors](https://www.youtube.com/watch?v=EMv_8dxSqdE) [01:03:01] by **Lutz Hühnken**
 * [4 JVM Web Frameworks in 40 Minutes](https://www.youtube.com/watch?v=nyz0AVIOTkI) [00:58:38] by **Joe Kutner** (this is actually for a few JVM languages, not only Java)
+* [Optional - The Mother of All Bikesheds](https://www.youtube.com/watch?v=Ej0sss6cq14) [00:58:42] by **Stuart Marks**
+* [A JVM does that???](https://www.youtube.com/watch?v=-vizTDSz8NU) [00:51:58] by **Cliff Click**
 
 ####JavaScript
 (There is a good list of talks about JS to be found [here](https://github.com/bolshchikov/js-must-watch))
@@ -555,7 +559,6 @@ approachable than it actually is, and that is a good thing.
 * [The Sociology of Programming Languages](https://www.youtube.com/watch?v=M4Gsl8sVgdQ) [00:42:11] by **Leo Meyerovich**
 * [Implement an Esoteric Programming Language for Fun](https://www.youtube.com/watch?v=oCPT3L33848) [00:22:16] by **Arne Martin Aurlien**
 * [A Dinosaur's Thoughts on Programming Language Evolution](https://www.youtube.com/watch?v=Z9OYc1YYLT4) [00:48:47] by **Matthew Flatt**
-* [Lisp Flavoured Erlang](https://erlangcentral.org/lisp-flavoured-erlang-lfe/) [01:02:49] by **Robert Virding**
 * [Syntaxation](https://www.youtube.com/watch?v=Nlqv6NtBXcA) [00:49:39] by **Douglas Crockford**
 * [Make Your Own Programming Language!](https://www.youtube.com/watch?v=DE18fHyZ0GI) [00:26:07] by **Nick Heiner**
 * [Everything old is new again: Quoted Domain-Specific Languages](https://www.youtube.com/watch?v=FiflFiZ6pPI) [00:39:06] by **Philip Wadler**
@@ -575,6 +578,7 @@ approachable than it actually is, and that is a good thing.
 * [Persistent Data Structures for Special Occasions](https://www.youtube.com/watch?v=Z_iLjL0mc4I) [00:44:44] by **Michał Marczyk**
 * [Practical Fractals in Space](https://www.youtube.com/watch?v=uEBzS9tpmTo) [00:38:27] by **Michelle Brush**
 * [Exotic Functional Data Structures: Hitchhiker Trees](https://www.youtube.com/watch?v=jdn617M3-P4) [00:40:32] by **David Greenberg**
+* [Parsing Text with a Virtual Machine](https://www.youtube.com/watch?v=9Q--oX5muxw) [00:43:53] by **Ghadi Shayban**
 
 ####Databases
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) [00:54:52] by **Martin Fowler**
@@ -656,6 +660,7 @@ approachable than it actually is, and that is a good thing.
 * [Distributed Eventually Consistent Computations](https://www.youtube.com/watch?v=uwpakTIg9r8) [00:49:37] by **Christopher Meiklejohn**
 * [Jepsen IV: Hope Springs Eternal](https://www.youtube.com/watch?v=dE3KT7hHkKY) [00:54:33] by **Kyle Kingsbury**
 * [Coordination-Free Computations](https://www.youtube.com/watch?v=AF8fpDzfUOc) [00:46:15] by **Cristopher Meiklejohn** (really fast talker)
+* [K things I know about building Resilient Reactive Systems](https://www.youtube.com/watch?v=rQIE22e0cW8) [01:00:02] by **Joe Armstrong**
 
 ####Logic Programming
 * [Challenges for Logic Programming](https://www.youtube.com/watch?v=y6WKr9j76kw) [00:40:45] by **Steve Miner**
@@ -688,6 +693,7 @@ approachable than it actually is, and that is a good thing.
 ####Hardware
 * [Let's Build a Computer!](https://www.youtube.com/watch?v=uZsiMG7N_B8) [00:29:03] by **Ryan Davis**
 * [The Future of Microprocessors](https://www.youtube.com/watch?v=_9mzmvhwMqw) [00:46:35] by **Sophie Wilson**
+* [A Crash Course in Modern Hardware](https://www.youtube.com/watch?v=OFgxAFdxYAQ) [00:59:20] by **Cliff Click**
 
 ####Research
 * [How to Give a Great Research Talk](https://www.youtube.com/watch?v=sT_-owjKIbA) [00:58:41] by **Simon Peyton Jones**
