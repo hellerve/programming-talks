@@ -616,6 +616,7 @@ approachable than it actually is, and that is a good thing.
 * [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) [00:36:00] by **Carin Meier**
 * [Why Functional Programming Matters](https://www.youtube.com/watch?v=XrNdvWqxBvA) [00:56:09] by **John Hughes**
 * [The Essence and Origins of Functional Reactive Programming](https://www.youtube.com/watch?v=j3Q32brCUAI) [00:59:24] by **Conal Elliott**
+* [A More Elegant Specification for FRP](https://www.youtube.com/watch?v=teRC_Lf61Gw) [00:29:54] by **Conal Elliott**
 
 ####Computer Graphics
 * [Principles of Lighting and Rendering](https://www.youtube.com/watch?v=IyUgHPs86XM) [01:31:00] by **John Carmack**
