@@ -187,6 +187,7 @@ approachable than it actually is, and that is a good thing.
 * [Code Generation in Elixir](https://www.youtube.com/watch?v=-mgwW3RVI50) [00:43:54] by **Bryan Weber**
 * [Elixir in Elixir](https://www.youtube.com/watch?v=p8MGNw045AE) [00:46:12] by **Jay Hayes**
 * [Dialyzer: Optimistic Type Checking for Erlang and Elixir](https://www.youtube.com/watch?v=JT0ECYZ9FaQ) [00:48:57] by **Jason Voegele**
+* [Real World Elixir Deployment](https://www.youtube.com/watch?v=H686MDn4Lo8) [00:40:35] by **Pete Gamache**
 
 ####Elm
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) [00:40:55] by **Evan Czaplicki**
