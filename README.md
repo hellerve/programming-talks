@@ -232,6 +232,8 @@ approachable than it actually is, and that is a good thing.
 * [Go](https://www.youtube.com/watch?v=PTZqkyivnHk) [00:38:18] by **Rob Pike**
 * [Do not fear first class functions](https://www.youtube.com/watch?v=5buaPyJ0XeQ) [00:18:54] by **Dave Cheney**
 * [Three fallacies of dependencies](https://www.youtube.com/watch?v=yi5A3cK1LNA) [00:20:38] by **Blake Mizerany**
+* [Idiomatic Go Tricks](https://www.youtube.com/watch?v=yeetIgNeIkc) [00:27:56] by **Mat Ryer**
+* [Program your next server in Go](https://www.youtube.com/watch?v=5bYO60-qYOI) [01:02:05] by **Sameer Ajmani**
 
 ####Haskell
 * [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) [00:26:11] by **Andrew Rademacher** (for Beginners)
@@ -539,6 +541,7 @@ approachable than it actually is, and that is a good thing.
 * [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) [00:50:17] by **Martin Thompson**
 * [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) [00:38:46] by **Sandi Metz**
 * [Get a Whiff of This](https://www.youtube.com/watch?v=PJjHfa5yxlU) [00:38:14] by **Sandi Metz**
+* [Conceptualizing Large Software Systems](https://www.youtube.com/watch?v=2T6Prj82adg) [00:17:17] by **Alan Shreve**
 
 ####Debugging
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway**
