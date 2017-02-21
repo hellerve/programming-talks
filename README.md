@@ -716,6 +716,7 @@ approachable than it actually is, and that is a good thing.
 * [Demistifying SNMP](https://www.youtube.com/watch?v=SQlz_Zd6enU) [00:49:19] by **Douglas Mauro**
 * [Your infrastructure is not a unique snowflake, and that's ok!](https://www.youtube.com/watch?v=x-zwxuIb1lY) [00:37:39] by **Jeremy Edberg**
 * [I got 10 trillion problems, but logging ain't one](https://www.youtube.com/watch?v=LA-gNoxSLCE) [00:25:17] by **John Graham-Cumming**
+* [How Netflix Thinks About DevOps](https://www.youtube.com/watch?v=HmM4V33ReCw) [00:31:10] by **Dave Hahn**
 
 ####Hardware
 * [Let's Build a Computer!](https://www.youtube.com/watch?v=uZsiMG7N_B8) [00:29:03] by **Ryan Davis**
