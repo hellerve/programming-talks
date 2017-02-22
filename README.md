@@ -236,6 +236,7 @@ approachable than it actually is, and that is a good thing.
 * [Program your next server in Go](https://www.youtube.com/watch?v=5bYO60-qYOI) [01:02:05] by **Sameer Ajmani**
 * [Inside the Map Implementation](https://www.youtube.com/watch?v=Tl7mi9QmLns) [00:26:49] by **Keith Randall**
 * [Communicating Sequential Goroutines](https://www.youtube.com/watch?v=gO1qF19y6KQ) [00:50:15] by **Adrian Cockcroft**
+* [The Hidden Power of Humble Interfaces](https://www.youtube.com/watch?v=s4e-cFhT620) [00:23:47] by **Aditya Mukerjee**
 
 ####Haskell
 * [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) [00:26:11] by **Andrew Rademacher** (for Beginners)
