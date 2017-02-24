@@ -238,6 +238,7 @@ approachable than it actually is, and that is a good thing.
 * [Communicating Sequential Goroutines](https://www.youtube.com/watch?v=gO1qF19y6KQ) [00:50:15] by **Adrian Cockcroft**
 * [The Hidden Power of Humble Interfaces](https://www.youtube.com/watch?v=s4e-cFhT620) [00:23:47] by **Aditya Mukerjee**
 * [Packet Capture, Analysis, and Injection with Go](https://www.youtube.com/watch?v=APDnbmTKjgM) [00:37:14] by **John Leon**
+* [cgo - Sadely Taming the Beast](https://www.youtube.com/watch?v=lhMhApWQp2E) [00:48:20] by **Filippo Valsorda**
 
 ####Haskell
 * [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) [00:26:11] by **Andrew Rademacher** (for Beginners)
