@@ -694,6 +694,7 @@ approachable than it actually is, and that is a good thing.
 * [Coordination-Free Computations](https://www.youtube.com/watch?v=AF8fpDzfUOc) [00:46:15] by **Cristopher Meiklejohn** (really fast talker)
 * [K things I know about building Resilient Reactive Systems](https://www.youtube.com/watch?v=rQIE22e0cW8) [01:00:02] by **Joe Armstrong**
 * [The How and Why of Fitting Things Together](https://www.youtube.com/watch?v=ed7A7r6DBsM) [00:46:39] by **Joe Armstrong**
+* [Load Balancing is Impossible](https://www.youtube.com/watch?v=gas2v1emubU) [00:36:43] by **Tyler McMullen**
 
 ####Logic Programming
 * [Challenges for Logic Programming](https://www.youtube.com/watch?v=y6WKr9j76kw) [00:40:45] by **Steve Miner**
