@@ -749,6 +749,7 @@ approachable than it actually is, and that is a good thing.
 * [Madam Sandi Tells Your Future](https://www.youtube.com/watch?v=JOM5_V5jLAs) [00:38:13] by **Sandi Metz**
 * [Juggling Patterns and Programs](https://www.youtube.com/watch?v=TqG176T69VM) [00:48:50] by **Steve Miner**
 * [Kolmogorov music](https://www.youtube.com/watch?v=Qg3XOfioapI) [00:42:05] by **Cristopher Ford**
+* [It's not what you read, it's what you ignore](https://www.youtube.com/watch?v=IWPgUn8tL8s) [01:01:52] by **Scott Hanselman**
 
 ## Contributing
 
