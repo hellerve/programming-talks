@@ -549,6 +549,8 @@ approachable than it actually is, and that is a good thing.
 * [Get a Whiff of This](https://www.youtube.com/watch?v=PJjHfa5yxlU) [00:38:14] by **Sandi Metz**
 * [Conceptualizing Large Software Systems](https://www.youtube.com/watch?v=2T6Prj82adg) [00:17:17] by **Alan Shreve**
 * [The Error of Our Ways](https://www.youtube.com/watch?v=IiGXq3yY70o) [00:49:44] by **Kevlin Henney**
+* [Small Is Beautiful](https://www.youtube.com/watch?v=B3b4tremI5o) [01:07:02] by **Kevlin Henney**
+* [The programmer](https://www.youtube.com/watch?v=sVTs4_1ts_c) [01:03:10] by **Kevlin Henney**
 
 ####Debugging
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway**
