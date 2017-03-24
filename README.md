@@ -153,6 +153,7 @@ approachable than it actually is, and that is a good thing.
 * [Fastware](https://www.youtube.com/watch?v=AxnotgLql0k) [01:02:16] by **Andrei Alexandrescu**
 * [Design Patterns in Modern C++](https://www.youtube.com/watch?v=sJnoIF4_Ug8) [01:07:04] by **Dmitri Nesteruk**
 * [STL Algorithms - How To Use Them and How to Write Your Own](https://www.youtube.com/watch?v=3nXLxMYXgWs) [01:30:36] by **Marshall Clow**
+* [Thinking outside the synchronisation quadrant](https://www.youtube.com/watch?v=yl25p91flLY) [01:32:50] by **Kevlin Henney**
 
 #### Crystal
 * [Introducing the Crystal Programming Language](https://www.youtube.com/watch?v=5QjvGuL4Opo) [00:29:53] by **Will Leinweber**
