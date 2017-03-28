@@ -696,6 +696,7 @@ approachable than it actually is, and that is a good thing.
 * [Runtime scheduling: theory and reality](https://www.youtube.com/watch?v=8g9fG7cApbc) [00:42:11] by **Eben Freeman**
 * [Kill "Microservices" before its too late](https://www.youtube.com/watch?v=-UKEPd2ipEk) [00:39:41] by **Chad Fowler**
 * [12-Factor Apps and the HashiStack](https://www.youtube.com/watch?v=NVl9cIiPF80) [00:30:39] by **Kelsey Hightower**
+* [Mastering Chaos - A Netflix Guide to Microservice](https://www.youtube.com/watch?v=CZ3wIuvmHeM) [00:53:13] by **Josh Evans**
 
 #### Distributed Programming
 * [Distributed Systems 101](https://www.youtube.com/watch?v=YAFGQurdJ3U) [00:45:25] by **lvh**
