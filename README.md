@@ -628,15 +628,16 @@ approachable than it actually is, and that is a good thing.
 * [Cassandra and Go Doubleheader](https://www.youtube.com/watch?v=oEFqxi_n1vU) [00:58:23] by **Kyle Kingsbury & Al Tobey** (this video features two distinct talks, only the first one deals with databases)
 * [Consistency without consensus in production systems](https://www.youtube.com/watch?v=em9zLzM8O7c) [00:41:09] by **Peter Bourgon**
 * [Transactions: myths, surprises and opportunities](https://www.youtube.com/watch?v=5ZjhNTM8XU8) [00:41:07] by **Martin Kleppmann**
+* [To NoSQL or Not to NoSQL, That Is the Question](https://vimeo.com/132194546) [01:00:48] by **David Ostrovsky**
 
 #### Functional Programming
-* [Functional Principles for Object Oriented Development](http://www.youtube.com/watch?v=pMGY9ViIGNU) [00:51:13] by **Jessica Kerr** 
-* [Adventures in Functional Programming](https://vimeo.com/45140590) [00:50:34] by **Jim Weirich** 
-* [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) [00:48:33] by **Gilad Bracha** 
-* [Living in a Post-Functional World](http://www.infoq.com/presentations/post-functional-scala-clojure-haskell) [00:45:46] by **Daniel Spiewak** 
-* [Tangible Functional Programming](https://www.youtube.com/watch?v=faJ8N0giqzw) [00:56:25] by **Conal Elliott** 
-* [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) [01:06:54] by **Phillip Wadler** 
-* [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) [01:07:11] by **Dr. Brian Beckman** 
+* [Functional Principles for Object Oriented Development](http://www.youtube.com/watch?v=pMGY9ViIGNU) [00:51:13] by **Jessica Kerr**
+* [Adventures in Functional Programming](https://vimeo.com/45140590) [00:50:34] by **Jim Weirich**
+* [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) [00:48:33] by **Gilad Bracha**
+* [Living in a Post-Functional World](http://www.infoq.com/presentations/post-functional-scala-clojure-haskell) [00:45:46] by **Daniel Spiewak**
+* [Tangible Functional Programming](https://www.youtube.com/watch?v=faJ8N0giqzw) [00:56:25] by **Conal Elliott**
+* [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) [01:06:54] by **Phillip Wadler**
+* [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) [01:07:11] by **Dr. Brian Beckman**
 * [Papers We Love: Composable and Compilable Macros](https://www.youtube.com/watch?v=pK2E63mhRxI) [00:54:49] by **Sam Tobin-Hochstadt**
 * [Functional Programming; What? Why? When? How?](https://www.youtube.com/watch?v=7Zlp9rKHGD4) [00:58:27] by **Robert C Martin**
 * [The Functional Final Frontier](https://www.youtube.com/watch?v=DMtwq3QtddY) [00:27:02] by **David Nolen**
