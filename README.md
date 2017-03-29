@@ -157,6 +157,9 @@ approachable than it actually is, and that is a good thing.
 * [Design Patterns in Modern C++](https://www.youtube.com/watch?v=sJnoIF4_Ug8) [01:07:04] by **Dmitri Nesteruk**
 * [STL Algorithms - How To Use Them and How to Write Your Own](https://www.youtube.com/watch?v=3nXLxMYXgWs) [01:30:36] by **Marshall Clow**
 * [Thinking outside the synchronisation quadrant](https://www.youtube.com/watch?v=yl25p91flLY) [01:32:50] by **Kevlin Henney**
+* **Making C++ easier, faster and safer**: This talk has two parts.
+  * [Making C++ easier, faster and safer, Part I](https://www.youtube.com/watch?v=cX_GhJ6BuWI) [01:18:28] by **Chandler Carruth**
+  * [Making C++ easier, faster and safer, Part II](https://www.youtube.com/watch?v=E36BUcTWo50) [01:16:00] by **Chandler Carruth**
 
 #### Crystal
 * [Introducing the Crystal Programming Language](https://www.youtube.com/watch?v=5QjvGuL4Opo) [00:29:53] by **Will Leinweber**
