@@ -414,6 +414,7 @@ approachable than it actually is, and that is a good thing.
 * [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA) [00:40:44] by **Jake Vanderplas**
 * [Machete-mode debugging: Hacking your way out of a tight spot](https://www.youtube.com/watch?v=bAcfPzxB3dk) [00:35:13] by **Ned Batchelder**
 * [Builtin Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s) [00:42:13] by **David Beazley**
+* [Flask for Fun and Profit](https://www.youtube.com/watch?v=1ByQhAM5c1I) [01:01:23] by **Armin Ronacher**
 
 #### Racket
 * [Generic Collections: One Interface to Rule Them All](https://www.youtube.com/watch?v=JUD_JwG0alg) [00:18:26] by **Alexis King**
