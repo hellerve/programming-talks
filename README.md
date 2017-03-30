@@ -160,6 +160,7 @@ approachable than it actually is, and that is a good thing.
 * **Making C++ easier, faster and safer**: This talk has two parts.
   * [Making C++ easier, faster and safer, Part I](https://www.youtube.com/watch?v=cX_GhJ6BuWI) [01:18:28] by **Chandler Carruth**
   * [Making C++ easier, faster and safer, Part II](https://www.youtube.com/watch?v=E36BUcTWo50) [01:16:00] by **Chandler Carruth**
+* [C++17, is it great or just OK?](https://www.youtube.com/watch?v=we0HUrXMC5s) [01:11:06] by **Michael Wong**
 
 #### Crystal
 * [Introducing the Crystal Programming Language](https://www.youtube.com/watch?v=5QjvGuL4Opo) [00:29:53] by **Will Leinweber**
