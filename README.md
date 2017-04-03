@@ -220,6 +220,8 @@ approachable than it actually is, and that is a good thing.
 * [A Few Improvements to Erlang](http://www.erlang-factory.com/conference/ErlangUserConference2012/speakers/joearmstrong) [00:43:30] by **Joe Armstrong**
 * [Erlang in production: I wish I'd known that when I started](https://www.youtube.com/watch?v=G0eBDWigORY) [00:42:43] by **Bernard Duggan**
 * [Over a Century of Programming](https://www.youtube.com/watch?v=y5Y_JFIsg6s) [01:00:10] by **Mike Williams, Joe Armstrong & Robert Virding**
+* [A Peek Inside Erlang's OTP](https://www.youtube.com/watch?v=PkHZPTn1brc) [00:50:19] by **Steve Vinovski**
+* [Designing a Real Time Game Engine in Erlang](https://www.youtube.com/watch?v=sla-t0ZNlMU) [00:38:32] by **Mark Allen**
 
 #### F#
 * [F# for Trading](https://www.youtube.com/watch?v=OonLCmLeQUQ) [00:50:43] by **Phillip Trelford**
@@ -563,6 +565,7 @@ approachable than it actually is, and that is a good thing.
 * [The Error of Our Ways](https://www.youtube.com/watch?v=IiGXq3yY70o) [00:49:44] by **Kevlin Henney**
 * [Small Is Beautiful](https://www.youtube.com/watch?v=B3b4tremI5o) [01:07:02] by **Kevlin Henney**
 * [The programmer](https://www.youtube.com/watch?v=sVTs4_1ts_c) [01:03:10] by **Kevlin Henney**
+* [Scalable is Awesome, Literally!](https://www.youtube.com/watch?v=iquZl-CUR_U) [00:43:48] by **Garrett Smith**
 
 #### Debugging
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway**
