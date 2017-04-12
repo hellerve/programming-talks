@@ -199,6 +199,7 @@ approachable than it actually is, and that is a good thing.
 * [Real World Elixir Deployment](https://www.youtube.com/watch?v=H686MDn4Lo8) [00:40:35] by **Pete Gamache**
 * [Elixir Should Take Over the World](https://www.youtube.com/watch?v=X25xOhntr6s) [00:58:30] by **Jessica Kerr** (not only interesting for Elixir devs! But I wasn't sure where else to put it)
 * [GenStage and Flow](https://www.youtube.com/watch?v=XPlXNUXmcgE) [00:53:32] by **José Valim**
+* [Transforming Programming](https://www.youtube.com/watch?v=A76hM3MpEKo) [00:46:45] by **Dave Thomas**
 
 #### Elm
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) [00:40:55] by **Evan Czaplicki**
