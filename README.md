@@ -489,6 +489,7 @@ approachable than it actually is, and that is a good thing.
 #### Swift
 * [Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=TlvLGTXn_gk) [00:41:19] by **J.P. Simard**
 * [Thinking in Swift](http://vimeo.com/105440181) [00:24:23] by **Abizer Nasir**
+* [Controlling Complexity in Swift — or — Making Friends with Value Types](https://realm.io/news/andy-matuschak-controlling-complexity/) [57:45] by **Andy Matuschak**
 
 #### VimL
 * [Vim - I Wish I Knew How To :q You](https://www.youtube.com/watch?v=X7lZ8MVGl4A) [00:41:08] by **Chris Maiden** (not really about VimL, more of a general introduction into vim)
