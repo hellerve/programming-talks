@@ -54,7 +54,7 @@ approachable than it actually is, and that is a good thing.
 
 ### On Programming Languages
 
-####Alpaca
+#### Alpaca
 * [Alpaca: Static Typing on the BEAM](https://www.youtube.com/watch?v=cljFpz_cv2E) [00:45:34] by **Jeremy Pierre**
 
 #### Bash
