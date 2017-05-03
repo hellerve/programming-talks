@@ -762,6 +762,9 @@ approachable than it actually is, and that is a good thing.
 * [The Continuum Hypothesis and the search for Mathematical Infinity](https://youtu.be/nVF4N1Ix5WI) [00:55:18] by **W. Hugh Woodin**
 * [Field of Rationality and Category Theory](https://www.youtube.com/watch?v=jjfE2jTAQrE) [00:44:07] by **Michał Heller**
 
+#### Entrepreneurship
+* [How to Build a Product (Part IV)](https://www.startupschool.org/videos/8) [00:51:24] by **Jan Koum**
+
 #### Misc
 * [How To Shut Down Tolkien](https://www.youtube.com/watch?v=qVlqBxpCG24) [00:42:41] by **Brandon Rhodes**
 * [DjangoCon EU 2013 Keynote](https://www.youtube.com/watch?v=yvMWUGx7Fx8) [00:31:10] by **Brandon Rhodes**
