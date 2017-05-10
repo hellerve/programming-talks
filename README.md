@@ -224,6 +224,7 @@ approachable than it actually is, and that is a good thing.
 * [A Peek Inside Erlang's OTP](https://www.youtube.com/watch?v=PkHZPTn1brc) [00:50:19] by **Steve Vinovski**
 * [Designing a Real Time Game Engine in Erlang](https://www.youtube.com/watch?v=sla-t0ZNlMU) [00:38:32] by **Mark Allen**
 * [Scaling Distributed Erlang](https://www.youtube.com/watch?v=usEs3GPnZDg) [00:47:23] by **Zandra Norman**
+* [OTP Has Done It](https://www.youtube.com/watch?v=yBReonQlfL4) [00:36:04] by **Nick DeMonner**
 
 #### F#
 * [F# for Trading](https://www.youtube.com/watch?v=OonLCmLeQUQ) [00:50:43] by **Phillip Trelford**
