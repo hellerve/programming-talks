@@ -766,6 +766,7 @@ approachable than it actually is, and that is a good thing.
 
 #### Entrepreneurship
 * [How to Build a Product (Part IV)](https://www.startupschool.org/videos/8) [00:51:24] by **Jan Koum**
+* [How and Why to Start A Startup](https://www.startupschool.org/videos/1) [00:44:42] by **Sam Altman & Dustin Moskovitz**
 
 #### Misc
 * [How To Shut Down Tolkien](https://www.youtube.com/watch?v=qVlqBxpCG24) [00:42:41] by **Brandon Rhodes**
