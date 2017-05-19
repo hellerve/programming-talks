@@ -505,7 +505,6 @@ approachable than it actually is, and that is a good thing.
 #### Miscellaneous
 * [WAT](https://www.destroyallsoftware.com/talks/wat) [00:04:17] by **Gary Bernhardt** 
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:29:16] by **Gary Bernhardt**
-* [Boundaries](https://youtu.be/eOYal8elnZk) [00:30:19] by **Gary Bernhardt**
 * [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) [01:10:15] by **Linus Torvalds**
 * [Linux Sucks - 2014](https://www.youtube.com/watch?v=5pOxlazS3zs) [00:44:59] by **Bryan Lunduke**
 * [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) [00:33:31] by **Julia Evans**
@@ -571,6 +570,7 @@ approachable than it actually is, and that is a good thing.
 * [Small Is Beautiful](https://www.youtube.com/watch?v=B3b4tremI5o) [01:07:02] by **Kevlin Henney**
 * [The programmer](https://www.youtube.com/watch?v=sVTs4_1ts_c) [01:03:10] by **Kevlin Henney**
 * [Scalable is Awesome, Literally!](https://www.youtube.com/watch?v=iquZl-CUR_U) [00:43:48] by **Garrett Smith**
+* [Boundaries](https://youtu.be/eOYal8elnZk) [00:30:19] by **Gary Bernhardt**
 
 #### Debugging
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway**
