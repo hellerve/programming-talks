@@ -340,6 +340,7 @@ approachable than it actually is, and that is a good thing.
 * [Improving Your Workflow With Code Transformation](https://www.youtube.com/watch?v=OFuDvqZmUrE) [00:30:18] by **Sebastian McKenzie**
 * [Immutable Data and Rect](https://www.youtube.com/watch?v=I7IdS-PbEgI) [00:31:10] by **Lee Byron**
 * [The first ever presentation on Node.js](https://www.youtube.com/watch?v=ztspvPYybIY) [00:48:31] by **Ryan Dahl**
+* [A Cartoon Intro to WebAssembly](https://www.youtube.com/watch?v=HktWin_LPf4) [00:29:40] by **Lin Clark**
 
 #### Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) [00:26:19] by **Dwight J. Browne**
