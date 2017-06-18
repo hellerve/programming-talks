@@ -22,7 +22,7 @@ To make choosing the right speakers a tad easier, let me give you a quick overvi
 over my favourite speakers in no particular order:
 
 * **Scott Meyers** (C++): Scott Meyers is one of the most entertaining and knowledgeable
-speaker when it comes to all things C++. His talks cover a variety of topics, from type 
+speaker when it comes to all things C++. His talks cover a variety of topics, from type
 inference to API design and cache lines.
 * **Rich Hickey** (Clojure): I am not a Clojure programmer, but I like reasoning about
 and building programming languages. Even if you don't, Rich Hickeys talks are inspiring
@@ -304,11 +304,11 @@ approachable than it actually is, and that is a good thing.
 * [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** (it's 10 hours long!)
 * [Really. JavaScript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) [00:46:10] by **Douglas Crockford**
 * [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc) [00:49:48] by **Douglas Crockford**
-* [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) [00:58:18] by **Ryan Dahl** 
-* [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) [00:41:43] by **Brian Ford** 
+* [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) [00:58:18] by **Ryan Dahl**
+* [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) [00:41:43] by **Brian Ford**
 * [Creating A Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=b5pFv9NB9fs) [00:41:54] by **Nicholas Zakas**
 * [Large Scale JavaScript Application Architecture](https://www.youtube.com/watch?v=kNrnRG1YgAQ) [00:50:40] by **Dan Lynch**
-* [Dissecting WebGL](http://new.livestream.com/hugeinc/events/2192947) [01:11:04] by **Justin Windle** 
+* [Dissecting WebGL](http://new.livestream.com/hugeinc/events/2192947) [01:11:04] by **Justin Windle**
     (you might want to take a look at [the slides](https://github.com/hugeinc/doctype-meetup/tree/master/dissecting-webgl), you cannot really see them well)
 * [10 Angular JS Patterns](https://www.youtube.com/watch?v=UlvCbnKAH3g) [01:01:27] by **John Papa**
 * [Design Decisions in AngularJS](https://www.youtube.com/watch?v=HCR7i5F5L8c) [00:40:00] by **Brad Green & Miško Hevery**
@@ -371,7 +371,7 @@ approachable than it actually is, and that is a good thing.
 
 #### Python
 (There is a good list of talks about Python to be found [here](https://github.com/s16h/py-must-watch))
-* [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) [00:27:29] by **Jack Diederich** 
+* [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) [00:27:29] by **Jack Diederich**
 * [Super Advanced Python](http://www.youtube.com/watch?v=u2KZJzoz-qI) [01:38:56] by **Raymond Chandler**
 * [Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI) [03:24:00] by **David Beazley**
 * [Discovering Python](https://www.youtube.com/watch?v=RZ4Sn-Y7AP8) [00:47:50] by **David Beazley**
@@ -507,7 +507,7 @@ approachable than it actually is, and that is a good thing.
 * [Inside the Wolfram Language](https://www.youtube.com/watch?v=EjCWdsrVcBM) [01:08:53] by **Stephen Wolfram**
 
 #### Miscellaneous
-* [WAT](https://www.destroyallsoftware.com/talks/wat) [00:04:17] by **Gary Bernhardt** 
+* [WAT](https://www.destroyallsoftware.com/talks/wat) [00:04:17] by **Gary Bernhardt**
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:29:16] by **Gary Bernhardt**
 * [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) [01:10:15] by **Linus Torvalds**
 * [Linux Sucks - 2014](https://www.youtube.com/watch?v=5pOxlazS3zs) [00:44:59] by **Bryan Lunduke**
@@ -686,12 +686,12 @@ approachable than it actually is, and that is a good thing.
 * [Practical UI physics](https://www.youtube.com/watch?v=90oMnMFozEE) [00:34:12] by **David DeSandro**
 
 #### Web Development
-* [Go To There and Back Again](http://vimeo.com/78893726) [00:49:06] by **Douglas Crockford** 
-* [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:28:44] by **Gary Bernhardt** 
-* [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) [00:36:31] by **Brian Lonsdorf** 
-* [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) [00:21:40] by **Chris Williams** 
-* [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) [00:27:26] by **Chris Williams** 
-* [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) [00:32:07] by **James Mickens** 
+* [Go To There and Back Again](http://vimeo.com/78893726) [00:49:06] by **Douglas Crockford**
+* [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:28:44] by **Gary Bernhardt**
+* [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) [00:36:31] by **Brian Lonsdorf**
+* [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) [00:21:40] by **Chris Williams**
+* [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) [00:27:26] by **Chris Williams**
+* [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) [00:32:07] by **James Mickens**
 * [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) [00:25:57] by **Scott Hanselmann**
 * [HTML5 Boilerplate](https://www.youtube.com/watch?v=qyM37XKkmKQ) [01:04:20] by **Paul Irish**
 * [Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw) [00:23:25] by **Paul Irish**
@@ -706,6 +706,7 @@ approachable than it actually is, and that is a good thing.
 * [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) [00:42:59] by **Gil Tene**
 * [C10M - Defending The Internet At Scale](https://youtu.be/73XNtI0w7jA) [00:47:53] by **Robert Graham**
 * [Upgrading the Web](https://www.youtube.com/watch?v=6UTWAEJlhww) [00:41:19] by **Douglas Crockford**
+* [The Website Obesity Crisis](https://vimeo.com/147806338) [00:53:10] by **Maciej Ceglowski**
 
 #### System Architecture
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) [00:28:06] by **Fred Hebert**
