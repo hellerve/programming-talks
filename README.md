@@ -176,7 +176,7 @@ approachable than it actually is, and that is a good thing.
 * [Your Very Own Component Library](https://www.youtube.com/watch?v=zSYo7m5kGHQ) [00:20:04] by **Alex Sexton**
 
 #### D
-* [High Performance Code Using D](https://www.youtube.com/watch?v=eh8WETRT7q4) [00:58:52] by **Walter Bright**
+* [High Performance Code Using D](https://archive.org/details/dconf2014-day03-talk01) [1:03:24] by **Walter Bright**
 * [Refactoring JIT Compilation](https://www.youtube.com/watch?v=FGgFMZhnXvU) [00:43:57] by **Maxime Chevalier-Boisvert**
 * [SDC, a D Compiler as a Library](https://www.youtube.com/watch?v=AhR4PSExnqk) [00:48:37] by **Amaury Sechet**
 
