@@ -426,6 +426,7 @@ approachable than it actually is, and that is a good thing.
 * [Builtin Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s) [00:42:13] by **David Beazley**
 * [Flask for Fun and Profit](https://www.youtube.com/watch?v=1ByQhAM5c1I) [01:01:23] by **Armin Ronacher**
 * [The Dictionary Even Mightier](https://www.youtube.com/watch?v=66P5FMkWoVU) [00:47:21] by **Brandon Rhodes**
+* [Grok the GIL - Write Fast And Thread Safe Python](https://www.youtube.com/watch?v=7SSYhuk5hmc) [00:41:29] by **A. Jesse Jiryu Davis**
 
 #### Racket
 * [Generic Collections: One Interface to Rule Them All](https://www.youtube.com/watch?v=JUD_JwG0alg) [00:18:26] by **Alexis King**
