@@ -176,7 +176,7 @@ approachable than it actually is, and that is a good thing.
 * [Your Very Own Component Library](https://www.youtube.com/watch?v=zSYo7m5kGHQ) [00:20:04] by **Alex Sexton**
 
 #### D
-* [High Performance Code Using D](https://archive.org/details/dconf2014-day03-talk01) [1:03:24] by **Walter Bright**
+* [High Performance Code Using D](https://archive.org/details/dconf2014-day03-talk01) [01:03:24] by **Walter Bright**
 * [Refactoring JIT Compilation](https://www.youtube.com/watch?v=FGgFMZhnXvU) [00:43:57] by **Maxime Chevalier-Boisvert**
 * [SDC, a D Compiler as a Library](https://www.youtube.com/watch?v=AhR4PSExnqk) [00:48:37] by **Amaury Sechet**
 
@@ -253,7 +253,7 @@ approachable than it actually is, and that is a good thing.
 * [Communicating Sequential Goroutines](https://www.youtube.com/watch?v=gO1qF19y6KQ) [00:50:15] by **Adrian Cockcroft**
 * [The Hidden Power of Humble Interfaces](https://www.youtube.com/watch?v=s4e-cFhT620) [00:23:47] by **Aditya Mukerjee**
 * [Packet Capture, Analysis, and Injection with Go](https://www.youtube.com/watch?v=APDnbmTKjgM) [00:37:14] by **John Leon**
-* [cgo - Sadely Taming the Beast](https://www.youtube.com/watch?v=lhMhApWQp2E) [00:48:20] by **Filippo Valsorda**
+* [cgo - Safely Taming the Beast](https://www.youtube.com/watch?v=lhMhApWQp2E) [00:48:20] by **Filippo Valsorda**
 * [Crypto for Go Developers](https://www.youtube.com/watch?v=2r_KMzXB74w) [00:31:14] by **George Tankersley** (title of Youtube video wrong)
 
 #### Haskell
@@ -278,6 +278,11 @@ approachable than it actually is, and that is a good thing.
 #### Idris
 * [Type-Driven Development in Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ) [00:46:35] by **Edwin Brady**
 * [Type-driven Development of Communicating Systems in Idris](https://www.youtube.com/watch?v=IQO9N0Y8tcM) [00:40:37] by **Edwin Brady**
+* Dependently Typed Functional Programming in Idris: This talk has three parts:
+ * [Dependently Typed Functional Programming in Idris, Part I](https://vimeo.com/117221082) [01:20:29] by **David Christiansen**
+ * [Dependently Typed Functional Programming in Idris, Part II](https://vimeo.com/117973383) [01:02:47] by **David Christiansen**
+ * [Dependently Typed Functional Programming in Idris, Part III](https://vimeo.com/117979741) [00:58:14] by **David Christiansen**
+
 
 #### Java & Android
 * [Java - The Good, Bad and Ugly Parts](https://www.youtube.com/watch?v=hcY8cYfAEwU) [00:14:34] by **Josh Bloch**
