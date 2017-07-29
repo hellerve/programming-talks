@@ -560,6 +560,7 @@ approachable than it actually is, and that is a good thing.
 * [Inventing on Principle](https://vimeo.com/36579366) [00:54:20] by **Bret Victor**
 * [The Most Important Design Guideline](https://www.youtube.com/watch?v=5tg1ONG18H8) [00:58:42] by **Scott Meyers**
 * [CPU Caches and Why You care](https://vimeo.com/97337258) [01:01:55] by **Scott Meyers** (written in C++, reasonable for almost every software developer)
+* [Things that Matter](https://www.youtube.com/watch?v=RT46MpK39rQ) [01:06:36] by **Scott Meyers**
 * [Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) [00:59:51] by **Leslie Lamport**
 * [I have a good feeling about this - Why tooling is poised to make the jump to hyperspace](https://vimeo.com/76141334) [00:43:15] by **Reginald Braithwaite**
 * [The Not-So-Big Software Design](https://www.youtube.com/watch?v=arsK-CN5YDg) [00:47:31] by **Reginald Braithwaite**
