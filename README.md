@@ -162,6 +162,7 @@ approachable than it actually is, and that is a good thing.
   * [Making C++ easier, faster and safer, Part II](https://www.youtube.com/watch?v=E36BUcTWo50) [01:16:00] by **Chandler Carruth**
 * [C++17, is it great or just OK?](https://www.youtube.com/watch?v=we0HUrXMC5s) [01:11:06] by **Michael Wong**
 * [Better Code](https://www.youtube.com/watch?v=cK_kftBNgBc) [01:20:00] by **Sean Parent**
+* [A \<chrono\> Tutorial](https://www.youtube.com/watch?v=P32hvk8b13M) [01:00:31] by **Howard Hinnant**
 
 #### Crystal
 * [Introducing the Crystal Programming Language](https://www.youtube.com/watch?v=5QjvGuL4Opo) [00:29:53] by **Will Leinweber**
