@@ -345,7 +345,7 @@ approachable than it actually is, and that is a good thing.
 * [Benchmarking JavaScript](https://www.youtube.com/watch?v=g0ek4vV7nEA) [00:40:54] by **Vyacheslav Egorov**
 * [ECMAScript 6 & Web Components](https://www.youtube.com/watch?v=2w4sRkTnhPM) [00:36:11] by **Brian LeRoux**
 * [Improving Your Workflow With Code Transformation](https://www.youtube.com/watch?v=OFuDvqZmUrE) [00:30:18] by **Sebastian McKenzie**
-* [Immutable Data and Rect](https://www.youtube.com/watch?v=I7IdS-PbEgI) [00:31:10] by **Lee Byron**
+* [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) [00:31:10] by **Lee Byron**
 * [The first ever presentation on Node.js](https://www.youtube.com/watch?v=ztspvPYybIY) [00:48:31] by **Ryan Dahl**
 * [A Cartoon Intro to WebAssembly](https://www.youtube.com/watch?v=HktWin_LPf4) [00:29:40] by **Lin Clark**
 
@@ -433,6 +433,7 @@ approachable than it actually is, and that is a good thing.
 * [Flask for Fun and Profit](https://www.youtube.com/watch?v=1ByQhAM5c1I) [01:01:23] by **Armin Ronacher**
 * [The Dictionary Even Mightier](https://www.youtube.com/watch?v=66P5FMkWoVU) [00:47:21] by **Brandon Rhodes**
 * [Grok the GIL - Write Fast And Thread Safe Python](https://www.youtube.com/watch?v=7SSYhuk5hmc) [00:41:29] by **A. Jesse Jiryu Davis**
+* [The Python Visualization Landscape](https://www.youtube.com/watch?v=FytuB8nFHPQ) [00:33:30] by **Jake VanderPlas**
 
 #### Racket
 * [Generic Collections: One Interface to Rule Them All](https://www.youtube.com/watch?v=JUD_JwG0alg) [00:18:26] by **Alexis King**
@@ -540,6 +541,7 @@ approachable than it actually is, and that is a good thing.
 * [Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc) [01:07:26] by **Alan Kay**
 * [Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA) [01:03:35] by **Christopher Alexander**
 * [extern c: Talking to C Programmers about C++](https://www.youtube.com/watch?v=D7Sd8A6_fYU) [01:36:26] by **Dan Saks**
+* [Idée Fixe](https://www.youtube.com/watch?v=lzXHMy4ewtM) [00:39:36] by **David Nolen**
 
 #### Thoughts on Languages
 * [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) [01:07:03] by **Scott Meyers**
