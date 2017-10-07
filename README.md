@@ -593,6 +593,7 @@ approachable than it actually is, and that is a good thing.
 
 #### Debugging
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway**
+* [Tackling Concurrency Bugs with TLA+](https://www.youtube.com/watch?v=_9B__0S21y8) [00:30:05] by **Hillel Wayne**
 
 #### Compilers/Interpreters
 * [Parsing with Derivatives](https://www.youtube.com/watch?v=ZzsK8Am6dKU) [01:13:10] by **Matthew Might**
