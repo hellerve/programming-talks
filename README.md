@@ -618,6 +618,7 @@ approachable than it actually is, and that is a good thing.
 * [Let's Write an Interpreter](https://www.youtube.com/watch?v=RPxvx9OkNic) [00:28:34] by **Ryan Davis**
 * [An Introduction to Combinator Compilers and Graph Reduction Machines](https://www.youtube.com/watch?v=GawiQQCn3bk) [00:39:30] by **David Graunke**
 * [Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler](https://www.youtube.com/watch?v=KHa-OSrZPGo) [00:59:33] by **Justin Lebar**
+* [What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid](https://www.youtube.com/watch?v=bSkpMdDe4g4) [01:15:45] by **Matt Godbolt**
 
 #### Programming Language Design
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) [00:43:46] by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it)
