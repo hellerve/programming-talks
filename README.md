@@ -57,6 +57,9 @@ approachable than it actually is, and that is a good thing.
 #### Alpaca
 * [Alpaca: Static Typing on the BEAM](https://www.youtube.com/watch?v=cljFpz_cv2E) [00:45:34] by **Jeremy Pierre**
 
+#### APL
+* [Patterns and Anti-patterns in APL: Escaping the Beginner's Plateau](https://www.youtube.com/watch?v=9xCJ3BCIudI) [00:59:02] by **Aaron Hsu**
+
 #### Bash
 * [The Functional Tao of Bash](https://www.youtube.com/watch?v=yD2ekOEP9sU) [00:48:12] by **Garrett Smith**
 
