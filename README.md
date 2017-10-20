@@ -757,6 +757,9 @@ approachable than it actually is, and that is a good thing.
 * [The Unreasonable Effectiveness of Data](https://www.youtube.com/watch?v=yvDCzhbjYWs) [01:02:56] by **Peter Norvig**
 * [Machine learning is not the future](https://www.youtube.com/watch?v=3dXQxSI3XDY) [00:38:59] by **Rajat Monga**
 
+#### Creative Coding
+* [Programming In Time - Live Coding for Creative Performances](https://www.youtube.com/watch?v=Sg2BjFQnr9s) [00:47:03] by **Andrew Sorensen**
+
 #### Theoretical Computer Science
 * [Church's Coincidences](https://www.youtube.com/watch?v=2PJ_DbKGFUA) [01:03:41] by **Philip Wadler**
 * [Programming the Turing Machine](https://www.youtube.com/watch?v=ibRar7sWulM) [01:06:10] by **Barbara Liskov**
