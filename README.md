@@ -59,6 +59,7 @@ approachable than it actually is, and that is a good thing.
 
 #### APL
 * [Patterns and Anti-patterns in APL: Escaping the Beginner's Plateau](https://www.youtube.com/watch?v=9xCJ3BCIudI) [00:59:02] by **Aaron Hsu**
+* [50 Years of APL Datatypes: From Booleans to Hypercomplex Numbers](https://www.youtube.com/watch?v=l3QdKqskcBM) [00:39:21] by **Bob Smith**
 
 #### Bash
 * [The Functional Tao of Bash](https://www.youtube.com/watch?v=yD2ekOEP9sU) [00:48:12] by **Garrett Smith**
