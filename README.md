@@ -168,6 +168,9 @@ approachable than it actually is, and that is a good thing.
 * [Better Code](https://www.youtube.com/watch?v=cK_kftBNgBc) [01:20:00] by **Sean Parent**
 * [A \<chrono\> Tutorial](https://www.youtube.com/watch?v=P32hvk8b13M) [01:00:31] by **Howard Hinnant**
 * [The Nightmare of Move Semantics for Trivial Classes](https://www.youtube.com/watch?v=PNRju6_yn3o) [00:57:15] by **Nicolai Josuttis**
+* **Undefined Behavior in 2017**: This talk has two parts.
+  * [Undefined Behavior in 2017, Part I](https://www.youtube.com/watch?v=v1COuU2vU_w) [00:49:22] by **John Regehr**
+  * [Undefined Behavior in 2017, Part II](https://www.youtube.com/watch?v=TPyLrJED0zQ) [00:49:22] by **John Regehr**
 
 #### Crystal
 * [Introducing the Crystal Programming Language](https://www.youtube.com/watch?v=5QjvGuL4Opo) [00:29:53] by **Will Leinweber**
