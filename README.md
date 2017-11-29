@@ -377,6 +377,7 @@ approachable than it actually is, and that is a good thing.
 
 #### OCaml
 * [Caml Trading](https://www.youtube.com/watch?v=hKcOkWzj0_s) [01:12:43] by **Yaron Minsky**
+* [Why OCaml](https://www.youtube.com/watch?v=v1CmGbOGb2I) [01::06:39] by **Yaron Minsky**
 
 #### Prolog
 * [Production Prolog](https://www.youtube.com/watch?v=G_eYTctGZw8) [00:39:57] by **Michael Hendricks**
