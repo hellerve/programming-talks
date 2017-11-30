@@ -174,6 +174,7 @@ approachable than it actually is, and that is a good thing.
 * [10 Core Guidelines You Need to Start Using Now](https://www.youtube.com/watch?v=XkDEzfpdcSg) [01:02:32] by **Kate Gregory**
 * [Meta: Thoughts on generative C++](https://www.youtube.com/watch?v=4AfRAVcThyA) [01:47:44] by **Herb Sutter**
 * [Rethinking Strings](https://www.youtube.com/watch?v=OMbwbXZWtDM) [01:26:53] by **Mark Zeren**
+* [Postmodern C++](https://www.youtube.com/watch?v=GPP64opjy_Y) [01:27:46] by **Tony Van Eerd**
 
 #### Crystal
 * [Introducing the Crystal Programming Language](https://www.youtube.com/watch?v=5QjvGuL4Opo) [00:29:53] by **Will Leinweber**
