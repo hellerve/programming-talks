@@ -315,6 +315,7 @@ approachable than it actually is, and that is a good thing.
 * [4 JVM Web Frameworks in 40 Minutes](https://www.youtube.com/watch?v=nyz0AVIOTkI) [00:58:38] by **Joe Kutner** (this is actually for a few JVM languages, not only Java)
 * [Optional - The Mother of All Bikesheds](https://www.youtube.com/watch?v=Ej0sss6cq14) [00:58:42] by **Stuart Marks**
 * [A JVM does that???](https://www.youtube.com/watch?v=-vizTDSz8NU) [00:51:58] by **Cliff Click**
+* [g ∘ f patterns](https://www.youtube.com/watch?v=lZG74WbnhoE) [00:50:44] by **Mario Fusco**
 
 #### JavaScript
 (There is a good list of talks about JS to be found [here](https://github.com/bolshchikov/js-must-watch))
