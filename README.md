@@ -176,6 +176,7 @@ approachable than it actually is, and that is a good thing.
 * [Rethinking Strings](https://www.youtube.com/watch?v=OMbwbXZWtDM) [01:26:53] by **Mark Zeren**
 * [Postmodern C++](https://www.youtube.com/watch?v=GPP64opjy_Y) [01:27:46] by **Tony Van Eerd**
 * [Fantastic Algorithms and Where To Find Them](https://www.youtube.com/watch?v=YA-nB2wjVcI) [00:46:57] by **Nicholas Ormrod**
+* [Curiously Recurring C++ Bugs at Facebook](https://www.youtube.com/watch?v=lkgszkPnV8g) [00:52:00] by **Louis Brandy**
 
 #### Crystal
 * [Introducing the Crystal Programming Language](https://www.youtube.com/watch?v=5QjvGuL4Opo) [00:29:53] by **Will Leinweber**
