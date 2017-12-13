@@ -177,6 +177,7 @@ approachable than it actually is, and that is a good thing.
 * [Postmodern C++](https://www.youtube.com/watch?v=GPP64opjy_Y) [01:27:46] by **Tony Van Eerd**
 * [Fantastic Algorithms and Where To Find Them](https://www.youtube.com/watch?v=YA-nB2wjVcI) [00:46:57] by **Nicholas Ormrod**
 * [Curiously Recurring C++ Bugs at Facebook](https://www.youtube.com/watch?v=lkgszkPnV8g) [00:52:00] by **Louis Brandy**
+* [Rethinking Exceptions](https://www.youtube.com/watch?v=OkgvqjJzH_Y) [01:23:17] by **Jason Turner**
 
 #### Crystal
 * [Introducing the Crystal Programming Language](https://www.youtube.com/watch?v=5QjvGuL4Opo) [00:29:53] by **Will Leinweber**
