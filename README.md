@@ -801,6 +801,7 @@ approachable than it actually is, and that is a good thing.
 * [Let's Build a Computer!](https://www.youtube.com/watch?v=uZsiMG7N_B8) [00:29:03] by **Ryan Davis**
 * [The Future of Microprocessors](https://www.youtube.com/watch?v=_9mzmvhwMqw) [00:46:35] by **Sophie Wilson**
 * [A Crash Course in Modern Hardware](https://www.youtube.com/watch?v=OFgxAFdxYAQ) [00:59:20] by **Cliff Click**
+* [eMMC hacking, or: how I fixed long-dead Galaxy S3 phones](https://www.youtube.com/watch?v=OY7OlY0OW2Q) [00:56:07] by **Oran Avraham**
 
 #### Research
 * [How to Give a Great Research Talk](https://www.youtube.com/watch?v=sT_-owjKIbA) [00:58:41] by **Simon Peyton Jones**
