@@ -114,7 +114,7 @@ approachable than it actually is, and that is a good thing.
 * [Data Science in Clojure](https://www.youtube.com/watch?v=omSTAwSjYc8) [00:44:03] by **Soren Macbeth**
 * [Pattern Matching in Clojure](https://www.youtube.com/watch?v=n7aE6k8o_BU) [00:47:02] by **Sean Johnson**
 * [Predicate Dispatch](https://www.youtube.com/watch?v=iCl9rB1tyxo) [00:28:58] by **David Nolen**
-* [Jelly stains. Thoughts on JavaScript, LISP & Play ](https://www.youtube.com/watch?v=AnzMEdC2FDk) [00:19:12] by **David Nolen**
+* [Jelly stains. Thoughts on JavaScript, LISP & Play](https://www.youtube.com/watch?v=AnzMEdC2FDk) [00:19:12] by **David Nolen**
 * [The Next Five Years of ClojureScript](https://www.youtube.com/watch?v=mty0RwkPmE8) [01:00:57] by **David Nolen**
 * [Bare Metal Clojure with clojure.spec](https://www.youtube.com/watch?v=yGko70hIEwk) [00:36:07] by **Michael Reitzenstein**
 * [Live-Coding Mathematics Your First Clojure Proof](https://www.youtube.com/watch?v=5YTCY7wm0Nw) [00:41:54] by **Frederic Peschanski**
@@ -310,7 +310,7 @@ approachable than it actually is, and that is a good thing.
 * [Java 8 Language Capabilities, What's in it for you?](https://www.youtube.com/watch?v=j9nj5dTo54Q) [01:25:28] by **Venkat Subramaniam**
 * [Living in the Matrix with Bytecode Manipulation](https://www.youtube.com/watch?v=39kdr1mNZ_s) [00:55:01] by **Ashley Puls**
 * [JVM Bytecode for Dummies (and the Rest of Us Too) [00:50:34]](https://www.youtube.com/watch?v=rPyqB1l4gko) by **Charles O.o Nutter**
-* [Recursion Schemes](https://www.youtube.com/watch?v=Zw9KeP3OzpU&feature=share) [01:50:29] by **Tim Williams**
+* [Recursion Schemes](https://www.youtube.com/watch?v=Zw9KeP3OzpU) [01:50:29] by **Tim Williams**
 * [Fast as C: How to write really terrible Java](https://vimeo.com/131394615) [00:51:42] by **Charles Oliver Nutter**
 * [Ludicrous Speed: Designing For Performance on the JVM](https://www.youtube.com/watch?v=X1rWgshr3PY) [00:39:54] by **Cliff Moon**
 * [Nashorn: implementing a dynamic language runtime on JVM in 2014](https://www.youtube.com/watch?v=KKaHkkpdHxg) [00::44:32] by **Attila Szegedi**
@@ -507,7 +507,7 @@ approachable than it actually is, and that is a good thing.
 * [What's Next for Scala](https://www.youtube.com/watch?v=qqQNqIy5LdM) [01:15:06] by **Martin Odersky**
 * [Scala Collections: Why Not?](https://www.youtube.com/watch?v=uiJycy6dFSQ) [00:45:42] by **Paul Phillips** (beware: not very optimistic!)
 * [Concurrency Anti-Patterns in Scala](https://www.youtube.com/watch?v=dCEZDlH1ygo) [00:29:53] by **Blake Matheny**
-* [Run free with the monads: Free Monads for fun and profit](https://www.youtube.com/watch?t=11&v=fU8eKoakd6o) [00:22:11] by **Ken Scrambler**
+* [Run free with the monads: Free Monads for fun and profit](https://www.youtube.com/watch?v=fU8eKoakd6o) [00:22:11] by **Ken Scrambler**
 * [Minimizing the Slippery Surface of Failure](https://www.youtube.com/watch?v=26UHdZUsKkE) [00:59:26] by **Jon Pretty**
 * [Simplifying Scala Collections](https://www.youtube.com/watch?v=UBjzbkhvYTU) [00:46:52] by **Bill Venners**
 * [Lawful Asynchronous Programming](https://www.youtube.com/watch?v=B0L91sW3XHw) [01:04:31] by **Daniel Spiewak**
@@ -672,7 +672,7 @@ approachable than it actually is, and that is a good thing.
 * [Exotic Functional Data Structures: Hitchhiker Trees](https://www.youtube.com/watch?v=jdn617M3-P4) [00:40:32] by **David Greenberg**
 * [Parsing Text with a Virtual Machine](https://www.youtube.com/watch?v=9Q--oX5muxw) [00:43:53] by **Ghadi Shayban**
 * [Reasoning about performance (in the context of search)](https://www.youtube.com/watch?v=80LKF2qph6I) [00:29:28] by **Dan Luu**
-* [The simple essence of automatic differentiation](https://www.youtube.com/watch?v=Shl3MtWGu18&feature=youtu.be) [01:01:41] by **Conal Elliott**
+* [The simple essence of automatic differentiation](https://www.youtube.com/watch?v=Shl3MtWGu18) [01:01:41] by **Conal Elliott**
 
 #### Databases
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) [00:54:52] by **Martin Fowler**
