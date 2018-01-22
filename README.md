@@ -128,6 +128,7 @@ approachable than it actually is, and that is a good thing.
 * [Composing music with clojure.spec](https://www.youtube.com/watch?v=404UXttr8kw) [00:46:30] by **Wojciech Franke**
 * [Creating DSLs - A tale of spec tacular success and failure](https://www.youtube.com/watch?v=cO67QNn9hPY) [00:39:46] by **Claire Alvis**
 * [Clarifying Rules Engines with Clara Rules](https://www.youtube.com/watch?v=Q_k5MkZmd-o) [00:37:07] by **Mike Rodriguez**
+* [The Macronomicon](https://www.youtube.com/watch?v=0JXhJyTo5V8) [00:42:02] by **Michael Fogus**
 
 #### C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
