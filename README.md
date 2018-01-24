@@ -831,6 +831,7 @@ approachable than it actually is, and that is a good thing.
 * [Kolmogorov music](https://www.youtube.com/watch?v=Qg3XOfioapI) [00:42:05] by **Cristopher Ford**
 * [It's not what you read, it's what you ignore](https://www.youtube.com/watch?v=IWPgUn8tL8s) [01:01:52] by **Scott Hanselman**
 * [RailsConf 2017: Keynote](https://www.youtube.com/watch?v=GnCJO8Ax1qg) [00:50:31] by **Aaron Patterson**
+* [LIGO: The Dawn of Gravitational Wave Astronomy](https://www.youtube.com/watch?v=qSlwRwFsUOI) [00:56:17] by **Jameson Rollins**
 
 ## Contributing
 
