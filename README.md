@@ -135,7 +135,7 @@ approachable than it actually is, and that is a good thing.
 * [Using C++11 to speed up your Qt 5 programs](http://www.youtube.com/watch?v=sajBj_eiH10) [00:46:47] by **Marc Mutz**
 * [Don't Help the Compiler](https://www.youtube.com/watch?v=AKtHxKJRwp4) [01:17:00] by **Stephan Lavavej**
 * [The Effective C++11/14 Sampler](http://channel9.msdn.com/Events/GoingNative/2013/An-Effective-Cpp11-14-Sampler) [01:15:45] by **Scott Meyers**
-* [The Last Thing D Needs](https://www.youtube.com/watch?v=48kP_Ssg2eY) [00:54:55] by **Scott Meyers**
+* [The Last Thing D Needs](https://www.youtube.com/watch?v=KAWA1DuvCnQ) [00:54:55] by **Scott Meyers**
 * [Support for Embedded Programming in C++11 and C++14](https://www.youtube.com/watch?v=J-tA17slViE) [01:12:52] by **Scott Meyers**
 * [Type Deduction and Why You Care](https://www.youtube.com/watch?v=wQxj20X-tIU) [01:09:34] by **Scott Meyers**
 * [C++ Seasoning](http://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) [01:17:12] by **Sean Parent**
@@ -350,7 +350,7 @@ approachable than it actually is, and that is a good thing.
 * [Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=FAZJsxcykPs) [00:28:39] by **Jafar Husain**
 * [Immutability, interactivity & JavaScript](https://www.youtube.com/watch?v=mS264h8KGwk) [00:26:20] by **David Nolen**
 * [Raw WebGL](https://www.youtube.com/watch?v=H4c8t6myAWU) [00:55:21] by **Nick Desaulniers**
-* [How to effortlessly integrate Three.js into your projects](https://www.youtube.com/watch?v=IlLqMEjinN4) [00:22:00] by **Jason Farrell** (not as technical as the other \*GL talks)
+* [How to effortlessly integrate Three.js into your projects](https://www.youtube.com/watch?v=748A2ohUMEg) [00:22:00] by **Jason Farrell** (not as technical as the other \*GL talks)
 * [Classical Inheritance is Obsolete - How to Think in Prototypal OO](https://vimeo.com/69255635) [00:43:18] by **Eric Elliott**
 * [Reactive Game Development For The Discerning Hipster](https://www.youtube.com/watch?v=x8mmAu7ZR9Y) [00:31:06] by **Bodil Stokke**
 * [Angular + React = Speed](https://www.youtube.com/watch?v=XQM0K6YG18s) [00:19:27] by **Dave Smith**
@@ -524,7 +524,7 @@ approachable than it actually is, and that is a good thing.
 * [Barliman: trying the halting problem backwards, blindfolded](https://www.youtube.com/watch?v=er_lLvkklsk) [00:36:13] by **William Byrd & Greg Rosenblatt**
 
 #### Swift
-* [Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=TlvLGTXn_gk) [00:41:19] by **J.P. Simard**
+* [Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=nvHFin89pXY) [00:41:19] by **J.P. Simard**
 * [Thinking in Swift](http://vimeo.com/105440181) [00:24:23] by **Abizer Nasir**
 * [Controlling Complexity in Swift — or — Making Friends with Value Types](https://realm.io/news/andy-matuschak-controlling-complexity/) [57:45] by **Andy Matuschak**
 
@@ -776,7 +776,7 @@ approachable than it actually is, and that is a good thing.
 #### Machine Learning
 * [Neural Nets for Newbies](https://www.youtube.com/watch?v=g-BJSl4zV_g) [00:30:57] by **Melanie Warrick**
 * [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) [01:07:24] by **Yann LeCun**
-* [Automatic Algorithm Invention with a GPU](https://youtu.be/xQDazGrKsuM) [01:02:04] by **Wesley Faler**
+* [Automatic Algorithm Invention with a GPU](https://youtu.be/tQvFZVlM2Gk) [01:02:04] by **Wesley Faler**
 * [From the Lab to the Factory: Building a Production Machine Learning Infrastructure](https://www.youtube.com/watch?v=v-91JycaKjc) [01:04:27] by **Josh Wills**
 * [The Unreasonable Effectiveness of Data](https://www.youtube.com/watch?v=yvDCzhbjYWs) [01:02:56] by **Peter Norvig**
 * [Machine learning is not the future](https://www.youtube.com/watch?v=3dXQxSI3XDY) [00:38:59] by **Rajat Monga**
