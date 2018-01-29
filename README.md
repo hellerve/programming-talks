@@ -517,6 +517,7 @@ approachable than it actually is, and that is a good thing.
 * [Evolving Functional Programming Languages](https://www.youtube.com/watch?v=sBXF8SG_XNw) [00:40:59] by **Erik Osheim**
 * [The Dialectics of Type-Level Programming](https://www.youtube.com/watch?v=0wxGrf8toWk) [00:41:04] by **Aaron Levin**
 * [Move Over Free Monads: Make Way for Free Applicatives!](https://www.youtube.com/watch?v=H28QqxO7Ihc) [00:45:29] by **John de Goes**
+* [Principles for Modular, Functional, Approachable Libraries](https://www.youtube.com/watch?v=iKyIKozv8a8) [01:32:44] by **Erik Osheim** (2015)
 
 #### Scheme
 * [miniKanren](https://www.youtube.com/watch?v=5Q9x16uIsKA) [00:46:23] by **Dan Friedman & William Byrd**
