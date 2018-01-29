@@ -66,7 +66,7 @@ approachable than it actually is, and that is a good thing.
 
 #### C
 * [Advanced C Coding For Fun!](https://www.youtube.com/watch?v=BEQ3sRakIs0) [00:46:53] by **Rusty Russell**
-* [Writing application fault handlers](http://free-electrons.com/pub/video/2008/ols/ols2008-gilad-ben-yossef-fault-handlers.ogg) [00:49:03] by **Gilad Ben-Yossef**
+* [Writing application fault handlers](http://free-electrons.com/pub/video/2008/ols/ols2008-gilad-ben-yossef-fault-handlers.ogg) [00:49:03] by **Gilad Ben-Yossef** (2008)
 
 #### Clojure
 * [Expert to Expert - Inside Clojure](https://www.youtube.com/watch?v=wASCH_gPnDw) [00:53:56] by **Rich Hickey & Brian Beckman** (it's not so much a talk as a conversation; awesome for beginners)
@@ -134,11 +134,11 @@ approachable than it actually is, and that is a good thing.
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski**
 * [Using C++11 to speed up your Qt 5 programs](http://www.youtube.com/watch?v=sajBj_eiH10) [00:46:47] by **Marc Mutz**
 * [Don't Help the Compiler](https://www.youtube.com/watch?v=AKtHxKJRwp4) [01:17:00] by **Stephan Lavavej**
-* [The Effective C++11/14 Sampler](http://channel9.msdn.com/Events/GoingNative/2013/An-Effective-Cpp11-14-Sampler) [01:15:45] by **Scott Meyers**
+* [The Effective C++11/14 Sampler](http://channel9.msdn.com/Events/GoingNative/2013/An-Effective-Cpp11-14-Sampler) [01:15:45] by **Scott Meyers** (2013)
 * [The Last Thing D Needs](https://www.youtube.com/watch?v=KAWA1DuvCnQ) [00:54:55] by **Scott Meyers**
 * [Support for Embedded Programming in C++11 and C++14](https://www.youtube.com/watch?v=J-tA17slViE) [01:12:52] by **Scott Meyers**
 * [Type Deduction and Why You Care](https://www.youtube.com/watch?v=wQxj20X-tIU) [01:09:34] by **Scott Meyers**
-* [C++ Seasoning](http://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) [01:17:12] by **Sean Parent**
+* [C++ Seasoning](http://channel9.msdn.com/Events/GoingNative/2013/Cpp-Seasoning) [01:17:12] by **Sean Parent** (2013)
 * [Efficiency with Algorithms, Performance with Data](https://www.youtube.com/watch?v=fHNmRkzxHWs) [01:13:41] by **Chandler Carruth**
 * [Back to the Basics! Essentials of Modern C++ Style](https://www.youtube.com/watch?v=xnqTKD8uD64) [01:40:27] by **Herb Sutter**
 * **Lock-Free Programming (or, Juggling Razor Blades)**: This talk has two parts. I recommend taking a short break after watching the first part.
@@ -151,7 +151,7 @@ approachable than it actually is, and that is a good thing.
 * [C++11 Style - A Touch of Class](https://www.youtube.com/watch?v=0iWb_qi2-uI) [01:29:48] by **Bjarne Stroustrup**
 * [Plain Threads are the GOTO of todays computing](https://www.youtube.com/watch?v=4OCUEgSNIAY) [01:27:36] by **Hartmut Kaiser**
 * [Scaling with C++11](https://www.youtube.com/watch?v=Zrq9Mxllk74) [01:18:27] by **Edouard Alligand**
-* [On Static If, C++11 in 2012, Modern Libraries, and Metaprogramming](http://channel9.msdn.com/Shows/Going+Deep/Alexandrescu-Meyers-Sutter-On-Static-If-C11-in-2012-Modern-Libraries-and-Metaprogramming) [00:53:15] by **Andrei Alexandrescu, Scott Meyers & Herb Sutter**
+* [On Static If, C++11 in 2012, Modern Libraries, and Metaprogramming](http://channel9.msdn.com/Shows/Going+Deep/Alexandrescu-Meyers-Sutter-On-Static-If-C11-in-2012-Modern-Libraries-and-Metaprogramming) [00:53:15] by **Andrei Alexandrescu, Scott Meyers & Herb Sutter** (2012)
 * [Pragmatic Type Erasure: Solving OOP Problems with Elegant Design Pattern](https://www.youtube.com/watch?v=0I0FD3N5cgM) [00:43:47] by **Zach Laine**
 * [Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!](https://www.youtube.com/watch?v=nXaxk27zwlk) [01:29:53] by **Chandler Carruth**
 * [C++ on Mars: Incorporating C++ into Mars Rover Flight Software](https://www.youtube.com/watch?v=3SdSKZFoUa8) [01:26:18] by **Mark Maimone**
@@ -170,8 +170,8 @@ approachable than it actually is, and that is a good thing.
 * [A \<chrono\> Tutorial](https://www.youtube.com/watch?v=P32hvk8b13M) [01:00:31] by **Howard Hinnant**
 * [The Nightmare of Move Semantics for Trivial Classes](https://www.youtube.com/watch?v=PNRju6_yn3o) [00:57:15] by **Nicolai Josuttis**
 * **Undefined Behavior in 2017**: This talk has two parts.
-  * [Undefined Behavior in 2017, Part I](https://www.youtube.com/watch?v=v1COuU2vU_w) [00:49:22] by **John Regehr**
-  * [Undefined Behavior in 2017, Part II](https://www.youtube.com/watch?v=TPyLrJED0zQ) [00:49:22] by **John Regehr**
+  * [Undefined Behavior in 2017, Part I](https://www.youtube.com/watch?v=v1COuU2vU_w) [00:49:22] by **John Regehr** (2017)
+  * [Undefined Behavior in 2017, Part II](https://www.youtube.com/watch?v=TPyLrJED0zQ) [00:49:22] by **John Regehr** (2017)
 * [10 Core Guidelines You Need to Start Using Now](https://www.youtube.com/watch?v=XkDEzfpdcSg) [01:02:32] by **Kate Gregory**
 * [Meta: Thoughts on generative C++](https://www.youtube.com/watch?v=4AfRAVcThyA) [01:47:44] by **Herb Sutter**
 * [Rethinking Strings](https://www.youtube.com/watch?v=OMbwbXZWtDM) [01:26:53] by **Mark Zeren**
@@ -193,14 +193,14 @@ approachable than it actually is, and that is a good thing.
 * [Your Very Own Component Library](https://www.youtube.com/watch?v=zSYo7m5kGHQ) [00:20:04] by **Alex Sexton**
 
 #### D
-* [High Performance Code Using D](https://archive.org/details/dconf2014-day03-talk01) [01:03:24] by **Walter Bright**
+* [High Performance Code Using D](https://archive.org/details/dconf2014-day03-talk01) [01:03:24] by **Walter Bright** (2014)
 * [Refactoring JIT Compilation](https://www.youtube.com/watch?v=FGgFMZhnXvU) [00:43:57] by **Maxime Chevalier-Boisvert**
 * [SDC, a D Compiler as a Library](https://www.youtube.com/watch?v=AhR4PSExnqk) [00:48:37] by **Amaury Sechet**
 
 #### Elixir
-* [Think Different](http://www.confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different) [00:55:47] by **Dave Thomas**
+* [Think Different](http://www.confreaks.com/videos/4119-elixirconf2014-opening-keynote-think-different) [00:55:47] by **Dave Thomas** (2014)
 * [Elixir: The Power of Erlang, the Joy of Ruby](https://www.youtube.com/watch?v=lww1aZ-ldz0) [00:49:42] by **Dave Thomas**
-* [elixir Conf 2014 Keynote](https://www.youtube.com/watch?v=aZXc11eOEpI) [00:59:32] by **Jose Valim**
+* [elixir Conf 2014 Keynote](https://www.youtube.com/watch?v=aZXc11eOEpI) [00:59:32] by **Jose Valim** (2014)
 * [Phoenix - Productive. Reliable. Fast.](https://youtu.be/STO-uN0xHDQ) [00:45:19] by **Chris McCord**
 * [New Heights](https://www.youtube.com/watch?v=E6RTBlO9TZQ) [00:48:42] by **Chris McCord**
 * [Learn Elixir: Building a Neural Network from Scratch](https://www.youtube.com/watch?v=YE0h9DURSOo) [00:32:26] by **Karmen Blake**
@@ -833,8 +833,9 @@ approachable than it actually is, and that is a good thing.
 * [Juggling Patterns and Programs](https://www.youtube.com/watch?v=TqG176T69VM) [00:48:50] by **Steve Miner**
 * [Kolmogorov music](https://www.youtube.com/watch?v=Qg3XOfioapI) [00:42:05] by **Cristopher Ford**
 * [It's not what you read, it's what you ignore](https://www.youtube.com/watch?v=IWPgUn8tL8s) [01:01:52] by **Scott Hanselman**
-* [RailsConf 2017: Keynote](https://www.youtube.com/watch?v=GnCJO8Ax1qg) [00:50:31] by **Aaron Patterson**
-* [LIGO: The Dawn of Gravitational Wave Astronomy](https://www.youtube.com/watch?v=qSlwRwFsUOI) [00:56:17] by **Jameson Rollins**
+* [RailsConf 2017: Keynote](https://www.youtube.com/watch?v=GnCJO8Ax1qg) [00:50:31] by **Aaron Patterson** (2017)
+* [LIGO: The Dawn of Gravitational Wave Astronomy](https://www.youtube.com/watch?v=qSlwRwFsUOI) [00:56:17] by **Jameson Rollins** (2016)
+* [A Programmer’s Guide To Western Music](https://www.youtube.com/watch?v=xpSYWd_aIiI) [00:42:13] by **Andrew Sorensen** (2015)
 
 ## Contributing
 
