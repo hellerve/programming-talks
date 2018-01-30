@@ -750,6 +750,7 @@ approachable than it actually is, and that is a good thing.
 * [C10M - Defending The Internet At Scale](https://youtu.be/73XNtI0w7jA) [00:47:53] by **Robert Graham**
 * [Upgrading the Web](https://www.youtube.com/watch?v=6UTWAEJlhww) [00:41:19] by **Douglas Crockford**
 * [The Website Obesity Crisis](https://vimeo.com/147806338) [00:53:10] by **Maciej Ceglowski**
+* [Implementing and Using GraphQL at GitHub](https://www.youtube.com/watch?v=wPPFhcqGcvk) [00:38:55] by **Kyle Daigle & Dan Schafer** (2016)
 
 #### System Architecture
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) [00:28:06] by **Fred Hebert**
