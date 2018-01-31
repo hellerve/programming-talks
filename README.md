@@ -600,7 +600,6 @@ approachable than it actually is, and that is a good thing.
 * [One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w) [00:55:36] by **Erik Meijer**
 * [Apparatus: A Hybrid Graphics Editor / Programming Environment](https://www.youtube.com/watch?v=i3Xack9ufYk) [00:37:56] by **Toby Schachman**
 * [Microservices @ Spotify](https://www.youtube.com/watch?v=7LGPeBgNFuU) [00:49:07] by **Kevin Goldsmith**
-* [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) [00:50:17] by **Martin Thompson**
 * [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) [00:38:46] by **Sandi Metz**
 * [Get a Whiff of This](https://www.youtube.com/watch?v=PJjHfa5yxlU) [00:38:14] by **Sandi Metz**
 * [Conceptualizing Large Software Systems](https://www.youtube.com/watch?v=2T6Prj82adg) [00:17:17] by **Alan Shreve**
@@ -822,6 +821,10 @@ approachable than it actually is, and that is a good thing.
 #### Entrepreneurship
 * [How to Build a Product (Part IV)](https://www.startupschool.org/videos/8) [00:51:24] by **Jan Koum**
 * [How and Why to Start A Startup](https://www.startupschool.org/videos/1) [00:44:42] by **Sam Altman & Dustin Moskovitz**
+
+#### Performance Engineering
+* [Xi: an editor for the next 20 years](https://www.recurse.com/events/localhost-raph-levien) [00:53:20] by **Raph Levien** (2018)
+* [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) [00:50:17] by **Martin Thompson** (2015)
 
 #### Misc
 * [How To Shut Down Tolkien](https://www.youtube.com/watch?v=qVlqBxpCG24) [00:42:41] by **Brandon Rhodes**
