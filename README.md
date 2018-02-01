@@ -725,7 +725,7 @@ approachable than it actually is, and that is a good thing.
 * [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) [00:51:20] by **Janne Jul Jensen**
 * [We Will All Be Game Programmers](https://www.youtube.com/watch?v=avwDj3KRuLc) [00:29:34] by **Hunter Loftis**
 * [Practical UI physics](https://www.youtube.com/watch?v=90oMnMFozEE) [00:34:12] by **David DeSandro**
-* [Choosing Features](https://www.deconstructconf.com/2017/kevin-lynagh-choosing-features) [00:23:52] by **Kevin Lynagh**
+* [Choosing Features](https://www.deconstructconf.com/2017/kevin-lynagh-choosing-features) [00:23:52] by **Kevin Lynagh** (2017)
 
 #### Web Development
 * [Go To There and Back Again](http://vimeo.com/78893726) [00:49:06] by **Douglas Crockford**
