@@ -707,6 +707,7 @@ approachable than it actually is, and that is a good thing.
 * [The Essence and Origins of Functional Reactive Programming](https://www.youtube.com/watch?v=j3Q32brCUAI) [00:59:24] by **Conal Elliott**
 * [A More Elegant Specification for FRP](https://www.youtube.com/watch?v=teRC_Lf61Gw) [00:29:54] by **Conal Elliott**
 * [Denotational Design: From Meanings To Programs](https://www.youtube.com/watch?v=bmKYiUOEo2A) [02:20:35] by **Conal Elliott**
+* [Evolving Functional Programming Languages](https://www.youtube.com/watch?v=sBXF8SG_XNw) by **Erik Osheim** (2017)
 
 #### Computer Graphics
 * [Principles of Lighting and Rendering](https://www.youtube.com/watch?v=IyUgHPs86XM) [01:31:00] by **John Carmack**
