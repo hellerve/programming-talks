@@ -647,6 +647,7 @@ approachable than it actually is, and that is a good thing.
 * [What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid](https://www.youtube.com/watch?v=bSkpMdDe4g4) [01:15:45] by **Matt Godbolt**
 * [What I learned from LuaJIT](https://www.youtube.com/watch?v=EaLboOUG9VQ) [01:15:42] by **Vyacheslav Egorov**
 * [Datafun: A Functional Datalog](https://www.youtube.com/watch?v=p_26-yTUlCU) [00:24:38] by **Michael Arntzenius**
+* [Datafun: a functional query language](https://www.youtube.com/watch?v=gC295d3V9gE) [00:42:30] by **Michael Arntzenius**
 
 #### Programming Language Design
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) [00:43:46] by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it)
@@ -754,7 +755,7 @@ approachable than it actually is, and that is a good thing.
 * [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) [00:42:59] by **Gil Tene**
 * [C10M - Defending The Internet At Scale](https://youtu.be/73XNtI0w7jA) [00:47:53] by **Robert Graham**
 * [Upgrading the Web](https://www.youtube.com/watch?v=6UTWAEJlhww) [00:41:19] by **Douglas Crockford**
-* [The Website Obesity Crisis](https://vimeo.com/147806338) [00:53:10] by **Maciej Ceglowski**
+* [The Website Obesity Crisis](https://www.youtube.com/watch?v=iYpl0QVCr6U) [00:53:19] by **Maciej Ceglowski** (2015)
 * [Implementing and Using GraphQL at GitHub](https://www.youtube.com/watch?v=wPPFhcqGcvk) [00:38:55] by **Kyle Daigle & Dan Schafer** (2016)
 
 #### System Architecture
