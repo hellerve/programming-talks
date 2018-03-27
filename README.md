@@ -608,6 +608,9 @@ approachable than it actually is, and that is a good thing.
 #### Wolfram Language
 * [Inside the Wolfram Language](https://www.youtube.com/watch?v=EjCWdsrVcBM) [01:08:53] by **Stephen Wolfram** (2014)
 
+#### Zig
+* [Zig – a programming language designed for robustness, optimality, and clarity](https://www.recurse.com/events/localhost-andrew-kelley) [00:54:13] by **Andrew Kelley** (2018)
+
 #### Miscellaneous
 * [WAT](https://www.destroyallsoftware.com/talks/wat) [00:04:17] by **Gary Bernhardt**
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:29:16] by **Gary Bernhardt**
