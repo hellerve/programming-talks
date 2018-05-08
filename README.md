@@ -639,6 +639,7 @@ approachable than it actually is, and that is a good thing.
 * [Idée Fixe](https://www.youtube.com/watch?v=lzXHMy4ewtM) [00:39:36] by **David Nolen** (2017)
 * [Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk) [00:23:02] by **Tim Holman** (2018)
 * [Humanizing among coders](https://www.youtube.com/watch?v=npyB5Oz-v-I) [00:41:15] by **Ana Balica** (2016)
+* [Crossing the River by Feeling the Stones](https://www.youtube.com/watch?v=ek0aWj_rWYs) [00:55:30] by **Simon Wardley** (2017)
 
 #### Thoughts on Languages
 * [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) [01:07:03] by **Scott Meyers** (2014)
@@ -686,7 +687,6 @@ approachable than it actually is, and that is a good thing.
 * [Boundaries](https://youtu.be/eOYal8elnZk) [00:30:19] by **Gary Bernhardt** (2015)
 * [Requests Under The Hood](https://www.youtube.com/watch?v=ptbCIvve6-k) [00:31:37] by **Cory Benfield** (2017)
 * [The Post JavaScript Apocalypse](https://www.youtube.com/watch?v=99Zacm7SsWQ) [00:54:12] by **Douglas Crockford** (2017)
-* [Crossing the River by Feeling the Stones](https://www.youtube.com/watch?v=ek0aWj_rWYs) [00:55:30] by **Simon Wardley** (2017)
 
 #### Debugging
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway** (2015)
