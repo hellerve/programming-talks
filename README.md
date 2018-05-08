@@ -1,7 +1,7 @@
 # Programming Talks
 
 I watch a lot of talks that I love to share with my friends, fellows and coworkers.
-As I consider all Githubbers my friends (oh yeah!), I decided it's time to share the
+As I consider all GitHubbers my friends (oh yeah!), I decided it's time to share the
 list.
 
 There are talks on programming languages specifics as well as a more general section I call "theory".
