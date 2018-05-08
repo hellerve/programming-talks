@@ -639,6 +639,7 @@ approachable than it actually is, and that is a good thing.
 * [Idée Fixe](https://www.youtube.com/watch?v=lzXHMy4ewtM) [00:39:36] by **David Nolen** (2017)
 * [Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk) [00:23:02] by **Tim Holman** (2018)
 * [Humanizing among coders](https://www.youtube.com/watch?v=npyB5Oz-v-I) [00:41:15] by **Ana Balica** (2016)
+* [Crossing the River by Feeling the Stones](https://www.youtube.com/watch?v=ek0aWj_rWYs) [00:55:30] by **Simon Wardley** (2017)
 
 #### Thoughts on Languages
 * [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) [01:07:03] by **Scott Meyers** (2014)
