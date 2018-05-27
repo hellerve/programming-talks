@@ -362,6 +362,7 @@ approachable than it actually is, and that is a good thing.
 * [Next Level MTL](https://www.youtube.com/watch?v=GZPup5Iuaqw) [00:44:36] by **George Wilson** (2015)
 * [What are Types for, or are they only Against?](https://www.youtube.com/watch?v=3U3lV5VPmOU) [01:03:37] by **Conor McBride** (2016)
 * [Escape from the ivory tower: the Haskell journey](https://www.youtube.com/watch?v=re96UgMk6GQ) [01:04:15] by **Simon Peyton-Jones** (2017)
+* [Suggesting Valid Substitutions For Typed Holes](https://www.youtube.com/watch?v=pDgshr-oc14) [00:41:36] by **Matthías Páll Gissurarson** (2018)
 
 #### Idris
 * [Type-Driven Development in Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ) [00:46:35] by **Edwin Brady** (2015)
