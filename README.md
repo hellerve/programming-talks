@@ -666,7 +666,7 @@ approachable than it actually is, and that is a good thing.
 * [CPU Caches and Why You care](https://vimeo.com/97337258) [01:01:55] by **Scott Meyers** (written in C++, reasonable for almost every software developer) (2014)
 * [Things that Matter](https://www.youtube.com/watch?v=RT46MpK39rQ) [01:06:36] by **Scott Meyers** (2017)
 * [Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) [00:59:51] by **Leslie Lamport** (2014)
-* [I have a good feeling about this - Why tooling is poised to make the jump to hyperspace](https://vimeo.com/76141334) [00:43:15] by **Reginald Braithwaite**
+* [I have a good feeling about this. Why tooling is poised to make the jump to hyperspace](https://www.youtube.com/watch?v=Re2SKhaK73I) [00:43:14] by **Reginald Braithwaite**
 * [The Not-So-Big Software Design](https://www.youtube.com/watch?v=arsK-CN5YDg) [00:47:31] by **Reginald Braithwaite** (2013)
 * [The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o) [00:43:50] by **Alan Kay** (2014)
 * [The S.O.L.I.D. Principles of Agile OO Design](https://www.youtube.com/watch?v=QHnLmvDxGTY) [01:23:35] by **Robert C. Martin** (way more interesting than it sounds) (2014)
