@@ -866,6 +866,7 @@ approachable than it actually is, and that is a good thing.
 * [From the Lab to the Factory: Building a Production Machine Learning Infrastructure](https://www.youtube.com/watch?v=v-91JycaKjc) [01:04:27] by **Josh Wills** (2014)
 * [The Unreasonable Effectiveness of Data](https://www.youtube.com/watch?v=yvDCzhbjYWs) [01:02:56] by **Peter Norvig** (2011)
 * [Machine learning is not the future](https://www.youtube.com/watch?v=3dXQxSI3XDY) [00:38:59] by **Rajat Monga** (2016)
+* [Building the Software 2.0 Stack](https://www.figure-eight.com/building-the-software-2-0-stack-by-andrej-karpathy-from-tesla/) [00:30:08] by **Andrej Karpathy** (2018)
 
 #### Creative Coding
 * [Programming In Time - Live Coding for Creative Performances](https://www.youtube.com/watch?v=Sg2BjFQnr9s) [00:47:03] by **Andrew Sorensen** (2014)
