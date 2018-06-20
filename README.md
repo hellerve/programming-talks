@@ -791,6 +791,7 @@ approachable than it actually is, and that is a good thing.
 * [A More Elegant Specification for FRP](https://www.youtube.com/watch?v=teRC_Lf61Gw) [00:29:54] by **Conal Elliott** (2015)
 * [Denotational Design: From Meanings To Programs](https://www.youtube.com/watch?v=bmKYiUOEo2A) [02:20:35] by **Conal Elliott** (2015)
 * [Evolving Functional Programming Languages](https://www.youtube.com/watch?v=sBXF8SG_XNw) by **Erik Osheim** (2017)
+* [Railway oriented programming: Error handling in functional languages](https://vimeo.com/113707214) by **Scott Wlaschin** (2014)
 
 #### Computer Graphics
 * [Principles of Lighting and Rendering](https://www.youtube.com/watch?v=IyUgHPs86XM) [01:31:00] by **John Carmack** (2013)
