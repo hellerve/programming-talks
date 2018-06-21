@@ -748,6 +748,7 @@ approachable than it actually is, and that is a good thing.
 #### Data Science
 * [Data as Software as Data](https://www.youtube.com/watch?v=LOMk8TD6l5k) [00:40:27] by **Andrea Burbank** (2016)
 * [Expressing complex data aggregations with Histogrammar](https://www.youtube.com/watch?v=mB4Chl0ly-g) [00:35:02] by **Jim Pivarski** (2016)
+* [You can't do data science in a GUI](https://www.youtube.com/watch?v=cpbtcsGE0OA) [01:15:18] by **Hadley Wickham** (2018)
 
 #### Data Structures & Algorithms
 * [Hash Functions and You: Partners in Freedom](https://www.youtube.com/watch?v=IGwNQfjLTp0) [00:27:06] by **Curtis Lassam** (2015)
