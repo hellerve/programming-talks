@@ -67,7 +67,7 @@ approachable than it actually is, and that is a good thing.
     * [Elixir](#elixir)
     * [Elm](#elm)
     * [Erlang](#erlang)
-    * [F#](#f#)
+    * [F#](#f)
     * [Frege](#frege)
     * [Go](#go)
     * [Haskell](#haskell)
