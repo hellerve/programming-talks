@@ -438,6 +438,7 @@ approachable than it actually is, and that is a good thing.
 * [Immutable Data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI) [00:31:10] by **Lee Byron** (2015)
 * [The first ever presentation on Node.js](https://www.youtube.com/watch?v=ztspvPYybIY) [00:48:31] by **Ryan Dahl** (2012)
 * [A Cartoon Intro to WebAssembly](https://www.youtube.com/watch?v=HktWin_LPf4) [00:29:40] by **Lin Clark** (2017)
+* [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) [00:29:56] by **Anjana Vakil** (2016)
 
 #### Julia
 * [Python and Julia. Why do we need another language?](https://www.youtube.com/watch?v=6Q1OiMsik5g) [00:26:19] by **Dwight J. Browne** (2014)
