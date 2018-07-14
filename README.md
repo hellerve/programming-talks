@@ -51,6 +51,11 @@ developer of both Ruby and Rails, he works close to the heart of the Ruby commun
 in Java, you owe that to him. If you use Haskell and/or monads, you probably already know him,
 but in case you do not, try to change that fact. He makes theoretical computer science more
 approachable than it actually is, and that is a good thing.
+* **Zach Tellman** (Clojure, Theory): Another person in the Clojure landscape
+with interesting, important insights that do not only apply to Clojure. His
+talks on theory should inspire you to think more deeply about what you are
+doing, which is probably the most important thing to take away from anything
+ever.
 
 ### Contents
 
@@ -645,6 +650,7 @@ approachable than it actually is, and that is a good thing.
 * [Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk) [00:23:02] by **Tim Holman** (2018)
 * [Humanizing among coders](https://www.youtube.com/watch?v=npyB5Oz-v-I) [00:41:15] by **Ana Balica** (2016)
 * [Crossing the River by Feeling the Stones](https://www.youtube.com/watch?v=ek0aWj_rWYs) [00:55:30] by **Simon Wardley** (2017)
+* [On Abstraction](https://www.youtube.com/watch?v=x9pxbnFC4aQ) [01:00:02] by **Zach Tellman** (2017)
 
 #### Thoughts on Languages
 * [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) [01:07:03] by **Scott Meyers** (2014)
