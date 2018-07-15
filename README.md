@@ -706,6 +706,7 @@ ever.
 
 #### Security
 * [Breaking The x86 Instruction Set](https://www.youtube.com/watch?v=KrksBdWcZgQ) [00:44:28] by **Christoper Domas** (2017)
+* [Boot strapping slightly more secure systems](https://media.ccc.de/v/33c3-8314-bootstraping_a_slightly_more_secure_laptop/oembed) [00:47:43] by **Trammell Hudson**
 
 #### Compilers/Interpreters
 * [Parsing with Derivatives](https://www.youtube.com/watch?v=ZzsK8Am6dKU) [01:13:10] by **Matthew Might** (2011)
