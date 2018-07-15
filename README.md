@@ -533,6 +533,7 @@ ever.
 * [Grok the GIL - Write Fast And Thread Safe Python](https://www.youtube.com/watch?v=7SSYhuk5hmc) [00:41:29] by **A. Jesse Jiryu Davis** (2017)
 * [The Python Visualization Landscape](https://www.youtube.com/watch?v=FytuB8nFHPQ) [00:33:30] by **Jake VanderPlas** (2017)
 * [What Does It Take To Be An Expert At Python?](https://www.youtube.com/watch?v=7lmCu8wz8ro) [01:52:02] by **James Powell** (2017)
+* [Understanding Python Bytecode](https://www.youtube.com/watch?v=_w3a1ledmVE) [00:29:44] by **James Bennett** (2018)
 
 #### Racket
 * [Generic Collections: One Interface to Rule Them All](https://www.youtube.com/watch?v=JUD_JwG0alg) [00:18:26] by **Alexis King** (2015)
