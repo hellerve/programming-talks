@@ -258,6 +258,7 @@ ever.
 * [Curiously Recurring C++ Bugs at Facebook](https://www.youtube.com/watch?v=lkgszkPnV8g) [00:52:00] by **Louis Brandy** (2017)
 * [Rethinking Exceptions](https://www.youtube.com/watch?v=OkgvqjJzH_Y) [01:23:17] by **Jason Turner** (2017)
 * [Modern C++ in Embedded Systems](https://www.youtube.com/watch?v=c9Xt6Me3mJ4) [01:30:39] by **Michael Caisse** (2018)
+* [-Os matters](https://www.youtube.com/watch?v=vGV5u1nxqd8) [00:44:12] by **Mark Zeren** (2018)
 
 #### Crystal
 * [Introducing the Crystal Programming Language](https://www.youtube.com/watch?v=5QjvGuL4Opo) [00:29:53] by **Will Leinweber** (2016)
