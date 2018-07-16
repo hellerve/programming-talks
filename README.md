@@ -62,6 +62,7 @@ ever.
 * [On Programming Languages](#on-programming-languages)
     * [Alpaca](#alpaca)
     * [APL](#apl)
+    * [Assembly](#assembly)
     * [Bash](#bash)
     * [C](#c)
     * [Clojure](#clojure)
@@ -134,6 +135,9 @@ ever.
 #### APL
 * [Patterns and Anti-patterns in APL: Escaping the Beginner's Plateau](https://www.youtube.com/watch?v=9xCJ3BCIudI) [00:59:02] by **Aaron Hsu** (2017)
 * [50 Years of APL Datatypes: From Booleans to Hypercomplex Numbers](https://www.youtube.com/watch?v=l3QdKqskcBM) [00:39:21] by **Bob Smith** (2016)
+
+#### Assembly
+* [Enough x86 Assembly to Be Dangerous](https://www.youtube.com/watch?v=IfUPkUAEwrk) [00:30:58] by **Charles Bailey** (2017)
 
 #### Bash
 * [The Functional Tao of Bash](https://www.youtube.com/watch?v=yD2ekOEP9sU) [00:48:12] by **Garrett Smith** (2015)
