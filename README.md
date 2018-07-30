@@ -708,6 +708,7 @@ ever.
 * [Requests Under The Hood](https://www.youtube.com/watch?v=ptbCIvve6-k) [00:31:37] by **Cory Benfield** (2017)
 * [The Post JavaScript Apocalypse](https://www.youtube.com/watch?v=99Zacm7SsWQ) [00:54:12] by **Douglas Crockford** (2017)
 * [Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) by **Robert C. Martin** (2011)
+* [You're Insufficiently Persuasive](https://www.youtube.com/watch?v=VzWLGMtXflg) by **Sandi Metz** (2017)
 
 #### Debugging
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway** (2015)
