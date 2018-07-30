@@ -374,6 +374,7 @@ ever.
 * [What are Types for, or are they only Against?](https://www.youtube.com/watch?v=3U3lV5VPmOU) [01:03:37] by **Conor McBride** (2016)
 * [Escape from the ivory tower: the Haskell journey](https://www.youtube.com/watch?v=re96UgMk6GQ) [01:04:15] by **Simon Peyton-Jones** (2017)
 * [Suggesting Valid Substitutions For Typed Holes](https://www.youtube.com/watch?v=pDgshr-oc14) [00:41:36] by **Matthías Páll Gissurarson** (2018)
+* [The Road to Running Haskell at Facebook Scale](https://www.youtube.com/watch?v=sl2zo7tzrO8) [00:43:36] by **Jon Coens** (2015)
 
 #### Idris
 * [Type-Driven Development in Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ) [00:46:35] by **Edwin Brady** (2015)
