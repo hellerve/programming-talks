@@ -842,7 +842,7 @@ ever.
 * [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) [00:21:40] by **Chris Williams** (2013)
 * [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) [00:27:26] by **Chris Williams** (2013)
 * [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) [00:32:07] by **James Mickens** (2014)
-* [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) [00:25:57] by **Scott Hanselmann** (2014)
+* [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) [00:25:57] by **Scott Hanselman** (2014)
 * [HTML5 Boilerplate](https://www.youtube.com/watch?v=qyM37XKkmKQ) [01:04:20] by **Paul Irish** (2011)
 * [Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw) [00:23:25] by **Paul Irish** (2014)
 * [Parallax Performance](https://www.youtube.com/watch?v=R6TXuXV1bbY) [00:32:01] by **Paul Irish** (2014)
