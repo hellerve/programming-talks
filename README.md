@@ -461,6 +461,7 @@ ever.
 * [The Two Cultures of Programming](https://www.youtube.com/watch?v=C3iR_PknlFc) [00:29:40] by **Joshua Ballanco** (2016)
 * [Machine Code](https://www.youtube.com/watch?v=ErGi9sNgUjw) [00:38:11] by **Jameson Nash** (2016)
 * [Introduction to Writing High Performance Julia (Workshop)](https://www.youtube.com/watch?v=szE4txAD8mk) [02:48:30] by **Arch D. Robison** (2016)
+* [Julia as a platform for language development](https://www.youtube.com/watch?v=BBUrQId0HhQ) [00:28:20] by **Jamie Brandon** (2018)
 
 #### Lisp
 * [Lisp](https://www.youtube.com/watch?v=FRaNUsiD_BA) [00:56:00] by **Igor Wiedler** (2014)
