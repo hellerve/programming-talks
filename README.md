@@ -789,6 +789,7 @@ ever.
 * [Parsing Text with a Virtual Machine](https://www.youtube.com/watch?v=9Q--oX5muxw) [00:43:53] by **Ghadi Shayban** (2016)
 * [Reasoning about performance (in the context of search)](https://www.youtube.com/watch?v=80LKF2qph6I) [00:29:28] by **Dan Luu** (2016)
 * [The simple essence of automatic differentiation](https://www.youtube.com/watch?v=Shl3MtWGu18) [01:01:41] by **Conal Elliott** (2018)
+* [Meetings With Remarkable Trees](https://www.youtube.com/watch?v=cUx2b_FO8EQ) [00:53:29] by **Bodil Stokke** (2018)
 
 #### Databases
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) [00:54:52] by **Martin Fowler** (2013)
