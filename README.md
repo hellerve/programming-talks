@@ -940,6 +940,7 @@ ever.
 #### Entrepreneurship
 * [How to Build a Product (Part IV)](https://www.startupschool.org/videos/8) [00:51:24] by **Jan Koum**
 * [How and Why to Start A Startup](https://www.startupschool.org/videos/1) [00:44:42] by **Sam Altman & Dustin Moskovitz**
+* [Barely succeed! It’s easier!](https://www.youtube.com/watch?v=5Vt8zqhHe_c) [00:39:22] by **Maciej Cegłowski**
 
 #### Performance Engineering
 * [Xi: an editor for the next 20 years](https://www.recurse.com/events/localhost-raph-levien) [00:53:20] by **Raph Levien** (2018)
