@@ -726,6 +726,7 @@ ever.
 * [Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible? A: Because Keynote Speakers Make Bad Life Decisions and Are Poor Role Models](https://www.youtube.com/watch?v=ajGX7odA87k) [00:51:21] by **James Mickens** (2018)
 * [GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY) [00:50:59] by **Christopher Domas** (2018)
 * [Pulling Back the Curtain on Airport Security: Can a Weapon Get Past TSA](https://www.youtube.com/watch?v=hbqVNlwfjxo) [00:31:52] by **Billy Rios** (2014)
+* [Exploit Kit Cornucopia](https://www.youtube.com/watch?v=s6_faEjf4AQ) [00:45:08] by **Brad Antoniewicz & Matt Foley**
 
 #### Compilers/Interpreters
 * [Parsing with Derivatives](https://www.youtube.com/watch?v=ZzsK8Am6dKU) [01:13:10] by **Matthew Might** (2011)
