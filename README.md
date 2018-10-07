@@ -806,6 +806,7 @@ ever.
 * [Consistency without consensus in production systems](https://www.youtube.com/watch?v=em9zLzM8O7c) [00:41:09] by **Peter Bourgon** (2014)
 * [Transactions: myths, surprises and opportunities](https://www.youtube.com/watch?v=5ZjhNTM8XU8) [00:41:07] by **Martin Kleppmann** (2015)
 * [To NoSQL or Not to NoSQL, That Is the Question](https://vimeo.com/132194546) [01:00:48] by **David Ostrovsky** (2015)
+* [Jepsen 7: Anna Concurrenina](https://www.youtube.com/watch?v=eSaFVX4izsQ) [00:53:06] by **Kyle Kingsbury**
 
 #### Functional Programming
 * [Functional Principles for Object Oriented Development](http://www.youtube.com/watch?v=pMGY9ViIGNU) [00:51:13] by **Jessica Kerr** (2013)
