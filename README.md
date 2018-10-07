@@ -965,6 +965,7 @@ ever.
 * [LIGO: The Dawn of Gravitational Wave Astronomy](https://www.youtube.com/watch?v=qSlwRwFsUOI) [00:56:17] by **Jameson Rollins** (2016)
 * [A Programmer’s Guide To Western Music](https://www.youtube.com/watch?v=xpSYWd_aIiI) [00:42:13] by **Andrew Sorensen** (2015)
 * [The Search for the Perfect Door](https://www.youtube.com/watch?v=4YYvBLAF4T8) [00:50:49] by **Deviant Ollam**
+* [You’re Probably Not Red Teaming... And Usually I’m Not, Either](https://www.youtube.com/watch?v=mj2iSdBw4-0) [00:43:43] by **Deviant Ollam**
 
 ## Contributing
 
