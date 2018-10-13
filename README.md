@@ -4,7 +4,7 @@ I watch a lot of talks that I love to share with my friends, fellows and coworke
 As I consider all GitHubbers my friends (oh yeah!), I decided it's time to share the
 list.
 
-There are talks on programming languages specifics as well as a more general section I call "theory".
+There are talks on programming language specifics as well as a more general section I call "theory".
 But don't expect to always get theoretical computer science for every talk there;
 most of them are on the architecture and design of software.
 
@@ -304,11 +304,11 @@ ever.
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) [00:40:55] by **Evan Czaplicki** (2014)
 
 #### Erlang
-* [Writing Quality Code in Erlang](https://www.youtube.com/watch?v=CQyt9Vlkbis) [00:40:47] by **Garreth Smith** (2014)
+* [Writing Quality Code in Erlang](https://www.youtube.com/watch?v=CQyt9Vlkbis) [00:40:47] by **Garrett Smith** (2014)
 * [Erlang: Evolution](https://www.youtube.com/watch?v=od6CfA8xEcM) [00:37:24] by **Robert Virding** (2015)
 * [Implementing Languages on the BEAM](https://www.youtube.com/watch?v=qm0mbQbc9Kc) [01:47:47] by **Robert Virding** (2015)
 * [How To Ship New Code Without Taking Your System Down](https://www.youtube.com/watch?v=NfCLCmRi4_Y) [00:32:47] by **Martin Rehfeld** (2015)
-* [Why The Cool Kids Don't Use Erlang](https://www.youtube.com/watch?v=3MvKLOecT1I) [00:51:55] by **Garreth Smith** (2014)
+* [Why The Cool Kids Don't Use Erlang](https://www.youtube.com/watch?v=3MvKLOecT1I) [00:51:55] by **Garrett Smith** (2014)
 * [26 years with Erlang or How I got my grey hairs](https://www.youtube.com/watch?v=HCwRGHj5jOE) [01:20:00] by **Joe Armstrong** (2013)
 * [The How and Why of Fitting Things Together](https://www.youtube.com/watch?v=ed7A7r6DBsM) [00:46:40] by **Joe Armstrong** (2013)
 * [Using Logic Programming Tools to Drive Property-based Testing](https://www.youtube.com/watch?v=fSCIfsUcY4Y) [00:34:45] by **Zachary Kessin** (2014)
