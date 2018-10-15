@@ -16,6 +16,8 @@ external sites (mostly YouTube, really), be aware of that. If you are one of the
 responsible for the talks or the platform presenting it and want it removed,
 tell me and I'll sort it out with you.
 
+**[A]** after a talk name denotes a talk that *someone* thought could be listened to as audio, without needing the video. This may not reflect your experience with the talk, but you can make a pull request to change it.
+
 ### Names to look out for
 
 To make choosing the right speakers a tad easier, let me give you a quick overview
@@ -635,26 +637,26 @@ ever.
 
 #### Miscellaneous
 * [WAT](https://www.destroyallsoftware.com/talks/wat) [00:04:17] by **Gary Bernhardt**
-* [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:29:16] by **Gary Bernhardt**
-* [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) [01:10:15] by **Linus Torvalds** (2007)
-* [Linux Sucks - 2014](https://www.youtube.com/watch?v=5pOxlazS3zs) [00:44:59] by **Bryan Lunduke** (2014)
+* [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:29:16] by **Gary Bernhardt** (2014)
+* [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) [01:10:15] by **Linus Torvalds** (2007) [A]
+* [Linux Sucks - 2014](https://www.youtube.com/watch?v=5pOxlazS3zs) [00:44:59] by **Bryan Lunduke** (2014) [A]
 * [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) [00:33:31] by **Julia Evans** (2014)
 * [A Brief History of Time](https://www.youtube.com/watch?v=WoUn2XQvGDw) [00:45:17] by **Fred Hebert** (2016)
 * [Complexity and the Art of the Left Turn](https://www.youtube.com/watch?v=bSfe5M_zG2s) [00:52:05] by **K Lars Lohn** (2016)
-* [Well I Wouldn't Want To Make a \*Dys\*functional Game](https://www.youtube.com/watch?v=TDDJsKLUh1Y) [00:18:17] by **Morgan Mullaney** (2015)
+* [Well I Wouldn't Want To Make a \*Dys\*functional Game](https://www.youtube.com/watch?v=TDDJsKLUh1Y) [00:18:17] by **Morgan Mullaney** (2015) [A]
 * [African Polyphony & Polyrhythm](https://www.youtube.com/watch?v=EK4qctJOMaU) [00:41:49] by **Chris Ford** (2016)
 
 ### On theory
 #### Thoughts on the Industry/Community
 * [PyCon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE) [00:35:51] by **Jacob Kaplan-Moss** (2015)
-* [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w) [00:31:07] by **Andrew Godwin** (2015)
-* [Being Human](https://www.youtube.com/watch?v=LlO2_GecWo8) [00:19:45] by **Brian J. Brennan** (not technical, but very important) (2014)
-* [How to become a Data Scientist in 6 months - A hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc) [00:56:24] by **Tetiana Ivanova** (2016)
+* [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w) [00:31:07] by **Andrew Godwin** (2015) [A]
+* [Being Human](https://www.youtube.com/watch?v=LlO2_GecWo8) [00:19:45] by **Brian J. Brennan** (not technical, but very important) (2014) [A]
+* [How to become a Data Scientist in 6 months - A hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc) [00:56:24] by **Tetiana Ivanova** (2016) [A]
 * [Software, Faster](https://www.youtube.com/watch?v=USc-yLHXNUg) [00:54:19] by **Dan North** (2016)
 * [It's Simple](https://www.youtube.com/watch?v=a8Re9Cvv6nU) [00:37:35] by **Adrian Cockcroft** (2016)
-* [Common pitfalls of junior developers](https://www.youtube.com/watch?v=tYOx8mA5p2c) [00:09:37] by **Rachel Warbelow** (2015)
-* [You are Not an Impostor](https://www.youtube.com/watch?v=l_Vqp1dPuPo) [00:33:02] by **Nickolas Means** (2014)
-* [“Am I Senior Yet?” Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [00:37:57] by **Katlyn Parvin** (2016)
+* [Common pitfalls of junior developers](https://www.youtube.com/watch?v=tYOx8mA5p2c) [00:09:37] by **Rachel Warbelow** (2015) [A]
+* [You are Not an Impostor](https://www.youtube.com/watch?v=l_Vqp1dPuPo) [00:33:02] by **Nickolas Means** (2014) [A]
+* [“Am I Senior Yet?” Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [00:37:57] by **Katlyn Parvin** (2016) [A]
 * [Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc) [01:07:26] by **Alan Kay** (2012)
 * [Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA) [01:03:35] by **Christopher Alexander** (2013)
 * [extern c: Talking to C Programmers about C++](https://www.youtube.com/watch?v=D7Sd8A6_fYU) [01:36:26] by **Dan Saks** (2016)
