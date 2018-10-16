@@ -832,6 +832,7 @@ ever.
 * [Railway oriented programming: Error handling in functional languages](https://vimeo.com/113707214) by **Scott Wlaschin** (2014)
 * [Functional architecture - The pits of success](https://vimeo.com/180287057) by **Mark Seemann** (2016)
 * [Peeling the Banana: Recursion Schemes from First Principles](https://www.youtube.com/watch?v=XZ9nPZbaYfE) [00:34:21] by **Zainab Ali** (2017)
+* [Profunctor Optics: The Categorical Approach](https://www.youtube.com/watch?v=l1FCXUi6Vlw) [00:45:33] by **Bartosz Milewki** (2017)
 
 #### Computer Graphics
 * [Principles of Lighting and Rendering](https://www.youtube.com/watch?v=IyUgHPs86XM) [01:31:00] by **John Carmack** (2013)
