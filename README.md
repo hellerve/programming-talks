@@ -305,6 +305,7 @@ ever.
 
 #### Elm
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) [00:40:55] by **Evan Czaplicki** (2014)
+* [Demystifying Parsers](https://www.youtube.com/watch?v=M9ulswr1z0E) [00:22:12] by **Tereza Sokol** (2018)
 
 #### Erlang
 * [Writing Quality Code in Erlang](https://www.youtube.com/watch?v=CQyt9Vlkbis) [00:40:47] by **Garrett Smith** (2014)
