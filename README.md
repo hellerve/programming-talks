@@ -671,6 +671,7 @@ ever.
 * [On Abstraction](https://www.youtube.com/watch?v=x9pxbnFC4aQ) [01:00:02] by **Zach Tellman** (2017)
 * [Career Advice for Programmers](https://www.youtube.com/watch?v=LlAn452X4Lc) [00:54:18] by **Trisha Gee** (2013)
 * [The Hard Parts of Open Source](https://www.youtube.com/watch?v=o_4EX4dPppA) [00:47:15] by **Evan Czaplicki** (2018)
+* [Code Review, Forwards and Back](https://www.youtube.com/watch?v=9qYR0NqsDcA) [00:22:33] by **Sumana Harihareswara & Jason Owen** (2017)
 
 #### Thoughts on Languages
 * [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) [01:07:03] by **Scott Meyers** (2014)
