@@ -76,6 +76,7 @@ ever.
     * [Elm](#elm)
     * [Erlang](#erlang)
     * [F#](#f)
+    * [Factor](#factor)
     * [Frege](#frege)
     * [Go](#go)
     * [Haskell](#haskell)
@@ -141,6 +142,7 @@ ever.
 
 #### Assembly
 * [Enough x86 Assembly to Be Dangerous](https://www.youtube.com/watch?v=IfUPkUAEwrk) [00:30:58] by **Charles Bailey** (2017)
+* [The Teensy ELF Executable](https://www.muppetlabs.com/~breadbox/software/tiny/techtalk.html) [00:49:03] by **Brian Raiter** (2014)
 
 #### Bash
 * [The Functional Tao of Bash](https://www.youtube.com/watch?v=yD2ekOEP9sU) [00:48:12] by **Garrett Smith** (2015)
@@ -331,6 +333,9 @@ ever.
 
 #### F#
 * [F# for Trading](https://www.youtube.com/watch?v=OonLCmLeQUQ) [00:50:43] by **Phillip Trelford** (2014)
+
+#### Factor
+* [Factor: an extensible interactive language](https://www.youtube.com/watch?v=f_0QlhYlS8g) [01:36:39] by **Slava Pestov** (2008)
 
 #### Frege
 * [Frege, a Haskell for the JVM](https://www.youtube.com/watch?v=1P1-HXNfFPc) [01:00:12] by **Dierk König** (2015)
@@ -626,7 +631,9 @@ ever.
 #### Swift
 * [Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=nvHFin89pXY) [00:41:19] by **J.P. Simard** (2014)
 * [Thinking in Swift](http://vimeo.com/105440181) [00:24:23] by **Abizer Nasir** (2014)
-* [Controlling Complexity in Swift — or — Making Friends with Value Types](https://realm.io/news/andy-matuschak-controlling-complexity/) [57:45] by **Andy Matuschak**
+* [Controlling Complexity in Swift — or — Making Friends with Value Types](https://realm.io/news/andy-matuschak-controlling-complexity/) [00:57:45] by **Andy Matuschak** (2015)
+* [Swift's High-Level IR: A Case Study...](https://www.youtube.com/watch?v=Ntj8ab-5cvE) [00:55:37] by **Joe Groff & Chris Lattner** (2015) [A]
+* [Implementing Swift Generics](https://www.youtube.com/watch?v=ctS8FzqcRug) [00:44:37] by **Slava Pestov** (2017)
 
 #### VimL
 * [Vim - I Wish I Knew How To :q You](https://www.youtube.com/watch?v=X7lZ8MVGl4A) [00:41:08] by **Chris Maiden** (not really about VimL, more of a general introduction into vim) (2013)
@@ -642,6 +649,7 @@ ever.
 #### Miscellaneous
 * [WAT](https://www.destroyallsoftware.com/talks/wat) [00:04:17] by **Gary Bernhardt**
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:29:16] by **Gary Bernhardt** (2014)
+* [The Origins of Linux](https://www.youtube.com/watch?v=WVTWCPoUt8w) [1:25:12] by **Linus Torvalds** (2001) [A]
 * [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) [01:10:15] by **Linus Torvalds** (2007) [A]
 * [Linux Sucks - 2014](https://www.youtube.com/watch?v=5pOxlazS3zs) [00:44:59] by **Bryan Lunduke** (2014) [A]
 * [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) [00:33:31] by **Julia Evans** (2014)
@@ -737,6 +745,8 @@ ever.
 * [GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY) [00:50:59] by **Christopher Domas** (2018)
 * [Pulling Back the Curtain on Airport Security: Can a Weapon Get Past TSA](https://www.youtube.com/watch?v=hbqVNlwfjxo) [00:31:52] by **Billy Rios** (2014)
 * [Exploit Kit Cornucopia](https://www.youtube.com/watch?v=s6_faEjf4AQ) [00:45:08] by **Brad Antoniewicz & Matt Foley**
+* [The Search for the Perfect Door](https://www.youtube.com/watch?v=4YYvBLAF4T8) [00:50:49] by **Deviant Ollam** (2016)
+* [You’re Probably Not Red Teaming... And Usually I’m Not, Either](https://www.youtube.com/watch?v=mj2iSdBw4-0) [00:43:43] by **Deviant Ollam** (2018)
 
 #### Compilers/Interpreters
 * [Parsing with Derivatives](https://www.youtube.com/watch?v=ZzsK8Am6dKU) [01:13:10] by **Matthew Might** (2011)
@@ -845,6 +855,7 @@ ever.
 * [Making WebGL Dance](https://www.youtube.com/watch?v=GNO_CYUjMK8) [00:30:55] by **Steven Wittens** (2013)
 * [Making things with maths](https://www.youtube.com/watch?v=Zkx1aKv2z8o) [00:53:45] by **Steven Wittens** (2013)
 * [Simit: A Language for Computing on Sparse Systems when Performance Matters](https://www.youtube.com/watch?v=raPkxhHy5ro) [00:58:37] by **Fredrik Kjolstad** (2016)
+* [The Glitching Hour](https://www.youtube.com/watch?v=2HoMsbxY9zA) [00:22:17] by **Amy Wibowo** (2018)
 
 #### Computer Vision
 * [OpenCV and High-Performance Vision on GPU](https://www.youtube.com/watch?v=0CNSCpcKiQ4) [02:24:59] by **Victor Eruhimov** (2012)
@@ -962,6 +973,7 @@ ever.
 #### Performance Engineering
 * [Xi: an editor for the next 20 years](https://www.recurse.com/events/localhost-raph-levien) [00:53:20] by **Raph Levien** (2018)
 * [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) [00:50:17] by **Martin Thompson** (2015)
+* [Software Performance: A Shape Not a Number](https://www.youtube.com/watch?v=f7HCeE377-0) [00:31:59] by **Kay Ousterhout** (2018)
 
 #### Operating Systems
 * [Python, Linkers, and Virtual Memory](https://www.youtube.com/watch?v=twQKAoq2OPE) [00:31:15] by **Brandon Rhodes** (2012)
@@ -980,8 +992,6 @@ ever.
 * [RailsConf 2017: Keynote](https://www.youtube.com/watch?v=GnCJO8Ax1qg) [00:50:31] by **Aaron Patterson** (2017)
 * [LIGO: The Dawn of Gravitational Wave Astronomy](https://www.youtube.com/watch?v=qSlwRwFsUOI) [00:56:17] by **Jameson Rollins** (2016)
 * [A Programmer’s Guide To Western Music](https://www.youtube.com/watch?v=xpSYWd_aIiI) [00:42:13] by **Andrew Sorensen** (2015)
-* [The Search for the Perfect Door](https://www.youtube.com/watch?v=4YYvBLAF4T8) [00:50:49] by **Deviant Ollam** (2016)
-* [You’re Probably Not Red Teaming... And Usually I’m Not, Either](https://www.youtube.com/watch?v=mj2iSdBw4-0) [00:43:43] by **Deviant Ollam** (2018)
 * [Stop Treading Water: Learning to Learn](https://www.youtube.com/watch?v=j0XmixCsWjs) [00:40:58] by **Edward Kmett** (2014)
 
 ## Contributing
