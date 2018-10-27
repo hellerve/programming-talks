@@ -920,6 +920,7 @@ ever.
 #### Creative Coding
 * [Programming In Time - Live Coding for Creative Performances](https://www.youtube.com/watch?v=Sg2BjFQnr9s) [00:47:03] by **Andrew Sorensen** (2014)
 * [The Symmetries of Things](https://www.youtube.com/watch?v=EcjyZAe8irU) [00:26:02] by **Tom Hall** (2017)
+* [How to Hack a Painting](https://www.youtube.com/watch?v=5R9eywArFTE) [00:44:58] by **Tyler Hobbs** (2017)
 
 #### Theoretical Computer Science
 * [Church's Coincidences](https://www.youtube.com/watch?v=2PJ_DbKGFUA) [01:03:41] by **Philip Wadler** (2012)
