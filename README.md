@@ -812,6 +812,7 @@ ever.
 * [Reasoning about performance (in the context of search)](https://www.youtube.com/watch?v=80LKF2qph6I) [00:29:28] by **Dan Luu** (2016)
 * [The simple essence of automatic differentiation](https://www.youtube.com/watch?v=Shl3MtWGu18) [01:01:41] by **Conal Elliott** (2018)
 * [Meetings With Remarkable Trees](https://www.youtube.com/watch?v=cUx2b_FO8EQ) [00:53:29] by **Bodil Stokke** (2018)
+* [Tree-sitter - a new parsing system for programming tools](https://www.youtube.com/watch?v=Jes3bD6P0To) [00:38:37] by **Max Brunsfeld** (2018)
 
 #### Databases
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) [00:54:52] by **Martin Fowler** (2013)
