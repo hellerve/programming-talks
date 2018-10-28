@@ -79,6 +79,7 @@ ever.
     * [Factor](#factor)
     * [Frege](#frege)
     * [Go](#go)
+    * [Hackett](#hackett)
     * [Haskell](#haskell)
     * [Idris](#idris)
     * [Java & Android](#java--android)
@@ -364,6 +365,9 @@ ever.
 * [Packet Capture, Analysis, and Injection with Go](https://www.youtube.com/watch?v=APDnbmTKjgM) [00:37:14] by **John Leon** (2016)
 * [cgo - Safely Taming the Beast](https://www.youtube.com/watch?v=lhMhApWQp2E) [00:48:20] by **Filippo Valsorda** (2016)
 * [Crypto for Go Developers](https://www.youtube.com/watch?v=2r_KMzXB74w) [00:31:14] by **George Tankersley** (title of Youtube video wrong) (2016)
+
+#### Hackett
+* [Hackett: a metaprogrammable Haskell](https://www.youtube.com/watch?v=5QQdI3P7MdY) [00:33:39] by **Alexis King** (2018)
 
 #### Haskell
 * [Demystifying Haskell](https://www.youtube.com/watch?v=apBWkBDVlow) [00:26:11] by **Andrew Rademacher** (for Beginners) (2014)
