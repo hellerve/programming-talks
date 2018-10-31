@@ -908,6 +908,7 @@ ever.
 * [Kill "Microservices" before its too late](https://www.youtube.com/watch?v=-UKEPd2ipEk) [00:39:41] by **Chad Fowler** (2016)
 * [12-Factor Apps and the HashiStack](https://www.youtube.com/watch?v=NVl9cIiPF80) [00:30:39] by **Kelsey Hightower** (2016)
 * [Mastering Chaos - A Netflix Guide to Microservice](https://www.youtube.com/watch?v=CZ3wIuvmHeM) [00:53:13] by **Josh Evans** (2017)
+* [Narcissistic Design](https://www.youtube.com/watch?v=LEZv-kQUSi4) [00:37:14] by **Stuart Halloway** (2013)
 
 #### Distributed Programming
 * [Distributed Systems 101](https://www.youtube.com/watch?v=YAFGQurdJ3U) [00:45:25] by **lvh** (2015)
