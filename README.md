@@ -798,7 +798,8 @@ ever.
 * [Sketch-n-Sketch: Interactive SVG Programming with Direct Manipulation](https://www.youtube.com/watch?v=YuGVC8VqXz0) [00:40:17] by **Ravi Chugh** (2016)
 * [Let's Build a Hygienic Macro Expander](https://www.youtube.com/watch?v=Or_yKiI3Ha4) [00:40:04] by **Matthew Flatt** (2016)
 * [Into the Core - Squeezing Haskell into Nine Constructors](https://www.youtube.com/watch?v=uR_VzYxvbxg) [01:07:48] by **Simon Peyton Jones** (2016)
-* [Types, and why you should care](https://www.recurse.com/events/localhost-ron-minsky) [01:04:05] by **Ron Minsky**
+* [Types, and why you should care](https://www.recurse.com/events/localhost-ron-minsky) [01:04:05] by **Ron Minsky** (2017)
+* [Gradual typing of Ruby at Scale](https://www.youtube.com/watch?v=uFFJyp8vXQI) [00:38:45] by **Dmytro Petrashko & Paul Tarjan** (2018)
 
 #### Data Science
 * [Data as Software as Data](https://www.youtube.com/watch?v=LOMk8TD6l5k) [00:40:27] by **Andrea Burbank** (2016)
