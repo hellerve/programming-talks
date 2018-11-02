@@ -800,6 +800,7 @@ ever.
 * [Into the Core - Squeezing Haskell into Nine Constructors](https://www.youtube.com/watch?v=uR_VzYxvbxg) [01:07:48] by **Simon Peyton Jones** (2016)
 * [Types, and why you should care](https://www.recurse.com/events/localhost-ron-minsky) [01:04:05] by **Ron Minsky** (2017)
 * [Gradual typing of Ruby at Scale](https://www.youtube.com/watch?v=uFFJyp8vXQI) [00:38:45] by **Dmytro Petrashko & Paul Tarjan** (2018)
+* [A Little Taste of Dependent Types](https://www.youtube.com/watch?v=VxINoKFm-S4) [00:38:35] by **David Christiansen** (2018)
 
 #### Data Science
 * [Data as Software as Data](https://www.youtube.com/watch?v=LOMk8TD6l5k) [00:40:27] by **Andrea Burbank** (2016)
