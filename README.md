@@ -393,6 +393,7 @@ ever.
 * [The Road to Running Haskell at Facebook Scale](https://www.youtube.com/watch?v=sl2zo7tzrO8) [00:43:36] by **Jon Coens** (2015)
 * [Laws!](https://www.youtube.com/watch?v=VzNGF4V937o) [00:28:03] by **George Wilson** (2018)
 * [Linear Haskell: practical linearity in a higher-order polymorphic language](https://www.youtube.com/watch?v=t0mhvd3-60Y) [01:03:33] by **Simon Peyton Jones** (2018)
+* [Dependent Types in Haskell](https://www.youtube.com/watch?v=wNa3MMbhwS4) [00:38:41] by **Stephanie Weirich** (2017)
 
 #### Idris
 * [Type-Driven Development in Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ) [00:46:35] by **Edwin Brady** (2015)
