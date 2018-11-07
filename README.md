@@ -882,6 +882,7 @@ ever.
 * [We Will All Be Game Programmers](https://www.youtube.com/watch?v=avwDj3KRuLc) [00:29:34] by **Hunter Loftis** (2015)
 * [Practical UI physics](https://www.youtube.com/watch?v=90oMnMFozEE) [00:34:12] by **David DeSandro** (2015)
 * [Choosing Features](https://www.deconstructconf.com/2017/kevin-lynagh-choosing-features) [00:23:52] by **Kevin Lynagh** (2017)
+* [Data Driven UIs, Incrementally](https://www.youtube.com/watch?v=R3xX37RGJKE) [00:36:17] by **Yaron Minsky** (2018)
 
 #### Web Development
 * [Go To There and Back Again](http://vimeo.com/78893726) [00:49:06] by **Douglas Crockford** (2013)
