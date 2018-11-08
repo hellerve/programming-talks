@@ -213,6 +213,7 @@ ever.
 * [Creating DSLs - A tale of spec tacular success and failure](https://www.youtube.com/watch?v=cO67QNn9hPY) [00:39:46] by **Claire Alvis** (2016)
 * [Clarifying Rules Engines with Clara Rules](https://www.youtube.com/watch?v=Q_k5MkZmd-o) [00:37:07] by **Mike Rodriguez** (2016)
 * [The Macronomicon](https://www.youtube.com/watch?v=0JXhJyTo5V8) [00:42:02] by **Michael Fogus** (2013)
+* [Core.Async in Use](https://www.youtube.com/watch?v=096pIlA3GDo) [00:34:04] by **Timothy Baldridge** (2017)
 
 #### C++
 * [C++17: I See A Monad In Your Future](https://www.youtube.com/watch?v=BFnhhPehpKw) [01:20:59] by **Bartosz Milewski** (2014)
