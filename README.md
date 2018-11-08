@@ -1010,6 +1010,7 @@ ever.
 * [LIGO: The Dawn of Gravitational Wave Astronomy](https://www.youtube.com/watch?v=qSlwRwFsUOI) [00:56:17] by **Jameson Rollins** (2016)
 * [A Programmer’s Guide To Western Music](https://www.youtube.com/watch?v=xpSYWd_aIiI) [00:42:13] by **Andrew Sorensen** (2015)
 * [Stop Treading Water: Learning to Learn](https://www.youtube.com/watch?v=j0XmixCsWjs) [00:40:58] by **Edward Kmett** (2014)
+* [Soul from Scratch: Designing a More Portable Organ](https://www.youtube.com/watch?v=wqS93Cgjvyw) [00:37:59] by **Peter Teichman** (2018)
 
 ## Contributing
 
