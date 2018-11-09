@@ -121,7 +121,7 @@ ever.
     * [Distributed Programming](#distributed-programming)
     * [Logic Programming](#logic-programming)
     * [Machine Learning](#machine-learning)
-    * [Creative Coding](#creative-coding)
+    * [Creative Technology](#creative-technology)
     * [Theoretical Computer Science](#theoretical-computer-science)
     * [DevOps](#devops)
     * [Hardware](#hardware)
@@ -945,7 +945,7 @@ ever.
 * [Machine learning is not the future](https://www.youtube.com/watch?v=3dXQxSI3XDY) [00:38:59] by **Rajat Monga** (2016)
 * [Building the Software 2.0 Stack](https://www.figure-eight.com/building-the-software-2-0-stack-by-andrej-karpathy-from-tesla/) [00:30:08] by **Andrej Karpathy** (2018)
 
-#### Creative Coding
+#### Creative Technology
 * [Programming In Time - Live Coding for Creative Performances](https://www.youtube.com/watch?v=Sg2BjFQnr9s) [00:47:03] by **Andrew Sorensen** (2014)
 * [The Symmetries of Things](https://www.youtube.com/watch?v=EcjyZAe8irU) [00:26:02] by **Tom Hall** (2017)
 * [How to Hack a Painting](https://www.youtube.com/watch?v=5R9eywArFTE) [00:44:58] by **Tyler Hobbs** (2017)
