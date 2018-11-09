@@ -951,6 +951,7 @@ ever.
 * [How to Hack a Painting](https://www.youtube.com/watch?v=5R9eywArFTE) [00:44:58] by **Tyler Hobbs** (2017)
 * [Mapping Imaginary Cities](https://www.youtube.com/watch?v=Ic_5gRVTQ_k) [00:40:56] by **Mouse Reeve** (2018)
 * [Making Games for 1920s Hardware](https://www.youtube.com/watch?v=G9Ho6-01mek) [00:32:21] by **Mike Lazer-Walker** (2018)
+* [Picasso, Geometry, Jupyter](https://www.youtube.com/watch?v=GYJ77F_8kq0) [00:30:48] by **Ryan Herr** (2018)
 
 #### Theoretical Computer Science
 * [Church's Coincidences](https://www.youtube.com/watch?v=2PJ_DbKGFUA) [01:03:41] by **Philip Wadler** (2012)
