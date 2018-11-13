@@ -812,6 +812,7 @@ ever.
 * [Proof Theory Impressionism: Blurring the Curry-Howard Line](https://www.youtube.com/watch?v=jrVPB-Ad5Gc) [00:35:07] by **Dan Pittman** (2018)
 * [Running With Scissors: Live Coding With Data](https://www.youtube.com/watch?v=Qx0-pViyIDU) [00:39:35] by **Stuart Halloway** (2018)
 * [Type-Driven Program Synthesis](https://www.youtube.com/watch?v=HnOix9TFy1A) [00:39:39] by **Nadia Polikarpova** (2018)
+* [Four Languages from Forty Years Ago](https://www.youtube.com/watch?v=0fpDlAEQio4) [01:01:45] by **Scott Wlaschin** (2018)
 
 #### Data Science
 * [Data as Software as Data](https://www.youtube.com/watch?v=LOMk8TD6l5k) [00:40:27] by **Andrea Burbank** (2016)
