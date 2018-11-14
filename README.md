@@ -869,6 +869,7 @@ ever.
 * [Functional architecture - The pits of success](https://vimeo.com/180287057) by **Mark Seemann** (2016)
 * [Peeling the Banana: Recursion Schemes from First Principles](https://www.youtube.com/watch?v=XZ9nPZbaYfE) [00:34:21] by **Zainab Ali** (2017)
 * [Profunctor Optics: The Categorical Approach](https://www.youtube.com/watch?v=l1FCXUi6Vlw) [00:45:33] by **Bartosz Milewki** (2017)
+* [What FP can learn from Smalltalk](https://www.youtube.com/watch?v=baxtyeFVn3w) [00:43:36] by **Aditya Siram** (2018)
 
 #### Computer Graphics
 * [Principles of Lighting and Rendering](https://www.youtube.com/watch?v=IyUgHPs86XM) [01:31:00] by **John Carmack** (2013)
