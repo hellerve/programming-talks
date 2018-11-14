@@ -745,6 +745,7 @@ ever.
 * [You're Insufficiently Persuasive](https://www.youtube.com/watch?v=VzWLGMtXflg) [00:35:37] by **Sandi Metz** (2017)
 * [Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E) [00:50:22] by **Kevlin Henney** (2018)
 * [A Whole New World](https://www.destroyallsoftware.com/talks/a-whole-new-world) [00:21:20] by **Gary Bernhardt** (2012)
+* [SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU) [00:47:11] by **Sandi Metz** (2009)
 
 #### Debugging
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway** (2015)
