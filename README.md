@@ -702,7 +702,7 @@ ever.
 * [On Storytelling](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling) [00:20:00] by **Evan Czaplicki** (2017)
 * [Scaling Yourself](https://www.youtube.com/watch?v=FS1mnISoG7U) [00:28:51] by **Scott Hanselman** (2012)
 * [Ideology](https://www.destroyallsoftware.com/talks/ideology) [00:21:23] by **Gary Bernhardt** (2015)
-* [How we program multicores](https://www.youtube.com/watch?v=bo5WL5IQAd0) [00:58:52]
+* [How we program multicores](https://www.youtube.com/watch?v=bo5WL5IQAd0) [00:58:52] **Joe Armstrong** (2016)
 
 #### Software Development
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) [01:06:44] by **Thomas Figg** (2013)
