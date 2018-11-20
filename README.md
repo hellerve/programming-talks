@@ -701,6 +701,7 @@ ever.
 * [On Storytelling](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling) [00:20:00] by **Evan Czaplicki** (2017)
 * [Scaling Yourself](https://www.youtube.com/watch?v=FS1mnISoG7U) [00:28:51] by **Scott Hanselman** (2012)
 * [Ideology](https://www.destroyallsoftware.com/talks/ideology) [00:21:23] by **Gary Bernhardt** (2015)
+* [How we program multicores](https://www.youtube.com/watch?v=bo5WL5IQAd0) [00:58:52] **Joe Armstrong** (2016)
 
 #### Software Development
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) [01:06:44] by **Thomas Figg** (2013)
@@ -746,6 +747,7 @@ ever.
 * [A Whole New World](https://www.destroyallsoftware.com/talks/a-whole-new-world) [00:21:20] by **Gary Bernhardt** (2012)
 * [SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU) [00:47:11] by **Sandi Metz** (2009)
 * [OOP Is Dead, Long Live Data-oriented Design](https://www.youtube.com/watch?v=yy8jQgmhbAU) [01:00:45] by **Stoyan Nikolov** (2018)
+* [TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) [01:03:53] by **Ian Cooper** (2017)
 
 #### Debugging
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway** (2015)
@@ -788,6 +790,8 @@ ever.
 * [What I learned from LuaJIT](https://www.youtube.com/watch?v=EaLboOUG9VQ) [01:15:42] by **Vyacheslav Egorov** (2016)
 * [Datafun: A Functional Datalog](https://www.youtube.com/watch?v=p_26-yTUlCU) [00:24:38] by **Michael Arntzenius** (2016)
 * [Datafun: a functional query language](https://www.youtube.com/watch?v=gC295d3V9gE) [00:42:30] by **Michael Arntzenius** (2017)
+* [The movfuscator](https://youtu.be/2VF_wPkiBJY) [00:49:14] by **Christopher Domas** (2015)
+* [The Z Garbage Collector](https://www.youtube.com/watch?v=7cWiwu7kYkE) [00:37:13] by **Erik Österlund** (2018)
 
 #### Programming Language Design
 * [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) [00:43:46] by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it)
@@ -927,6 +931,7 @@ ever.
 * [12-Factor Apps and the HashiStack](https://www.youtube.com/watch?v=NVl9cIiPF80) [00:30:39] by **Kelsey Hightower** (2016)
 * [Mastering Chaos - A Netflix Guide to Microservice](https://www.youtube.com/watch?v=CZ3wIuvmHeM) [00:53:13] by **Josh Evans** (2017)
 * [Narcissistic Design](https://www.youtube.com/watch?v=LEZv-kQUSi4) [00:37:14] by **Stuart Halloway** (2013)
+* [The Salami Method for Cross Platform Development](https://www.youtube.com/watch?v=ZSpGNiUvXVI) [01:00:16] by **Adi Shavit** (2018)
 
 #### Distributed Programming
 * [Distributed Systems 101](https://www.youtube.com/watch?v=YAFGQurdJ3U) [00:45:25] by **lvh** (2015)
