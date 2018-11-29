@@ -444,12 +444,21 @@ ever.
 
 #### Idris
 * [Type-driven Development of Communicating Systems in Idris](https://www.youtube.com/watch?v=IQO9N0Y8tcM) [00:40:37] by **Edwin Brady** (2016)
-* Dependently Typed Functional Programming in Idris: This talk has three parts:
-  * [Dependently Typed Functional Programming in Idris, Part I](https://vimeo.com/117221082) [01:20:29] by **David Christiansen** (2015)
-  * [Dependently Typed Functional Programming in Idris, Part II](https://vimeo.com/117973383) [01:02:47] by **David Christiansen** (2015)
-  * [Dependently Typed Functional Programming in Idris, Part III](https://vimeo.com/117979741) [00:58:14] by **David Christiansen** (2015)
 * [Coding for Types: The Universe Patern in Idris](https://www.youtube.com/watch?v=AWeT_G04a0A) [00:48:04] by **David Christiansen** (2015)
 * [Type-Driven Development in Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ) [00:46:35] by **Edwin Brady** (2015)
+
+<!-- Leaving this commented in case we can recover these videos somehow
+* Dependently Typed Functional Programming in Idris: This talk has three parts:
+* [Dependently Typed Functional Programming in Idris, Part I](https://vimeo.com/117221082) [01:20:29] by **David Christiansen** (2015)
+* [Dependently Typed Functional Programming in Idris, Part II](https://vimeo.com/117973383) [01:02:47] by **David Christiansen** (2015)
+* [Dependently Typed Functional Programming in Idris, Part III](https://vimeo.com/117979741) [00:58:14] by **David Christiansen** (2015)
+-->
+
+* [Dependently Typed Functional Programming with Idris](https://www.idris-lang.org/dependently-typed-functional-programming-with-idris-course-videos-and-slides/) by **Edwin Brady**: This lecture series has four parts ([playlist](https://www.youtube.com/playlist?list=PLZxlmw4K3ICJw6FAml2yw95B0I--iKQZ_)):
+  * [Part 1: Introduction](https://vimeo.com/61576198) [[mirror]](https://youtu.be/S3oSwATZ5r4) [01:11:18] by **Edwin Brady** (2013) [A]
+  * [Part 2: Embedded DSLs](https://vimeo.com/61663317) [[mirror]](https://youtu.be/uz_4WRN1ODg) [01:06:53] by **Edwin Brady** (2013) [A]
+  * [Part 3: Effect management](https://vimeo.com/62037963) [[mirror]](https://youtu.be/rFItGEsmJr8) [00:59:22] by **Edwin Brady** (2013) [A]
+  * [Part 4: Implementing Idris](https://vimeo.com/62059837) [[mirror]](https://youtu.be/QPoKDJZbDmY) [01:11:29] by **Edwin Brady** (2013) [A]
 
 #### Java & Android
 * [g ∘ f patterns](https://www.youtube.com/watch?v=lZG74WbnhoE) [00:50:44] by **Mario Fusco** (2017)
