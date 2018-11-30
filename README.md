@@ -97,6 +97,7 @@ ever.
     * [Scala](#scala)
     * [Scheme](#scheme)
     * [Swift](#swift)
+    * [Unison](#unison)
     * [VimL](#viml)
     * [Wolfram Language](#wolfram-language)
 * [On theory](#on-theory)
@@ -752,6 +753,10 @@ ever.
 * [Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=nvHFin89pXY) [00:41:19] by **J.P. Simard** (2014)
 * [Thinking in Swift](http://vimeo.com/105440181) [00:24:23] by **Abizer Nasir** (2014)
 
+#### Unison
+* [Introduction to the Unison programming language](https://www.youtube.com/watch?v=rp_Eild1aq8) [00:40:58] by **Rúnar Bjarnason** (2018)
+* [How to write a search engine in 15 lines of code](https://www.youtube.com/watch?v=f6yA3t0dO-k) [00:36:04] by **Paul Chiusano** (2016)
+
 #### VimL
 * [More Instantly Better Vim](https://www.youtube.com/watch?v=aHm36-na4-4) [00:38:51] by **Damian Conway** (2013)
 * [Vim - I Wish I Knew How To :q You](https://www.youtube.com/watch?v=X7lZ8MVGl4A) [00:41:08] by **Chris Maiden** (not really about VimL, more of a general introduction into vim) (2013)
@@ -769,6 +774,7 @@ ever.
 * [The Z Garbage Collector](https://www.youtube.com/watch?v=7cWiwu7kYkE) [00:37:13] by **Erik Österlund** (2018)
 * [Datafun: a functional query language](https://www.youtube.com/watch?v=gC295d3V9gE) [00:42:30] by **Michael Arntzenius** (2017)
 * [What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid](https://www.youtube.com/watch?v=bSkpMdDe4g4) [01:15:45] by **Matt Godbolt** (2017)
+* [The Unison Language and its Scala-based Runtime](https://www.youtube.com/watch?v=knqlWboqf_U) [00:45:49] by **Paul Chiusano** (2017)
 * [Datafun: A Functional Datalog](https://www.youtube.com/watch?v=p_26-yTUlCU) [00:24:38] by **Michael Arntzenius** (2016)
 * [What I learned from LuaJIT](https://www.youtube.com/watch?v=EaLboOUG9VQ) [01:15:42] by **Vyacheslav Egorov** (2016)
 * [Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler](https://www.youtube.com/watch?v=KHa-OSrZPGo) [00:59:33] by **Justin Lebar** (2016)
