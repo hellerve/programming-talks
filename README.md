@@ -153,6 +153,7 @@ ever.
 * [Writing application fault handlers](http://free-electrons.com/pub/video/2008/ols/ols2008-gilad-ben-yossef-fault-handlers.ogg) [00:49:03] by **Gilad Ben-Yossef** (2008)
 
 #### Clojure
+* [Java Made (Somewhat) Simple](https://www.youtube.com/watch?v=-zszF8bbXM0) [00:40:45] by **Ghadi Shayban** (2018) [A]
 * [Core.Async in Use](https://www.youtube.com/watch?v=096pIlA3GDo) [00:34:04] by **Timothy Baldridge** (2017)
 * [Bare Metal Clojure with clojure.spec](https://www.youtube.com/watch?v=yGko70hIEwk) [00:36:07] by **Michael Reitzenstein** (2016)
 * [Clarifying Rules Engines with Clara Rules](https://www.youtube.com/watch?v=Q_k5MkZmd-o) [00:37:07] by **Mike Rodriguez** (2016)
