@@ -337,6 +337,7 @@ ever.
 
 #### Elm
 * [Demystifying Parsers](https://www.youtube.com/watch?v=M9ulswr1z0E) [00:22:12] by **Tereza Sokol** (2018)
+* [The life of a file](https://www.youtube.com/watch?v=XpDsk374LDE) by **Evan Czaplicki** (2017)
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) [00:40:55] by **Evan Czaplicki** (2014)
 
 #### Erlang
