@@ -701,6 +701,7 @@ ever.
 * [Y Not - Adventures in Functional Programming](http://www.confreaks.com/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming) [00:53:22] by **Jim Weirich** (2012)
 
 #### Rust
+* [Rust at speed - building a fast concurrent database](https://www.youtube.com/watch?v=s19G6n0UjsM) [00:52:53] by **Jon Gjengset** (2018)
 * [Using Rust For Game Development](https://www.youtube.com/watch?v=aKLntZcp27M) [00:42:29] by **Catherine West** (2018)
 <br>
 
