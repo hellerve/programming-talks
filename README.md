@@ -1069,6 +1069,7 @@ ever.
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) [01:01:26] by **Rich Hickey** (2011)
 * [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) [01:10:04] by **Rich Hickey** (2009)
 * [SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU) [00:47:11] by **Sandi Metz** (2009)
+* [Polly want a Message](https://www.deconstructconf.com/2018/sandi-metz-polly-want-a-message) [00:40:00] by **Sandi Metz** (2018)
 
 #### System Architecture
 * [The Salami Method for Cross Platform Development](https://www.youtube.com/watch?v=ZSpGNiUvXVI) [01:00:16] by **Adi Shavit** (2018)
