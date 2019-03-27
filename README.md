@@ -846,6 +846,7 @@ ever.
 * [Reasoning about performance (in the context of search)](https://www.youtube.com/watch?v=80LKF2qph6I) [00:29:28] by **Dan Luu** (2016)
 * [Parsing Text with a Virtual Machine](https://www.youtube.com/watch?v=9Q--oX5muxw) [00:43:53] by **Ghadi Shayban** (2016)
 * [Exotic Functional Data Structures: Hitchhiker Trees](https://www.youtube.com/watch?v=jdn617M3-P4) [00:40:32] by **David Greenberg** (2016)
+* [Probabilistic Data Structures](https://www.youtube.com/watch?v=F7EhDBfsTA8) [00:38:47] by **James Stanier** (2016)
 * [An Overview of Probabilistic Programming](https://www.youtube.com/watch?v=-8QMqSWU76Q) [01:02:54] by **Vikash K. Mansinghka** (I am unsure where to put this) (2015)
 * [Hash Functions and You: Partners in Freedom](https://www.youtube.com/watch?v=IGwNQfjLTp0) [00:27:06] by **Curtis Lassam** (2015)
 * [Practical Fractals in Space](https://www.youtube.com/watch?v=uEBzS9tpmTo) [00:38:27] by **Michelle Brush** (2014)
