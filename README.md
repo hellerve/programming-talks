@@ -127,6 +127,7 @@ ever.
     * [Software Development](#software-development)
     * [System Architecture](#system-architecture)
     * [Theoretical Computer Science](#theoretical-computer-science)
+    * [Type Theory](#type-theory)
     * [UX/UI](#uxui)
     * [Web Development](#web-development)
 * [Miscellaneous](#miscellaneous)
