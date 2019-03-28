@@ -932,6 +932,7 @@ ever.
 * [The Continuum Hypothesis and the search for Mathematical Infinity](https://youtu.be/nVF4N1Ix5WI) [00:55:18] by **W. Hugh Woodin** (2015)
 * [Field of Rationality and Category Theory](https://www.youtube.com/watch?v=jjfE2jTAQrE) [00:44:07] by **Michał Heller** (2015)
 * [Category Theory](https://www.youtube.com/watch?v=o6L6XeNdd_k) [01:36:54] by **Tom LaGatta** (2014)
+* [Constructive Type Theory and Homotopy](https://www.youtube.com/watch?v=4CghfgqnOGQ) by **Steve Awodey** (2010)
 
 #### On Languages
 * [On Storytelling](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling) [00:20:00] by **Evan Czaplicki** (2017)
@@ -1092,6 +1093,10 @@ ever.
 * [Turing and the Riemann zeta function](https://www.youtube.com/watch?v=pQS7X_8iTCA) [01:06:54] by **Andrew Odlyzko** (2012)
 * [Programming the Turing Machine](https://www.youtube.com/watch?v=ibRar7sWulM) [01:06:10] by **Barbara Liskov** (2012)
 * [Church's Coincidences](https://www.youtube.com/watch?v=2PJ_DbKGFUA) [01:03:41] by **Philip Wadler** (2012)
+
+#### Type Theory
+* [Type Theory and its Meaning Explanations](https://www.youtube.com/watch?v=xMAqniX2Paw) [00:52:23] by **Jon Sterling** (2015)
+* [Papers We Love: On the Meanings of the Logical Constants and the Justifications of the Logical Laws](https://www.youtube.com/watch?v=xRUPr322COQ) [01:24:37] by **Joseph Abrahamson** (2014)
 
 #### UX/UI
 * [Data Driven UIs, Incrementally](https://www.youtube.com/watch?v=R3xX37RGJKE) [00:36:17] by **Yaron Minsky** (2018)
