@@ -840,6 +840,7 @@ ever.
 * [Expressing complex data aggregations with Histogrammar](https://www.youtube.com/watch?v=mB4Chl0ly-g) [00:35:02] by **Jim Pivarski** (2016)
 * [Data as Software as Data](https://www.youtube.com/watch?v=LOMk8TD6l5k) [00:40:27] by **Andrea Burbank** (2016)
 * [Sonification: a Battle on Two Fronts](https://www.youtube.com/watch?v=QV9xrr-AlL8) by **Martin Keary** (2018)
+* [How a File Format Led to a Crossword Scandal](https://www.youtube.com/watch?v=9aHfK8EUIzg) by **Saul Pwanson** (2019)
 
 #### Data Structures & Algorithms
 * [Tree-sitter - a new parsing system for programming tools](https://www.youtube.com/watch?v=Jes3bD6P0To) [00:38:37] by **Max Brunsfeld** (2018)
