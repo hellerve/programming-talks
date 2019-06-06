@@ -356,6 +356,7 @@ ever.
 
 * [Designing a Real Time Game Engine in Erlang](https://www.youtube.com/watch?v=sla-t0ZNlMU) [00:38:32] by **Mark Allen** (2014)
 * [Optimizing Native Code for Erlang](https://www.youtube.com/watch?v=57AkoJfojK8) [00:26:46] by **Steve Vinoski** (2014)
+* [Testing the Hard Stuff and Staying Sane](https://www.youtube.com/watch?v=zi0rHwfiX1Q) [00:47:16] by **John Hughes** (2014)
 * [Using Logic Programming Tools to Drive Property-based Testing](https://www.youtube.com/watch?v=fSCIfsUcY4Y) [00:34:45] by **Zachary Kessin** (2014)
 * [Why The Cool Kids Don't Use Erlang](https://www.youtube.com/watch?v=3MvKLOecT1I) [00:51:55] by **Garrett Smith** (2014)
 * [Writing Quality Code in Erlang](https://www.youtube.com/watch?v=CQyt9Vlkbis) [00:40:47] by **Garrett Smith** (2014)
