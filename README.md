@@ -939,6 +939,7 @@ ever.
 * [Constructive Type Theory and Homotopy](https://www.youtube.com/watch?v=4CghfgqnOGQ) by **Steve Awodey** (2010)
 
 #### On Languages
+* [Homoiconicity It Is What It Is](https://www.youtube.com/watch?v=o7zyGMcav3c) [00:30:39] by **Stuart Sierra** (2017)
 * [On Storytelling](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling) [00:20:00] by **Evan Czaplicki** (2017)
 * [How we program multicores](https://www.youtube.com/watch?v=bo5WL5IQAd0) [00:58:52] **Joe Armstrong** (2016)
 * [Ideology](https://www.destroyallsoftware.com/talks/ideology) [00:21:23] by **Gary Bernhardt** (2015)
