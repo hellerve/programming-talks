@@ -887,6 +887,7 @@ ever.
 * [The How and Why of Fitting Things Together](https://www.youtube.com/watch?v=ed7A7r6DBsM) [00:46:39] by **Joe Armstrong** (2013)
 
 #### Entrepreneurship
+* [Improving Yesterday](https://www.youtube.com/watch?v=2mGl66xHIuw) [00:37:57] by **Eric Fode** (2019)
 * [How and Why to Start A Startup](https://www.startupschool.org/videos/1) [00:44:42] by **Sam Altman & Dustin Moskovitz** (2017)
 * [How to Build a Product (Part IV)](https://www.startupschool.org/videos/8) [00:51:24] by **Jan Koum** (2017)
 * [Barely succeed! It’s easier!](https://www.youtube.com/watch?v=5Vt8zqhHe_c) [00:39:22] by **Maciej Cegłowski** (2013)
