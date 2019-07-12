@@ -994,13 +994,15 @@ ever.
 * [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) [00:50:17] by **Martin Thompson** (2015)
 
 #### Programming Language Design
-* [Gradual typing of Ruby at Scale](https://www.youtube.com/watch?v=uFFJyp8vXQI) [00:38:45] by **Dmytro Petrashko & Paul Tarjan** (2018)
+* [Three Things I Wish I Knew When I Started Designing Languages](https://www.infoq.com/presentations/language-design-process/) [00:44:28] by **Peter Alvaro** (2019)
 * [A Little Taste of Dependent Types](https://www.youtube.com/watch?v=VxINoKFm-S4) [00:38:35] by **David Christiansen** (2018)
 * [A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js](https://www.youtube.com/watch?v=aGJTXdXQN2o) [00:47:24] by **Ashley Williams** (2018)
+* [Four Languages from Forty Years Ago](https://www.youtube.com/watch?v=0fpDlAEQio4) [01:01:45] by **Scott Wlaschin** (2018)
+* [Gradual typing of Ruby at Scale](https://www.youtube.com/watch?v=uFFJyp8vXQI) [00:38:45] by **Dmytro Petrashko & Paul Tarjan** (2018)
 * [Proof Theory Impressionism: Blurring the Curry-Howard Line](https://www.youtube.com/watch?v=jrVPB-Ad5Gc) [00:35:07] by **Dan Pittman** (2018)
 * [Running With Scissors: Live Coding With Data](https://www.youtube.com/watch?v=Qx0-pViyIDU) [00:39:35] by **Stuart Halloway** (2018)
+* [Rust and Other Interesting Things](https://www.youtube.com/watch?v=2wZ1pCpJUIM) [00:37:06] by **Bryan Cantrill** (2018)
 * [Type-Driven Program Synthesis](https://www.youtube.com/watch?v=HnOix9TFy1A) [00:39:39] by **Nadia Polikarpova** (2018)
-* [Four Languages from Forty Years Ago](https://www.youtube.com/watch?v=0fpDlAEQio4) [01:01:45] by **Scott Wlaschin** (2018)
 * [Types, and why you should care](https://www.recurse.com/events/localhost-ron-minsky) [01:04:05] by **Ron Minsky** (2017)
 * [Into the Core - Squeezing Haskell into Nine Constructors](https://www.youtube.com/watch?v=uR_VzYxvbxg) [01:07:48] by **Simon Peyton Jones** (2016)
 * [Let's Build a Hygienic Macro Expander](https://www.youtube.com/watch?v=Or_yKiI3Ha4) [00:40:04] by **Matthew Flatt** (2016)
@@ -1019,7 +1021,6 @@ ever.
 * [The Sociology of Programming Languages](https://www.youtube.com/watch?v=M4Gsl8sVgdQ) [00:42:11] by **Leo Meyerovich** (2014)
 * [Transducers](https://www.youtube.com/watch?v=6mTbuzafcII) [00:45:00] by **Rich Hickey** (2014)
 * [A Dinosaur's Thoughts on Programming Language Evolution](https://www.youtube.com/watch?v=Z9OYc1YYLT4) [00:48:47] by **Matthew Flatt** (2013)
-* [Rust and Other Interesting Things](https://www.youtube.com/watch?v=2wZ1pCpJUIM) [00:37:06] by **Bryan Cantrill** (2018)
 
 #### Research
 * [How to Give a Great Research Talk](https://www.youtube.com/watch?v=sT_-owjKIbA) [00:58:41] by **Simon Peyton Jones** (2016)
