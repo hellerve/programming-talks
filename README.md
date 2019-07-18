@@ -878,6 +878,7 @@ ever.
 * [Chef Style DevOps Kungfu](https://www.youtube.com/watch?v=_DEToXsgrPc) [01:16:08] by **Adam Jacob** (2015)
 
 #### Distributed Systems
+* [~~Everything about distributed systems is terrible~~Designing Distributed Systems with TLA+](https://www.youtube.com/watch?v=tfnldxWlOhM) [00:38:25] by **Hillel Wayne** (2018)
 * [Load Balancing is Impossible](https://www.youtube.com/watch?v=gas2v1emubU) [00:36:43] by **Tyler McMullen** (2016)
 * [Scaling Instagram](https://www.youtube.com/watch?v=oNA2C1vC8FQ) [00:27:13] by **Mike Krieger** (2015)
 * [Coordination-Free Computations](https://www.youtube.com/watch?v=AF8fpDzfUOc) [00:46:15] by **Cristopher Meiklejohn** (really fast talker) (2015)
@@ -886,7 +887,6 @@ ever.
 * [Distributed Systems 101](https://www.youtube.com/watch?v=YAFGQurdJ3U) [00:45:25] by **lvh** (2015)
 * [K things I know about building Resilient Reactive Systems](https://www.youtube.com/watch?v=rQIE22e0cW8) [01:00:02] by **Joe Armstrong** (2014)
 * [The How and Why of Fitting Things Together](https://www.youtube.com/watch?v=ed7A7r6DBsM) [00:46:39] by **Joe Armstrong** (2013)
-* [~~Everything about distributed systems is terrible~~Designing Distributed Systems with TLA+](https://www.youtube.com/watch?v=tfnldxWlOhM) [00:38:25] by **Hillel Wayne** (2018)
 
 #### Entrepreneurship
 * [Improving Yesterday](https://www.youtube.com/watch?v=2mGl66xHIuw) [00:37:57] by **Eric Fode** (2019)
