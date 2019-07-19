@@ -879,6 +879,7 @@ ever.
 
 #### Distributed Systems
 * [~~Everything about distributed systems is terrible~~Designing Distributed Systems with TLA+](https://www.youtube.com/watch?v=tfnldxWlOhM) [00:38:25] by **Hillel Wayne** (2018)
+* [Send me your Echolocation](https://www.deconstructconf.com/2018/vicky-nguyen-send-me-your-echolocation) [00:26:06] by **Vicky Nguyen** (2018)
 * [Load Balancing is Impossible](https://www.youtube.com/watch?v=gas2v1emubU) [00:36:43] by **Tyler McMullen** (2016)
 * [Scaling Instagram](https://www.youtube.com/watch?v=oNA2C1vC8FQ) [00:27:13] by **Mike Krieger** (2015)
 * [Coordination-Free Computations](https://www.youtube.com/watch?v=AF8fpDzfUOc) [00:46:15] by **Cristopher Meiklejohn** (really fast talker) (2015)
