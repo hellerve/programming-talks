@@ -1123,6 +1123,7 @@ ever.
 * [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) [00:51:20] by **Janne Jul Jensen** (2013)
 
 #### Web Development
+* [Accessibility Myths & Solutions](https://www.deconstructconf.com/2018/tea-ho-accessibility-myths-solutions) [00:28:53] by **Tea Ho** (2018)
 * [Implementing and Using GraphQL at GitHub](https://www.youtube.com/watch?v=wPPFhcqGcvk) [00:38:55] by **Kyle Daigle & Dan Schafer** (2016)
 * [The Website Obesity Crisis](https://www.youtube.com/watch?v=iYpl0QVCr6U) [00:53:19] by **Maciej Ceglowski** (2015)
 * [Upgrading the Web](https://www.youtube.com/watch?v=6UTWAEJlhww) [00:41:19] by **Douglas Crockford** (2015)
