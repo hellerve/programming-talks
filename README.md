@@ -475,6 +475,7 @@ ever.
 
 #### Java & Android
 * [Java in 2018: Change is the Only Constant](https://www.youtube.com/watch?v=wHoRBvt3U6o) [00:27:08] by **Mark Reinhold** (2018)
+* [Modules in One Lesson](https://www.youtube.com/watch?v=rFhhLXcOBsk) [00:51:17] by **Mark Reinhold** (2017)
 * [g ∘ f patterns](https://www.youtube.com/watch?v=lZG74WbnhoE) [00:50:44] by **Mario Fusco** (2017)
 * [Parallel and Asynchronous Programming with Streams and CompletableFuture](https://www.youtube.com/watch?v=IwJ-SCfXoAU) [02:34:29] by **Venkat Subramaniam** (2017)
 * [A JVM does that???](https://www.youtube.com/watch?v=-vizTDSz8NU) [00:51:58] by **Cliff Click** (2016)
