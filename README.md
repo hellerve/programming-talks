@@ -350,6 +350,7 @@ ever.
 
 #### Erlang
 * [A Peek Inside Erlang's OTP](https://www.youtube.com/watch?v=PkHZPTn1brc) [00:50:19] by **Steve Vinovski** (2016)
+* [Distributed Jamming with Sonic Pi and Erlang](https://www.youtube.com/watch?v=4SUdnOUKGmo) [00:54:16] by **Sam Aaron & Joe Armstrong** (2016)
 * [Erlang and Deep Learning](https://www.youtube.com/watch?v=iMhBEVCgPdg) [00:47:15] by **Garrett Smith** (2016)
 * [Pilgrim's Progress to the Promised Land](https://www.youtube.com/watch?v=84UI5mRXU7g) [00:52:24] by **Robert Virding** (2016)
 * [Scaling Distributed Erlang](https://www.youtube.com/watch?v=usEs3GPnZDg) [00:47:23] by **Zandra Norman** (2016)
