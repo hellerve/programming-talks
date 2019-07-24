@@ -543,7 +543,6 @@ ever.
 * [Design Decisions in AngularJS](https://www.youtube.com/watch?v=HCR7i5F5L8c) [00:40:00] by **Brad Green & Miško Hevery** (2013)
 * [Dissecting WebGL](https://livestream.com/hugeinc/events/2192947) [01:11:04] by **Justin Windle** (2013)
   * (you might want to take a look at [the slides](https://github.com/hugeinc/doctype-meetup/tree/master/dissecting-webgl), you cannot really see them well)
-* [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) [00:36:31] by **Brian Lonsdorf** (2013)
 * [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) [00:41:43] by **Brian Ford** (2013)
 * [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc) [00:49:48] by **Douglas Crockford** (2013)
 * [Really. JavaScript.](https://www.youtube.com/watch?v=lTWGoL1N-Kc) [00:46:10] by **Douglas Crockford** (2013)
@@ -736,7 +735,6 @@ ever.
 * [Concurrency in Rust](https://www.youtube.com/watch?v=oAZ7F7bqT-o) [00:31:24] by **Alex Crichton** (2014)
 
 #### Scala
-* [Evolving Functional Programming Languages](https://www.youtube.com/watch?v=sBXF8SG_XNw) [00:40:59] by **Erik Osheim** (2016)
 * [Move Over Free Monads: Make Way for Free Applicatives!](https://www.youtube.com/watch?v=H28QqxO7Ihc) [00:45:29] by **John de Goes** (2016)
 * [The Dialectics of Type-Level Programming](https://www.youtube.com/watch?v=0wxGrf8toWk) [00:41:04] by **Aaron Levin** (2016)
 <br>
@@ -960,7 +958,6 @@ ever.
 * [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) [01:07:03] by **Scott Meyers** (2014)
 * [Running a startup on Haskell](https://www.youtube.com/watch?v=ZR3Jirqk6W8) [00:50:23] by **Bryan O'Sullivan** (2013)
 * [Scaling Yourself](https://www.youtube.com/watch?v=FS1mnISoG7U) [00:28:51] by **Scott Hanselman** (2012)
-* [Dan Friedman - Cool Ideas](https://www.youtube.com/watch?v=IHP7P_HlcBk) [00:57:01] by **Guy Steele** (2011)
 
 #### On the Industry/Community
 * [Shaping our children's education in computing](https://www.youtube.com/watch?v=y-xgWLYQc4g) [00:51:08] by **Simon Peyton Jones** (2018)
