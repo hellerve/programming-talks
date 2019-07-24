@@ -96,6 +96,7 @@ ever.
     * [Rust](#rust)
     * [Scala](#scala)
     * [Scheme](#scheme)
+    * [Smalltalk](#smalltalk)
     * [Swift](#swift)
     * [Unison](#unison)
     * [VimL](#viml)
@@ -577,6 +578,7 @@ ever.
 * [Practical Common Lisp](https://www.youtube.com/watch?v=4NO83wZVT0A) [01:12:04] by **Peter Seibel** (2012)
 
 #### Objective C
+* [Object-Oriented Programming in Objective-C](https://www.youtube.com/watch?v=_BbGxpiYFDg) [00:31:10] by **Graham Lee** (2015)
 * [RACify Non-Reactive Code](https://www.youtube.com/watch?v=sek0ohbboNU) [00:24:23] by **Dave Lee** (2014)
 
 #### OCaml
@@ -760,6 +762,9 @@ ever.
 * [Barliman: trying the halting problem backwards, blindfolded](https://www.youtube.com/watch?v=er_lLvkklsk) [00:36:13] by **William Byrd & Greg Rosenblatt** (2016)
 * [miniKanren](https://www.youtube.com/watch?v=5Q9x16uIsKA) [00:46:23] by **Dan Friedman & William Byrd** (2013)
 * [Dan Friedman - Cool Ideas](https://www.youtube.com/watch?v=IHP7P_HlcBk) [00:57:00] by **Guy Steele** (2011)
+
+#### Smalltalk
+* [But Really, You Should Learn Smalltalk](https://www.youtube.com/watch?v=eGaKZBr0ga4) [00:28:05] by **Noel Rappin** (2014)
 
 #### Swift
 * [Implementing Swift Generics](https://www.youtube.com/watch?v=ctS8FzqcRug) [00:44:37] by **Slava Pestov** (2017)
