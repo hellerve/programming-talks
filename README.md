@@ -296,7 +296,7 @@ ever.
 
 * [C++11 Style - A Touch of Class](https://www.youtube.com/watch?v=0iWb_qi2-uI) [01:29:48] by **Bjarne Stroustrup** (2012)
 * [On Static If, C++11 in 2012, Modern Libraries, and Metaprogramming](http://channel9.msdn.com/Shows/Going+Deep/Alexandrescu-Meyers-Sutter-On-Static-If-C11-in-2012-Modern-Libraries-and-Metaprogramming) [00:53:15] by **Andrei Alexandrescu, Scott Meyers & Herb Sutter** (2012)
-* [Using C++11 to speed up your Qt 5 programs](http://www.youtube.com/watch?v=sajBj_eiH10) [00:46:47] by **Marc Mutz** (2012)
+* [Using C++11 to speed up your Qt 5 programs](https://www.youtube.com/watch?v=sajBj_eiH10) [00:46:47] by **Marc Mutz** (2012)
 
 #### Crystal
 * [Introducing the Crystal Programming Language](https://www.youtube.com/watch?v=5QjvGuL4Opo) [00:29:53] by **Will Leinweber** (2016)
@@ -651,7 +651,7 @@ ever.
 * [Learn Python Through Public Data Hacking](https://www.youtube.com/watch?v=RrPZza_vZ3w) [02:38:22] by **David Beazley** (2013)
 * [Loop like a native: while, for, iterators, generators](https://www.youtube.com/watch?v=EnSu9hHGq5o) [00:29:15] by **Ned Batchelder** (2013)
 * [Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI) [03:24:00] by **David Beazley** (2013)
-* [Super Advanced Python](http://www.youtube.com/watch?v=u2KZJzoz-qI) [01:38:56] by **Raymond Chandler** (2013)
+* [Super Advanced Python](https://www.youtube.com/watch?v=u2KZJzoz-qI) [01:38:56] by **Raymond Chandler** (2013)
 * [Transforming Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go) [00:48:51] by **Raymond Hettinger** (2013)
 <br>
 
@@ -916,7 +916,7 @@ ever.
 * [Functional Programming; What? Why? When? How?](https://www.youtube.com/watch?v=7Zlp9rKHGD4) [00:58:27] by **Robert C Martin** (2014)
 * [Living in a Post-Functional World](https://www.infoq.com/presentations/post-functional-scala-clojure-haskell/) [00:45:46] by **Daniel Spiewak** (2013)
 * [Deconstructing Functional Programming](https://www.infoq.com/presentations/functional-pros-cons/) [00:48:33] by **Gilad Bracha** (2013)
-* [Functional Principles for Object Oriented Development](http://www.youtube.com/watch?v=pMGY9ViIGNU) [00:51:13] by **Jessica Kerr** (2013)
+* [Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU) [00:51:13] by **Jessica Kerr** (2013)
 * [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) [01:07:11] by **Dr. Brian Beckman** (2012)
 * [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) [01:06:54] by **Phillip Wadler** (2012)
 * [Adventures in Functional Programming](https://vimeo.com/45140590) [00:50:34] by **Jim Weirich** (2012)
@@ -1145,7 +1145,7 @@ ever.
 * [React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) [00:29:32] by **Pete Hunt** (2013)
 * [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) [00:27:26] by **Chris Williams** (2013)
 * [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) [00:21:40] by **Chris Williams** (2013)
-* [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) [00:36:31] by **Brian Lonsdorf** (2013)
+* [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) [00:36:31] by **Brian Lonsdorf** (2013)
 * [Go To There and Back Again](http://vimeo.com/78893726) [00:49:06] by **Douglas Crockford** (2013)
 * [HTML5 Boilerplate](https://www.youtube.com/watch?v=qyM37XKkmKQ) [01:04:20] by **Paul Irish** (2011)
 
