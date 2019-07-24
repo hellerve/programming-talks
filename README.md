@@ -577,6 +577,7 @@ ever.
 * [Practical Common Lisp](https://www.youtube.com/watch?v=4NO83wZVT0A) [01:12:04] by **Peter Seibel** (2012)
 
 #### Objective C
+* [Object-Oriented Programming in Objective-C](https://www.youtube.com/watch?v=_BbGxpiYFDg) [00:31:10] by **Graham Lee** (2015)
 * [RACify Non-Reactive Code](https://www.youtube.com/watch?v=sek0ohbboNU) [00:24:23] by **Dave Lee** (2014)
 
 #### OCaml
