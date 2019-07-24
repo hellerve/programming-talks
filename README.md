@@ -403,7 +403,7 @@ ever.
 * [Golang: The good, the bad, & the ugly](https://www.youtube.com/watch?v=cMYhGNofHA4) [00:48:31] by **Vincent Batts** (2015)
 * [gRPC: Google's high-performance, open-source RPC framework](https://www.youtube.com/watch?v=sZx3oZt7LVg) [00:29:22] by **Sameer Ajmani** (2015)
 * [Stupid Gopher Tricks](https://www.youtube.com/watch?v=UECh7X07m6E) [00:53:10] by **Andrew Gerrand** (2015)
-* [The move from C to Go in the toolchain](https://www.hakkalabs.co/articles/gopherfest-2015-rob-pike-move-c-go-toolchain) [00:32:52] by **Rob Pike** (2015)
+* [The move from C to Go in the toolchain](https://www.youtube.com/watch?v=cF1zJYkBW4A) [00:32:52] by **Rob Pike** (2015)
 <br>
 
 * [High Performance Systems in Go](https://www.youtube.com/watch?v=ylRKac5kSOk) [00:29:39] by **Derek Collison** (2014)
