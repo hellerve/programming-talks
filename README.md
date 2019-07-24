@@ -103,7 +103,7 @@ ever.
 * [On theory](#on-theory)
     * [Compilers/Interpreters](#compilersinterpreters)
     * [Computer Graphics and Vision](#computer-graphics-and-vision)
-    * [Creative Technolgy](#creative-technology)
+    * [Creative Technology](#creative-technology)
     * [Databases](#databases)
     * [Data Science](#data-science)
     * [Data Structures & Algorithms](#data-structures--algorithms)
