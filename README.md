@@ -988,6 +988,7 @@ ever.
 * [Career Advice for Programmers](https://www.youtube.com/watch?v=LlAn452X4Lc) [00:54:18] by **Trisha Gee** (2013)
 * [Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA) [01:03:35] by **Christopher Alexander** (2013)
 * [Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc) [01:07:26] by **Alan Kay** (2012)
+* [How to be a Happy Developer. Now!](https://www.youtube.com/watch?v=uNq2aFhqOAA) [00:39:32] by **Christian Robert** (2019)
 
 #### Operating Systems
 * [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) [00:33:31] by **Julia Evans** (2014)
