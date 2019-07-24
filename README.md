@@ -317,6 +317,9 @@ ever.
 * [SDC, a D Compiler as a Library](https://www.youtube.com/watch?v=AhR4PSExnqk) [00:48:37] by **Amaury Sechet** (2014)
 
 #### Elixir
+* [The Soul of Erlang and Elixir](https://www.youtube.com/watch?v=JvBT4XBdoUE) [00:42:02] by **Saša Juric** (2019)
+<br>
+
 * [GenStage and Flow](https://www.youtube.com/watch?v=XPlXNUXmcgE) [00:53:32] by **José Valim** (2017)
 * [Solid Ground](https://www.youtube.com/watch?v=5SbWapbXhKo) [00:31:30] by **Saša Juric** (2017)
 * [Transforming Programming](https://www.youtube.com/watch?v=A76hM3MpEKo) [00:46:45] by **Dave Thomas** (2017)
