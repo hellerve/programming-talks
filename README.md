@@ -966,6 +966,7 @@ ever.
 * [Scaling Yourself](https://www.youtube.com/watch?v=FS1mnISoG7U) [00:28:51] by **Scott Hanselman** (2012)
 
 #### On the Industry/Community
+* [How to be a Happy Developer. Now!](https://www.youtube.com/watch?v=uNq2aFhqOAA) [00:39:32] by **Christian Robert** (2019)
 * [Shaping our children's education in computing](https://www.youtube.com/watch?v=y-xgWLYQc4g) [00:51:08] by **Simon Peyton Jones** (2018)
 * [Computing, Climate Change, and All of our Relationships](https://www.deconstructconf.com/2018/nabil-hassein-computing-climate-change-and-all-our-relationships) [00:40:33] by **Nabil Hassein** (2018)
 * [The Hard Parts of Open Source](https://www.youtube.com/watch?v=o_4EX4dPppA) [00:47:15] by **Evan Czaplicki** (2018)
