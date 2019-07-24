@@ -487,7 +487,7 @@ ever.
 * [New Concurrency Models on the JVM: Fibres, Verticles, Agents and Actors](https://www.youtube.com/watch?v=EMv_8dxSqdE) [01:03:01] by **Lutz Hühnken** (2015)
 <br>
 
-* [Common crypto mistakes in Android](http://vimeo.com/115219591) [00:48:44] by **Isaax Potoczny-Jones** (2014)
+* [Common crypto mistakes in Android](https://vimeo.com/115219591) [00:48:44] by **Isaax Potoczny-Jones** (2014)
 * [Functional Reactive Programming with RxJava](https://www.youtube.com/watch?v=_t06LRX0DV0) [00:49:27] by **Ben Christensen** (2014)
 * [Java 8 Lambda Expressions & Streams](https://www.youtube.com/watch?v=8pDm_kH4YKY) [01:43:53] by **Adib Saikali** (2014)
 * [Java 8 Language Capabilities, What's in it for you?](https://www.youtube.com/watch?v=j9nj5dTo54Q) [01:25:28] by **Venkat Subramaniam** (2014)
@@ -765,7 +765,7 @@ ever.
 * [Controlling Complexity in Swift — or — Making Friends with Value Types](https://realm.io/news/andy-matuschak-controlling-complexity/) [00:57:45] by **Andy Matuschak** (2015)
 * [Swift's High-Level IR: A Case Study...](https://www.youtube.com/watch?v=Ntj8ab-5cvE) [00:55:37] by **Joe Groff & Chris Lattner** (2015) [A]
 * [Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=nvHFin89pXY) [00:41:19] by **J.P. Simard** (2014)
-* [Thinking in Swift](http://vimeo.com/105440181) [00:24:23] by **Abizer Nasir** (2014)
+* [Thinking in Swift](https://vimeo.com/105440181) [00:24:23] by **Abizer Nasir** (2014)
 
 #### Unison
 * [Introduction to the Unison programming language](https://www.youtube.com/watch?v=rp_Eild1aq8) [00:40:58] by **Rúnar Bjarnason** (2018)
@@ -1139,14 +1139,14 @@ ever.
 * [Parallax Performance](https://www.youtube.com/watch?v=R6TXuXV1bbY) [00:32:01] by **Paul Irish** (2014)
 * [Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw) [00:23:25] by **Paul Irish** (2014)
 * [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) [00:25:57] by **Scott Hanselman** (2014)
-* [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) [00:32:07] by **James Mickens** (2014)
+* [Life is Terrible: Let's Talk About the Web](https://vimeo.com/111122950) [00:32:07] by **James Mickens** (2014)
 * [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:28:44] by **Gary Bernhardt** (2014)
 * [C10M - Defending The Internet At Scale](https://youtu.be/73XNtI0w7jA) [00:47:53] by **Robert Graham** (2013)
 * [React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) [00:29:32] by **Pete Hunt** (2013)
 * [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) [00:27:26] by **Chris Williams** (2013)
 * [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) [00:21:40] by **Chris Williams** (2013)
 * [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) [00:36:31] by **Brian Lonsdorf** (2013)
-* [Go To There and Back Again](http://vimeo.com/78893726) [00:49:06] by **Douglas Crockford** (2013)
+* [Go To There and Back Again](https://vimeo.com/78893726) [00:49:06] by **Douglas Crockford** (2013)
 * [HTML5 Boilerplate](https://www.youtube.com/watch?v=qyM37XKkmKQ) [01:04:20] by **Paul Irish** (2011)
 
 ### Miscellaneous
