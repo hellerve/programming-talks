@@ -151,7 +151,7 @@ ever.
 
 #### C
 * [Advanced C Coding For Fun!](https://www.youtube.com/watch?v=BEQ3sRakIs0) [00:46:53] by **Rusty Russell** (2014)
-* [Writing application fault handlers](http://free-electrons.com/pub/video/2008/ols/ols2008-gilad-ben-yossef-fault-handlers.ogg) [00:49:03] by **Gilad Ben-Yossef** (2008)
+* [Writing application fault handlers](https://bootlin.com/pub/video/2008/ols/ols2008-gilad-ben-yossef-fault-handlers.ogg) [00:49:03] by **Gilad Ben-Yossef** (2008)
 
 #### Clojure
 * [Expeditious Code via Inference](https://www.youtube.com/watch?v=tPnCtXrwvIw) [00:45:36] by **Mike Fikes** (2019)
@@ -541,7 +541,7 @@ ever.
 * [Constraint programming in the browser](https://www.youtube.com/watch?v=72sWgwaAoyk) [00:28:15] by **Adam Solove** (2013)
 * [Creating A Scalable JavaScript Application Architecture](https://www.youtube.com/watch?v=b5pFv9NB9fs) [00:41:54] by **Nicholas Zakas** (2013)
 * [Design Decisions in AngularJS](https://www.youtube.com/watch?v=HCR7i5F5L8c) [00:40:00] by **Brad Green & Miško Hevery** (2013)
-* [Dissecting WebGL](http://new.livestream.com/hugeinc/events/2192947) [01:11:04] by **Justin Windle** (2013)
+* [Dissecting WebGL](https://livestream.com/hugeinc/events/2192947) [01:11:04] by **Justin Windle** (2013)
   * (you might want to take a look at [the slides](https://github.com/hugeinc/doctype-meetup/tree/master/dissecting-webgl), you cannot really see them well)
 * [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) [00:36:31] by **Brian Lonsdorf** (2013)
 * [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) [00:41:43] by **Brian Ford** (2013)
@@ -554,7 +554,7 @@ ever.
 
 * [The first ever presentation on Node.js](https://www.youtube.com/watch?v=ztspvPYybIY) [00:48:31] by **Ryan Dahl** (2012)
 * [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** (2011) (it's 10 hours long!)
-* [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) [00:58:18] by **Ryan Dahl** (2010)
+* [Introduction to Node.js](https://yuiblog.com/blog/2010/05/20/video-dahl/) [00:58:18] by **Ryan Dahl** (2010)
 
 #### Julia
 * [Julia as a platform for language development](https://www.youtube.com/watch?v=BBUrQId0HhQ) [00:28:20] by **Jamie Brandon** (2018)
@@ -660,7 +660,7 @@ ever.
 * [pandas: Powerful data analysis tools for Python](https://www.youtube.com/watch?v=qbYYamU42Sw) [00:34:38] by **Wes McKinney** (2012)
 * [Python Epiphanies](https://www.youtube.com/watch?v=Pi9NpxAvYSs) [02:21:44] by **Stuart Williams** (PDF version/code can be found [here](http://swilliams.ca/Python-Epiphanies.pdf)) (2012)
 * [Python Metaprogramming for Mad Scientists and Evil Geniuses](https://www.youtube.com/watch?v=Adr_QuDZxuM) [00:37:13] by **Walker Hale** (2012)
-* [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) [00:27:29] by **Jack Diederich** (2012)
+* [Stop Writing Classes](https://pyvideo.org/pycon-us-2012/stop-writing-classes.html) [00:27:29] by **Jack Diederich** (2012)
 * [Understanding the Python GIL](https://www.youtube.com/watch?v=Obt-vMVdM8s) [00:46:10] by **David Beazley** (2012)
 <br>
 
