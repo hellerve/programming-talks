@@ -211,13 +211,13 @@ ever.
 * [Variants are Not Unions](https://www.youtube.com/watch?v=ZQkIWWTygio) [00:37:53] by **Jeanine Adkisson** (2014)
 <br>
 
-* [Clojure core.async](http://www.infoq.com/presentations/clojure-core-async) [00:44:25] by **Rich Hickey** (2013)
+* [Clojure core.async](https://www.infoq.com/presentations/clojure-core-async/) [00:44:25] by **Rich Hickey** (2013)
 * [Clojure Data Science](https://www.youtube.com/watch?v=RVmY2lQ4DHE) [00:32:40] by **Edmund Jackson** (2013)
 * [Clojure Enemy of the State](https://www.youtube.com/watch?v=qe60zwUAOqE) [01:06:31] by **Alex Miller** (2013)
 * [Clojure in 10 Big Ideas](https://www.youtube.com/watch?v=noiGVQoyYHw) [00:30:48] by **Stu Halloway** (2013)
 * [Clojure Library Core.async for Asynchronous Programming](https://www.youtube.com/watch?v=AhxcGGeh5ho) [00:55:32] by **David Nolen** (2013)
 * [Core.Async](https://www.youtube.com/watch?v=enwIIGzhahw) [00:39:45] by **Timothy Baldridge** (2013)
-* [Design, Composition and Performance](http://www.infoq.com/presentations/Design-Composition-Performance) [00:51:10] by **Rich Hickey** (2013)
+* [Design, Composition and Performance](https://www.infoq.com/presentations/Design-Composition-Performance/) [00:51:10] by **Rich Hickey** (2013)
 * [Expert to Expert - Inside Clojure](https://www.youtube.com/watch?v=wASCH_gPnDw) [00:53:56] by **Rich Hickey & Brian Beckman** (it's not so much a talk as a conversation; awesome for beginners) (2013)
 * [Jelly stains. Thoughts on JavaScript, LISP & Play](https://www.youtube.com/watch?v=AnzMEdC2FDk) [00:19:12] by **David Nolen** (2013)
 * [Machine Learning Live](https://www.youtube.com/watch?v=QJ1qgCr09j8) [00:27:38] by **Mike Anderson** (2013)
@@ -228,9 +228,9 @@ ever.
 <br>
 
 * [Clojure Concurrency](https://www.youtube.com/watch?v=dGVqrGmwOAw) [02:32:39] by **Rich Hickey** (2012)
-* [Why Is A Monad Like A Writing Desk?](http://www.infoq.com/presentations/Why-is-a-Monad-Like-a-Writing-Desk) [00:30:38] by **Carin Meier** (2012)
+* [Why Is A Monad Like A Writing Desk?](https://www.infoq.com/presentations/Why-is-a-Monad-Like-a-Writing-Desk/) [00:30:38] by **Carin Meier** (2012)
 * [Clojure for Schemers](https://vimeo.com/22675078) [01:17:27] by **David Nolen** (2011)
-* [Persistent Data Structures and Managed References](http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey) [00:55:53] by **Rich Hickey** (2009)
+* [Persistent Data Structures and Managed References](https://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey/) [00:55:53] by **Rich Hickey** (2009)
 
 #### C++
 * [C++ - The Newest Old Language](https://www.youtube.com/watch?v=HAFrggEDr5U) [00:43:36] by **Matt Godbolt** (2018)
@@ -842,7 +842,7 @@ ever.
 * [Sharding and Scaling Your Database](https://www.youtube.com/watch?v=p3ytSdUQZzA) [00:42:53] by **Neha Narula** (2014)
 * [Postgres Performance for Humans](https://www.youtube.com/watch?v=MpH8W5hce9I) [00:33:49] by **Craig Kerstiens** (2014)
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) [00:54:52] by **Martin Fowler** (2013)
-* [The Impedance Mismatch is Our Fault](http://www.infoq.com/presentations/Impedance-Mismatch) [00:58:31] by **Stuart D. Halloway** (2012)
+* [The Impedance Mismatch is Our Fault](https://www.infoq.com/presentations/Impedance-Mismatch/) [00:58:31] by **Stuart D. Halloway** (2012)
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) [01:06:24] by **Rich Hickey** (2012)
 
 #### Data Science
@@ -914,8 +914,8 @@ ever.
 * [Railway oriented programming: Error handling in functional languages](https://vimeo.com/113707214) by **Scott Wlaschin** (2014)
 * [The Functional Final Frontier](https://www.youtube.com/watch?v=DMtwq3QtddY) [00:27:02] by **David Nolen** (2014)
 * [Functional Programming; What? Why? When? How?](https://www.youtube.com/watch?v=7Zlp9rKHGD4) [00:58:27] by **Robert C Martin** (2014)
-* [Living in a Post-Functional World](http://www.infoq.com/presentations/post-functional-scala-clojure-haskell) [00:45:46] by **Daniel Spiewak** (2013)
-* [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) [00:48:33] by **Gilad Bracha** (2013)
+* [Living in a Post-Functional World](https://www.infoq.com/presentations/post-functional-scala-clojure-haskell/) [00:45:46] by **Daniel Spiewak** (2013)
+* [Deconstructing Functional Programming](https://www.infoq.com/presentations/functional-pros-cons/) [00:48:33] by **Gilad Bracha** (2013)
 * [Functional Principles for Object Oriented Development](http://www.youtube.com/watch?v=pMGY9ViIGNU) [00:51:13] by **Jessica Kerr** (2013)
 * [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) [01:07:11] by **Dr. Brian Beckman** (2012)
 * [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) [01:06:54] by **Phillip Wadler** (2012)
@@ -1021,7 +1021,7 @@ ever.
 * [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) [00:42:42] by **Philip Wadler** (2015)
 * [Eve](https://www.youtube.com/watch?v=5V1ynVyud4M) [00:46:03] by **Chris Granger** (2015)
 * [Papers We Love: Fundamental Concepts in Programming Languages](https://www.youtube.com/watch?v=cO41uoi5cZs) [01:16:39] by **John Myles White** (2015)
-* [The Worst Programming Language Ever](http://www.infoq.com/presentations/worst-programming-language) [00:43:46] by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it) (2015)
+* [The Worst Programming Language Ever](https://www.infoq.com/presentations/worst-programming-language/) [00:43:46] by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it) (2015)
 * [Implement an Esoteric Programming Language for Fun](https://www.youtube.com/watch?v=oCPT3L33848) [00:22:16] by **Arne Martin Aurlien** (2014)
 * [The Sociology of Programming Languages](https://www.youtube.com/watch?v=M4Gsl8sVgdQ) [00:42:11] by **Leo Meyerovich** (2014)
 * [Transducers](https://www.youtube.com/watch?v=6mTbuzafcII) [00:45:00] by **Rich Hickey** (2014)
@@ -1084,13 +1084,13 @@ ever.
 * [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) [01:06:44] by **Thomas Figg** (2013)
 * [A Whole New World](https://www.destroyallsoftware.com/talks/a-whole-new-world) [00:21:20] by **Gary Bernhardt** (2012)
 * [Inventing on Principle](https://vimeo.com/36579366) [00:54:20] by **Bret Victor** (2012)
-* [The Value Of Values](http://www.infoq.com/presentations/Value-Values) [00:58:53] by **Rich Hickey** (2012)
+* [The Value Of Values](https://www.infoq.com/presentations/Value-Values/) [00:58:53] by **Rich Hickey** (2012)
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) [00:39:49] by **Rich Hickey** (2012)
 * [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) [00:36:54] by **Rich Hickey** (Simple Made Easy revisited) (2012)
 * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) [00:53:31] by **Guy Steele** (2012)
 * [Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) [01:06:38] by **Robert C. Martin** (2011)
-* [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) [01:01:26] by **Rich Hickey** (2011)
-* [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) [01:10:04] by **Rich Hickey** (2009)
+* [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/) [01:01:26] by **Rich Hickey** (2011)
+* [Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey/) [01:10:04] by **Rich Hickey** (2009)
 * [SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU) [00:47:11] by **Sandi Metz** (2009)
 
 #### System Architecture
