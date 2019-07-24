@@ -964,6 +964,7 @@ ever.
 * [Dan Friedman - Cool Ideas](https://www.youtube.com/watch?v=IHP7P_HlcBk) [00:57:01] by **Guy Steele** (2011)
 
 #### On the Industry/Community
+* [How to be a Happy Developer. Now!](https://www.youtube.com/watch?v=uNq2aFhqOAA) [00:39:32] by **Christian Robert** (2019)
 * [Shaping our children's education in computing](https://www.youtube.com/watch?v=y-xgWLYQc4g) [00:51:08] by **Simon Peyton Jones** (2018)
 * [Computing, Climate Change, and All of our Relationships](https://www.deconstructconf.com/2018/nabil-hassein-computing-climate-change-and-all-our-relationships) [00:40:33] by **Nabil Hassein** (2018)
 * [The Hard Parts of Open Source](https://www.youtube.com/watch?v=o_4EX4dPppA) [00:47:15] by **Evan Czaplicki** (2018)
@@ -988,7 +989,6 @@ ever.
 * [Career Advice for Programmers](https://www.youtube.com/watch?v=LlAn452X4Lc) [00:54:18] by **Trisha Gee** (2013)
 * [Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA) [01:03:35] by **Christopher Alexander** (2013)
 * [Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc) [01:07:26] by **Alan Kay** (2012)
-* [How to be a Happy Developer. Now!](https://www.youtube.com/watch?v=uNq2aFhqOAA) [00:39:32] by **Christian Robert** (2019)
 
 #### Operating Systems
 * [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) [00:33:31] by **Julia Evans** (2014)
