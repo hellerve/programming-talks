@@ -680,6 +680,7 @@ ever.
 * [Purely Functional 3D in Typed Racket](https://www.youtube.com/watch?v=t3xdv4UP9-U) [00:22:15] by **Neil Toronto** (2014)
 
 #### Ruby
+* [What Killed Smalltalk Could Kill Ruby, Too](https://www.youtube.com/watch?v=YX3iRjKj7C0) [01:00:55] by **Robert Martin** (2009)
 * [Writing Ruby Like it’s 2018](https://www.youtube.com/watch?v=nVbMhLKvDF0) [00:11:53] by **Joe Leo III** (2018)
 <br>
 
