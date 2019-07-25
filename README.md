@@ -113,6 +113,7 @@ ever.
     * [Distributed Systems](#distributed-systems)
     * [Entrepreneurship](#entrepreneurship)
     * [Functional Programming](#functional-programming)
+    * [Game Development](#game-development)
     * [Hardware](#hardware)
     * [Logic Programming](#logic-programming)
     * [Machine Learning](#machine-learning)
@@ -929,6 +930,9 @@ ever.
 * [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) [01:06:54] by **Phillip Wadler** (2012)
 * [Adventures in Functional Programming](https://vimeo.com/45140590) [00:50:34] by **Jim Weirich** (2012)
 * [Tangible Functional Programming](https://www.youtube.com/watch?v=faJ8N0giqzw) [00:56:25] by **Conal Elliott** (2007)
+
+#### Game Development
+* [Is There More to Game Architecture than ECS?](https://www.youtube.com/watch?v=JxI3Eu5DPwE) [00:23:05] by **Bob Nystrom** (2018)
 
 #### Hardware
 * [Mill vs. Spectre: Performance and Security](https://www.youtube.com/watch?v=8E4qs2irmpc) [00:46:42] by **Ivan Godard** (2018)
