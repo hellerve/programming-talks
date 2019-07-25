@@ -1056,6 +1056,7 @@ ever.
 
 #### Software Development
 * [Moldable development](https://www.youtube.com/watch?v=Pot9GnHFOVU) [00:37:48] by **Tudor Gîrba** (2019)
+* [Say What You Mean - Exploring Declarative Computation in Art](https://www.youtube.com/watch?v=HalZfFdWuP4) [00´:43:12] by **David Schmudde** (2019)
 * [OOP Is Dead, Long Live Data-oriented Design](https://www.youtube.com/watch?v=yy8jQgmhbAU) [01:00:45] by **Stoyan Nikolov** (2018)
 * [Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E) [00:50:22] by **Kevlin Henney** (2018)
 * [Polly want a Message](https://www.deconstructconf.com/2018/sandi-metz-polly-want-a-message) [00:40:00] by **Sandi Metz** (2018)
