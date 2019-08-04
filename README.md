@@ -391,6 +391,7 @@ ever.
 * [Frege, a Haskell for the JVM](https://www.youtube.com/watch?v=1P1-HXNfFPc) [01:00:12] by **Dierk König** (2015)
 
 #### Go
+* [SQLite and Go](https://www.youtube.com/watch?v=RqubKSF3wig) [00:32:02] by **David Crawshaw** (2018)
 * [Things in Go I Never Use](https://www.youtube.com/watch?v=5DVV36uqQ4E) [00:24:52] by **Mat Ryer** (2018)
 * [cgo - Safely Taming the Beast](https://www.youtube.com/watch?v=lhMhApWQp2E) [00:48:20] by **Filippo Valsorda** (2016)
 * [Communicating Sequential Goroutines](https://www.youtube.com/watch?v=gO1qF19y6KQ) [00:50:15] by **Adrian Cockcroft** (2016)
