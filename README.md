@@ -565,6 +565,11 @@ ever.
 * [Introduction to Node.js](https://yuiblog.com/blog/2010/05/20/video-dahl/) [00:58:18] by **Ryan Dahl** (2010)
 
 #### Julia
+
+* [What's Bad About Julia](https://www.youtube.com/watch?v=TPuJsgyu87U) [00:30:39] by **Jeff Bezanson** (2019)
+* [The Unreasonable Effectiveness of Multiple Dispatch](https://www.youtube.com/watch?v=kc9HwsxE1OY) [00:35:23] by **Stefan Karpinski** (2019)
+<br>
+
 * [Julia as a platform for language development](https://www.youtube.com/watch?v=BBUrQId0HhQ) [00:28:20] by **Jamie Brandon** (2018)
 <br>
 
