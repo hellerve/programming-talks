@@ -1149,6 +1149,7 @@ ever.
 * [Papers We Love: On the Meanings of the Logical Constants and the Justifications of the Logical Laws](https://www.youtube.com/watch?v=xRUPr322COQ) [01:24:37] by **Joseph Abrahamson** (2014)
 
 #### UX/UI
+* [Designing GNOME Mobile Apps](https://guadec.ubicast.tv/permalink/v125d0af53a1fipzbiat/) [00:35:48] by **Tobias Bernard** (2019) [[slides](https://github.com/bertob/guadec2019-slides/blob/master/guadec-2019-gnome-mobile-apps.pdf)]
 * [Data Driven UIs, Incrementally](https://www.youtube.com/watch?v=R3xX37RGJKE) [00:36:17] by **Yaron Minsky** (2018)
 * [Choosing Features](https://www.deconstructconf.com/2017/kevin-lynagh-choosing-features) [00:23:52] by **Kevin Lynagh** (2017)
 * [Practical UI physics](https://www.youtube.com/watch?v=90oMnMFozEE) [00:34:12] by **David DeSandro** (2015)
