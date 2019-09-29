@@ -398,6 +398,7 @@ ever.
 * [Communicating Sequential Goroutines](https://www.youtube.com/watch?v=gO1qF19y6KQ) [00:50:15] by **Adrian Cockcroft** (2016)
 * [Crypto for Go Developers](https://www.youtube.com/watch?v=2r_KMzXB74w) [00:31:14] by **George Tankersley** (title of Youtube video wrong) (2016)
 * [Do not fear first class functions](https://www.youtube.com/watch?v=5buaPyJ0XeQ) [00:18:54] by **Dave Cheney** (2016)
+* ["go test -race" Under the Hood](https://www.youtube.com/watch?v=5erqWdlhQLA) [00:44:13] by **Kavya Joshi** (2016)
 * [Idiomatic Go Tricks](https://www.youtube.com/watch?v=yeetIgNeIkc) [00:27:56] by **Mat Ryer** (2016)
 * [Inside the Map Implementation](https://www.youtube.com/watch?v=Tl7mi9QmLns) [00:26:49] by **Keith Randall** (2016)
 * [Packet Capture, Analysis, and Injection with Go](https://www.youtube.com/watch?v=APDnbmTKjgM) [00:37:14] by **John Leon** (2016)
