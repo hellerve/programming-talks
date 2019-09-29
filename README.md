@@ -407,6 +407,7 @@ ever.
 * [The Hidden Power of Humble Interfaces](https://www.youtube.com/watch?v=s4e-cFhT620) [00:23:47] by **Aditya Mukerjee** (2016)
 <br>
 
+* [7 common mistakes in Go and when to avoid them](https://www.youtube.com/watch?v=29LLRKIL_TI) [00:27:57] by **Steve Francia** (2015)
 * [Communicating Sequential Processes](https://www.youtube.com/watch?v=3gXWA6WEvOM) [00:43:21] by **Eric Shull** (2015)
 * [Go](https://www.youtube.com/watch?v=PTZqkyivnHk) [00:38:18] by **Rob Pike** (2015)
 * [Golang: The good, the bad, & the ugly](https://www.youtube.com/watch?v=cMYhGNofHA4) [00:48:31] by **Vincent Batts** (2015)
