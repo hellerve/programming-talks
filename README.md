@@ -923,7 +923,7 @@ ever.
 * [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) [01:16:21] by **Randy Pausch** (2007)
 
 #### Functional Programming
-* [Why Isn't Functional Programming the Norm?](https://www.youtube.com/watch?v=QyJZzq0v7Z4) [00:46:08] by **Richard Feldman** (2019)[A]
+* [Why Isn't Functional Programming the Norm?](https://www.youtube.com/watch?v=QyJZzq0v7Z4) [00:46:08] by **Richard Feldman** (2019) [A]
 * [What FP can learn from Smalltalk](https://www.youtube.com/watch?v=baxtyeFVn3w) [00:43:36] by **Aditya Siram** (2018)
 * [Profunctor Optics: The Categorical Approach](https://www.youtube.com/watch?v=l1FCXUi6Vlw) [00:45:33] by **Bartosz Milewki** (2017)
 * [Peeling the Banana: Recursion Schemes from First Principles](https://www.youtube.com/watch?v=XZ9nPZbaYfE) [00:34:21] by **Zainab Ali** (2017)
