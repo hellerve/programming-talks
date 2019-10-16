@@ -1141,6 +1141,7 @@ ever.
 #### Theoretical Computer Science
 * [Category Theory for the Working Hacker](https://www.youtube.com/watch?v=V10hzjgoklA) [00:50:51] by **Philip Wadler** (2016)
 * [Impossible Programs](https://www.youtube.com/watch?v=hN63FOa_Gp4) [00:50:06] by **Tom Stuart** (2015)
+* [A Lever for the Mind](https://www.youtube.com/watch?v=tJkoHFjoMuk) [00:38:54] by **Tom Stuart** (2015)
 * [Papers We Love: An Axiomatic Basis for Computer Programming](https://www.youtube.com/watch?v=GQi-6-d5ooQ) [01:04:32] by **Jean Yang** (2014)
 * [Lambda Calculus Then and Now](https://www.youtube.com/watch?v=SphBW9ILVPU) [00:30:08] by **Dana S. Scott** (2013)
 * [Turing and the Riemann zeta function](https://www.youtube.com/watch?v=pQS7X_8iTCA) [01:06:54] by **Andrew Odlyzko** (2012)
