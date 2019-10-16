@@ -1017,7 +1017,7 @@ ever.
 * [Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc) [01:07:26] by **Alan Kay** (2012)
 
 #### Operating Systems
-* [Learning the Linux Kernel with tracing] (https://www.youtube.com/watch?v=JRyrhsx-L5Y) [01:07:24] by **Steven Rostedt** (2018)
+* [Learning the Linux Kernel with tracing](https://www.youtube.com/watch?v=JRyrhsx-L5Y) [01:07:24] by **Steven Rostedt** (2018)
 * [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) [00:33:31] by **Julia Evans** (2014)
 * [Python, Linkers, and Virtual Memory](https://www.youtube.com/watch?v=twQKAoq2OPE) [00:31:15] by **Brandon Rhodes** (2012)
 * [The Origins of Linux](https://www.youtube.com/watch?v=WVTWCPoUt8w) [1:25:12] by **Linus Torvalds** (2001) [A]
