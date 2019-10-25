@@ -1023,11 +1023,13 @@ ever.
 * [The Origins of Linux](https://www.youtube.com/watch?v=WVTWCPoUt8w) [1:25:12] by **Linus Torvalds** (2001) [A]
 
 #### Performance Engineering
+* [Performance Matters](https://www.youtube.com/watch?v=r-TLSBdHe1A) [00:42:14] by **Emery Berger** (2019)
 * [Software Performance: A Shape Not a Number](https://www.youtube.com/watch?v=f7HCeE377-0) [00:31:59] by **Kay Ousterhout** (2018)
 * [Xi: an editor for the next 20 years](https://www.recurse.com/events/localhost-raph-levien) [00:53:20] by **Raph Levien** (2018)
 * [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) [00:50:17] by **Martin Thompson** (2015)
 
 #### Programming Language Design
+* [On the Expressive Power of Programming Languages](https://www.youtube.com/watch?v=43XaZEn2aLc) [00:59:03] by **Shriram Krishnamurthi** (2019)
 * [Three Things I Wish I Knew When I Started Designing Languages](https://www.infoq.com/presentations/language-design-process/) [00:44:28] by **Peter Alvaro** (2019)
 * [A Little Taste of Dependent Types](https://www.youtube.com/watch?v=VxINoKFm-S4) [00:38:35] by **David Christiansen** (2018)
 * [A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js](https://www.youtube.com/watch?v=aGJTXdXQN2o) [00:47:24] by **Ashley Williams** (2018)
