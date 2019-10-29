@@ -700,6 +700,9 @@ ever.
 * [Writing Ruby Like it’s 2018](https://www.youtube.com/watch?v=nVbMhLKvDF0) [00:11:53] by **Joe Leo III** (2018)
 <br>
 
+* [Code Refactoring: Learn Code Smells And Level Up Your Game](https://www.youtube.com/watch?v=D4auWwMsEnY) [00:36:12] by Sandi Metz RailsConf (2017)
+<br>
+
 * [Composition](https://www.youtube.com/watch?v=zwo7ZTHS8Wg) [00:47:55] by **James Dabbs** (2016)
 * [Halve Your Memory Usage With These 12 Weird Tricks](https://www.youtube.com/watch?v=kZcqyuPeDao) [00:45:30] by **Nate Berkopec** (2016)
 * [How Are Method Calls Formed?](https://www.youtube.com/watch?v=6Dkjus07d9Y) [00:52:16] by **Aaron Patterson** (2016)
