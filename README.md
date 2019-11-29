@@ -1033,6 +1033,7 @@ ever.
 
 #### Programming Language Design
 * [On the Expressive Power of Programming Languages](https://www.youtube.com/watch?v=43XaZEn2aLc) [00:59:03] by **Shriram Krishnamurthi** (2019)
+* [Stuck macros: deterministically interleaving macro-expansion and typechecking](https://www.youtube.com/watch?v=nUvKoG_V_U0) [00:41:55] by **Samuel Gélineau** (2019)
 * [Three Things I Wish I Knew When I Started Designing Languages](https://www.infoq.com/presentations/language-design-process/) [00:44:28] by **Peter Alvaro** (2019)
 * [A Little Taste of Dependent Types](https://www.youtube.com/watch?v=VxINoKFm-S4) [00:38:35] by **David Christiansen** (2018)
 * [A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js](https://www.youtube.com/watch?v=aGJTXdXQN2o) [00:47:24] by **Ashley Williams** (2018)
