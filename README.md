@@ -1083,6 +1083,7 @@ ever.
 * [Pulling Back the Curtain on Airport Security: Can a Weapon Get Past TSA](https://www.youtube.com/watch?v=hbqVNlwfjxo) [00:31:52] by **Billy Rios** (2014)
 
 #### Software Development
+* [Intro to Empirical Software Engineering: What We Know We Don't Know](https://www.youtube.com/watch?v=WELBnE33dpY) [00:37:42] by **Hillel Wayne** [A]
 * [Moldable development](https://www.youtube.com/watch?v=Pot9GnHFOVU) [00:37:48] by **Tudor Gîrba** (2019)
 * [Say What You Mean - Exploring Declarative Computation in Art](https://www.youtube.com/watch?v=HalZfFdWuP4) [00´:43:12] by **David Schmudde** (2019)
 * [OOP Is Dead, Long Live Data-oriented Design](https://www.youtube.com/watch?v=yy8jQgmhbAU) [01:00:45] by **Stoyan Nikolov** (2018)
