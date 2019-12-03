@@ -1020,6 +1020,7 @@ ever.
 * [Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc) [01:07:26] by **Alan Kay** (2012)
 
 #### Operating Systems
+* [Extended BPF: A new software type](https://www.youtube.com/watch?v=7pmXdG8-7WU) [00:31:03] by **Brendan Gregg** (2019)
 * [Learning the Linux Kernel with tracing](https://www.youtube.com/watch?v=JRyrhsx-L5Y) [01:07:24] by **Steven Rostedt** (2018)
 * [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) [00:33:31] by **Julia Evans** (2014)
 * [Python, Linkers, and Virtual Memory](https://www.youtube.com/watch?v=twQKAoq2OPE) [00:31:15] by **Brandon Rhodes** (2012)
