@@ -998,6 +998,7 @@ ever.
 * [Computing, Climate Change, and All of our Relationships](https://www.deconstructconf.com/2018/nabil-hassein-computing-climate-change-and-all-our-relationships) [00:40:33] by **Nabil Hassein** (2018)
 * [The Hard Parts of Open Source](https://www.youtube.com/watch?v=o_4EX4dPppA) [00:47:15] by **Evan Czaplicki** (2018)
 * [Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk) [00:23:02] by **Tim Holman** (2018)
+* [Winning the War on Error: Solving Halting Problem, Curing Cancer](https://www.youtube.com/watch?v=EVkHgKCqAcI) [01:09:38] by **Matt Might** (2017) [A]
 * [Invited Talk](https://www.youtube.com/watch?v=dCuZkaaou0Q) [01:07:21] by **Guy Steele** (2017) (on notation) [A]
 * [Patterns Failed. Why? Should We Care?](https://www.deconstructconf.com/2017/brian-marick-patterns-failed-why-should-we-care) [00:26:40] by **Brian Marick** (2017)
 * [Code Review, Forwards and Back](https://www.youtube.com/watch?v=9qYR0NqsDcA) [00:22:33] by **Sumana Harihareswara & Jason Owen** (2017)
