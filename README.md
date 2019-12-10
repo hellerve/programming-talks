@@ -1209,6 +1209,7 @@ ever.
 * [A Programmer’s Guide To Western Music](https://www.youtube.com/watch?v=xpSYWd_aIiI) [00:42:13] by **Andrew Sorensen** (2015)
 * [Kolmogorov music](https://www.youtube.com/watch?v=Qg3XOfioapI) [00:42:05] by **Cristopher Ford** (2015)
 * [Well I Wouldn't Want To Make a \*Dys\*functional Game](https://www.youtube.com/watch?v=TDDJsKLUh1Y) [00:18:17] by **Morgan Mullaney** (2015) [A]
+* [You Suck at Excel](https://www.youtube.com/watch?v=0nbkaYsR94c) [00:54:00] by **Joel Spolsky** (2015)
 * [Stop Treading Water: Learning to Learn](https://www.youtube.com/watch?v=j0XmixCsWjs) [00:40:58] by **Edward Kmett** (2014)
 * [Madam Sandi Tells Your Future](https://www.youtube.com/watch?v=JOM5_V5jLAs) [00:38:13] by **Sandi Metz** (2014)
 * [Software Development Lessons from the Apollo Program](https://www.youtube.com/watch?v=hrsT9wmPVoo) [00:29:59] by **Julian Simioni** (2014)
