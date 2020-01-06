@@ -892,6 +892,7 @@ ever.
 * [Practical Fractals in Space](https://www.youtube.com/watch?v=uEBzS9tpmTo) [00:38:27] by **Michelle Brush** (2014)
 * [Persistent Data Structures for Special Occasions](https://www.youtube.com/watch?v=Z_iLjL0mc4I) [00:44:44] by **Michał Marczyk** (2014)
 * [Visualizing Persistent Data Structures](https://www.youtube.com/watch?v=2XH_q494U3U) [00:37:24] by **Dann Toliver** (2014)
+* [Generic sorting and partitioning in linear time and fully abstractly](https://www.youtube.com/watch?v=sz9ZlZIRDAg) by **Fritz Henglein** (2012)
 
 #### Debugging
 * [Tackling Concurrency Bugs with TLA+](https://www.youtube.com/watch?v=_9B__0S21y8) [00:30:05] by **Hillel Wayne** (2017)
