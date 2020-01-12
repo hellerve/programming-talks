@@ -1075,6 +1075,7 @@ ever.
 
 #### Security
 * [DNS, SNI, TLS, HTTPS: Modern DNS & Privacy](https://www.youtube.com/watch?v=pjin3nv8jAo) [00:43:17] by **Bert Hubert** (2019)
+* [No source, no problem! High speed binary fuzzing](https://media.ccc.de/v/36c3-10880-no_source_no_problem_high_speed_binary_fuzzing) by **Nspace & gannimo** (2019)
 * [You're Probably Not Red Teaming... And Usually I’m Not, Either](https://www.youtube.com/watch?v=mj2iSdBw4-0) [00:43:43] by **Deviant Ollam** (2018)
 * [GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY) [00:50:59] by **Christopher Domas** (2018)
 * [Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible? A: Because Keynote Speakers Make Bad Life Decisions and Are Poor Role Models](https://www.youtube.com/watch?v=ajGX7odA87k) [00:51:21] by **James Mickens** (2018)
