@@ -1165,6 +1165,7 @@ ever.
 #### Type Theory
 * [Type Theory and its Meaning Explanations](https://www.youtube.com/watch?v=xMAqniX2Paw) [00:52:23] by **Jon Sterling** (2015)
 * [Papers We Love: On the Meanings of the Logical Constants and the Justifications of the Logical Laws](https://www.youtube.com/watch?v=xRUPr322COQ) [01:24:37] by **Joseph Abrahamson** (2014)
+* [Papers We Love: The Derivative of a Regular Type is its Type of One-Hole Contexts](https://www.youtube.com/watch?v=K7tQsKxC2I8) [01:06:25] by **Erik Hinton** (2014)
 
 #### UX/UI
 * [Designing GNOME Mobile Apps](https://guadec.ubicast.tv/permalink/v125d0af53a1fipzbiat/) [00:35:48] by **Tobias Bernard** (2019) [[slides](https://github.com/bertob/guadec2019-slides/blob/master/guadec-2019-gnome-mobile-apps.pdf)]
