@@ -614,6 +614,7 @@ ever.
 #### Python
 (There is a good list of talks about Python to be found [here](https://github.com/s16h/py-must-watch))
 
+* [A Talk near the Future of Python?](https://www.youtube.com/watch?v=VUT386_GKI8) [01:01:11] by **David Beazley** (2019)
 * [Understanding Python Bytecode](https://www.youtube.com/watch?v=_w3a1ledmVE) [00:29:44] by **James Bennett** (2018)
 <br>
 
