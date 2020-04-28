@@ -959,6 +959,7 @@ ever.
 * [Is There More to Game Architecture than ECS?](https://www.youtube.com/watch?v=JxI3Eu5DPwE) [00:23:05] by **Bob Nystrom** (2018)
 
 #### Hardware
+* [A Taste of GPU Compute](https://www.youtube.com/watch?v=eqkAaplKBc4) [01:05:06] by **Raph Levien** (2020)
 * [Mill vs. Spectre: Performance and Security](https://www.youtube.com/watch?v=8E4qs2irmpc) [00:46:42] by **Ivan Godard** (2018)
 * [eMMC hacking, or: how I fixed long-dead Galaxy S3 phones](https://www.youtube.com/watch?v=OY7OlY0OW2Q) [00:56:07] by **Oran Avraham** (2018)
 * [A Crash Course in Modern Hardware](https://www.youtube.com/watch?v=OFgxAFdxYAQ) [00:59:20] by **Cliff Click** (2016)
