@@ -898,6 +898,7 @@ ever.
 * [Generic sorting and partitioning in linear time and fully abstractly](https://www.youtube.com/watch?v=sz9ZlZIRDAg) by **Fritz Henglein** (2012)
 
 #### Debugging
+* [The Hurricane's Butterfly: Debugging Pathologically Performing Systems](https://www.youtube.com/watch?v=7AO4wz6gI3Q) by **Bryan Cantrill** (2018)
 * [Tackling Concurrency Bugs with TLA+](https://www.youtube.com/watch?v=_9B__0S21y8) [00:30:05] by **Hillel Wayne** (2017)
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway** (2015)
 
