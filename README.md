@@ -795,6 +795,7 @@ ever.
 * [Thinking in Swift](https://vimeo.com/105440181) [00:24:23] by **Abizer Nasir** (2014)
 
 #### Unison
+* [Unison: An Introduction](https://www.youtube.com/watch?v=yicXcdLI2YA) [01:53:49] by **Rúnar Bjarnason** (2020)
 * [Introduction to the Unison programming language](https://www.youtube.com/watch?v=rp_Eild1aq8) [00:40:58] by **Rúnar Bjarnason** (2018)
 * [The Unison Language and its Scala-based Runtime](https://www.youtube.com/watch?v=knqlWboqf_U) by **Paul Chiusano** (2017)
 * [How to write a search engine in 15 lines of code](https://www.youtube.com/watch?v=f6yA3t0dO-k) [00:36:04] by **Paul Chiusano** (2016)
