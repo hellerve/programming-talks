@@ -904,6 +904,7 @@ ever.
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway** (2015)
 
 #### DevOps
+* [Pragmatic Automation](https://www.youtube.com/watch?v=oDcjAcFTFC0) [00:24:33] by **Max Luebbe** (2019) [A]
 * [The Future Of DevOps](https://www.youtube.com/watch?v=DxirUn56zqc) [00:47:49] by **Adrian Cockcroft** (2016)
 * [How Netflix Thinks About DevOps](https://www.youtube.com/watch?v=HmM4V33ReCw) [00:31:10] by **Dave Hahn** (2016)
 * [I got 10 trillion problems, but logging ain't one](https://www.youtube.com/watch?v=LA-gNoxSLCE) [00:25:17] by **John Graham-Cumming** (2015)
