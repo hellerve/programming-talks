@@ -1209,6 +1209,7 @@ ever.
 
 ### Miscellaneous
 * [Improper Hierarchy](https://www.deconstructconf.com/2018/tom-murphy-vii-improper-hierarchy) [00:34:26] by **Tom Murphy VII.** (2018)
+* [It’s super effective! Solving Pokemon Blue with a single, huge regular expression](https://www.youtube.com/watch?v=n-HTvjIueX0) [00:13:57] by **Alex Clemmer** (2018)
 * [Let’s Program a Banjo Grammar](https://www.deconstructconf.com/2018/ryan-herr-lets-program-a-banjo-grammar) [00:35:54] by **Ryan Herr** (2018)
 * [Soul from Scratch: Designing a More Portable Organ](https://www.youtube.com/watch?v=wqS93Cgjvyw) [00:37:59] by **Peter Teichman** (2018)
 * [I Don’t Have Time For This](https://www.deconstructconf.com/2017/aaron-patterson-i-dont-have-time-for-this) [00:31:22] by **Aaron Patterson** (2017)
