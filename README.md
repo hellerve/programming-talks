@@ -832,6 +832,7 @@ ever.
 * [Bits of advice for VM writers](https://www.youtube.com/watch?v=vzzABBxo44g) [00:43:59] by **Cliff Click** (2015)
 * [VM Design Choices](https://www.youtube.com/watch?v=BdjcPgIUbnA) [01:01:38] by **Cliff Click** (2015)
 * [A VM is a VM is a VM: The Secret Path to High Performance Multi-Language Runtimes](https://www.youtube.com/watch?v=kOnyJurioyw) [00:47:07] by **Mark Stoodley** (2015)
+* [Compilers are Databases](https://www.youtube.com/watch?v=WxyyJyB_Ssc) [01:08:51] by **Martin Odersky** (2015)
 * [Rise of the Transpilers](https://www.youtube.com/watch?v=DspYurD75Ns) [00:44:00] by **Jeremy Ashkenas** (2015)
 * [Instaparse](https://www.youtube.com/watch?v=b2AUW6psVcE) [00:38:38] by **Mark Engelberg** (2014)
 * [Superoptimizing LLVM](https://www.youtube.com/watch?v=Ux0YnVEaI6A) [00:49:07] by **John Regehr** (2014)
