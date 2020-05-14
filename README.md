@@ -141,6 +141,7 @@ ever.
 * [Alpaca: Static Typing on the BEAM](https://www.youtube.com/watch?v=cljFpz_cv2E) [00:45:34] by **Jeremy Pierre** (2017)
 
 #### APL
+* [Tacit Techniques with Dyalog version 18.0 Operators](https://www.youtube.com/watch?v=czWC4tjwzOQ) by **Marshall Lochbaum** (2019)
 * [Patterns and Anti-patterns in APL: Escaping the Beginner's Plateau](https://www.youtube.com/watch?v=9xCJ3BCIudI) [00:59:02] by **Aaron Hsu** (2017)
 * [50 Years of APL Datatypes: From Booleans to Hypercomplex Numbers](https://www.youtube.com/watch?v=l3QdKqskcBM) [00:39:21] by **Bob Smith** (2016)
 
