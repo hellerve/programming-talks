@@ -858,6 +858,7 @@ ever.
 * [OpenCV and High-Performance Vision on GPU](https://www.youtube.com/watch?v=0CNSCpcKiQ4) [02:24:59] by **Victor Eruhimov** (2012)
 
 #### Creative Technology
+* [Creative Computation](https://www.youtube.com/watch?v=TeXCvh5X5w0) [00:21:00] by **Jack Rusher** (2019)
 * [Mapping Imaginary Cities](https://www.youtube.com/watch?v=Ic_5gRVTQ_k) [00:40:56] by **Mouse Reeve** (2018)
 * [Making Games for 1920s Hardware](https://www.youtube.com/watch?v=G9Ho6-01mek) [00:32:21] by **Mike Lazer-Walker** (2018)
 * [Picasso, Geometry, Jupyter](https://www.youtube.com/watch?v=GYJ77F_8kq0) [00:30:48] by **Ryan Herr** (2018)
