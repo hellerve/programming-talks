@@ -1001,6 +1001,7 @@ ever.
 * [How we program multicores](https://www.youtube.com/watch?v=bo5WL5IQAd0) [00:58:52] **Joe Armstrong** (2016)
 * [Ideology](https://www.destroyallsoftware.com/talks/ideology) [00:21:23] by **Gary Bernhardt** (2015)
 * [Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM) [00:23:11] by **Rob Pike** (2015)
+* [Programming should eat itself](https://www.youtube.com/watch?v=SrKj4hYic5A) [00:47:40] by **Nada Amin** (2014)
 * [Make Simple Tasks Simple!](https://www.youtube.com/watch?v=nesCaocNjtQ) [01:37:36] by **Bjarne Stroustrup** (2014)
 * [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) [01:07:03] by **Scott Meyers** (2014)
 * [Running a startup on Haskell](https://www.youtube.com/watch?v=ZR3Jirqk6W8) [00:50:23] by **Bryan O'Sullivan** (2013)
