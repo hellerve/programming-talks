@@ -1008,6 +1008,7 @@ ever.
 * [Scaling Yourself](https://www.youtube.com/watch?v=FS1mnISoG7U) [00:28:51] by **Scott Hanselman** (2012)
 
 #### On the Industry/Community
+* [Dealing with unanticipated needs](https://www.youtube.com/watch?v=xYqWREPb3Lc) [00:47:43] by **Dave Snowden** (2019)
 * [How to be a Happy Developer. Now!](https://www.youtube.com/watch?v=uNq2aFhqOAA) [00:39:32] by **Christian Robert** (2019)
 * [Stewardship Made Practical](https://www.youtube.com/watch?v=GXgbV7jB_Bc) [00:50:35] by **Stuart Halloway**
 * [Shaping our children's education in computing](https://www.youtube.com/watch?v=y-xgWLYQc4g) [00:51:08] by **Simon Peyton Jones** (2018)
