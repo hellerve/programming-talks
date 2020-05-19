@@ -128,6 +128,7 @@ ever.
     * [Security](#security)
     * [Software Development](#software-development)
     * [System Architecture](#system-architecture)
+    * [Testing](#testing)
     * [Theoretical Computer Science](#theoretical-computer-science)
     * [Type Theory](#type-theory)
     * [UX/UI](#uxui)
@@ -377,7 +378,6 @@ ever.
 
 * [Designing a Real Time Game Engine in Erlang](https://www.youtube.com/watch?v=sla-t0ZNlMU) [00:38:32] by **Mark Allen** (2014)
 * [Optimizing Native Code for Erlang](https://www.youtube.com/watch?v=57AkoJfojK8) [00:26:46] by **Steve Vinoski** (2014)
-* [Testing the Hard Stuff and Staying Sane](https://www.youtube.com/watch?v=zi0rHwfiX1Q) [00:47:16] by **John Hughes** (2014)
 * [Using Logic Programming Tools to Drive Property-based Testing](https://www.youtube.com/watch?v=fSCIfsUcY4Y) [00:34:45] by **Zachary Kessin** (2014)
 * [Why The Cool Kids Don't Use Erlang](https://www.youtube.com/watch?v=3MvKLOecT1I) [00:51:55] by **Garrett Smith** (2014)
 * [Writing Quality Code in Erlang](https://www.youtube.com/watch?v=CQyt9Vlkbis) [00:40:47] by **Garrett Smith** (2014)
@@ -1165,6 +1165,10 @@ ever.
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) [00:28:06] by **Fred Hebert** (2014)
 * [Narcissistic Design](https://www.youtube.com/watch?v=LEZv-kQUSi4) [00:37:14] by **Stuart Halloway** (2013)
 * [Scalability at YouTube](https://youtu.be/G-lGCC4KKok?t=9m12s) [00:38:43] by **Mike Solomon** (long intro; starts at 9:12 minutes in) (2012)
+
+#### Testing
+* [Backtracking Generators for Random Testing](https://www.youtube.com/watch?v=dfZ94N0hS4I) [01:03:30] by **Benjamin Pierce** (2020) [A]
+* [Testing the Hard Stuff and Staying Sane](https://www.youtube.com/watch?v=zi0rHwfiX1Q) [00:47:16] by **John Hughes** (2014)
 
 #### Theoretical Computer Science
 * [Category Theory for the Working Hacker](https://www.youtube.com/watch?v=V10hzjgoklA) [00:50:51] by **Philip Wadler** (2016)
