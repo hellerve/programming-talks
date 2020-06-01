@@ -783,6 +783,7 @@ ever.
 * [What's Next for Scala](https://www.youtube.com/watch?v=qqQNqIy5LdM) [01:15:06] by **Martin Odersky** (2011)
 
 #### Scheme
+* [The Nanopass Framework as a Nanopass Compiler](https://www.youtube.com/watch?v=lqVN1fGNpZw) [00:52:10] by **Andrew Keep** (2020)
 * [Barliman: trying the halting problem backwards, blindfolded](https://www.youtube.com/watch?v=er_lLvkklsk) [00:36:13] by **William Byrd & Greg Rosenblatt** (2016)
 * [miniKanren](https://www.youtube.com/watch?v=5Q9x16uIsKA) [00:46:23] by **Dan Friedman & William Byrd** (2013)
 * [Dan Friedman - Cool Ideas](https://www.youtube.com/watch?v=IHP7P_HlcBk) [00:57:00] by **Guy Steele** (2011)
