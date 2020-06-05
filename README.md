@@ -123,6 +123,7 @@ ever.
     * [Operating Systems](#operating-systems)
     * [Performance Engineering](#performance-engineering)
     * [Programming Language Design](#programming-language-design)
+    * [Program Synthesis](#program-synthesis)
     * [Research](#research)
     * [Robotics](#robotics)
     * [Security](#security)
@@ -784,7 +785,6 @@ ever.
 
 #### Scheme
 * [The Nanopass Framework as a Nanopass Compiler](https://www.youtube.com/watch?v=lqVN1fGNpZw) [00:52:10] by **Andrew Keep** (2020)
-* [Barliman: trying the halting problem backwards, blindfolded](https://www.youtube.com/watch?v=er_lLvkklsk) [00:36:13] by **William Byrd & Greg Rosenblatt** (2016)
 * [miniKanren](https://www.youtube.com/watch?v=5Q9x16uIsKA) [00:46:23] by **Dan Friedman & William Byrd** (2013)
 * [Dan Friedman - Cool Ideas](https://www.youtube.com/watch?v=IHP7P_HlcBk) [00:57:00] by **Guy Steele** (2011)
 
@@ -1062,7 +1062,6 @@ ever.
 * [Proof Theory Impressionism: Blurring the Curry-Howard Line](https://www.youtube.com/watch?v=jrVPB-Ad5Gc) [00:35:07] by **Dan Pittman** (2018)
 * [Running With Scissors: Live Coding With Data](https://www.youtube.com/watch?v=Qx0-pViyIDU) [00:39:35] by **Stuart Halloway** (2018)
 * [Rust and Other Interesting Things](https://www.youtube.com/watch?v=2wZ1pCpJUIM) [00:37:06] by **Bryan Cantrill** (2018)
-* [Type-Driven Program Synthesis](https://www.youtube.com/watch?v=HnOix9TFy1A) [00:39:39] by **Nadia Polikarpova** (2018)
 * [Types, and why you should care](https://www.recurse.com/events/localhost-ron-minsky) [01:04:05] by **Ron Minsky** (2017)
 * [Into the Core - Squeezing Haskell into Nine Constructors](https://www.youtube.com/watch?v=uR_VzYxvbxg) [01:07:48] by **Simon Peyton Jones** (2016)
 * [Let's Build a Hygienic Macro Expander](https://www.youtube.com/watch?v=Or_yKiI3Ha4) [00:40:04] by **Matthew Flatt** (2016)
@@ -1081,6 +1080,11 @@ ever.
 * [The Sociology of Programming Languages](https://www.youtube.com/watch?v=M4Gsl8sVgdQ) [00:42:11] by **Leo Meyerovich** (2014)
 * [Transducers](https://www.youtube.com/watch?v=6mTbuzafcII) [00:45:00] by **Rich Hickey** (2014)
 * [A Dinosaur's Thoughts on Programming Language Evolution](https://www.youtube.com/watch?v=Z9OYc1YYLT4) [00:48:47] by **Matthew Flatt** (2013)
+
+#### Program Synthesis
+* [Liquid resource types for verification and synthesis](https://www.youtube.com/watch?v=BW3ZDtjD_Yw) [01:05:13] by **Nadia Polikarpova** (2020)
+* [Type-Driven Program Synthesis](https://www.youtube.com/watch?v=HnOix9TFy1A) [00:39:39] by **Nadia Polikarpova** (2018)
+* [Barliman: trying the halting problem backwards, blindfolded](https://www.youtube.com/watch?v=er_lLvkklsk) [00:36:13] by **William Byrd & Greg Rosenblatt** (2016)
 
 #### Research
 * [How to Give a Great Research Talk](https://www.youtube.com/watch?v=sT_-owjKIbA) [00:58:41] by **Simon Peyton Jones** (2016)
