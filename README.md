@@ -889,6 +889,7 @@ ever.
 * [How a File Format Led to a Crossword Scandal](https://www.youtube.com/watch?v=9aHfK8EUIzg) by **Saul Pwanson** (2019)
 
 #### Data Structures & Algorithms
+* [A CRDT Primer: Defanging Order Theory](https://www.youtube.com/watch?v=OOlnp2bZVRs) [00:37:00] by **John Mumm** (2018)
 * [Tree-sitter - a new parsing system for programming tools](https://www.youtube.com/watch?v=Jes3bD6P0To) [00:38:37] by **Max Brunsfeld** (2018)
 * [Meetings With Remarkable Trees](https://www.youtube.com/watch?v=cUx2b_FO8EQ) [00:53:29] by **Bodil Stokke** (2018)
 * [The simple essence of automatic differentiation](https://www.youtube.com/watch?v=Shl3MtWGu18) [01:01:41] by **Conal Elliott** (2018)
