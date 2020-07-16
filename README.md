@@ -861,7 +861,7 @@ ever.
 #### Creative Technology
 * [Creative Computation](https://www.youtube.com/watch?v=TeXCvh5X5w0) [00:21:00] by **Jack Rusher** (2019)
 * [Mapping Imaginary Cities](https://www.youtube.com/watch?v=Ic_5gRVTQ_k) [00:40:56] by **Mouse Reeve** (2018)
-* [Making Games for 1920s Hardware](https://www.youtube.com/watch?v=G9Ho6-01mek) [00:32:21] by **Mike Lazer-Walker** (2018)
+* [Making Games for 1920s Hardware](https://www.youtube.com/watch?v=G9Ho6-01mek) [00:32:21] by **Em Lazer-Walker** (2018)
 * [Picasso, Geometry, Jupyter](https://www.youtube.com/watch?v=GYJ77F_8kq0) [00:30:48] by **Ryan Herr** (2018)
 * [How to Hack a Painting](https://www.youtube.com/watch?v=5R9eywArFTE) [00:44:58] by **Tyler Hobbs** (2017)
 * [The Symmetries of Things](https://www.youtube.com/watch?v=EcjyZAe8irU) [00:26:02] by **Tom Hall** (2017)
