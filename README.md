@@ -1039,6 +1039,7 @@ ever.
 * [Career Advice for Programmers](https://www.youtube.com/watch?v=LlAn452X4Lc) [00:54:18] by **Trisha Gee** (2013)
 * [Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA) [01:03:35] by **Christopher Alexander** (2013)
 * [Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc) [01:07:26] by **Alan Kay** (2012)
+* [We Really Don't Know How To Compute!](https://www.infoq.com/presentations/We-Really-Dont-Know-How-To-Compute) [01:04:20] by **Gerald Jay Sussman** (2011)
 
 #### Operating Systems
 * [Extended BPF: A new software type](https://www.youtube.com/watch?v=7pmXdG8-7WU) [00:31:03] by **Brendan Gregg** (2019)
