@@ -819,6 +819,7 @@ ever.
 ### On theory
 
 #### Compilers/Interpreters
+* [Towards a Verified Range Analysis for JavaScript JITs](https://www.youtube.com/watch?v=5tRK5_GPdpM) by **Fraser Brown** (2020) (Paper by Brown et al.)
 * [The Z Garbage Collector](https://www.youtube.com/watch?v=7cWiwu7kYkE) [00:37:13] by **Erik Österlund** (2018)
 * [Datafun: a functional query language](https://www.youtube.com/watch?v=gC295d3V9gE) [00:42:30] by **Michael Arntzenius** (2017)
 * [What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid](https://www.youtube.com/watch?v=bSkpMdDe4g4) [01:15:45] by **Matt Godbolt** (2017)
