@@ -984,7 +984,7 @@ ever.
 * [Challenges for Logic Programming](https://www.youtube.com/watch?v=y6WKr9j76kw) [00:40:45] by **Steve Miner** (2013)
 
 #### Machine Learning
-* [Building the Software 2.0 Stack](https://www.figure-eight.com/building-the-software-2-0-stack-by-andrej-karpathy-from-tesla/) [00:30:08] by **Andrej Karpathy** (2018)
+* [Building the Software 2.0 Stack](https://vimeo.com/272696002) [00:30:08] by **Andrej Karpathy** (2018)
 * [Machine learning is not the future](https://www.youtube.com/watch?v=3dXQxSI3XDY) [00:38:59] by **Rajat Monga** (2016)
 * [Neural Nets for Newbies](https://www.youtube.com/watch?v=g-BJSl4zV_g) [00:30:57] by **Melanie Warrick** (2015)
 * [From the Lab to the Factory: Building a Production Machine Learning Infrastructure](https://www.youtube.com/watch?v=v-91JycaKjc) [01:04:27] by **Josh Wills** (2014)
