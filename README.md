@@ -1084,6 +1084,7 @@ ever.
 * [The Sociology of Programming Languages](https://www.youtube.com/watch?v=M4Gsl8sVgdQ) [00:42:11] by **Leo Meyerovich** (2014)
 * [Transducers](https://www.youtube.com/watch?v=6mTbuzafcII) [00:45:00] by **Rich Hickey** (2014)
 * [A Dinosaur's Thoughts on Programming Language Evolution](https://www.youtube.com/watch?v=Z9OYc1YYLT4) [00:48:47] by **Matthew Flatt** (2013)
+* [No Ifs, Ands, or Buts: Uncovering the Simplicity of Conditionals](https://vimeo.com/140738254) [00:38:20] by **Jonathan Edwards** (2007)
 
 #### Program Synthesis
 * [Liquid resource types for verification and synthesis](https://www.youtube.com/watch?v=BW3ZDtjD_Yw) [01:05:13] by **Nadia Polikarpova** (2020)
