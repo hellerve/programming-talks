@@ -1120,6 +1120,7 @@ ever.
 * [OOP Is Dead, Long Live Data-oriented Design](https://www.youtube.com/watch?v=yy8jQgmhbAU) [01:00:45] by **Stoyan Nikolov** (2018)
 * [Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E) [00:50:22] by **Kevlin Henney** (2018)
 * [Polly want a Message](https://www.deconstructconf.com/2018/sandi-metz-polly-want-a-message) [00:40:00] by **Sandi Metz** (2018)
+* [Programming Across Paradigms](https://www.youtube.com/watch?v=Pg3UeB-5FdA) [00:49:07] by **Anjana Vakil** (2017)
 * [TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) [01:03:53] by **Ian Cooper** (2017)
 * [You're Insufficiently Persuasive](https://www.youtube.com/watch?v=VzWLGMtXflg) [00:35:37] by **Sandi Metz** (2017)
 * [The Post JavaScript Apocalypse](https://www.youtube.com/watch?v=99Zacm7SsWQ) [00:54:12] by **Douglas Crockford** (2017)
