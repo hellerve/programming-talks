@@ -333,7 +333,7 @@ ever.
 <br>
 
 * [Building Multiplayer Games with Phoenix and Phaser](https://www.youtube.com/watch?v=I5L9_cXwBcU) [00:34:47] by **Keith Salisbury** (2016)
-* [Build Your Own Elxir](https://www.youtube.com/watch?v=IONWi9hayEA) [00:45:37] by **Louis Pilfold** (2016)
+* [Build Your Own Elixir](https://www.youtube.com/watch?v=IONWi9hayEA) [00:45:37] by **Louis Pilfold** (2016)
 * [Code Generation in Elixir](https://www.youtube.com/watch?v=-mgwW3RVI50) [00:43:54] by **Bryan Weber** (2016)
 * [Dialyzer: Optimistic Type Checking for Erlang and Elixir](https://www.youtube.com/watch?v=JT0ECYZ9FaQ) [00:48:57] by **Jason Voegele** (2016)
 * [Enhanced Embedded Systems with Nerves](https://www.youtube.com/watch?v=118-g0ODfgg) [00:56:11] by **Justin Schneck** (2016)
