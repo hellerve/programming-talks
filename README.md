@@ -1250,7 +1250,7 @@ ever.
 * [Stop Treading Water: Learning to Learn](https://www.youtube.com/watch?v=j0XmixCsWjs) [00:40:58] by **Edward Kmett** (2014)
 * [Madam Sandi Tells Your Future](https://www.youtube.com/watch?v=JOM5_V5jLAs) [00:38:13] by **Sandi Metz** (2014)
 * [Software Development Lessons from the Apollo Program](https://www.youtube.com/watch?v=hrsT9wmPVoo) [00:29:59] by **Julian Simioni** (2014)
-* [States and Nomads: Handling Software Complexity](https://www.youtube.com/watch?v=yP2ApYFtLu0) [00:23:31] by **Zach Tellman** (2014)
+* [States and Nomads: Handling Software Complexity](https://www.youtube.com/watch?v=KGaFcI2UNrI) [00:29:54] by **Zach Tellman** (2015)
 * [Clojure: Programming with Hand Tools](https://www.youtube.com/watch?v=ShEez0JkOFw) [00:58:38] by **Tim Ewald** (2014)
 * [How To Shut Down Tolkien](https://www.youtube.com/watch?v=qVlqBxpCG24) [00:42:41] by **Brandon Rhodes** (2014)
 * [Linux Sucks - 2014](https://www.youtube.com/watch?v=5pOxlazS3zs) [00:44:59] by **Bryan Lunduke** (2014) [A]
