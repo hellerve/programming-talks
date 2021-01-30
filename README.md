@@ -163,7 +163,7 @@ ever.
 * [Expeditious Code via Inference](https://www.youtube.com/watch?v=tPnCtXrwvIw) [00:45:36] by **Mike Fikes** (2019)
 * [fn and Games with Arcadia](https://www.youtube.com/watch?v=LbS45w_aSCU) [00:53:49] by **Ramsey Nasser** (2019)
 * [Rethinking Identity with Clojure](https://www.youtube.com/watch?v=77b47P8EpfA) [00:41:53] by **David Nolen** (2019)
-[Solving Problems the Clojure Way](https://www.youtube.com/watch?v=vK1DazRK_a0) [01:02:55] by **Rafal Dittwald** (2019)
+* [Solving Problems the Clojure Way](https://www.youtube.com/watch?v=vK1DazRK_a0) [01:02:55] by **Rafal Dittwald** (2019)
 <br>
 
 * [Functional Programming in Anger](https://www.youtube.com/watch?v=8o01g6C7jWg) [00:42:05] by **David Nolen** (2018)
