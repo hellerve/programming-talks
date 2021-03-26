@@ -362,6 +362,7 @@ ever.
 
 #### Erlang
 * [Operable Erlang and Elixir](https://www.youtube.com/watch?v=OR2Gc6_Le2U) [00:35:29] by **Fred Hebert** (2019)
+* [Getting to the BEAM, without going through Erlang](https://www.youtube.com/watch?v=BcXQ2qaEzNI) [00:24:32] by **Kofi Gumbs** (2018)
 <br>
 
 * [A Peek Inside Erlang's OTP](https://www.youtube.com/watch?v=PkHZPTn1brc) [00:50:19] by **Steve Vinovski** (2016)
