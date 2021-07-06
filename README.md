@@ -1242,6 +1242,7 @@ ever.
 * [Soul from Scratch: Designing a More Portable Organ](https://www.youtube.com/watch?v=wqS93Cgjvyw) [00:37:59] by **Peter Teichman** (2018)
 * [I Don’t Have Time For This](https://www.deconstructconf.com/2017/aaron-patterson-i-dont-have-time-for-this) [00:31:22] by **Aaron Patterson** (2017)
 * [RailsConf 2017: Keynote](https://www.youtube.com/watch?v=GnCJO8Ax1qg) [00:50:31] by **Aaron Patterson** (2017)
+* [Mob Programming A Whole Team Approach](https://vimeo.com/241193517) [00:37:25] by **Woody Zuill** (2017)
 * [LIGO: The Dawn of Gravitational Wave Astronomy](https://www.youtube.com/watch?v=qSlwRwFsUOI) [00:56:17] by **Jameson Rollins** (2016)
 * [Juggling Patterns and Programs](https://www.youtube.com/watch?v=TqG176T69VM) [00:48:50] by **Steve Miner** (2016)
 * [African Polyphony & Polyrhythm](https://www.youtube.com/watch?v=EK4qctJOMaU) [00:41:49] by **Chris Ford** (2016)
@@ -1263,7 +1264,6 @@ ever.
 * [It's not what you read, it's what you ignore](https://www.youtube.com/watch?v=IWPgUn8tL8s) [01:01:52] by **Scott Hanselman** (2012)
 * [WAT](https://www.destroyallsoftware.com/talks/wat) [00:04:17] by **Gary Bernhardt** (2012)
 * [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) [01:10:15] by **Linus Torvalds** (2007) [A]
-* [Mob Programming A Whole Team Approach](https://vimeo.com/241193517) [00:37:25] by **Woody Zuill** (2017)
 
 ## Contributing
 
