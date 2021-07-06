@@ -1183,6 +1183,7 @@ ever.
 
 #### Testing
 * [Backtracking Generators for Random Testing](https://www.youtube.com/watch?v=dfZ94N0hS4I) [01:03:30] by **Benjamin Pierce** (2020) [A]
+* [How to Stop Hating Your Tests](https://www.youtube.com/watch?v=jmPcVTHmdVo) [00:43:38] by **Justin Searls** (2015)
 * [Testing the Hard Stuff and Staying Sane](https://www.youtube.com/watch?v=zi0rHwfiX1Q) [00:47:16] by **John Hughes** (2014)
 
 #### Theoretical Computer Science
@@ -1262,6 +1263,7 @@ ever.
 * [It's not what you read, it's what you ignore](https://www.youtube.com/watch?v=IWPgUn8tL8s) [01:01:52] by **Scott Hanselman** (2012)
 * [WAT](https://www.destroyallsoftware.com/talks/wat) [00:04:17] by **Gary Bernhardt** (2012)
 * [Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8) [01:10:15] by **Linus Torvalds** (2007) [A]
+* [Mob Programming A Whole Team Approach](https://vimeo.com/241193517) [00:37:25] by **Woody Zuill** (2017)
 
 ## Contributing
 
