@@ -1183,6 +1183,7 @@ ever.
 
 #### Testing
 * [Backtracking Generators for Random Testing](https://www.youtube.com/watch?v=dfZ94N0hS4I) [01:03:30] by **Benjamin Pierce** (2020) [A]
+* [How to Stop Hating Your Tests](https://www.youtube.com/watch?v=jmPcVTHmdVo) [00:43:38] by **Justin Searls** (2015)
 * [Testing the Hard Stuff and Staying Sane](https://www.youtube.com/watch?v=zi0rHwfiX1Q) [00:47:16] by **John Hughes** (2014)
 
 #### Theoretical Computer Science
@@ -1241,6 +1242,7 @@ ever.
 * [Soul from Scratch: Designing a More Portable Organ](https://www.youtube.com/watch?v=wqS93Cgjvyw) [00:37:59] by **Peter Teichman** (2018)
 * [I Don’t Have Time For This](https://www.deconstructconf.com/2017/aaron-patterson-i-dont-have-time-for-this) [00:31:22] by **Aaron Patterson** (2017)
 * [RailsConf 2017: Keynote](https://www.youtube.com/watch?v=GnCJO8Ax1qg) [00:50:31] by **Aaron Patterson** (2017)
+* [Mob Programming A Whole Team Approach](https://vimeo.com/241193517) [00:37:25] by **Woody Zuill** (2017)
 * [LIGO: The Dawn of Gravitational Wave Astronomy](https://www.youtube.com/watch?v=qSlwRwFsUOI) [00:56:17] by **Jameson Rollins** (2016)
 * [Juggling Patterns and Programs](https://www.youtube.com/watch?v=TqG176T69VM) [00:48:50] by **Steve Miner** (2016)
 * [African Polyphony & Polyrhythm](https://www.youtube.com/watch?v=EK4qctJOMaU) [00:41:49] by **Chris Ford** (2016)
