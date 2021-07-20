@@ -1101,6 +1101,7 @@ ever.
 * [Robots: You're Still Doing It Wrong](https://www.youtube.com/watch?v=gFW0schumkE) [00:49:51] by **Katy Levinson** (not very formal, DefCon) (2012)
 
 #### Security
+* [Lessons From Two Years of Crypto Audits](https://www.youtube.com/watch?v=zNOfXu0n2pg) [00:45:49] by **Jean-Philippe Aumasson** (2020)
 * [DNS, SNI, TLS, HTTPS: Modern DNS & Privacy](https://www.youtube.com/watch?v=pjin3nv8jAo) [00:43:17] by **Bert Hubert** (2019)
 * [No source, no problem! High speed binary fuzzing](https://media.ccc.de/v/36c3-10880-no_source_no_problem_high_speed_binary_fuzzing) by **Nspace & gannimo** (2019)
 * [WebAssembly: A New World of Native Exploits on the Browser](https://www.youtube.com/watch?v=DFPD9yI-C70) [00:45:20] by **Justin Engler & Tyler Lukasiewicz** (2018)
