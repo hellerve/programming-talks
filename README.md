@@ -1218,7 +1218,6 @@ ever.
 * [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) [00:42:59] by **Gil Tene** (2015)
 * [How I learned to Code by Making 180 websites in 180 days](https://www.youtube.com/watch?v=QaSbL4sRff8) [00:22:03] by **Jennifer De Walt** (2015)
 * [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) [00:22:06] by **David Nolen** (2014)
-* [Reactive Programming Overview](https://www.youtube.com/watch?v=dwP1TNXE6fc) [00:09:18] by **Jafar Husain** (very concise and dense) (2014)
 * [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw) [00:44:36] by **Tom Occhino, Jing Chen & Pete Hunt** (it starts pretty slow and marketingy, but gets much better over time) (2014)
 * [React: RESTful UI Rendering](https://www.youtube.com/watch?v=IVvHPPcl2TM) [00:36:15] by **Pete Hunt** (2014)
 * [Unlock the next era of UI development with Polymer](https://www.youtube.com/watch?v=HKrYfrAzqFA) [00:41:31] by **Rob Dodson** (2014)
