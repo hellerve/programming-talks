@@ -166,9 +166,12 @@ ever.
 * [Solving Problems the Clojure Way](https://www.youtube.com/watch?v=vK1DazRK_a0) [01:02:55] by **Rafal Dittwald** (2019)
 <br>
 
+* [Every Clojure Talk Ever](https://www.youtube.com/watch?v=jlPaby7suOc) [00:27:36] by **Alex Engelberg** and **Derek Slager** (2018)
 * [Functional Programming in Anger](https://www.youtube.com/watch?v=8o01g6C7jWg) [00:42:05] by **David Nolen** (2018)
 * [Java Made (Somewhat) Simple](https://www.youtube.com/watch?v=-zszF8bbXM0) [00:40:45] by **Ghadi Shayban** (2018) [A]
 * [REBL](https://www.youtube.com/watch?v=c52QhiXsmyI) [00:33:05] by **Stuart Halloway** (2018)
+<br>
+
 * [Core.Async in Use](https://www.youtube.com/watch?v=096pIlA3GDo) [00:34:04] by **Timothy Baldridge** (2017)
 * [Symbolic Assembly: Using Clojure to Meta-program Bytecode](https://www.youtube.com/watch?v=eDad1pvwX34) [00:39:42] by **Ramsey Nasser** (2017)
 * [Bare Metal Clojure with clojure.spec](https://www.youtube.com/watch?v=yGko70hIEwk) [00:36:07] by **Michael Reitzenstein** (2016)
