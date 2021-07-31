@@ -166,7 +166,7 @@ ever.
 * [Solving Problems the Clojure Way](https://www.youtube.com/watch?v=vK1DazRK_a0) [01:02:55] by **Rafal Dittwald** (2019)
 <br>
 
-* [Every Clojure Talk Ever](https://www.youtube.com/watch?v=jlPaby7suOc) [00:27:36] by **Alex Engelberg** and **Derek Slager** (2018)
+* [Every Clojure Talk Ever](https://www.youtube.com/watch?v=jlPaby7suOc) [00:27:36] by **Alex Engelberg & Derek Slager** (2018)
 * [Functional Programming in Anger](https://www.youtube.com/watch?v=8o01g6C7jWg) [00:42:05] by **David Nolen** (2018)
 * [Java Made (Somewhat) Simple](https://www.youtube.com/watch?v=-zszF8bbXM0) [00:40:45] by **Ghadi Shayban** (2018) [A]
 * [REBL](https://www.youtube.com/watch?v=c52QhiXsmyI) [00:33:05] by **Stuart Halloway** (2018)
