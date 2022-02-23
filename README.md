@@ -1032,6 +1032,7 @@ ever.
 * [On Abstraction](https://www.youtube.com/watch?v=x9pxbnFC4aQ) [01:00:02] by **Zach Tellman** (2017)
 * [Crossing the River by Feeling the Stones](https://www.youtube.com/watch?v=ek0aWj_rWYs) [00:55:30] by **Simon Wardley** (2017)
 * [Idée Fixe](https://www.youtube.com/watch?v=lzXHMy4ewtM) [00:39:36] by **David Nolen** (2017)
+* [Don’t demo facts. Demo stories!](https://vimeo.com/131632605) [00:57:22] by **Tudor Gîrba** (2016)
 * [Humanizing among coders](https://www.youtube.com/watch?v=npyB5Oz-v-I) [00:41:15] by **Ana Balica** (2016)
 * [extern c: Talking to C Programmers about C++](https://www.youtube.com/watch?v=D7Sd8A6_fYU) [01:36:26] by **Dan Saks** (2016)
 * [“Am I Senior Yet?” Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [00:37:57] by **Katlyn Parvin** (2016) [A]
