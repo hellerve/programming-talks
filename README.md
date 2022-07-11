@@ -1120,6 +1120,7 @@ ever.
 * [Boot strapping slightly more secure systems](https://media.ccc.de/v/33c3-8314-bootstraping_a_slightly_more_secure_laptop/oembed) [00:47:43] by **Trammell Hudson** (2016)
 * [Repsych: Psychological Warfare in Reverse Engineering](https://www.youtube.com/watch?v=HlUe0TUHOIc) [00:38:48] by **Chris Domas** (2015)
 * [Pulling Back the Curtain on Airport Security: Can a Weapon Get Past TSA](https://www.youtube.com/watch?v=hbqVNlwfjxo) [00:31:52] by **Billy Rios** (2014)
+* [283c: The Science of Insecurity](https://www.youtube.com/watch?v=3kEfedtQVOY) [00:59:22] by **Meredith L. Patterson, Sergey** (2011)
 
 #### Software Development
 * [Intro to Empirical Software Engineering: What We Know We Don't Know](https://www.youtube.com/watch?v=WELBnE33dpY) [00:37:42] by **Hillel Wayne** [A] (2019)
