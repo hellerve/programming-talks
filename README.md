@@ -882,6 +882,7 @@ ever.
 * [Cassandra and Go Doubleheader](https://www.youtube.com/watch?v=oEFqxi_n1vU) [00:58:23] by **Kyle Kingsbury & Al Tobey** (this video features two distinct talks, only the first one deals with databases) (2014)
 * [Jepsen II: Linearizable Boogaloo](https://www.youtube.com/watch?v=QdkS6ZjeR7Q) [00:44:46] by **Kyle Kingsbury** (2014)
 * [An Ode to 17 Databases in 33 Minutes](https://www.youtube.com/watch?v=lzwAJxIESNU) [00:38:12] by **Toby Hede** (2014)
+* [Sharding and Scaling Your Database](http://web.archive.org/web/20171024050158/https://www.youtube.com/watch?v=p3ytSdUQZzA) [00:42:53] by **Neha Narula** (2014)
 * [Postgres Performance for Humans](https://www.youtube.com/watch?v=MpH8W5hce9I) [00:33:49] by **Craig Kerstiens** (2014)
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) [00:54:52] by **Martin Fowler** (2013)
 * [The Impedance Mismatch is Our Fault](https://www.infoq.com/presentations/Impedance-Mismatch/) [00:58:31] by **Stuart D. Halloway** (2012)
