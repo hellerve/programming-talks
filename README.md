@@ -1242,6 +1242,7 @@ ever.
 * [HTML5 Boilerplate](https://www.youtube.com/watch?v=qyM37XKkmKQ) [01:04:20] by **Paul Irish** (2011)
 
 ### Miscellaneous
+* [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) [01:02:41] by **Jonathan Blow** (2019)
 * [Start With Just a Few Things](https://www.youtube.com/watch?v=eF_Z0A86oQk) [00:09:54] by **Max Hallinan** (2019)
 * [Improper Hierarchy](https://www.deconstructconf.com/2018/tom-murphy-vii-improper-hierarchy) [00:34:26] by **Tom Murphy VII.** (2018)
 * [It’s super effective! Solving Pokemon Blue with a single, huge regular expression](https://www.youtube.com/watch?v=n-HTvjIueX0) [00:13:57] by **Alex Clemmer** (2018)
