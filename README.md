@@ -1124,6 +1124,7 @@ ever.
 * [28c3: The Science of Insecurity](https://www.youtube.com/watch?v=3kEfedtQVOY) [00:59:22] by **Meredith L. Patterson, Sergey** (2011)
 
 #### Software Development
+* [Design in Practice](https://www.youtube.com/watch?v=fTtnx1AAJ-c) by **Rich Hickey** (2023)
 * [Intro to Empirical Software Engineering: What We Know We Don't Know](https://www.youtube.com/watch?v=WELBnE33dpY) [00:37:42] by **Hillel Wayne** [A] (2019)
 * [Moldable development](https://www.youtube.com/watch?v=Pot9GnHFOVU) [00:37:48] by **Tudor Gîrba** (2019)
 * [Say What You Mean - Exploring Declarative Computation in Art](https://www.youtube.com/watch?v=HalZfFdWuP4) [00:43:12] by **David Schmudde** (2019)
@@ -1168,7 +1169,6 @@ ever.
 * [Inventing on Principle](https://vimeo.com/36579366) [00:54:20] by **Bret Victor** (2012)
 * [The Value Of Values](https://www.infoq.com/presentations/Value-Values/) [00:58:53] by **Rich Hickey** (2012)
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) [00:39:49] by **Rich Hickey** (2012)
-* [Design in Practice](https://www.youtube.com/watch?v=fTtnx1AAJ-c) by **Rich Hickey** (2023)
 * [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) [00:36:54] by **Rich Hickey** (Simple Made Easy revisited) (2012)
 * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) [00:53:31] by **Guy Steele** (2012)
 * [Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) [01:06:38] by **Robert C. Martin** (2011)
