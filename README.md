@@ -1125,6 +1125,7 @@ ever.
 * [28c3: The Science of Insecurity](https://www.youtube.com/watch?v=3kEfedtQVOY) [00:59:22] by **Meredith L. Patterson, Sergey** (2011)
 
 #### Software Development
+* [Is Software Engineering Real Engineering?](https://www.youtube.com/watch?v=6pO7jT794uc) by **Hillel Wayne** (2023)
 * [Design in Practice](https://www.youtube.com/watch?v=fTtnx1AAJ-c) by **Rich Hickey** (2023)
 * [Intro to Empirical Software Engineering: What We Know We Don't Know](https://www.youtube.com/watch?v=WELBnE33dpY) [00:37:42] by **Hillel Wayne** [A] (2019)
 * [Moldable development](https://www.youtube.com/watch?v=Pot9GnHFOVU) [00:37:48] by **Tudor Gîrba** (2019)
