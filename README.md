@@ -244,6 +244,7 @@ ever.
 * [Persistent Data Structures and Managed References](https://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey/) [00:55:53] by **Rich Hickey** (2009)
 
 #### C++
+* [C++ Exceptions for Smaller Firmware](https://www.youtube.com/watch?v=bY2FlayomlE) [01:24:35] by **Khalil Estell** (2024)
 * [C++ - The Newest Old Language](https://www.youtube.com/watch?v=HAFrggEDr5U) [00:43:36] by **Matt Godbolt** (2018)
 * [Memory Latency Troubles You? Nano-coroutines to the Rescue! (Using Coroutines TS, of Course)](https://www.youtube.com/watch?v=j9tlJAqMV7U) [01:04:25] by **Gor Nishanov** (2018)
 * [Modern C++ in Embedded Systems](https://www.youtube.com/watch?v=c9Xt6Me3mJ4) [01:30:39] by **Michael Caisse** (2018)
