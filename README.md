@@ -191,7 +191,7 @@ ever.
 
 * [Bottom Up vs Top Down Design in Clojure](https://www.youtube.com/watch?v=Tb823aqgX_0) [00:36:41] by **Mark Bastian** (2015)
 * [Building a Bicycle for the Mind](https://www.youtube.com/watch?v=nKyHvVIotBo) [00:26:39] by **David Nolen** (2015)
-* [Clojure, Made Simple](https://www.youtube.com/watch?v=VSdnJDO-xdg) [01:00:43] by **Rich Hickey** (2015)
+* [Clojure, Made Simple](https://web.archive.org/web/20151118133926id_/https://r20---sn-o097znl6.googlevideo.com/videoplayback?nh=IgpwcjAxLnNqYzA3KgkxMjcuMC4wLjE&key=yt6&source=youtube&mime=video%2Fmp4&pl=21&ratebypass=yes&signature=B1D2C1853132D09B459709147062F8A6EB038D10.9FEDF7D7D79EE5EA7C7241DD8F6717269876F7D2&itag=22&sparams=dur%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnh%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cupn%2Cexpire&fexp=9405349%2C9408710%2C9413280%2C9414764%2C9416126%2C9417353%2C9417683%2C9418400%2C9419966%2C9420453%2C9421410%2C9421710%2C9422596%2C9422618%2C9422967%2C9422991%2C9423486%2C9423510%2C9423662%2C9423665%2C9423707%2C9424135%2C9424509&initcwndbps=13635000&mm=31&ipbits=0&mn=sn-o097znl6&id=o-AOGNQ8t_Nn-49gjVQdaOlN5n04XeLq8Oij1BREck5zlw&mt=1447853767&dur=3643.443&mv=m&ms=au&ip=207.241.237.140&requiressl=yes&lmt=1438402926954087&upn=qdXLqzMsHfc&expire=1447875529&sver=3&signature=) [01:00:43] by **Rich Hickey** (2015)
 * [ClojureScript + React.js: How I learned to stop worrying and love the browser](https://www.youtube.com/watch?v=ey7Ms2ub7wY) [00:52:24] by **Norbert Wójtowicz** (2015)
 * [ClojureScript for Skeptics](https://www.youtube.com/watch?v=gsffg5xxFQI) [00:41:08] by **Derek Slager** (2015)
 * [Condition Systems in an Exceptional Language](https://www.youtube.com/watch?v=zp0OEDcAro0) [00:33:31] by **Chris Houser** (2015)
