@@ -991,6 +991,7 @@ ever.
 * [Challenges for Logic Programming](https://www.youtube.com/watch?v=y6WKr9j76kw) [00:40:45] by **Steve Miner** (2013)
 
 #### Machine Learning
+* [Post-Transformer Architectures: State Space Models, RWKV](https://www.youtube.com/watch?v=LPe6iC73lrc) [00:42:44] by **Dan Fu & Eugene Cheah** (2024)
 * [Building the Software 2.0 Stack](https://vimeo.com/272696002) [00:30:08] by **Andrej Karpathy** (2018)
 * [Machine learning is not the future](https://www.youtube.com/watch?v=3dXQxSI3XDY) [00:38:59] by **Rajat Monga** (2016)
 * [Neural Nets for Newbies](https://www.youtube.com/watch?v=g-BJSl4zV_g) [00:30:57] by **Melanie Warrick** (2015)
