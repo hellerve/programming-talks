@@ -876,6 +876,7 @@ ever.
 * [Stop Drawing Dead Fish](https://vimeo.com/64895205) [00:53:32] by **Bret Victor** (2013)
 
 #### Databases
+* [Re-engineering Postgres for Millions of Tenants](https://www.youtube.com/watch?v=EfAStGb4s88) [00:52:01] by **Gwen Shapira** (2025)
 * [Jepsen 7: Anna Concurrenina](https://www.youtube.com/watch?v=eSaFVX4izsQ) [00:53:06] by **Kyle Kingsbury** (2017)
 * [To NoSQL or Not to NoSQL, That Is the Question](https://vimeo.com/132194546) [01:00:48] by **David Ostrovsky** (2015)
 * [Transactions: myths, surprises and opportunities](https://www.youtube.com/watch?v=5ZjhNTM8XU8) [00:41:07] by **Martin Kleppmann** (2015)
