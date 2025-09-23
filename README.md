@@ -930,6 +930,7 @@ ever.
 * [Chef Style DevOps Kungfu](https://www.youtube.com/watch?v=_DEToXsgrPc) [01:16:08] by **Adam Jacob** (2015)
 
 #### Distributed Systems
+* [Squashing the Heisenbug with Deterministic Simulation Testing](https://mirrors.dotsrc.org/fosdem/2025/ud6215/fosdem-2025-4279-squashing-the-heisenbug-with-deterministic-simulation-testing.mp4) [00:25:58] by **Dominik Tornow** (2025)
 * [~~Everything about distributed systems is terrible~~Designing Distributed Systems with TLA+](https://www.youtube.com/watch?v=tfnldxWlOhM) [00:38:25] by **Hillel Wayne** (2018)
 * [Send me your Echolocation](https://www.deconstructconf.com/2018/vicky-nguyen-send-me-your-echolocation) [00:26:06] by **Vicky Nguyen** (2018)
 * [Load Balancing is Impossible](https://www.youtube.com/watch?v=gas2v1emubU) [00:36:43] by **Tyler McMullen** (2016)
