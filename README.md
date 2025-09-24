@@ -156,6 +156,7 @@ ever.
 * [The Functional Tao of Bash](https://www.youtube.com/watch?v=yD2ekOEP9sU) [00:48:12] by **Garrett Smith** (2015)
 
 #### C
+* [What is new in C and POSIX?](https://www.youtube.com/watch?v=bfTy1NdOa2E) [00:49:50] by **Peter Eisentraut** (2025) (held at PGConf.dev, so from a PostgreSQL PoV)
 * [Advanced C Coding For Fun!](https://www.youtube.com/watch?v=BEQ3sRakIs0) [00:46:53] by **Rusty Russell** (2014)
 * [Writing application fault handlers](https://bootlin.com/pub/video/2008/ols/ols2008-gilad-ben-yossef-fault-handlers.ogg) [00:49:03] by **Gilad Ben-Yossef** (2008)
 
