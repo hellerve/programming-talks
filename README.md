@@ -1028,7 +1028,8 @@ ever.
 * [Scaling Yourself](https://www.youtube.com/watch?v=FS1mnISoG7U) [00:28:51] by **Scott Hanselman** (2012)
 
 #### On the Industry/Community
-* [Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s) [00:43:03] by Jack Rusher (2022)
+* [X Marks the Spot: Navigating Possible Futures with Wardley Maps](https://www.youtube.com/watch?v=ShAzlhS_TCg) [00:39:25] by **Simon Wardley** (2025)
+* [Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s) [00:43:03] by **Jack Rusher** (2022)
 * [Dealing with unanticipated needs](https://www.youtube.com/watch?v=xYqWREPb3Lc) [00:47:43] by **Dave Snowden** (2019)
 * [How to be a Happy Developer. Now!](https://www.youtube.com/watch?v=uNq2aFhqOAA) [00:39:32] by **Christian Robert** (2019)
 * [Stewardship Made Practical](https://www.youtube.com/watch?v=GXgbV7jB_Bc) [00:50:35] by **Stuart Halloway**
