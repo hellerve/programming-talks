@@ -245,6 +245,7 @@ ever.
 * [Persistent Data Structures and Managed References](https://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey/) [00:55:53] by **Rich Hickey** (2009)
 
 #### C++
+* [Embracing an Adversarial Mindset for C++ Security](https://www.youtube.com/watch?v=glkMbNLogZE) [01:26:19] by **Amanda Rousseau** (2025)
 * [Peering Forward - C++’s Next Decade](https://www.youtube.com/watch?v=FNi1-x4pojs) [01:36:29] by **Herb Sutter** (2025)
 * [C++ Exceptions for Smaller Firmware](https://www.youtube.com/watch?v=bY2FlayomlE) [01:24:35] by **Khalil Estell** (2024)
 * [C++ - The Newest Old Language](https://www.youtube.com/watch?v=HAFrggEDr5U) [00:43:36] by **Matt Godbolt** (2018)
