@@ -878,6 +878,7 @@ ever.
 * [Stop Drawing Dead Fish](https://vimeo.com/64895205) [00:53:32] by **Bret Victor** (2013)
 
 #### Databases
+* [The trouble with extensions](https://www.youtube.com/watch?v=0dyBfg-By80) [00:51:36] by **Marco Slot** (2025)
 * [Investigating Multithreaded PostgreSQL](https://www.youtube.com/watch?v=7BvLaRkaijc) [00:46:11] by **Thomas Munro** (2025)
 * [ACID Jazz](https://archive.org/details/youtube-v8cG2hh10SQ?) [00:30:38] by **Kyle Kingsbury** (2025)
 * [Re-engineering Postgres for Millions of Tenants](https://www.youtube.com/watch?v=EfAStGb4s88) [00:52:01] by **Gwen Shapira** (2025)
