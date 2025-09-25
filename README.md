@@ -143,8 +143,8 @@ ever.
 * [Alpaca: Static Typing on the BEAM](https://www.youtube.com/watch?v=cljFpz_cv2E) [00:45:34] by **Jeremy Pierre** (2017)
 
 #### APL
-* [Lessons for the Masses from the Trenches of Co-dfns](https://www.youtube.com/watch?v=FrTk3Y-EOeU) by **Aaron Hsu** (2019)
-* [Tacit Techniques with Dyalog version 18.0 Operators](https://www.youtube.com/watch?v=czWC4tjwzOQ) by **Marshall Lochbaum** (2019)
+* [Lessons for the Masses from the Trenches of Co-dfns](https://www.youtube.com/watch?v=FrTk3Y-EOeU) [00:21:53] by **Aaron Hsu** (2019)
+* [Tacit Techniques with Dyalog version 18.0 Operators](https://www.youtube.com/watch?v=czWC4tjwzOQ) [00:28:53] by **Marshall Lochbaum** (2019)
 <br>
 
 * [Patterns and Anti-patterns in APL: Escaping the Beginner's Plateau](https://www.youtube.com/watch?v=9xCJ3BCIudI) [00:59:02] by **Aaron Hsu** (2017)
@@ -386,7 +386,7 @@ ever.
 <br>
 
 * [If Coco Chanel Reviewed Elm](https://www.youtube.com/watch?v=Wiw3YcwGwrU) [00:17:30] by **Tereza Sokol** (2017)
-* [The life of a file](https://www.youtube.com/watch?v=XpDsk374LDE) by **Evan Czaplicki** (2017)
+* [The life of a file](https://www.youtube.com/watch?v=XpDsk374LDE) [00:47:01] by **Evan Czaplicki** (2017)
 <br>
 
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) [00:40:55] by **Evan Czaplicki** (2014)
@@ -533,7 +533,7 @@ ever.
 * [Dependently Typed Functional Programming in Idris, Part III](https://vimeo.com/117979741) [00:58:14] by **David Christiansen** (2015)
 -->
 
-* [Dependently Typed Functional Programming with Idris](https://www.idris-lang.org/dependently-typed-functional-programming-with-idris-course-videos-and-slides/) by **Edwin Brady**: This lecture series has four parts ([playlist](https://www.youtube.com/playlist?list=PLZxlmw4K3ICJw6FAml2yw95B0I--iKQZ_)):
+* [Dependently Typed Functional Programming with Idris](https://www.idris-lang.org/dependently-typed-functional-programming-with-idris-course-videos-and-slides/) [04:29:02] by **Edwin Brady**: This lecture series has four parts ([playlist](https://www.youtube.com/playlist?list=PLZxlmw4K3ICJw6FAml2yw95B0I--iKQZ_)):
   * [Part 1: Introduction](https://vimeo.com/61576198) [[mirror]](https://youtu.be/S3oSwATZ5r4) [01:11:18] by **Edwin Brady** (2013) [A]
   * [Part 2: Embedded DSLs](https://vimeo.com/61663317) [[mirror]](https://youtu.be/uz_4WRN1ODg) [01:06:53] by **Edwin Brady** (2013) [A]
   * [Part 3: Effect management](https://vimeo.com/62037963) [[mirror]](https://youtu.be/rFItGEsmJr8) [00:59:22] by **Edwin Brady** (2013) [A]
@@ -564,7 +564,7 @@ ever.
 * [Java 8 Language Capabilities, What's in it for you?](https://www.youtube.com/watch?v=j9nj5dTo54Q) [01:25:28] by **Venkat Subramaniam** (2014)
 * [Living in the Matrix with Bytecode Manipulation](https://www.youtube.com/watch?v=39kdr1mNZ_s) [00:55:01] by **Ashley Puls** (2014)
 * [Ludicrous Speed: Designing For Performance on the JVM](https://www.youtube.com/watch?v=X1rWgshr3PY) [00:39:54] by **Cliff Moon** (2014)
-* [Nashorn: implementing a dynamic language runtime on JVM in 2014](https://www.youtube.com/watch?v=KKaHkkpdHxg) [00::44:32] by **Attila Szegedi** (2014)
+* [Nashorn: implementing a dynamic language runtime on JVM in 2014](https://www.youtube.com/watch?v=KKaHkkpdHxg) [00:44:32] by **Attila Szegedi** (2014)
 * [Recursion Schemes](https://www.youtube.com/watch?v=Zw9KeP3OzpU) [01:50:29] by **Tim Williams** (2014)
 <br>
 
@@ -627,7 +627,7 @@ ever.
 <br>
 
 * [The first ever presentation on Node.js](https://www.youtube.com/watch?v=ztspvPYybIY) [00:48:31] by **Ryan Dahl** (2012)
-* [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** (2011) (it's 10 hours long!)
+* [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) [10:20:32] by **Douglas Crockford** (2011) (total runtime across 8 parts)
 * [Introduction to Node.js](https://yuiblog.com/blog/2010/05/20/video-dahl/) [00:58:18] by **Ryan Dahl** (2010)
 
 #### Julia
@@ -667,7 +667,7 @@ ever.
 * [Jane and the Compiler](https://www.youtube.com/watch?v=gXdMFxGdako) [01:03:45] by **Yaron Minsky** (2018) [A]
 <br>
 
-* [Why OCaml](https://www.youtube.com/watch?v=v1CmGbOGb2I) [01::06:39] by **Yaron Minsky** (2016)
+* [Why OCaml](https://www.youtube.com/watch?v=v1CmGbOGb2I) [01:06:39] by **Yaron Minsky** (2016)
 <br>
 
 * [Caml Trading](https://www.youtube.com/watch?v=hKcOkWzj0_s) [01:12:43] by **Yaron Minsky** (2012)
@@ -890,7 +890,7 @@ ever.
 * [Introduction to the Unison programming language](https://www.youtube.com/watch?v=rp_Eild1aq8) [00:40:58] by **Rúnar Bjarnason** (2018)
 <br>
 
-* [The Unison Language and its Scala-based Runtime](https://www.youtube.com/watch?v=knqlWboqf_U) by **Paul Chiusano** (2017)
+* [The Unison Language and its Scala-based Runtime](https://www.youtube.com/watch?v=knqlWboqf_U) [00:45:49] by **Paul Chiusano** (2017)
 <br>
 
 * [How to write a search engine in 15 lines of code](https://www.youtube.com/watch?v=f6yA3t0dO-k) [00:36:04] by **Paul Chiusano** (2016)
@@ -914,11 +914,11 @@ ever.
 ### On theory
 
 #### Compilers/Interpreters
-* [A Beginners’ Guide to SelectionDAG](https://www.youtube.com/watch?v=nNQ6AF6i5FI) by **Alex MacLean, Justin Fargnoli** (2025)
+* [A Beginners’ Guide to SelectionDAG](https://www.youtube.com/watch?v=nNQ6AF6i5FI) [00:52:09] by **Alex MacLean, Justin Fargnoli** (2025)
 
 <br>
 
-* [Towards a Verified Range Analysis for JavaScript JITs](https://www.youtube.com/watch?v=5tRK5_GPdpM) by **Fraser Brown** (2020) (Paper by Brown et al.)
+* [Towards a Verified Range Analysis for JavaScript JITs](https://www.youtube.com/watch?v=5tRK5_GPdpM) [00:12:19] by **Fraser Brown** (2020) (Paper by Brown et al.)
 
 <br>
 
@@ -1051,11 +1051,11 @@ ever.
 * [The Impedance Mismatch is Our Fault](https://www.infoq.com/presentations/Impedance-Mismatch/) [00:58:31] by **Stuart D. Halloway** (2012)
 
 #### Data Science
-* [How a File Format Led to a Crossword Scandal](https://www.youtube.com/watch?v=9aHfK8EUIzg) by **Saul Pwanson** (2019)
+* [How a File Format Led to a Crossword Scandal](https://www.youtube.com/watch?v=9aHfK8EUIzg) [00:19:53] by **Saul Pwanson** (2019)
 
 <br>
 
-* [Sonification: a Battle on Two Fronts](https://www.youtube.com/watch?v=QV9xrr-AlL8) by **Martin Keary** (2018)
+* [Sonification: a Battle on Two Fronts](https://www.youtube.com/watch?v=QV9xrr-AlL8) [00:28:21] by **Martin Keary** (2018)
 * [You can't do data science in a GUI](https://www.youtube.com/watch?v=cpbtcsGE0OA) [01:15:18] by **Hadley Wickham** (2018)
 
 <br>
@@ -1071,7 +1071,7 @@ ever.
 
 <br>
 
-* [Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step](https://www.youtube.com/watch?v=ncHmEUmJZf4) by **Matt Kulukundis** (2017)
+* [Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step](https://www.youtube.com/watch?v=ncHmEUmJZf4) [00:59:33] by **Matt Kulukundis** (2017)
 
 <br>
 
@@ -1093,10 +1093,10 @@ ever.
 
 <br>
 
-* [Generic sorting and partitioning in linear time and fully abstractly](https://www.youtube.com/watch?v=sz9ZlZIRDAg) by **Fritz Henglein** (2012)
+* [Generic sorting and partitioning in linear time and fully abstractly](https://www.youtube.com/watch?v=sz9ZlZIRDAg) [01:07:41] by **Fritz Henglein** (2012)
 
 #### Debugging
-* [The Hurricane's Butterfly: Debugging Pathologically Performing Systems](https://www.youtube.com/watch?v=7AO4wz6gI3Q) by **Bryan Cantrill** (2018)
+* [The Hurricane's Butterfly: Debugging Pathologically Performing Systems](https://www.youtube.com/watch?v=7AO4wz6gI3Q) [01:06:49] by **Bryan Cantrill** (2018)
 
 <br>
 
@@ -1143,7 +1143,7 @@ ever.
 * [Coordination-Free Computations](https://www.youtube.com/watch?v=AF8fpDzfUOc) [00:46:15] by **Cristopher Meiklejohn** (really fast talker) (2015)
 * [Distributed Eventually Consistent Computations](https://www.youtube.com/watch?v=uwpakTIg9r8) [00:49:37] by **Christopher Meiklejohn** (2015)
 * [Distributed Systems 101](https://www.youtube.com/watch?v=YAFGQurdJ3U) [00:45:25] by **lvh** (2015)
-* [Everything Will Flow](https://www.youtube.com/watch?v=1bNOO3xxMc0) by **Zach Tellman** (2015) [A]
+* [Everything Will Flow](https://www.youtube.com/watch?v=1bNOO3xxMc0) [00:40:12] by **Zach Tellman** (2015) [A]
 * [Jepsen IV: Hope Springs Eternal](https://www.youtube.com/watch?v=dE3KT7hHkKY) [00:54:33] by **Kyle Kingsbury** (2015)
 * [Scaling Instagram](https://www.youtube.com/watch?v=oNA2C1vC8FQ) [00:27:13] by **Mike Krieger** (2015)
 
@@ -1180,7 +1180,7 @@ ever.
 
 <br>
 
-* [Evolving Functional Programming Languages](https://www.youtube.com/watch?v=sBXF8SG_XNw) by **Erik Osheim** (2017)
+* [Evolving Functional Programming Languages](https://www.youtube.com/watch?v=sBXF8SG_XNw) [00:40:59] by **Erik Osheim** (2017)
 * [Peeling the Banana: Recursion Schemes from First Principles](https://www.youtube.com/watch?v=XZ9nPZbaYfE) [00:34:21] by **Zainab Ali** (2017)
 * [Profunctor Optics: The Categorical Approach](https://www.youtube.com/watch?v=l1FCXUi6Vlw) [00:45:33] by **Bartosz Milewki** (2017)
 
@@ -1201,7 +1201,7 @@ ever.
 <br>
 
 * [Functional Programming; What? Why? When? How?](https://www.youtube.com/watch?v=7Zlp9rKHGD4) [00:58:27] by **Robert C Martin** (2014)
-* [Railway oriented programming: Error handling in functional languages](https://vimeo.com/113707214) by **Scott Wlaschin** (2014)
+* [Railway oriented programming: Error handling in functional languages](https://vimeo.com/113707214) [[mirror]](https://www.youtube.com/watch?v=fYo3LN9Vf_M) [00:56:55] by **Scott Wlaschin** (2014)
 * [The Functional Final Frontier](https://www.youtube.com/watch?v=DMtwq3QtddY) [00:27:02] by **David Nolen** (2014)
 
 <br>
@@ -1288,7 +1288,7 @@ ever.
 
 <br>
 
-* [Constructive Type Theory and Homotopy](https://www.youtube.com/watch?v=4CghfgqnOGQ) by **Steve Awodey** (2010)
+* [Constructive Type Theory and Homotopy](https://www.youtube.com/watch?v=4CghfgqnOGQ) [00:41:00] by **Steve Awodey** (2010)
 
 #### On Languages
 * [Homoiconicity It Is What It Is](https://www.youtube.com/watch?v=o7zyGMcav3c) [00:30:39] by **Stuart Sierra** (2017)
@@ -1492,7 +1492,7 @@ ever.
 <br>
 
 * [DNS, SNI, TLS, HTTPS: Modern DNS & Privacy](https://www.youtube.com/watch?v=pjin3nv8jAo) [00:43:17] by **Bert Hubert** (2019)
-* [No source, no problem! High speed binary fuzzing](https://media.ccc.de/v/36c3-10880-no_source_no_problem_high_speed_binary_fuzzing) by **Nspace & gannimo** (2019)
+* [No source, no problem! High speed binary fuzzing](https://media.ccc.de/v/36c3-10880-no_source_no_problem_high_speed_binary_fuzzing) [00:59:28] by **Nspace & gannimo** (2019)
 
 <br>
 
@@ -1505,7 +1505,7 @@ ever.
 
 * [Breaking The x86 Instruction Set](https://www.youtube.com/watch?v=KrksBdWcZgQ) [00:44:28] by **Christoper Domas** (2017)
 * [Exploit Kit Cornucopia](https://www.youtube.com/watch?v=s6_faEjf4AQ) [00:45:08] by **Brad Antoniewicz & Matt Foley** (2017)
-* [Ichthyology: Phishing as a Science](https://www.youtube.com/watch?v=Z20XNp-luNA) by **Karla Burnett** (2017) [A]
+* [Ichthyology: Phishing as a Science](https://www.youtube.com/watch?v=Z20XNp-luNA) [00:24:28] by **Karla Burnett** (2017) [A]
 
 <br>
 
@@ -1525,8 +1525,8 @@ ever.
 * [28c3: The Science of Insecurity](https://www.youtube.com/watch?v=3kEfedtQVOY) [00:59:22] by **Meredith L. Patterson, Sergey** (2011)
 
 #### Software Development
-* [Design in Practice](https://www.youtube.com/watch?v=fTtnx1AAJ-c) by **Rich Hickey** (2023)
-* [Is Software Engineering Real Engineering?](https://www.youtube.com/watch?v=6pO7jT794uc) by **Hillel Wayne** (2023)
+* [Design in Practice](https://www.youtube.com/watch?v=fTtnx1AAJ-c) [01:00:45] by **Rich Hickey** (2023)
+* [Is Software Engineering Real Engineering?](https://www.youtube.com/watch?v=6pO7jT794uc) [00:37:31] by **Hillel Wayne** (2023)
 
 <br>
 
