@@ -145,11 +145,17 @@ ever.
 #### APL
 * [Lessons for the Masses from the Trenches of Co-dfns](https://www.youtube.com/watch?v=FrTk3Y-EOeU) by **Aaron Hsu** (2019)
 * [Tacit Techniques with Dyalog version 18.0 Operators](https://www.youtube.com/watch?v=czWC4tjwzOQ) by **Marshall Lochbaum** (2019)
+<br>
+
 * [Patterns and Anti-patterns in APL: Escaping the Beginner's Plateau](https://www.youtube.com/watch?v=9xCJ3BCIudI) [00:59:02] by **Aaron Hsu** (2017)
+<br>
+
 * [50 Years of APL Datatypes: From Booleans to Hypercomplex Numbers](https://www.youtube.com/watch?v=l3QdKqskcBM) [00:39:21] by **Bob Smith** (2016)
 
 #### Assembly
 * [Enough x86 Assembly to Be Dangerous](https://www.youtube.com/watch?v=IfUPkUAEwrk) [00:30:58] by **Charles Bailey** (2017)
+<br>
+
 * [The Teensy ELF Executable](https://www.muppetlabs.com/~breadbox/software/tiny/techtalk.html) [00:49:03] by **Brian Raiter** (2014)
 
 #### Bash
@@ -157,7 +163,11 @@ ever.
 
 #### C
 * [What is new in C and POSIX?](https://www.youtube.com/watch?v=bfTy1NdOa2E) [00:49:50] by **Peter Eisentraut** (2025) (held at PGConf.dev, so from a PostgreSQL PoV)
+<br>
+
 * [Advanced C Coding For Fun!](https://www.youtube.com/watch?v=BEQ3sRakIs0) [00:46:53] by **Rusty Russell** (2014)
+<br>
+
 * [Writing application fault handlers](https://bootlin.com/pub/video/2008/ols/ols2008-gilad-ben-yossef-fault-handlers.ogg) [00:49:03] by **Gilad Ben-Yossef** (2008)
 
 #### Clojure
@@ -175,6 +185,8 @@ ever.
 
 * [Core.Async in Use](https://www.youtube.com/watch?v=096pIlA3GDo) [00:34:04] by **Timothy Baldridge** (2017)
 * [Symbolic Assembly: Using Clojure to Meta-program Bytecode](https://www.youtube.com/watch?v=eDad1pvwX34) [00:39:42] by **Ramsey Nasser** (2017)
+<br>
+
 * [Bare Metal Clojure with clojure.spec](https://www.youtube.com/watch?v=yGko70hIEwk) [00:36:07] by **Michael Reitzenstein** (2016)
 * [Clarifying Rules Engines with Clara Rules](https://www.youtube.com/watch?v=Q_k5MkZmd-o) [00:37:07] by **Mike Rodriguez** (2016)
 * [Clojure at DataStax: The Long Road From Python to Clojure](https://www.youtube.com/watch?v=wfrajaEyNX0) [00:29:28] by **Nick Bailey** (2016)
@@ -241,13 +253,21 @@ ever.
 
 * [Clojure Concurrency](https://www.youtube.com/watch?v=dGVqrGmwOAw) [02:32:39] by **Rich Hickey** (2012)
 * [Why Is A Monad Like A Writing Desk?](https://www.infoq.com/presentations/Why-is-a-Monad-Like-a-Writing-Desk/) [00:30:38] by **Carin Meier** (2012)
+<br>
+
 * [Clojure for Schemers](https://vimeo.com/22675078) [01:17:27] by **David Nolen** (2011)
+<br>
+
 * [Persistent Data Structures and Managed References](https://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey/) [00:55:53] by **Rich Hickey** (2009)
 
 #### C++
 * [Embracing an Adversarial Mindset for C++ Security](https://www.youtube.com/watch?v=glkMbNLogZE) [01:26:19] by **Amanda Rousseau** (2025)
 * [Peering Forward - C++’s Next Decade](https://www.youtube.com/watch?v=FNi1-x4pojs) [01:36:29] by **Herb Sutter** (2025)
+<br>
+
 * [C++ Exceptions for Smaller Firmware](https://www.youtube.com/watch?v=bY2FlayomlE) [01:24:35] by **Khalil Estell** (2024)
+<br>
+
 * [C++ - The Newest Old Language](https://www.youtube.com/watch?v=HAFrggEDr5U) [00:43:36] by **Matt Godbolt** (2018)
 * [Memory Latency Troubles You? Nano-coroutines to the Rescue! (Using Coroutines TS, of Course)](https://www.youtube.com/watch?v=j9tlJAqMV7U) [01:04:25] by **Gor Nishanov** (2018)
 * [Modern C++ in Embedded Systems](https://www.youtube.com/watch?v=c9Xt6Me3mJ4) [01:30:39] by **Michael Caisse** (2018)
@@ -363,12 +383,18 @@ ever.
 
 #### Elm
 * [Demystifying Parsers](https://www.youtube.com/watch?v=M9ulswr1z0E) [00:22:12] by **Tereza Sokol** (2018)
+<br>
+
 * [If Coco Chanel Reviewed Elm](https://www.youtube.com/watch?v=Wiw3YcwGwrU) [00:17:30] by **Tereza Sokol** (2017)
 * [The life of a file](https://www.youtube.com/watch?v=XpDsk374LDE) by **Evan Czaplicki** (2017)
+<br>
+
 * [Controlling Time and Space: understanding the many formulations of FRP](https://www.youtube.com/watch?v=Agu6jipKfYw) [00:40:55] by **Evan Czaplicki** (2014)
 
 #### Erlang
 * [Operable Erlang and Elixir](https://www.youtube.com/watch?v=OR2Gc6_Le2U) [00:35:29] by **Fred Hebert** (2019)
+<br>
+
 * [Getting to the BEAM, without going through Erlang](https://www.youtube.com/watch?v=BcXQ2qaEzNI) [00:24:32] by **Kofi Gumbs** (2018)
 <br>
 
@@ -396,6 +422,8 @@ ever.
 * [A Few Improvements to Erlang](http://www.erlang-factory.com/conference/ErlangUserConference2012/speakers/joearmstrong) [00:43:30] by **Joe Armstrong** (2013)
 * [Chicago Boss: A Web Framework Built for Comfort (and Speed)](https://www.youtube.com/watch?v=LGGo6bIuj8w) [00:45:59] by **Evan Miller** (2013)
 * [Over a Century of Programming](https://www.youtube.com/watch?v=y5Y_JFIsg6s) [01:00:10] by **Mike Williams, Joe Armstrong & Robert Virding** (2013)
+<br>
+
 * [Erlang in production: I wish I'd known that when I started](https://www.youtube.com/watch?v=G0eBDWigORY) [00:42:43] by **Bernard Duggan** (2012)
 
 #### F#
@@ -444,6 +472,8 @@ ever.
 
 * [Concurrency Is Not Parallelism](https://www.youtube.com/watch?v=oV9rvDllKEg) [00:31:22] by **Rob Pike** (2012)
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) [00:51:27] by **Rob Pike** (2012)
+<br>
+
 * [Practical Go Programming](https://www.youtube.com/watch?v=2-pPAvqyluI) [00:59:20] by **Andrew Gerrand** (2011)
 
 #### Hackett
@@ -457,6 +487,8 @@ ever.
 
 * [Dependent Types in Haskell](https://www.youtube.com/watch?v=wNa3MMbhwS4) [00:38:41] by **Stephanie Weirich** (2017)
 * [Escape from the ivory tower: the Haskell journey](https://www.youtube.com/watch?v=re96UgMk6GQ) [01:04:15] by **Simon Peyton-Jones** (2017)
+<br>
+
 * [Point-Free or Die: Tacit Programming in Haskell and Beyond](https://www.youtube.com/watch?v=seVSlKazsNk) [00:36:12] by **Amar Shah** (2016)
 * [What are Types for, or are they only Against?](https://www.youtube.com/watch?v=3U3lV5VPmOU) [01:03:37] by **Conor McBride** (2016)
 <br>
@@ -479,8 +511,14 @@ ever.
 
 * [Lenses, Folds, and Traversals](https://www.youtube.com/watch?v=cefnmjtAolY) [01:54:46] by **Edward Kmett** (2012)
 * [The Algebra In Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) [01:04:35] by **Chris Taylor** (2012)
+<br>
+
 * [Haskell Amuse-Bouche](https://www.youtube.com/watch?v=b9FagOVqxmI) [00:57:13] by **Mark Lentczner** (the audio quality is scarily bad) (2011)
+<br>
+
 * [Data Parallel Haskell](https://www.youtube.com/watch?v=NWSZ4c9yqW8) [01:19:56] by **Simon Peyton Jones** (2010)
+<br>
+
 * [A History of Haskell: being lazy with class](https://www.youtube.com/watch?v=06x8Wf2r2Mc) [00:56:46] by **Simon Peyton Jones** (2007)
 
 #### Idris
@@ -503,9 +541,13 @@ ever.
 
 #### Java & Android
 * [Java in 2018: Change is the Only Constant](https://www.youtube.com/watch?v=wHoRBvt3U6o) [00:27:08] by **Mark Reinhold** (2018)
+<br>
+
 * [Modules in One Lesson](https://www.youtube.com/watch?v=rFhhLXcOBsk) [00:51:17] by **Mark Reinhold** (2017)
 * [g ∘ f patterns](https://www.youtube.com/watch?v=lZG74WbnhoE) [00:50:44] by **Mario Fusco** (2017)
 * [Parallel and Asynchronous Programming with Streams and CompletableFuture](https://www.youtube.com/watch?v=IwJ-SCfXoAU) [02:34:29] by **Venkat Subramaniam** (2017)
+<br>
+
 * [A JVM does that???](https://www.youtube.com/watch?v=-vizTDSz8NU) [00:51:58] by **Cliff Click** (2016)
 * [Optional - The Mother of All Bikesheds](https://www.youtube.com/watch?v=Ej0sss6cq14) [00:58:42] by **Stuart Marks** (2016)
 <br>
@@ -527,7 +569,11 @@ ever.
 <br>
 
 * [JVM Bytecode for Dummies (and the Rest of Us Too](https://www.youtube.com/watch?v=rPyqB1l4gko) [00:50:34] by **Charles O.o Nutter** (2013)
+<br>
+
 * [Java - The Good, Bad and Ugly Parts](https://www.youtube.com/watch?v=hcY8cYfAEwU) [00:14:34] by **Josh Bloch** (2011)
+<br>
+
 * [Effective Java; Still Effective After All These Years](https://www.youtube.com/watch?v=V1vQf4qyMXg) [01:13:59] by **Joshua Bloch** (2009)
 
 #### JavaScript
@@ -585,7 +631,6 @@ ever.
 * [Introduction to Node.js](https://yuiblog.com/blog/2010/05/20/video-dahl/) [00:58:18] by **Ryan Dahl** (2010)
 
 #### Julia
-
 * [What's Bad About Julia](https://www.youtube.com/watch?v=TPuJsgyu87U) [00:30:39] by **Jeff Bezanson** (2019)
 * [The Unreasonable Effectiveness of Multiple Dispatch](https://www.youtube.com/watch?v=kc9HwsxE1OY) [00:35:23] by **Stefan Karpinski** (2019)
 <br>
@@ -605,20 +650,32 @@ ever.
 
 #### Lisp
 * [The Most Beautiful Program Ever Written](https://www.youtube.com/watch?v=OyfBQmvr2Hc) [01:31:05] by **William Byrd** (2017)
+<br>
+
 * [Lisp](https://www.youtube.com/watch?v=FRaNUsiD_BA) [00:56:00] by **Igor Wiedler** (2014)
+<br>
+
 * [Practical Common Lisp](https://www.youtube.com/watch?v=4NO83wZVT0A) [01:12:04] by **Peter Seibel** (2012)
 
 #### Objective C
 * [Object-Oriented Programming in Objective-C](https://www.youtube.com/watch?v=_BbGxpiYFDg) [00:31:10] by **Graham Lee** (2015)
+<br>
+
 * [RACify Non-Reactive Code](https://www.youtube.com/watch?v=sek0ohbboNU) [00:24:23] by **Dave Lee** (2014)
 
 #### OCaml
 * [Jane and the Compiler](https://www.youtube.com/watch?v=gXdMFxGdako) [01:03:45] by **Yaron Minsky** (2018) [A]
+<br>
+
 * [Why OCaml](https://www.youtube.com/watch?v=v1CmGbOGb2I) [01::06:39] by **Yaron Minsky** (2016)
+<br>
+
 * [Caml Trading](https://www.youtube.com/watch?v=hKcOkWzj0_s) [01:12:43] by **Yaron Minsky** (2012)
 
 #### Prolog
 * [Production Prolog](https://www.youtube.com/watch?v=G_eYTctGZw8) [00:39:57] by **Michael Hendricks** (2014)
+<br>
+
 * [A Taste of Prolog](https://www.youtube.com/watch?v=hEOVcLAPRG8) [00:33:48] by **Aja Hammerly** (2012)
 
 #### PureScript
@@ -708,10 +765,11 @@ ever.
 * [Generic Syntax Expanders and Extensible Macros](https://www.youtube.com/watch?v=PoHGvY4RZ9U) [00:16:26] by **Jack Firth** (2015)
 * [Racket: A Programming-Language Programming Language](https://www.youtube.com/watch?v=hFlIl0Zo234) [00:51:42] by **Robby Findler** (2015)
 * [The Racket Manifesto](https://www.youtube.com/watch?v=JnczIyPXGfc) [00:52:42] by **Matthias Felleisen** (2015)
+<br>
+
 * [Purely Functional 3D in Typed Racket](https://www.youtube.com/watch?v=t3xdv4UP9-U) [00:22:15] by **Neil Toronto** (2014)
 
 #### Ruby
-* [What Killed Smalltalk Could Kill Ruby, Too](https://www.youtube.com/watch?v=YX3iRjKj7C0) [01:00:55] by **Robert Martin** (2009)
 * [Writing Ruby Like it’s 2018](https://www.youtube.com/watch?v=nVbMhLKvDF0) [00:11:53] by **Joe Leo III** (2018)
 <br>
 
@@ -747,6 +805,9 @@ ever.
 * [MiniTest: Write Awesome Tests](https://www.youtube.com/watch?v=6hBghQ-Ic_o) [00:32:27] by **Michael J.I. Jackson** (2012)
 * [Programming With Nothing](https://www.youtube.com/watch?v=VUhlNx_-wYk) [00:40:50] by **Tom Stuart** (2012)
 * [Y Not - Adventures in Functional Programming](http://www.confreaks.com/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming) [00:53:22] by **Jim Weirich** (2012)
+<br>
+
+* [What Killed Smalltalk Could Kill Ruby, Too](https://www.youtube.com/watch?v=YX3iRjKj7C0) [01:00:55] by **Robert Martin** (2009)
 
 #### Rust
 * [Rust at speed - building a fast concurrent database](https://www.youtube.com/watch?v=s19G6n0UjsM) [00:52:53] by **Jon Gjengset** (2018)
@@ -769,6 +830,8 @@ ever.
 <br>
 
 * [What Rust can teach us about Ruby](https://www.youtube.com/watch?v=Jbfyhx8t-F8) [00:34:07] by **Steve Klabnik** (2015)
+<br>
+
 * [Cap'n Proto and Rust: Type Systems for Sharing](https://www.youtube.com/watch?v=A65w-qoyTYg) [00:40:47] by **David Renshaw** (2014)
 * [Concurrency in Rust](https://www.youtube.com/watch?v=oAZ7F7bqT-o) [00:31:24] by **Alex Crichton** (2014)
 
@@ -786,14 +849,24 @@ ever.
 
 * [How types can turn a SQL interpreter into a SQL compiler](https://www.youtube.com/watch?v=NTAJNYcsAEE) [00:40:31] by **Tiark Rompf** (2014)
 * [Scala Collections: Why Not?](https://www.youtube.com/watch?v=uiJycy6dFSQ) [00:45:42] by **Paul Phillips** (beware: not very optimistic!) (2014)
+<br>
+
 * [Concurrency Anti-Patterns in Scala](https://www.youtube.com/watch?v=dCEZDlH1ygo) [00:29:53] by **Blake Matheny** (2013)
+<br>
+
 * [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA) [00:31:22] by **Dan Rosen** (2012)
 * [Scala Versus Java](https://www.youtube.com/watch?v=PKc5IwHG68k) [01:32:35] by **Dan Rosen** (2012)
+<br>
+
 * [What's Next for Scala](https://www.youtube.com/watch?v=qqQNqIy5LdM) [01:15:06] by **Martin Odersky** (2011)
 
 #### Scheme
 * [The Nanopass Framework as a Nanopass Compiler](https://www.youtube.com/watch?v=lqVN1fGNpZw) [00:52:10] by **Andrew Keep** (2020)
+<br>
+
 * [miniKanren](https://www.youtube.com/watch?v=5Q9x16uIsKA) [00:46:23] by **Dan Friedman & William Byrd** (2013)
+<br>
+
 * [Dan Friedman - Cool Ideas](https://www.youtube.com/watch?v=IHP7P_HlcBk) [00:57:00] by **Guy Steele** (2011)
 
 #### Smalltalk
@@ -801,21 +874,35 @@ ever.
 
 #### Swift
 * [Implementing Swift Generics](https://www.youtube.com/watch?v=ctS8FzqcRug) [00:44:37] by **Slava Pestov** (2017)
+<br>
+
 * [Controlling Complexity in Swift — or — Making Friends with Value Types](https://realm.io/news/andy-matuschak-controlling-complexity/) [00:57:45] by **Andy Matuschak** (2015)
 * [Swift's High-Level IR: A Case Study...](https://www.youtube.com/watch?v=Ntj8ab-5cvE) [00:55:37] by **Joe Groff & Chris Lattner** (2015) [A]
+<br>
+
 * [Swift Programming Language for JavaScript Developers](https://www.youtube.com/watch?v=nvHFin89pXY) [00:41:19] by **J.P. Simard** (2014)
 * [Thinking in Swift](https://vimeo.com/105440181) [00:24:23] by **Abizer Nasir** (2014)
 
 #### Unison
 * [Unison: An Introduction](https://www.youtube.com/watch?v=yicXcdLI2YA) [01:53:49] by **Rúnar Bjarnason** (2020)
+<br>
+
 * [Introduction to the Unison programming language](https://www.youtube.com/watch?v=rp_Eild1aq8) [00:40:58] by **Rúnar Bjarnason** (2018)
+<br>
+
 * [The Unison Language and its Scala-based Runtime](https://www.youtube.com/watch?v=knqlWboqf_U) by **Paul Chiusano** (2017)
+<br>
+
 * [How to write a search engine in 15 lines of code](https://www.youtube.com/watch?v=f6yA3t0dO-k) [00:36:04] by **Paul Chiusano** (2016)
 
 #### VimL
 * [Going mouseless with Vim, Tmux, and Hotkeys](https://www.youtube.com/watch?v=E-ZbrtoSuzw) [00:57:27] by **Leeren Chang** (2018)
+<br>
+
 * [More Instantly Better Vim](https://www.youtube.com/watch?v=aHm36-na4-4) [00:38:51] by **Damian Conway** (2013)
 * [Vim - I Wish I Knew How To :q You](https://www.youtube.com/watch?v=X7lZ8MVGl4A) [00:41:08] by **Chris Maiden** (not really about VimL, more of a general introduction into vim) (2013)
+<br>
+
 * [Write code faster: expert-level vim](https://www.youtube.com/watch?v=SkdrYWhh-8s) [00:41:09] by **Ben Orenstein** (not really expert level) (2012)
 
 #### Wolfram Language
@@ -828,158 +915,305 @@ ever.
 
 #### Compilers/Interpreters
 * [Towards a Verified Range Analysis for JavaScript JITs](https://www.youtube.com/watch?v=5tRK5_GPdpM) by **Fraser Brown** (2020) (Paper by Brown et al.)
+
+<br>
+
 * [The Z Garbage Collector](https://www.youtube.com/watch?v=7cWiwu7kYkE) [00:37:13] by **Erik Österlund** (2018)
+
+<br>
+
 * [Datafun: a functional query language](https://www.youtube.com/watch?v=gC295d3V9gE) [00:42:30] by **Michael Arntzenius** (2017)
-* [What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid](https://www.youtube.com/watch?v=bSkpMdDe4g4) [01:15:45] by **Matt Godbolt** (2017)
 * [The Unison Language and its Scala-based Runtime](https://www.youtube.com/watch?v=knqlWboqf_U) [00:45:49] by **Paul Chiusano** (2017)
-* [Datafun: A Functional Datalog](https://www.youtube.com/watch?v=p_26-yTUlCU) [00:24:38] by **Michael Arntzenius** (2016)
-* [What I learned from LuaJIT](https://www.youtube.com/watch?v=EaLboOUG9VQ) [01:15:42] by **Vyacheslav Egorov** (2016)
-* [Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler](https://www.youtube.com/watch?v=KHa-OSrZPGo) [00:59:33] by **Justin Lebar** (2016)
+* [What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid](https://www.youtube.com/watch?v=bSkpMdDe4g4) [01:15:45] by **Matt Godbolt** (2017)
+
+<br>
+
 * [An Introduction to Combinator Compilers and Graph Reduction Machines](https://www.youtube.com/watch?v=GawiQQCn3bk) [00:39:30] by **David Graunke** (2016)
+* [Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler](https://www.youtube.com/watch?v=KHa-OSrZPGo) [00:59:33] by **Justin Lebar** (2016)
+* [Datafun: A Functional Datalog](https://www.youtube.com/watch?v=p_26-yTUlCU) [00:24:38] by **Michael Arntzenius** (2016)
 * [Ruby and OMR: Experiments in utilizing OMR technologies in MRI](http://bofh.nikhef.nl/events/FOSDEM/2016/h2213/ruby-and-omr.mp4) [00:45:38] by **Charlie Gracie** (2016)
+* [What I learned from LuaJIT](https://www.youtube.com/watch?v=EaLboOUG9VQ) [01:15:42] by **Vyacheslav Egorov** (2016)
+
+<br>
+
+* [A VM is a VM is a VM: The Secret Path to High Performance Multi-Language Runtimes](https://www.youtube.com/watch?v=kOnyJurioyw) [00:47:07] by **Mark Stoodley** (2015)
+* [Bits of advice for VM writers](https://www.youtube.com/watch?v=vzzABBxo44g) [00:43:59] by **Cliff Click** (2015)
+* [Compilers are Databases](https://www.youtube.com/watch?v=WxyyJyB_Ssc) [01:08:51] by **Martin Odersky** (2015)
+* [Hello Om Next!](https://www.youtube.com/watch?v=xz389Ek2eS8) [01:20:25] by **David Nolen** (2015)
+* [Rise of the Transpilers](https://www.youtube.com/watch?v=DspYurD75Ns) [00:44:00] by **Jeremy Ashkenas** (2015)
 * [So you want to write an interpreter?](https://www.youtube.com/watch?v=LCslqgM48D4) [00:40:38] by **Alex Gaynor** (2015)
 * [The movfuscator](https://youtu.be/2VF_wPkiBJY) [00:49:14] by **Christopher Domas** (2015)
 * [Understanding Compiler Optimizations](https://www.youtube.com/watch?v=FnGCDLhaxKU) [01:50:14] by **Chandler Carruth** (2015)
-* [Hello Om Next!](https://www.youtube.com/watch?v=xz389Ek2eS8) [01:20:25] by **David Nolen** (2015)
-* [Write your own compiler in 24 hours](https://www.youtube.com/watch?v=-E2tu3MqR24) [01:04:07] by **Phil Trelford** (2015)
-* [Bits of advice for VM writers](https://www.youtube.com/watch?v=vzzABBxo44g) [00:43:59] by **Cliff Click** (2015)
 * [VM Design Choices](https://www.youtube.com/watch?v=BdjcPgIUbnA) [01:01:38] by **Cliff Click** (2015)
-* [A VM is a VM is a VM: The Secret Path to High Performance Multi-Language Runtimes](https://www.youtube.com/watch?v=kOnyJurioyw) [00:47:07] by **Mark Stoodley** (2015)
-* [Compilers are Databases](https://www.youtube.com/watch?v=WxyyJyB_Ssc) [01:08:51] by **Martin Odersky** (2015)
-* [Rise of the Transpilers](https://www.youtube.com/watch?v=DspYurD75Ns) [00:44:00] by **Jeremy Ashkenas** (2015)
+* [Write your own compiler in 24 hours](https://www.youtube.com/watch?v=-E2tu3MqR24) [01:04:07] by **Phil Trelford** (2015)
+
+<br>
+
 * [Instaparse](https://www.youtube.com/watch?v=b2AUW6psVcE) [00:38:38] by **Mark Engelberg** (2014)
 * [Superoptimizing LLVM](https://www.youtube.com/watch?v=Ux0YnVEaI6A) [00:49:07] by **John Regehr** (2014)
 * [Writing a Nanopass Compiler](https://www.youtube.com/watch?v=Os7FE3J-U5Q) [00:40:48] by **Andy Keep** (2014)
-* [Let's Write an Interpreter](https://www.youtube.com/watch?v=RPxvx9OkNic) [00:28:34] by **Ryan Davis** (2013)
-* [The Java Virtual Machine is Over - The Polyglot VM is here](https://www.youtube.com/watch?v=OKJgMwTLmEY) [00:51:02] by **Marcus Lagergren** (2013)
+
+<br>
+
 * [Implementing Domain Specific Languages with LLVM](https://www.youtube.com/watch?v=1Hwnagof1Wo) [00:50:59] by **David Chisnall** (2013)
+* [Let's Write an Interpreter](https://www.youtube.com/watch?v=RPxvx9OkNic) [00:28:34] by **Ryan Davis** (2013)
 * [The Clang AST](https://www.youtube.com/watch?v=VqCkCDFLSsc) [00:44:53] by **Manuel Klimek** (2013)
+* [The Java Virtual Machine is Over - The Polyglot VM is here](https://www.youtube.com/watch?v=OKJgMwTLmEY) [00:51:02] by **Marcus Lagergren** (2013)
+
+<br>
+
 * [How the PyPy JIT works](https://www.youtube.com/watch?v=NIcijUt-HlE) [00:29:05] by **Benjamin Peterson** (2012)
+
+<br>
+
 * [Intel OpenCL SDK Vectorizer](https://www.youtube.com/watch?v=QsoLyvvhRuc) [00:35:45] by **Natav Rotem** (2011)
-* [PTX Back-End: GPU Programming With LLVM](https://www.youtube.com/watch?v=Ux3F5MKuPjI) [00:39:34] by **Justin Holewinski** (2011)
 * [Parsing with Derivatives](https://www.youtube.com/watch?v=ZzsK8Am6dKU) [01:13:10] by **Matthew Might** (2011)
+* [PTX Back-End: GPU Programming With LLVM](https://www.youtube.com/watch?v=Ux3F5MKuPjI) [00:39:34] by **Justin Holewinski** (2011)
 
 #### Computer Graphics and Vision
 * [The Glitching Hour](https://www.youtube.com/watch?v=2HoMsbxY9zA) [00:22:17] by **Amy Wibowo** (2018)
+
+<br>
+
 * [Simit: A Language for Computing on Sparse Systems when Performance Matters](https://www.youtube.com/watch?v=raPkxhHy5ro) [00:58:37] by **Fredrik Kjolstad** (2016)
+
+<br>
+
 * [Making things with maths](https://www.youtube.com/watch?v=Zkx1aKv2z8o) [00:53:45] by **Steven Wittens** (2013)
 * [Making WebGL Dance](https://www.youtube.com/watch?v=GNO_CYUjMK8) [00:30:55] by **Steven Wittens** (2013)
 * [Principles of Lighting and Rendering](https://www.youtube.com/watch?v=IyUgHPs86XM) [01:31:00] by **John Carmack** (2013)
+
+<br>
+
 * [OpenCV and High-Performance Vision on GPU](https://www.youtube.com/watch?v=0CNSCpcKiQ4) [02:24:59] by **Victor Eruhimov** (2012)
 
 #### Creative Technology
 * [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) [01:00:48] by **Dylan Beattie** (2020)
+
+<br>
+
 * [Creative Computation](https://www.youtube.com/watch?v=TeXCvh5X5w0) [00:21:00] by **Jack Rusher** (2019)
-* [Mapping Imaginary Cities](https://www.youtube.com/watch?v=Ic_5gRVTQ_k) [00:40:56] by **Mouse Reeve** (2018)
+
+<br>
+
 * [Making Games for 1920s Hardware](https://www.youtube.com/watch?v=G9Ho6-01mek) [00:32:21] by **Em Lazer-Walker** (2018)
+* [Mapping Imaginary Cities](https://www.youtube.com/watch?v=Ic_5gRVTQ_k) [00:40:56] by **Mouse Reeve** (2018)
 * [Picasso, Geometry, Jupyter](https://www.youtube.com/watch?v=GYJ77F_8kq0) [00:30:48] by **Ryan Herr** (2018)
+
+<br>
+
 * [How to Hack a Painting](https://www.youtube.com/watch?v=5R9eywArFTE) [00:44:58] by **Tyler Hobbs** (2017)
 * [The Symmetries of Things](https://www.youtube.com/watch?v=EcjyZAe8irU) [00:26:02] by **Tom Hall** (2017)
+
+<br>
+
 * [Programming In Time - Live Coding for Creative Performances](https://www.youtube.com/watch?v=Sg2BjFQnr9s) [00:47:03] by **Andrew Sorensen** (2014)
+
+<br>
+
 * [Stop Drawing Dead Fish](https://vimeo.com/64895205) [00:53:32] by **Bret Victor** (2013)
 
 #### Databases
-* [The trouble with extensions](https://www.youtube.com/watch?v=0dyBfg-By80) [00:51:36] by **Marco Slot** (2025)
-* [Investigating Multithreaded PostgreSQL](https://www.youtube.com/watch?v=7BvLaRkaijc) [00:46:11] by **Thomas Munro** (2025)
 * [ACID Jazz](https://archive.org/details/youtube-v8cG2hh10SQ?) [00:30:38] by **Kyle Kingsbury** (2025)
+* [Investigating Multithreaded PostgreSQL](https://www.youtube.com/watch?v=7BvLaRkaijc) [00:46:11] by **Thomas Munro** (2025)
 * [Re-engineering Postgres for Millions of Tenants](https://www.youtube.com/watch?v=EfAStGb4s88) [00:52:01] by **Gwen Shapira** (2025)
+* [The trouble with extensions](https://www.youtube.com/watch?v=0dyBfg-By80) [00:51:36] by **Marco Slot** (2025)
+
+<br>
+
 * [Jepsen 7: Anna Concurrenina](https://www.youtube.com/watch?v=eSaFVX4izsQ) [00:53:06] by **Kyle Kingsbury** (2017)
+
+<br>
+
 * [To NoSQL or Not to NoSQL, That Is the Question](https://vimeo.com/132194546) [01:00:48] by **David Ostrovsky** (2015)
 * [Transactions: myths, surprises and opportunities](https://www.youtube.com/watch?v=5ZjhNTM8XU8) [00:41:07] by **Martin Kleppmann** (2015)
-* [Consistency without consensus in production systems](https://www.youtube.com/watch?v=em9zLzM8O7c) [00:41:09] by **Peter Bourgon** (2014)
-* [Cassandra and Go Doubleheader](https://www.youtube.com/watch?v=oEFqxi_n1vU) [00:58:23] by **Kyle Kingsbury & Al Tobey** (this video features two distinct talks, only the first one deals with databases) (2014)
-* [Jepsen II: Linearizable Boogaloo](https://www.youtube.com/watch?v=QdkS6ZjeR7Q) [00:44:46] by **Kyle Kingsbury** (2014)
+
+<br>
+
 * [An Ode to 17 Databases in 33 Minutes](https://www.youtube.com/watch?v=lzwAJxIESNU) [00:38:12] by **Toby Hede** (2014)
-* [Sharding and Scaling Your Database](http://web.archive.org/web/20171024050158/https://www.youtube.com/watch?v=p3ytSdUQZzA) [00:42:53] by **Neha Narula** (2014)
+* [Cassandra and Go Doubleheader](https://www.youtube.com/watch?v=oEFqxi_n1vU) [00:58:23] by **Kyle Kingsbury & Al Tobey** (this video features two distinct talks, only the first one deals with databases) (2014)
+* [Consistency without consensus in production systems](https://www.youtube.com/watch?v=em9zLzM8O7c) [00:41:09] by **Peter Bourgon** (2014)
+* [Jepsen II: Linearizable Boogaloo](https://www.youtube.com/watch?v=QdkS6ZjeR7Q) [00:44:46] by **Kyle Kingsbury** (2014)
 * [Postgres Performance for Humans](https://www.youtube.com/watch?v=MpH8W5hce9I) [00:33:49] by **Craig Kerstiens** (2014)
+* [Sharding and Scaling Your Database](http://web.archive.org/web/20171024050158/https://www.youtube.com/watch?v=p3ytSdUQZzA) [00:42:53] by **Neha Narula** (2014)
+
+<br>
+
 * [Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I) [00:54:52] by **Martin Fowler** (2013)
-* [The Impedance Mismatch is Our Fault](https://www.infoq.com/presentations/Impedance-Mismatch/) [00:58:31] by **Stuart D. Halloway** (2012)
+
+<br>
+
 * [Deconstructing the Database](https://www.youtube.com/watch?v=Cym4TZwTCNU) [01:06:24] by **Rich Hickey** (2012)
+* [The Impedance Mismatch is Our Fault](https://www.infoq.com/presentations/Impedance-Mismatch/) [00:58:31] by **Stuart D. Halloway** (2012)
 
 #### Data Science
-* [You can't do data science in a GUI](https://www.youtube.com/watch?v=cpbtcsGE0OA) [01:15:18] by **Hadley Wickham** (2018)
-* [Expressing complex data aggregations with Histogrammar](https://www.youtube.com/watch?v=mB4Chl0ly-g) [00:35:02] by **Jim Pivarski** (2016)
-* [Data as Software as Data](https://www.youtube.com/watch?v=LOMk8TD6l5k) [00:40:27] by **Andrea Burbank** (2016)
-* [Sonification: a Battle on Two Fronts](https://www.youtube.com/watch?v=QV9xrr-AlL8) by **Martin Keary** (2018)
 * [How a File Format Led to a Crossword Scandal](https://www.youtube.com/watch?v=9aHfK8EUIzg) by **Saul Pwanson** (2019)
+
+<br>
+
+* [Sonification: a Battle on Two Fronts](https://www.youtube.com/watch?v=QV9xrr-AlL8) by **Martin Keary** (2018)
+* [You can't do data science in a GUI](https://www.youtube.com/watch?v=cpbtcsGE0OA) [01:15:18] by **Hadley Wickham** (2018)
+
+<br>
+
+* [Data as Software as Data](https://www.youtube.com/watch?v=LOMk8TD6l5k) [00:40:27] by **Andrea Burbank** (2016)
+* [Expressing complex data aggregations with Histogrammar](https://www.youtube.com/watch?v=mB4Chl0ly-g) [00:35:02] by **Jim Pivarski** (2016)
 
 #### Data Structures & Algorithms
 * [A CRDT Primer: Defanging Order Theory](https://www.youtube.com/watch?v=OOlnp2bZVRs) [00:37:00] by **John Mumm** (2018)
-* [Tree-sitter - a new parsing system for programming tools](https://www.youtube.com/watch?v=Jes3bD6P0To) [00:38:37] by **Max Brunsfeld** (2018)
 * [Meetings With Remarkable Trees](https://www.youtube.com/watch?v=cUx2b_FO8EQ) [00:53:29] by **Bodil Stokke** (2018)
 * [The simple essence of automatic differentiation](https://www.youtube.com/watch?v=Shl3MtWGu18) [01:01:41] by **Conal Elliott** (2018)
+* [Tree-sitter - a new parsing system for programming tools](https://www.youtube.com/watch?v=Jes3bD6P0To) [00:38:37] by **Max Brunsfeld** (2018)
+
+<br>
+
 * [Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step](https://www.youtube.com/watch?v=ncHmEUmJZf4) by **Matt Kulukundis** (2017)
-* [Reasoning about performance (in the context of search)](https://www.youtube.com/watch?v=80LKF2qph6I) [00:29:28] by **Dan Luu** (2016)
-* [Parsing Text with a Virtual Machine](https://www.youtube.com/watch?v=9Q--oX5muxw) [00:43:53] by **Ghadi Shayban** (2016)
+
+<br>
+
 * [Exotic Functional Data Structures: Hitchhiker Trees](https://www.youtube.com/watch?v=jdn617M3-P4) [00:40:32] by **David Greenberg** (2016)
+* [Parsing Text with a Virtual Machine](https://www.youtube.com/watch?v=9Q--oX5muxw) [00:43:53] by **Ghadi Shayban** (2016)
 * [Probabilistic Data Structures](https://www.youtube.com/watch?v=F7EhDBfsTA8) [00:38:47] by **James Stanier** (2016)
+* [Reasoning about performance (in the context of search)](https://www.youtube.com/watch?v=80LKF2qph6I) [00:29:28] by **Dan Luu** (2016)
+
+<br>
+
 * [An Overview of Probabilistic Programming](https://www.youtube.com/watch?v=-8QMqSWU76Q) [01:02:54] by **Vikash K. Mansinghka** (I am unsure where to put this) (2015)
 * [Hash Functions and You: Partners in Freedom](https://www.youtube.com/watch?v=IGwNQfjLTp0) [00:27:06] by **Curtis Lassam** (2015)
-* [Practical Fractals in Space](https://www.youtube.com/watch?v=uEBzS9tpmTo) [00:38:27] by **Michelle Brush** (2014)
+
+<br>
+
 * [Persistent Data Structures for Special Occasions](https://www.youtube.com/watch?v=Z_iLjL0mc4I) [00:44:44] by **Michał Marczyk** (2014)
+* [Practical Fractals in Space](https://www.youtube.com/watch?v=uEBzS9tpmTo) [00:38:27] by **Michelle Brush** (2014)
 * [Visualizing Persistent Data Structures](https://www.youtube.com/watch?v=2XH_q494U3U) [00:37:24] by **Dann Toliver** (2014)
+
+<br>
+
 * [Generic sorting and partitioning in linear time and fully abstractly](https://www.youtube.com/watch?v=sz9ZlZIRDAg) by **Fritz Henglein** (2012)
 
 #### Debugging
 * [The Hurricane's Butterfly: Debugging Pathologically Performing Systems](https://www.youtube.com/watch?v=7AO4wz6gI3Q) by **Bryan Cantrill** (2018)
+
+<br>
+
 * [Tackling Concurrency Bugs with TLA+](https://www.youtube.com/watch?v=_9B__0S21y8) [00:30:05] by **Hillel Wayne** (2017)
+
+<br>
+
 * [Debugging with the Scientific Method](https://www.youtube.com/watch?v=FihU5JxmnBg) [00:49:08] by **Stuart Halloway** (2015)
 
 #### DevOps
 * [What's Next for DevOps?](https://www.youtube.com/watch?v=_Zydz0__KA8) [00:29:34] by **Emily Freeman** (2021) [A]
+
+<br>
+
 * [Pragmatic Automation](https://www.youtube.com/watch?v=oDcjAcFTFC0) [00:24:33] by **Max Luebbe** (2019) [A]
-* [The Future Of DevOps](https://www.youtube.com/watch?v=DxirUn56zqc) [00:47:49] by **Adrian Cockcroft** (2016)
+
+<br>
+
 * [How Netflix Thinks About DevOps](https://www.youtube.com/watch?v=HmM4V33ReCw) [00:31:10] by **Dave Hahn** (2016)
-* [I got 10 trillion problems, but logging ain't one](https://www.youtube.com/watch?v=LA-gNoxSLCE) [00:25:17] by **John Graham-Cumming** (2015)
-* [Your infrastructure is not a unique snowflake, and that's ok!](https://www.youtube.com/watch?v=x-zwxuIb1lY) [00:37:39] by **Jeremy Edberg** (2015)
-* [Demistifying SNMP](https://www.youtube.com/watch?v=SQlz_Zd6enU) [00:49:19] by **Douglas Mauro** (2015)
-* [Salting things up in the sysadmin's world](https://www.youtube.com/watch?v=w1zcUNMwac0) [00:37:21] by **Juan Manuel Santos** (2015)
+* [The Future Of DevOps](https://www.youtube.com/watch?v=DxirUn56zqc) [00:47:49] by **Adrian Cockcroft** (2016)
+
+<br>
+
 * [Chef Style DevOps Kungfu](https://www.youtube.com/watch?v=_DEToXsgrPc) [01:16:08] by **Adam Jacob** (2015)
+* [Demistifying SNMP](https://www.youtube.com/watch?v=SQlz_Zd6enU) [00:49:19] by **Douglas Mauro** (2015)
+* [I got 10 trillion problems, but logging ain't one](https://www.youtube.com/watch?v=LA-gNoxSLCE) [00:25:17] by **John Graham-Cumming** (2015)
+* [Salting things up in the sysadmin's world](https://www.youtube.com/watch?v=w1zcUNMwac0) [00:37:21] by **Juan Manuel Santos** (2015)
+* [Your infrastructure is not a unique snowflake, and that's ok!](https://www.youtube.com/watch?v=x-zwxuIb1lY) [00:37:39] by **Jeremy Edberg** (2015)
 
 #### Distributed Systems
 * [Squashing the Heisenbug with Deterministic Simulation Testing](https://mirrors.dotsrc.org/fosdem/2025/ud6215/fosdem-2025-4279-squashing-the-heisenbug-with-deterministic-simulation-testing.mp4) [00:25:58] by **Dominik Tornow** (2025)
-* [~~Everything about distributed systems is terrible~~Designing Distributed Systems with TLA+](https://www.youtube.com/watch?v=tfnldxWlOhM) [00:38:25] by **Hillel Wayne** (2018)
+
+<br>
+
 * [Send me your Echolocation](https://www.deconstructconf.com/2018/vicky-nguyen-send-me-your-echolocation) [00:26:06] by **Vicky Nguyen** (2018)
+* [~~Everything about distributed systems is terrible~~Designing Distributed Systems with TLA+](https://www.youtube.com/watch?v=tfnldxWlOhM) [00:38:25] by **Hillel Wayne** (2018)
+
+<br>
+
 * [Load Balancing is Impossible](https://www.youtube.com/watch?v=gas2v1emubU) [00:36:43] by **Tyler McMullen** (2016)
-* [Scaling Instagram](https://www.youtube.com/watch?v=oNA2C1vC8FQ) [00:27:13] by **Mike Krieger** (2015)
+
+<br>
+
 * [Coordination-Free Computations](https://www.youtube.com/watch?v=AF8fpDzfUOc) [00:46:15] by **Cristopher Meiklejohn** (really fast talker) (2015)
-* [Everything Will Flow](https://www.youtube.com/watch?v=1bNOO3xxMc0) by **Zach Tellman** (2015) [A]
-* [Jepsen IV: Hope Springs Eternal](https://www.youtube.com/watch?v=dE3KT7hHkKY) [00:54:33] by **Kyle Kingsbury** (2015)
 * [Distributed Eventually Consistent Computations](https://www.youtube.com/watch?v=uwpakTIg9r8) [00:49:37] by **Christopher Meiklejohn** (2015)
 * [Distributed Systems 101](https://www.youtube.com/watch?v=YAFGQurdJ3U) [00:45:25] by **lvh** (2015)
+* [Everything Will Flow](https://www.youtube.com/watch?v=1bNOO3xxMc0) by **Zach Tellman** (2015) [A]
+* [Jepsen IV: Hope Springs Eternal](https://www.youtube.com/watch?v=dE3KT7hHkKY) [00:54:33] by **Kyle Kingsbury** (2015)
+* [Scaling Instagram](https://www.youtube.com/watch?v=oNA2C1vC8FQ) [00:27:13] by **Mike Krieger** (2015)
+
+<br>
+
 * [K things I know about building Resilient Reactive Systems](https://www.youtube.com/watch?v=rQIE22e0cW8) [01:00:02] by **Joe Armstrong** (2014)
+
+<br>
+
 * [The How and Why of Fitting Things Together](https://www.youtube.com/watch?v=ed7A7r6DBsM) [00:46:39] by **Joe Armstrong** (2013)
 
 #### Entrepreneurship
 * [Improving Yesterday](https://www.youtube.com/watch?v=2mGl66xHIuw) [00:37:57] by **Eric Fode** (2019)
+
+<br>
+
 * [How and Why to Start A Startup](https://www.startupschool.org/videos/1) [00:44:42] by **Sam Altman & Dustin Moskovitz** (2017)
 * [How to Build a Product (Part IV)](https://www.youtube.com/watch?v=s1Rd4UShDxQ) [00:51:24] by **Jan Koum** (2017)
+
+<br>
+
 * [Barely succeed! It’s easier!](https://www.youtube.com/watch?v=5Vt8zqhHe_c) [00:39:22] by **Maciej Cegłowski** (2013)
+
+<br>
+
 * [Time Management](https://www.youtube.com/watch?v=oTugjssqOT0) [01:16:21] by **Randy Pausch** (2007)
 
 #### Functional Programming
 * [Why Isn't Functional Programming the Norm?](https://www.youtube.com/watch?v=QyJZzq0v7Z4) [00:46:08] by **Richard Feldman** (2019) [A]
+
+<br>
+
 * [What FP can learn from Smalltalk](https://www.youtube.com/watch?v=baxtyeFVn3w) [00:43:36] by **Aditya Siram** (2018)
-* [Profunctor Optics: The Categorical Approach](https://www.youtube.com/watch?v=l1FCXUi6Vlw) [00:45:33] by **Bartosz Milewki** (2017)
-* [Peeling the Banana: Recursion Schemes from First Principles](https://www.youtube.com/watch?v=XZ9nPZbaYfE) [00:34:21] by **Zainab Ali** (2017)
+
+<br>
+
 * [Evolving Functional Programming Languages](https://www.youtube.com/watch?v=sBXF8SG_XNw) by **Erik Osheim** (2017)
+* [Peeling the Banana: Recursion Schemes from First Principles](https://www.youtube.com/watch?v=XZ9nPZbaYfE) [00:34:21] by **Zainab Ali** (2017)
+* [Profunctor Optics: The Categorical Approach](https://www.youtube.com/watch?v=l1FCXUi6Vlw) [00:45:33] by **Bartosz Milewki** (2017)
+
+<br>
+
 * [Functional architecture - The pits of success](https://vimeo.com/180287057) [01:00:10] by **Mark Seemann** (2016)
 * [Why Functional Programming Matters](https://www.youtube.com/watch?v=XrNdvWqxBvA) [00:56:09] by **John Hughes** (2016)
-* [Denotational Design: From Meanings To Programs](https://www.youtube.com/watch?v=bmKYiUOEo2A) [02:20:35] by **Conal Elliott** (2015)
+
+<br>
+
 * [A More Elegant Specification for FRP](https://www.youtube.com/watch?v=teRC_Lf61Gw) [00:29:54] by **Conal Elliott** (2015)
-* [The Essence and Origins of Functional Reactive Programming](https://www.youtube.com/watch?v=j3Q32brCUAI) [00:59:24] by **Conal Elliott** (2015)
-* [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) [00:36:00] by **Carin Meier** (2015)
+* [Denotational Design: From Meanings To Programs](https://www.youtube.com/watch?v=bmKYiUOEo2A) [02:20:35] by **Conal Elliott** (2015)
 * [Functional Programming Design Patterns](https://www.youtube.com/watch?v=E8I19uA-wGY) [01:05:43] by **Scott Wlaschin** (2015)
 * [Papers We Love: Composable and Compilable Macros](https://www.youtube.com/watch?v=pK2E63mhRxI) [00:54:49] by **Sam Tobin-Hochstadt** (2015)
+* [The Essence and Origins of Functional Reactive Programming](https://www.youtube.com/watch?v=j3Q32brCUAI) [00:59:24] by **Conal Elliott** (2015)
+* [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) [00:36:00] by **Carin Meier** (2015)
+
+<br>
+
+* [Functional Programming; What? Why? When? How?](https://www.youtube.com/watch?v=7Zlp9rKHGD4) [00:58:27] by **Robert C Martin** (2014)
 * [Railway oriented programming: Error handling in functional languages](https://vimeo.com/113707214) by **Scott Wlaschin** (2014)
 * [The Functional Final Frontier](https://www.youtube.com/watch?v=DMtwq3QtddY) [00:27:02] by **David Nolen** (2014)
-* [Functional Programming; What? Why? When? How?](https://www.youtube.com/watch?v=7Zlp9rKHGD4) [00:58:27] by **Robert C Martin** (2014)
-* [Living in a Post-Functional World](https://www.infoq.com/presentations/post-functional-scala-clojure-haskell/) [00:45:46] by **Daniel Spiewak** (2013)
+
+<br>
+
 * [Deconstructing Functional Programming](https://www.infoq.com/presentations/functional-pros-cons/) [00:48:33] by **Gilad Bracha** (2013)
 * [Functional Principles for Object Oriented Development](https://www.youtube.com/watch?v=pMGY9ViIGNU) [00:51:13] by **Jessica Kerr** (2013)
+* [Living in a Post-Functional World](https://www.infoq.com/presentations/post-functional-scala-clojure-haskell/) [00:45:46] by **Daniel Spiewak** (2013)
+
+<br>
+
+* [Adventures in Functional Programming](https://vimeo.com/45140590) [00:50:34] by **Jim Weirich** (2012)
 * [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) [01:07:11] by **Dr. Brian Beckman** (2012)
 * [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) [01:06:54] by **Phillip Wadler** (2012)
-* [Adventures in Functional Programming](https://vimeo.com/45140590) [00:50:34] by **Jim Weirich** (2012)
+
+<br>
+
 * [Tangible Functional Programming](https://www.youtube.com/watch?v=faJ8N0giqzw) [00:56:25] by **Conal Elliott** (2007)
 
 #### Game Development
@@ -987,98 +1221,197 @@ ever.
 
 #### Hardware
 * [A Taste of GPU Compute](https://www.youtube.com/watch?v=eqkAaplKBc4) [01:05:06] by **Raph Levien** (2020)
-* [Mill vs. Spectre: Performance and Security](https://www.youtube.com/watch?v=8E4qs2irmpc) [00:46:42] by **Ivan Godard** (2018)
+
+<br>
+
 * [eMMC hacking, or: how I fixed long-dead Galaxy S3 phones](https://www.youtube.com/watch?v=OY7OlY0OW2Q) [00:56:07] by **Oran Avraham** (2018)
+* [Mill vs. Spectre: Performance and Security](https://www.youtube.com/watch?v=8E4qs2irmpc) [00:46:42] by **Ivan Godard** (2018)
+
+<br>
+
 * [A Crash Course in Modern Hardware](https://www.youtube.com/watch?v=OFgxAFdxYAQ) [00:59:20] by **Cliff Click** (2016)
 * [The Future of Microprocessors](https://www.youtube.com/watch?v=_9mzmvhwMqw) [00:46:35] by **Sophie Wilson** (2016)
+
+<br>
+
 * [Let's Build a Computer!](https://www.youtube.com/watch?v=uZsiMG7N_B8) [00:29:03] by **Ryan Davis** (2014)
 
 #### Logic Programming
 * [Constraint Logic Propagation Conflict Spreadsheets](https://www.youtube.com/watch?v=voG5-15aDu4) [00:33:50] by **William Taysom** (2015)
 * [Web Testing with Logic Programming](https://www.youtube.com/watch?v=ZW2Pl0bIN5U) [00:39:10] by **Daniel Gregoire** (2015)
+
+<br>
+
 * [Challenges for Logic Programming](https://www.youtube.com/watch?v=y6WKr9j76kw) [00:40:45] by **Steve Miner** (2013)
 
 #### Machine Learning
 * [Post-Transformer Architectures: State Space Models, RWKV](https://www.youtube.com/watch?v=LPe6iC73lrc) [00:42:44] by **Dan Fu & Eugene Cheah** (2024)
+
+<br>
+
 * [Building the Software 2.0 Stack](https://vimeo.com/272696002) [00:30:08] by **Andrej Karpathy** (2018)
+
+<br>
+
 * [Machine learning is not the future](https://www.youtube.com/watch?v=3dXQxSI3XDY) [00:38:59] by **Rajat Monga** (2016)
+
+<br>
+
 * [Neural Nets for Newbies](https://www.youtube.com/watch?v=g-BJSl4zV_g) [00:30:57] by **Melanie Warrick** (2015)
+
+<br>
+
 * [From the Lab to the Factory: Building a Production Machine Learning Infrastructure](https://www.youtube.com/watch?v=v-91JycaKjc) [01:04:27] by **Josh Wills** (2014)
 * [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) [01:07:24] by **Yann LeCun** (2014)
-* [The Unreasonable Effectiveness of Data](https://www.youtube.com/watch?v=yvDCzhbjYWs) [01:02:56] by **Peter Norvig** (2011)
+
+<br>
+
 * [Automatic Algorithm Invention with a GPU](https://youtu.be/tQvFZVlM2Gk) [01:02:04] by **Wesley Faler** (2011)
+* [The Unreasonable Effectiveness of Data](https://www.youtube.com/watch?v=yvDCzhbjYWs) [01:02:56] by **Peter Norvig** (2011)
 
 #### Mathematics
 *Those are not necessarily programming-related and possibly very advanced mathematics.*
-* [The Continuum Hypothesis and the search for Mathematical Infinity](https://youtu.be/nVF4N1Ix5WI) [00:55:18] by **W. Hugh Woodin** (2015)
 * [Field of Rationality and Category Theory](https://www.youtube.com/watch?v=jjfE2jTAQrE) [00:44:07] by **Michał Heller** (2015)
+* [The Continuum Hypothesis and the search for Mathematical Infinity](https://youtu.be/nVF4N1Ix5WI) [00:55:18] by **W. Hugh Woodin** (2015)
+
+<br>
+
 * [Category Theory](https://www.youtube.com/watch?v=o6L6XeNdd_k) [01:36:54] by **Tom LaGatta** (2014)
+
+<br>
+
 * [Constructive Type Theory and Homotopy](https://www.youtube.com/watch?v=4CghfgqnOGQ) by **Steve Awodey** (2010)
 
 #### On Languages
 * [Homoiconicity It Is What It Is](https://www.youtube.com/watch?v=o7zyGMcav3c) [00:30:39] by **Stuart Sierra** (2017)
 * [On Storytelling](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling) [00:20:00] by **Evan Czaplicki** (2017)
+
+<br>
+
 * [How we program multicores](https://www.youtube.com/watch?v=bo5WL5IQAd0) [00:58:52] **Joe Armstrong** (2016)
+
+<br>
+
 * [Ideology](https://www.destroyallsoftware.com/talks/ideology) [00:21:23] by **Gary Bernhardt** (2015)
 * [Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM) [00:23:11] by **Rob Pike** (2015)
-* [Programming should eat itself](https://www.youtube.com/watch?v=SrKj4hYic5A) [00:47:40] by **Nada Amin** (2014)
+
+<br>
+
 * [Make Simple Tasks Simple!](https://www.youtube.com/watch?v=nesCaocNjtQ) [01:37:36] by **Bjarne Stroustrup** (2014)
+* [Programming should eat itself](https://www.youtube.com/watch?v=SrKj4hYic5A) [00:47:40] by **Nada Amin** (2014)
 * [Why C++ Sails When the Vasa Sank](https://www.youtube.com/watch?v=ltCgzYcpFUI) [01:07:03] by **Scott Meyers** (2014)
+
+<br>
+
 * [Running a startup on Haskell](https://www.youtube.com/watch?v=ZR3Jirqk6W8) [00:50:23] by **Bryan O'Sullivan** (2013)
+
+<br>
+
 * [Scaling Yourself](https://www.youtube.com/watch?v=FS1mnISoG7U) [00:28:51] by **Scott Hanselman** (2012)
 
 #### On the Industry/Community
 * [X Marks the Spot: Navigating Possible Futures with Wardley Maps](https://www.youtube.com/watch?v=ShAzlhS_TCg) [00:39:25] by **Simon Wardley** (2025)
+
+<br>
+
 * [Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s) [00:43:03] by **Jack Rusher** (2022)
+
+<br>
+
 * [Dealing with unanticipated needs](https://www.youtube.com/watch?v=xYqWREPb3Lc) [00:47:43] by **Dave Snowden** (2019)
 * [How to be a Happy Developer. Now!](https://www.youtube.com/watch?v=uNq2aFhqOAA) [00:39:32] by **Christian Robert** (2019)
-* [Stewardship Made Practical](https://www.youtube.com/watch?v=GXgbV7jB_Bc) [00:50:35] by **Stuart Halloway**
-* [Shaping our children's education in computing](https://www.youtube.com/watch?v=y-xgWLYQc4g) [00:51:08] by **Simon Peyton Jones** (2018)
+* [Stewardship Made Practical](https://www.youtube.com/watch?v=GXgbV7jB_Bc) [00:50:35] by **Stuart Halloway** (2019)
+
+<br>
+
 * [Computing, Climate Change, and All of our Relationships](https://www.deconstructconf.com/2018/nabil-hassein-computing-climate-change-and-all-our-relationships) [00:40:33] by **Nabil Hassein** (2018)
-* [The Hard Parts of Open Source](https://www.youtube.com/watch?v=o_4EX4dPppA) [00:47:15] by **Evan Czaplicki** (2018)
 * [Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk) [00:23:02] by **Tim Holman** (2018)
-* [Winning the War on Error: Solving Halting Problem, Curing Cancer](https://www.youtube.com/watch?v=EVkHgKCqAcI) [01:09:38] by **Matt Might** (2017) [A]
-* [Invited Talk](https://www.youtube.com/watch?v=dCuZkaaou0Q) [01:07:21] by **Guy Steele** (2017) (on notation) [A]
-* [Patterns Failed. Why? Should We Care?](https://www.deconstructconf.com/2017/brian-marick-patterns-failed-why-should-we-care) [00:26:40] by **Brian Marick** (2017)
+* [Shaping our children's education in computing](https://www.youtube.com/watch?v=y-xgWLYQc4g) [00:51:08] by **Simon Peyton Jones** (2018)
+* [The Hard Parts of Open Source](https://www.youtube.com/watch?v=o_4EX4dPppA) [00:47:15] by **Evan Czaplicki** (2018)
+
+<br>
+
 * [Code Review, Forwards and Back](https://www.youtube.com/watch?v=9qYR0NqsDcA) [00:22:33] by **Sumana Harihareswara & Jason Owen** (2017)
-* [On Abstraction](https://www.youtube.com/watch?v=x9pxbnFC4aQ) [01:00:02] by **Zach Tellman** (2017)
 * [Crossing the River by Feeling the Stones](https://www.youtube.com/watch?v=ek0aWj_rWYs) [00:55:30] by **Simon Wardley** (2017)
-* [Idée Fixe](https://www.youtube.com/watch?v=lzXHMy4ewtM) [00:39:36] by **David Nolen** (2017)
 * [Forget Velocity, Let's Talk Acceleration](https://www.youtube.com/watch?v=Lbcyyu8XB_Y) [00:54:46] by **Jessica Kerr** (2017)
+* [Idée Fixe](https://www.youtube.com/watch?v=lzXHMy4ewtM) [00:39:36] by **David Nolen** (2017)
+* [Invited Talk](https://www.youtube.com/watch?v=dCuZkaaou0Q) [01:07:21] by **Guy Steele** (2017) (on notation) [A]
+* [On Abstraction](https://www.youtube.com/watch?v=x9pxbnFC4aQ) [01:00:02] by **Zach Tellman** (2017)
+* [Patterns Failed. Why? Should We Care?](https://www.deconstructconf.com/2017/brian-marick-patterns-failed-why-should-we-care) [00:26:40] by **Brian Marick** (2017)
+* [Winning the War on Error: Solving Halting Problem, Curing Cancer](https://www.youtube.com/watch?v=EVkHgKCqAcI) [01:09:38] by **Matt Might** (2017) [A]
+
+<br>
+
 * [Don’t demo facts. Demo stories!](https://vimeo.com/131632605) [00:57:22] by **Tudor Gîrba** (2016)
-* [Humanizing among coders](https://www.youtube.com/watch?v=npyB5Oz-v-I) [00:41:15] by **Ana Balica** (2016)
 * [extern c: Talking to C Programmers about C++](https://www.youtube.com/watch?v=D7Sd8A6_fYU) [01:36:26] by **Dan Saks** (2016)
-* [“Am I Senior Yet?” Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [00:37:57] by **Katlyn Parvin** (2016) [A]
+* [How to become a Data Scientist in 6 months - A hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc) [00:56:24] by **Tetiana Ivanova** (2016) [A]
+* [Humanizing among coders](https://www.youtube.com/watch?v=npyB5Oz-v-I) [00:41:15] by **Ana Balica** (2016)
 * [It's Simple](https://www.youtube.com/watch?v=a8Re9Cvv6nU) [00:37:35] by **Adrian Cockcroft** (2016)
 * [Software, Faster](https://www.youtube.com/watch?v=USc-yLHXNUg) [00:54:19] by **Dan North** (2016)
-* [How to become a Data Scientist in 6 months - A hacker’s approach to career planning](https://www.youtube.com/watch?v=rIofV14c0tc) [00:56:24] by **Tetiana Ivanova** (2016) [A]
+* [“Am I Senior Yet?” Grow Your Career by Teaching Your Peers](https://www.youtube.com/watch?v=jcTmoOHhG9A) [00:37:57] by **Katlyn Parvin** (2016) [A]
+
+<br>
+
 * [Common pitfalls of junior developers](https://www.youtube.com/watch?v=tYOx8mA5p2c) [00:09:37] by **Rachel Warbelow** (2015) [A]
-* [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w) [00:31:07] by **Andrew Godwin** (2015) [A]
 * [PyCon 2015 Keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE) [00:35:51] by **Jacob Kaplan-Moss** (2015)
-* [You are Not an Impostor](https://www.youtube.com/watch?v=l_Vqp1dPuPo) [00:33:02] by **Nickolas Means** (2014) [A]
+* [What can programmers learn from pilots?](https://www.youtube.com/watch?v=we4G_X91e5w) [00:31:07] by **Andrew Godwin** (2015) [A]
+
+<br>
+
 * [Being Human](https://www.youtube.com/watch?v=LlO2_GecWo8) [00:19:45] by **Brian J. Brennan** (not technical, but very important) (2014) [A]
+* [You are Not an Impostor](https://www.youtube.com/watch?v=l_Vqp1dPuPo) [00:33:02] by **Nickolas Means** (2014) [A]
+
+<br>
+
 * [Career Advice for Programmers](https://www.youtube.com/watch?v=LlAn452X4Lc) [00:54:18] by **Trisha Gee** (2013)
 * [Patterns in Architecture](https://www.youtube.com/watch?v=98LdFA-_zfA) [01:03:35] by **Christopher Alexander** (2013)
+
+<br>
+
 * [Normal Considered Harmful](https://www.youtube.com/watch?v=FvmTSpJU-Xc) [01:07:26] by **Alan Kay** (2012)
+
+<br>
+
 * [We Really Don't Know How To Compute!](https://www.infoq.com/presentations/We-Really-Dont-Know-How-To-Compute) [01:04:20] by **Gerald Jay Sussman** (2011)
 
 #### Operating Systems
 * [Extended BPF: A new software type](https://www.youtube.com/watch?v=7pmXdG8-7WU) [00:31:03] by **Brendan Gregg** (2019)
+
+<br>
+
 * [Learning the Linux Kernel with tracing](https://www.youtube.com/watch?v=JRyrhsx-L5Y) [01:07:24] by **Steven Rostedt** (2018)
+
+<br>
+
 * [You can be a kernel hacker!](https://www.youtube.com/watch?v=0IQlpFWTFbM) [00:33:31] by **Julia Evans** (2014)
+
+<br>
+
 * [Python, Linkers, and Virtual Memory](https://www.youtube.com/watch?v=twQKAoq2OPE) [00:31:15] by **Brandon Rhodes** (2012)
+
+<br>
+
 * [The Origins of Linux](https://www.youtube.com/watch?v=WVTWCPoUt8w) [1:25:12] by **Linus Torvalds** (2001) [A]
 
 #### Performance Engineering
 * [Performance Matters](https://www.youtube.com/watch?v=r-TLSBdHe1A) [00:42:14] by **Emery Berger** (2019)
+
+<br>
+
 * [Software Performance: A Shape Not a Number](https://www.youtube.com/watch?v=f7HCeE377-0) [00:31:59] by **Kay Ousterhout** (2018)
 * [Xi: an editor for the next 20 years](https://www.recurse.com/events/localhost-raph-levien) [00:53:20] by **Raph Levien** (2018)
+
+<br>
+
 * [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) [00:50:17] by **Martin Thompson** (2015)
 
 #### Programming Language Design
 * [On the Expressive Power of Programming Languages](https://www.youtube.com/watch?v=43XaZEn2aLc) [00:59:03] by **Shriram Krishnamurthi** (2019)
 * [Stuck macros: deterministically interleaving macro-expansion and typechecking](https://www.youtube.com/watch?v=nUvKoG_V_U0) [00:41:55] by **Samuel Gélineau** (2019)
 * [Three Things I Wish I Knew When I Started Designing Languages](https://www.infoq.com/presentations/language-design-process/) [00:44:28] by **Peter Alvaro** (2019)
+
+<br>
+
 * [A Little Taste of Dependent Types](https://www.youtube.com/watch?v=VxINoKFm-S4) [00:38:35] by **David Christiansen** (2018)
 * [A Tale of Two Asyncs: Open Source Language Design in Rust and Node.js](https://www.youtube.com/watch?v=aGJTXdXQN2o) [00:47:24] by **Ashley Williams** (2018)
 * [Four Languages from Forty Years Ago](https://www.youtube.com/watch?v=0fpDlAEQio4) [01:01:45] by **Scott Wlaschin** (2018)
@@ -1086,29 +1419,53 @@ ever.
 * [Proof Theory Impressionism: Blurring the Curry-Howard Line](https://www.youtube.com/watch?v=jrVPB-Ad5Gc) [00:35:07] by **Dan Pittman** (2018)
 * [Running With Scissors: Live Coding With Data](https://www.youtube.com/watch?v=Qx0-pViyIDU) [00:39:35] by **Stuart Halloway** (2018)
 * [Rust and Other Interesting Things](https://www.youtube.com/watch?v=2wZ1pCpJUIM) [00:37:06] by **Bryan Cantrill** (2018)
+
+<br>
+
 * [Types, and why you should care](https://www.recurse.com/events/localhost-ron-minsky) [01:04:05] by **Ron Minsky** (2017)
+
+<br>
+
 * [Into the Core - Squeezing Haskell into Nine Constructors](https://www.youtube.com/watch?v=uR_VzYxvbxg) [01:07:48] by **Simon Peyton Jones** (2016)
 * [Let's Build a Hygienic Macro Expander](https://www.youtube.com/watch?v=Or_yKiI3Ha4) [00:40:04] by **Matthew Flatt** (2016)
-* [Sketch-n-Sketch: Interactive SVG Programming with Direct Manipulation](https://www.youtube.com/watch?v=YuGVC8VqXz0) [00:40:17] by **Ravi Chugh** (2016)
 * [Make Your Own Programming Language!](https://www.youtube.com/watch?v=DE18fHyZ0GI) [00:26:07] by **Nick Heiner** (2016)
-* [I See What You Mean](https://www.youtube.com/watch?v=R2Aa4PivG0g) [00:52:28] by **Peter Alvaro** (2015)
-* [Everything old is new again: Quoted Domain-Specific Languages](https://www.youtube.com/watch?v=FiflFiZ6pPI) [00:39:06] by **Philip Wadler** (2015)
-* [Syntaxation](https://www.youtube.com/watch?v=Nlqv6NtBXcA) [00:49:39] by **Douglas Crockford** (2015)
-* [Pixie - A Lightweight Lisp with 'Magical' Powers](https://www.youtube.com/watch?v=1AjhFZVfB9c) [00:33:12] by **Timothy Baldridge** (a good intro on tracing JITs) (2015)
-* [Let's be mainstream! User focused design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE) [00:58:23] by **Evan Czaplicki** (2015)
-* [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) [00:42:42] by **Philip Wadler** (2015)
+* [Sketch-n-Sketch: Interactive SVG Programming with Direct Manipulation](https://www.youtube.com/watch?v=YuGVC8VqXz0) [00:40:17] by **Ravi Chugh** (2016)
+
+<br>
+
 * [Eve](https://www.youtube.com/watch?v=5V1ynVyud4M) [00:46:03] by **Chris Granger** (2015)
+* [Everything old is new again: Quoted Domain-Specific Languages](https://www.youtube.com/watch?v=FiflFiZ6pPI) [00:39:06] by **Philip Wadler** (2015)
+* [I See What You Mean](https://www.youtube.com/watch?v=R2Aa4PivG0g) [00:52:28] by **Peter Alvaro** (2015)
+* [Let's be mainstream! User focused design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE) [00:58:23] by **Evan Czaplicki** (2015)
 * [Papers We Love: Fundamental Concepts in Programming Languages](https://www.youtube.com/watch?v=cO41uoi5cZs) [01:16:39] by **John Myles White** (2015)
+* [Pixie - A Lightweight Lisp with 'Magical' Powers](https://www.youtube.com/watch?v=1AjhFZVfB9c) [00:33:12] by **Timothy Baldridge** (a good intro on tracing JITs) (2015)
+* [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) [00:42:42] by **Philip Wadler** (2015)
+* [Syntaxation](https://www.youtube.com/watch?v=Nlqv6NtBXcA) [00:49:39] by **Douglas Crockford** (2015)
 * [The Worst Programming Language Ever](https://www.infoq.com/presentations/worst-programming-language/) [00:43:46] by **Mark Rendle** (there is a bit of static humming in the background and the sound quality is not all that great, but it's worth it) (2015)
+
+<br>
+
 * [Implement an Esoteric Programming Language for Fun](https://www.youtube.com/watch?v=oCPT3L33848) [00:22:16] by **Arne Martin Aurlien** (2014)
 * [The Sociology of Programming Languages](https://www.youtube.com/watch?v=M4Gsl8sVgdQ) [00:42:11] by **Leo Meyerovich** (2014)
 * [Transducers](https://www.youtube.com/watch?v=6mTbuzafcII) [00:45:00] by **Rich Hickey** (2014)
+
+<br>
+
 * [A Dinosaur's Thoughts on Programming Language Evolution](https://www.youtube.com/watch?v=Z9OYc1YYLT4) [00:48:47] by **Matthew Flatt** (2013)
+
+<br>
+
 * [No Ifs, Ands, or Buts: Uncovering the Simplicity of Conditionals](https://vimeo.com/140738254) [00:38:20] by **Jonathan Edwards** (2007)
 
 #### Program Synthesis
 * [Liquid resource types for verification and synthesis](https://www.youtube.com/watch?v=BW3ZDtjD_Yw) [01:05:13] by **Nadia Polikarpova** (2020)
+
+<br>
+
 * [Type-Driven Program Synthesis](https://www.youtube.com/watch?v=HnOix9TFy1A) [00:39:39] by **Nadia Polikarpova** (2018)
+
+<br>
+
 * [Barliman: trying the halting problem backwards, blindfolded](https://www.youtube.com/watch?v=er_lLvkklsk) [00:36:13] by **William Byrd & Greg Rosenblatt** (2016)
 
 #### Research
@@ -1116,147 +1473,268 @@ ever.
 
 #### Robotics
 * [No, Really... Robots and JavaScript?!](https://www.youtube.com/watch?v=3v75aX5-gSA) [00:36:26] by **Raquel Vélez** (2015)
+
+<br>
+
 * [Robots: You're Still Doing It Wrong](https://www.youtube.com/watch?v=gFW0schumkE) [00:49:51] by **Katy Levinson** (not very formal, DefCon) (2012)
 
 #### Security
 * [Lessons From Two Years of Crypto Audits](https://www.youtube.com/watch?v=zNOfXu0n2pg) [00:45:49] by **Jean-Philippe Aumasson** (2020)
+
+<br>
+
 * [DNS, SNI, TLS, HTTPS: Modern DNS & Privacy](https://www.youtube.com/watch?v=pjin3nv8jAo) [00:43:17] by **Bert Hubert** (2019)
 * [No source, no problem! High speed binary fuzzing](https://media.ccc.de/v/36c3-10880-no_source_no_problem_high_speed_binary_fuzzing) by **Nspace & gannimo** (2019)
-* [WebAssembly: A New World of Native Exploits on the Browser](https://www.youtube.com/watch?v=DFPD9yI-C70) [00:45:20] by **Justin Engler & Tyler Lukasiewicz** (2018)
-* [You're Probably Not Red Teaming... And Usually I’m Not, Either](https://www.youtube.com/watch?v=mj2iSdBw4-0) [00:43:43] by **Deviant Ollam** (2018)
+
+<br>
+
 * [GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY) [00:50:59] by **Christopher Domas** (2018)
 * [Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible? A: Because Keynote Speakers Make Bad Life Decisions and Are Poor Role Models](https://www.youtube.com/watch?v=ajGX7odA87k) [00:51:21] by **James Mickens** (2018)
+* [WebAssembly: A New World of Native Exploits on the Browser](https://www.youtube.com/watch?v=DFPD9yI-C70) [00:45:20] by **Justin Engler & Tyler Lukasiewicz** (2018)
+* [You're Probably Not Red Teaming... And Usually I’m Not, Either](https://www.youtube.com/watch?v=mj2iSdBw4-0) [00:43:43] by **Deviant Ollam** (2018)
+
+<br>
+
 * [Breaking The x86 Instruction Set](https://www.youtube.com/watch?v=KrksBdWcZgQ) [00:44:28] by **Christoper Domas** (2017)
 * [Exploit Kit Cornucopia](https://www.youtube.com/watch?v=s6_faEjf4AQ) [00:45:08] by **Brad Antoniewicz & Matt Foley** (2017)
 * [Ichthyology: Phishing as a Science](https://www.youtube.com/watch?v=Z20XNp-luNA) by **Karla Burnett** (2017) [A]
-* [The Search for the Perfect Door](https://www.youtube.com/watch?v=4YYvBLAF4T8) [00:50:49] by **Deviant Ollam** (2016)
+
+<br>
+
 * [Boot strapping slightly more secure systems](https://media.ccc.de/v/33c3-8314-bootstraping_a_slightly_more_secure_laptop/oembed) [00:47:43] by **Trammell Hudson** (2016)
+* [The Search for the Perfect Door](https://www.youtube.com/watch?v=4YYvBLAF4T8) [00:50:49] by **Deviant Ollam** (2016)
+
+<br>
+
 * [Repsych: Psychological Warfare in Reverse Engineering](https://www.youtube.com/watch?v=HlUe0TUHOIc) [00:38:48] by **Chris Domas** (2015)
+
+<br>
+
 * [Pulling Back the Curtain on Airport Security: Can a Weapon Get Past TSA](https://www.youtube.com/watch?v=hbqVNlwfjxo) [00:31:52] by **Billy Rios** (2014)
+
+<br>
+
 * [28c3: The Science of Insecurity](https://www.youtube.com/watch?v=3kEfedtQVOY) [00:59:22] by **Meredith L. Patterson, Sergey** (2011)
 
 #### Software Development
-* [Is Software Engineering Real Engineering?](https://www.youtube.com/watch?v=6pO7jT794uc) by **Hillel Wayne** (2023)
 * [Design in Practice](https://www.youtube.com/watch?v=fTtnx1AAJ-c) by **Rich Hickey** (2023)
+* [Is Software Engineering Real Engineering?](https://www.youtube.com/watch?v=6pO7jT794uc) by **Hillel Wayne** (2023)
+
+<br>
+
 * [Intro to Empirical Software Engineering: What We Know We Don't Know](https://www.youtube.com/watch?v=WELBnE33dpY) [00:37:42] by **Hillel Wayne** [A] (2019)
 * [Moldable development](https://www.youtube.com/watch?v=Pot9GnHFOVU) [00:37:48] by **Tudor Gîrba** (2019)
 * [Say What You Mean - Exploring Declarative Computation in Art](https://www.youtube.com/watch?v=HalZfFdWuP4) [00:43:12] by **David Schmudde** (2019)
 * [Sherlock Holmes, Consulting Developer](https://www.youtube.com/watch?v=OUZZKtypink) [00:33:28] by **Stuart Halloway** (2019)
+
+<br>
+
 * [A Philosophy of Software Design](https://www.youtube.com/watch?v=bmSAYlu0NcY) [01:01:39] by **John Ousterhout** (2018)
-* [OOP Is Dead, Long Live Data-oriented Design](https://www.youtube.com/watch?v=yy8jQgmhbAU) [01:00:45] by **Stoyan Nikolov** (2018)
 * [Old Is the New New](https://www.youtube.com/watch?v=AbgsfeGvg3E) [00:50:22] by **Kevlin Henney** (2018)
+* [OOP Is Dead, Long Live Data-oriented Design](https://www.youtube.com/watch?v=yy8jQgmhbAU) [01:00:45] by **Stoyan Nikolov** (2018)
 * [Polly want a Message](https://www.deconstructconf.com/2018/sandi-metz-polly-want-a-message) [00:40:00] by **Sandi Metz** (2018)
+
+<br>
+
 * [Programming Across Paradigms](https://www.youtube.com/watch?v=Pg3UeB-5FdA) [00:49:07] by **Anjana Vakil** (2017)
-* [TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) [01:03:53] by **Ian Cooper** (2017)
-* [You're Insufficiently Persuasive](https://www.youtube.com/watch?v=VzWLGMtXflg) [00:35:37] by **Sandi Metz** (2017)
-* [The Post JavaScript Apocalypse](https://www.youtube.com/watch?v=99Zacm7SsWQ) [00:54:12] by **Douglas Crockford** (2017)
 * [Requests Under The Hood](https://www.youtube.com/watch?v=ptbCIvve6-k) [00:31:37] by **Cory Benfield** (2017)
+* [TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) [01:03:53] by **Ian Cooper** (2017)
+* [The Post JavaScript Apocalypse](https://www.youtube.com/watch?v=99Zacm7SsWQ) [00:54:12] by **Douglas Crockford** (2017)
 * [Things that Matter](https://www.youtube.com/watch?v=3WBaY61c9sE) [01:06:36] by **Scott Meyers** (2017)
-* [The programmer](https://www.youtube.com/watch?v=sVTs4_1ts_c) [01:03:10] by **Kevlin Henney** (2016)
+* [You're Insufficiently Persuasive](https://www.youtube.com/watch?v=VzWLGMtXflg) [00:35:37] by **Sandi Metz** (2017)
+
+<br>
+
+* [Get a Whiff of This](https://www.youtube.com/watch?v=PJjHfa5yxlU) [00:38:14] by **Sandi Metz** (2016)
 * [Small Is Beautiful](https://www.youtube.com/watch?v=B3b4tremI5o) [01:07:02] by **Kevlin Henney** (2016)
 * [The Error of Our Ways](https://www.youtube.com/watch?v=IiGXq3yY70o) [00:49:44] by **Kevlin Henney** (2016)
-* [Get a Whiff of This](https://www.youtube.com/watch?v=PJjHfa5yxlU) [00:38:14] by **Sandi Metz** (2016)
-* [Boundaries](https://youtu.be/eOYal8elnZk) [00:30:19] by **Gary Bernhardt** (2015)
-* [Scalable is Awesome, Literally!](https://www.youtube.com/watch?v=iquZl-CUR_U) [00:43:48] by **Garrett Smith** (2015)
-* [Conceptualizing Large Software Systems](https://www.youtube.com/watch?v=2T6Prj82adg) [00:17:17] by **Alan Shreve** (2015)
-* [Microservices @ Spotify](https://www.youtube.com/watch?v=7LGPeBgNFuU) [00:49:07] by **Kevin Goldsmith** (2015)
+* [The programmer](https://www.youtube.com/watch?v=sVTs4_1ts_c) [01:03:10] by **Kevlin Henney** (2016)
+
+<br>
+
 * [Apparatus: A Hybrid Graphics Editor / Programming Environment](https://www.youtube.com/watch?v=i3Xack9ufYk) [00:37:56] by **Toby Schachman** (2015)
-* [One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w) [00:55:36] by **Erik Meijer** (2015)
 * [Big Code: Developer Infrastructure at Facebook's Scale](https://www.youtube.com/watch?v=X0VH78ye4yY) [00:46:21] by **Bryan O'Sullivan, Christian Legnitto & Katie Coons** (2015)
+* [Boundaries](https://youtu.be/eOYal8elnZk) [00:30:19] by **Gary Bernhardt** (2015)
+* [Conceptualizing Large Software Systems](https://www.youtube.com/watch?v=2T6Prj82adg) [00:17:17] by **Alan Shreve** (2015)
 * [Demystifying Docker](https://www.youtube.com/watch?v=GVVtR_hrdKI) [00:29:53] by **Andrew T. Baker** (2015)
+* [Microservices @ Spotify](https://www.youtube.com/watch?v=7LGPeBgNFuU) [00:49:07] by **Kevin Goldsmith** (2015)
+* [One Hacker Way](https://www.youtube.com/watch?v=FvMuPtuvP5w) [00:55:36] by **Erik Meijer** (2015)
+* [Scalable is Awesome, Literally!](https://www.youtube.com/watch?v=iquZl-CUR_U) [00:43:48] by **Garrett Smith** (2015)
+
+<br>
+
 * [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) [00:38:46] by **Sandi Metz** (2014)
-* [Kicking the Complexity Habit](https://www.youtube.com/watch?v=XqgwHXsQA1g) [00:55:30] by **Dan North** (2014)
-* [What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0) [00:46:39] by **Erik Meijer** (2014)
-* [The S.O.L.I.D. Principles of Agile OO Design](https://www.youtube.com/watch?v=QHnLmvDxGTY) [01:23:35] by **Robert C. Martin** (way more interesting than it sounds) (2014)
-* [The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o) [00:43:50] by **Alan Kay** (2014)
-* [Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) [00:59:51] by **Leslie Lamport** (2014)
 * [CPU Caches and Why You care](https://vimeo.com/97337258) [01:01:55] by **Scott Meyers** (written in C++, reasonable for almost every software developer) (2014)
-* [The Most Important Design Guideline](https://www.youtube.com/watch?v=5tg1ONG18H8) [00:58:42] by **Scott Meyers** (2014)
+* [Kicking the Complexity Habit](https://www.youtube.com/watch?v=XqgwHXsQA1g) [00:55:30] by **Dan North** (2014)
+* [The Future Doesn't Have to Be Incremental](https://www.youtube.com/watch?v=gTAghAJcO1o) [00:43:50] by **Alan Kay** (2014)
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4) [00:45:50] by **Joe Armstrong** (2014)
-* [Whence Complexity?](https://www.youtube.com/watch?v=l_tULSeO9yg) [00:55:32] by **Michael Nygard** (2013)
-* [The Not-So-Big Software Design](https://www.youtube.com/watch?v=arsK-CN5YDg) [00:47:31] by **Reginald Braithwaite** (2013)
+* [The Most Important Design Guideline](https://www.youtube.com/watch?v=5tg1ONG18H8) [00:58:42] by **Scott Meyers** (2014)
+* [The S.O.L.I.D. Principles of Agile OO Design](https://www.youtube.com/watch?v=QHnLmvDxGTY) [01:23:35] by **Robert C. Martin** (way more interesting than it sounds) (2014)
+* [Thinking Above the Code](https://www.youtube.com/watch?v=-4Yp3j_jk8Q) [00:59:51] by **Leslie Lamport** (2014)
+* [What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0) [00:46:39] by **Erik Meijer** (2014)
+
+<br>
+
 * [I have a good feeling about this. Why tooling is poised to make the jump to hyperspace](https://www.youtube.com/watch?v=Re2SKhaK73I) [00:43:14] by **Reginald Braithwaite** (2013)
+* [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) [01:06:44] by **Thomas Figg** (2013)
 * [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) [00:32:56] by **Bret Victor** (2013)
 * [The Language of the System](https://www.youtube.com/watch?v=ROor6_NGIWU) [01:02:50] by **Rich Hickey** (2013)
-* [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c) [01:06:44] by **Thomas Figg** (2013)
+* [The Not-So-Big Software Design](https://www.youtube.com/watch?v=arsK-CN5YDg) [00:47:31] by **Reginald Braithwaite** (2013)
+* [Whence Complexity?](https://www.youtube.com/watch?v=l_tULSeO9yg) [00:55:32] by **Michael Nygard** (2013)
+
+<br>
+
 * [A Whole New World](https://www.destroyallsoftware.com/talks/a-whole-new-world) [00:21:20] by **Gary Bernhardt** (2012)
-* [Inventing on Principle](https://vimeo.com/36579366) [00:54:20] by **Bret Victor** (2012)
-* [The Value Of Values](https://www.infoq.com/presentations/Value-Values/) [00:58:53] by **Rich Hickey** (2012)
-* [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) [00:39:49] by **Rich Hickey** (2012)
-* [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) [00:36:54] by **Rich Hickey** (Simple Made Easy revisited) (2012)
 * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) [00:53:31] by **Guy Steele** (2012)
+* [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) [00:39:49] by **Rich Hickey** (2012)
+* [Inventing on Principle](https://vimeo.com/36579366) [00:54:20] by **Bret Victor** (2012)
+* [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) [00:36:54] by **Rich Hickey** (Simple Made Easy revisited) (2012)
+* [The Value Of Values](https://www.infoq.com/presentations/Value-Values/) [00:58:53] by **Rich Hickey** (2012)
+
+<br>
+
 * [Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) [01:06:38] by **Robert C. Martin** (2011)
 * [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy/) [01:01:26] by **Rich Hickey** (2011)
+
+<br>
+
 * [Real Software Engineering](https://www.youtube.com/watch?v=NP9AIUT9nos) [00:51:56] by **Glenn Vanderburg** (2010)
+
+<br>
+
 * [Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey/) [01:10:04] by **Rich Hickey** (2009)
 * [SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU) [00:47:11] by **Sandi Metz** (2009)
 
 #### System Architecture
 * [The Salami Method for Cross Platform Development](https://www.youtube.com/watch?v=ZSpGNiUvXVI) [01:00:16] by **Adi Shavit** (2018)
+
+<br>
+
 * [Four Distributed Systems Architectural Patterns](https://www.youtube.com/watch?v=tpspO9K28PM) [00:50:00] by **Tim Berglund** (2017)
 * [Mastering Chaos - A Netflix Guide to Microservice](https://www.youtube.com/watch?v=CZ3wIuvmHeM) [00:53:13] by **Josh Evans** (2017)
+
+<br>
+
 * [12-Factor Apps and the HashiStack](https://www.youtube.com/watch?v=NVl9cIiPF80) [00:30:39] by **Kelsey Hightower** (2016)
 * [Kill "Microservices" before its too late](https://www.youtube.com/watch?v=-UKEPd2ipEk) [00:39:41] by **Chad Fowler** (2016)
 * [Runtime scheduling: theory and reality](https://www.youtube.com/watch?v=8g9fG7cApbc) [00:42:11] by **Eben Freeman** (2016)
+
+<br>
+
 * [The Power Of UNIX](https://www.youtube.com/watch?v=7uwW20odwEk) [00:30:03] by **Dan North** (2015)
-* [Speed & Scale: How to get there](https://www.youtube.com/watch?v=BeNrVl2_nyI) [01:04:51] by **Adrian Cockcroft** (2014)
+
+<br>
+
 * [Keeping a System Running Forever](https://www.youtube.com/watch?v=cQohRGGqevo) [00:28:06] by **Fred Hebert** (2014)
+* [Speed & Scale: How to get there](https://www.youtube.com/watch?v=BeNrVl2_nyI) [01:04:51] by **Adrian Cockcroft** (2014)
+
+<br>
+
 * [Narcissistic Design](https://www.youtube.com/watch?v=LEZv-kQUSi4) [00:37:14] by **Stuart Halloway** (2013)
+
+<br>
+
 * [Scalability at YouTube](https://youtu.be/G-lGCC4KKok?t=9m12s) [00:38:43] by **Mike Solomon** (long intro; starts at 9:12 minutes in) (2012)
 
 #### Testing
 * [Backtracking Generators for Random Testing](https://www.youtube.com/watch?v=dfZ94N0hS4I) [01:03:30] by **Benjamin Pierce** (2020) [A]
+
+<br>
+
 * [How to Stop Hating Your Tests](https://www.youtube.com/watch?v=jmPcVTHmdVo) [00:43:38] by **Justin Searls** (2015)
+
+<br>
+
 * [Testing the Hard Stuff and Staying Sane](https://www.youtube.com/watch?v=zi0rHwfiX1Q) [00:47:16] by **John Hughes** (2014)
 
 #### Theoretical Computer Science
 * [Category Theory for the Working Hacker](https://www.youtube.com/watch?v=V10hzjgoklA) [00:50:51] by **Philip Wadler** (2016)
-* [Impossible Programs](https://www.youtube.com/watch?v=hN63FOa_Gp4) [00:50:06] by **Tom Stuart** (2015)
+
+<br>
+
 * [A Lever for the Mind](https://www.youtube.com/watch?v=tJkoHFjoMuk) [00:38:54] by **Tom Stuart** (2015)
+* [Impossible Programs](https://www.youtube.com/watch?v=hN63FOa_Gp4) [00:50:06] by **Tom Stuart** (2015)
+
+<br>
+
 * [Papers We Love: An Axiomatic Basis for Computer Programming](https://www.youtube.com/watch?v=GQi-6-d5ooQ) [01:04:32] by **Jean Yang** (2014)
+
+<br>
+
 * [Lambda Calculus Then and Now](https://www.youtube.com/watch?v=SphBW9ILVPU) [00:30:08] by **Dana S. Scott** (2013)
-* [Turing and the Riemann zeta function](https://www.youtube.com/watch?v=pQS7X_8iTCA) [01:06:54] by **Andrew Odlyzko** (2012)
-* [Programming the Turing Machine](https://www.youtube.com/watch?v=ibRar7sWulM) [01:06:10] by **Barbara Liskov** (2012)
+
+<br>
+
 * [Church's Coincidences](https://www.youtube.com/watch?v=2PJ_DbKGFUA) [01:03:41] by **Philip Wadler** (2012)
+* [Programming the Turing Machine](https://www.youtube.com/watch?v=ibRar7sWulM) [01:06:10] by **Barbara Liskov** (2012)
+* [Turing and the Riemann zeta function](https://www.youtube.com/watch?v=pQS7X_8iTCA) [01:06:54] by **Andrew Odlyzko** (2012)
 
 #### Type Theory
 * [Type Theory and its Meaning Explanations](https://www.youtube.com/watch?v=xMAqniX2Paw) [00:52:23] by **Jon Sterling** (2015)
+
+<br>
+
 * [Papers We Love: On the Meanings of the Logical Constants and the Justifications of the Logical Laws](https://www.youtube.com/watch?v=xRUPr322COQ) [01:24:37] by **Joseph Abrahamson** (2014)
 * [Papers We Love: The Derivative of a Regular Type is its Type of One-Hole Contexts](https://www.youtube.com/watch?v=K7tQsKxC2I8) [01:06:25] by **Erik Hinton** (2014)
 
 #### UX/UI
 * [Designing GNOME Mobile Apps](https://guadec.ubicast.tv/permalink/v125d0af53a1fipzbiat/) [00:35:48] by **Tobias Bernard** (2019) [[slides](https://github.com/bertob/guadec2019-slides/blob/master/guadec-2019-gnome-mobile-apps.pdf)]
+
+<br>
+
 * [Data Driven UIs, Incrementally](https://www.youtube.com/watch?v=R3xX37RGJKE) [00:36:17] by **Yaron Minsky** (2018)
+
+<br>
+
 * [Choosing Features](https://www.deconstructconf.com/2017/kevin-lynagh-choosing-features) [00:23:52] by **Kevin Lynagh** (2017)
+
+<br>
+
 * [Practical UI physics](https://www.youtube.com/watch?v=90oMnMFozEE) [00:34:12] by **David DeSandro** (2015)
 * [We Will All Be Game Programmers](https://www.youtube.com/watch?v=avwDj3KRuLc) [00:29:34] by **Hunter Loftis** (2015)
+
+<br>
+
 * [User Interface (UX) Techniques](https://www.youtube.com/watch?v=7OSkB4BCx00) [00:51:20] by **Janne Jul Jensen** (2013)
 
 #### Web Development
 * [Accessibility Myths & Solutions](https://www.deconstructconf.com/2018/tea-ho-accessibility-myths-solutions) [00:28:53] by **Tea Ho** (2018)
+
+<br>
+
 * [Implementing and Using GraphQL at GitHub](https://www.youtube.com/watch?v=wPPFhcqGcvk) [00:38:55] by **Kyle Daigle & Dan Schafer** (2016)
+
+<br>
+
+* [How I learned to Code by Making 180 websites in 180 days](https://www.youtube.com/watch?v=QaSbL4sRff8) [00:22:03] by **Jennifer De Walt** (2015)
+* [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) [00:42:59] by **Gil Tene** (2015)
 * [The Website Obesity Crisis](https://www.youtube.com/watch?v=iYpl0QVCr6U) [00:53:19] by **Maciej Ceglowski** (2015)
 * [Upgrading the Web](https://www.youtube.com/watch?v=6UTWAEJlhww) [00:41:19] by **Douglas Crockford** (2015)
-* [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) [00:42:59] by **Gil Tene** (2015)
-* [How I learned to Code by Making 180 websites in 180 days](https://www.youtube.com/watch?v=QaSbL4sRff8) [00:22:03] by **Jennifer De Walt** (2015)
-* [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) [00:22:06] by **David Nolen** (2014)
-* [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw) [00:44:36] by **Tom Occhino, Jing Chen & Pete Hunt** (it starts pretty slow and marketingy, but gets much better over time) (2014)
-* [React: RESTful UI Rendering](https://www.youtube.com/watch?v=IVvHPPcl2TM) [00:36:15] by **Pete Hunt** (2014)
-* [Unlock the next era of UI development with Polymer](https://www.youtube.com/watch?v=HKrYfrAzqFA) [00:41:31] by **Rob Dodson** (2014)
-* [Parallax Performance](https://www.youtube.com/watch?v=R6TXuXV1bbY) [00:32:01] by **Paul Irish** (2014)
-* [Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw) [00:23:25] by **Paul Irish** (2014)
-* [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) [00:25:57] by **Scott Hanselman** (2014)
-* [Life is Terrible: Let's Talk About the Web](https://vimeo.com/111122950) [00:32:07] by **James Mickens** (2014)
-* [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:28:44] by **Gary Bernhardt** (2014)
-* [C10M - Defending The Internet At Scale](https://youtu.be/73XNtI0w7jA) [00:47:53] by **Robert Graham** (2013)
-* [React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) [00:29:32] by **Pete Hunt** (2013)
-* [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) [00:27:26] by **Chris Williams** (2013)
-* [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) [00:21:40] by **Chris Williams** (2013)
-* [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) [00:36:31] by **Brian Lonsdorf** (2013)
-* [Go To There and Back Again](https://vimeo.com/78893726) [00:49:06] by **Douglas Crockford** (2013)
-* [HTML5 Boilerplate](https://www.youtube.com/watch?v=qyM37XKkmKQ) [01:04:20] by **Paul Irish** (2011)
 
-### Miscellaneous
+<br>
+
+* [Delivering the goods](https://www.youtube.com/watch?v=R8W_6xWphtw) [00:23:25] by **Paul Irish** (2014)
+* [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw) [00:44:36] by **Tom Occhino, Jing Chen & Pete Hunt** (it starts pretty slow and marketingy, but gets much better over time) (2014)
+* [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) [00:22:06] by **David Nolen** (2014)
+* [Life is Terrible: Let's Talk About the Web](https://vimeo.com/111122950) [00:32:07] by **James Mickens** (2014)
+* [Parallax Performance](https://www.youtube.com/watch?v=R6TXuXV1bbY) [00:32:01] by **Paul Irish** (2014)
+* [React: RESTful UI Rendering](https://www.youtube.com/watch?v=IVvHPPcl2TM) [00:36:15] by **Pete Hunt** (2014)
+* [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) [00:28:44] by **Gary Bernhardt** (2014)
+* [Unlock the next era of UI development with Polymer](https://www.youtube.com/watch?v=HKrYfrAzqFA) [00:41:31] by **Rob Dodson** (2014)
+* [Virtual Machines, JavaScript and Assembler](https://www.youtube.com/watch?v=UzyoT4DziQ4) [00:25:57] by **Scott Hanselman** (2014)
+
+<br>
+
+* [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) [00:27:26] by **Chris Williams** (2013)
+* [C10M - Defending The Internet At Scale](https://youtu.be/73XNtI0w7jA) [00:47:53] by **Robert Graham** (2013)
+* [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) [00:21:40] by **Chris Williams** (2013)
+* [Go To There and Back Again](https://vimeo.com/78893726) [00:49:06] by **Douglas Crockford** (2013)
+* [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) [00:36:31] by **Brian Lonsdorf** (2013)
+* [React: Rethinking best practices](https://www.youtube.com/watch?v=x7cQ3mrcKaY) [00:29:32] by **Pete Hunt** (2013)
+
+<br>
+
+* [HTML5 Boilerplate](https://www.youtube.com/watch?v=qyM37XKkmKQ) [01:04:20] by **Paul Irish** (2011)### Miscellaneous
 * [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) [01:02:41] by **Jonathan Blow** (2019)
 * [Start With Just a Few Things](https://www.youtube.com/watch?v=eF_Z0A86oQk) [00:09:54] by **Max Hallinan** (2019)
 * [Improper Hierarchy](https://www.deconstructconf.com/2018/tom-murphy-vii-improper-hierarchy) [00:34:26] by **Tom Murphy VII.** (2018)
@@ -1292,7 +1770,7 @@ ever.
 
 Generally, a lot of talks are welcome on this list. The topic does not matter too much - it
 should be linked to Computer Science - but the format does. Talks are welcome if
-* they were recorded at a conference or meetup (i.e. no screencasts or vlogging)
+* they were recorded at a conference or meetup (i.e. no screencasts or vlogging) and
 * they are awesome™!
 
 I hope that is straightforward, understandable and makes sense.
@@ -1301,8 +1779,5 @@ When adding a new section/subsection or entry, please try to ensure it's sorted 
 
 * The two top-level sections (Languages and Theory) have their subsection headings organised alphabetically (`APL` > `VimL`).
 
-* The Languages subsections are sorted ascending by year (last field), then alphabetically by title. For example, an entry with `(2012)` should be below one with `(2017)` regardless of title; entries from the same year are then alphabetised within each year-group.
-  * Groups of years are separated from one another by `<br>\n` (`<br>` followed by an empty line), except if a group would contain only a few (<= 3) talks and it is near another small group, in which case small adjacent year-groups are consolidated. An entry or two might also be included in an adjacent larger year-group iff the entries have different years.
-
-* The Theory subsections are sorted only ascendingly by year, with no attention to title, and no grouping by year.
-  * It doesn't matter where in a group of same-year-talks a specific (added) talk goes.
+* All subsections under `### On Programming Languages` and `### On theory` are sorted descending by year (newest first), then alphabetically by title within each year. For example, an entry with `(2020)` should be above one with `(2015)` regardless of title; entries sharing a year stay in their existing relative order unless you are also alphabetising a tie.
+  * Separate distinct year groups with `<br>\n` (`<br>` followed by an empty line).
