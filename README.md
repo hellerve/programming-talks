@@ -1224,6 +1224,10 @@ ever.
 * [Is There More to Game Architecture than ECS?](https://www.youtube.com/watch?v=JxI3Eu5DPwE) [00:23:05] by **Bob Nystrom** (2018)
 
 #### Hardware
+* [What Every Programmer Should Know about How CPUs Work](https://www.youtube.com/watch?v=-HNpim5x-IE) [00:43:27] by **Matt Godbolt** (2024)
+
+<br>
+
 * [A Taste of GPU Compute](https://www.youtube.com/watch?v=eqkAaplKBc4) [01:05:06] by **Raph Levien** (2020)
 
 <br>
