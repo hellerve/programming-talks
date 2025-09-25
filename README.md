@@ -914,6 +914,10 @@ ever.
 ### On theory
 
 #### Compilers/Interpreters
+* [A Beginners’ Guide to SelectionDAG](https://www.youtube.com/watch?v=nNQ6AF6i5FI) by **Alex MacLean, Justin Fargnoli** (2025)
+
+<br>
+
 * [Towards a Verified Range Analysis for JavaScript JITs](https://www.youtube.com/watch?v=5tRK5_GPdpM) by **Fraser Brown** (2020) (Paper by Brown et al.)
 
 <br>
