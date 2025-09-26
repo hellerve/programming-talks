@@ -684,7 +684,14 @@ ever.
 #### Python
 (There is a good list of talks about Python to be found [here](https://github.com/s16h/py-must-watch))
 
+* [What they don't tell you about building a JIT compiler for CPython](https://www.youtube.com/watch?v=NE-Oq8I3X_w) [00:29:02] by **Brandt Bucher** (2025)
+
+<br>
+
 * [A Talk near the Future of Python?](https://www.youtube.com/watch?v=VUT386_GKI8) [01:01:11] by **David Beazley** (2019)
+
+<br>
+
 * [Understanding Python Bytecode](https://www.youtube.com/watch?v=_w3a1ledmVE) [00:29:44] by **James Bennett** (2018)
 <br>
 
