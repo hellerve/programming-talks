@@ -684,7 +684,12 @@ ever.
 #### Python
 (There is a good list of talks about Python to be found [here](https://github.com/s16h/py-must-watch))
 
+* [Exploring the CPython JIT](https://www.youtube.com/watch?v=5-AA7-fHYYM) [00:28:45] by **Diego Russo* (2025)
 * [What they don't tell you about building a JIT compiler for CPython](https://www.youtube.com/watch?v=NE-Oq8I3X_w) [00:29:02] by **Brandt Bucher** (2025)
+
+<br>
+
+* [GraalPy - Fast Python Implementation](https://www.youtube.com/watch?v=J9UVzSQD8Lc) (00:22:47) by **Štěpán Šindelář, Tim Felgentreff** (2024)
 
 <br>
 
