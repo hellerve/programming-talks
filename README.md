@@ -1329,6 +1329,10 @@ ever.
 
 <br>
 
+* [The Best Programmer I Know](https://www.youtube.com/watch?v=ybA0zxwgpxw) [00:39:48] by **Daniel Terhorst-North** (2024)
+
+<br>
+
 * [Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s) [00:43:03] by **Jack Rusher** (2022)
 
 <br>
