@@ -171,6 +171,10 @@ ever.
 * [Writing application fault handlers](https://bootlin.com/pub/video/2008/ols/ols2008-gilad-ben-yossef-fault-handlers.ogg) [00:49:03] by **Gilad Ben-Yossef** (2008)
 
 #### Clojure
+* [Evolving Clojure with Virtual Threads](https://www.youtube.com/watch?v=umeUXG56JA8) [00:40:24] by **Alex Miller** (2025)
+
+<br>
+
 * [Expeditious Code via Inference](https://www.youtube.com/watch?v=tPnCtXrwvIw) [00:45:36] by **Mike Fikes** (2019)
 * [fn and Games with Arcadia](https://www.youtube.com/watch?v=LbS45w_aSCU) [00:53:49] by **Ramsey Nasser** (2019)
 * [Rethinking Identity with Clojure](https://www.youtube.com/watch?v=77b47P8EpfA) [00:41:53] by **David Nolen** (2019)
