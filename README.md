@@ -1435,6 +1435,10 @@ ever.
 * [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) [00:50:17] by **Martin Thompson** (2015)
 
 #### Programming Language Design
+* [Jai Demo and Design Explanation](https://www.youtube.com/watch?v=IdpD5QIVOKQ) [01:13:00] by **Jonathan Blow** (2025)
+
+<br>
+
 * [On the Expressive Power of Programming Languages](https://www.youtube.com/watch?v=43XaZEn2aLc) [00:59:03] by **Shriram Krishnamurthi** (2019)
 * [Stuck macros: deterministically interleaving macro-expansion and typechecking](https://www.youtube.com/watch?v=nUvKoG_V_U0) [00:41:55] by **Samuel Gélineau** (2019)
 * [Three Things I Wish I Knew When I Started Designing Languages](https://www.infoq.com/presentations/language-design-process/) [00:44:28] by **Peter Alvaro** (2019)
