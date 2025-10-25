@@ -1437,6 +1437,7 @@ ever.
 #### Programming Language Design
 * [Do Programming Language Features Deliver on their Promises](https://www.youtube.com/watch?v=V8sACAhg4vM) [00:51:35] by **Aaron Hsu** (2025)
 * [Jai Demo and Design Explanation](https://www.youtube.com/watch?v=IdpD5QIVOKQ) [01:13:00] by **Jonathan Blow** (2025)
+* [My favorite verbose programming technique](https://www.youtube.com/watch?v=hkNwku81ehw) [00:57:22] by **Aaron Hsu** (2025)
 
 <br>
 
@@ -1802,8 +1803,8 @@ ever.
 
 ## Contributing
 
-Generally, a lot of talks are welcome on this list. The topic does not matter too much - it
-should be linked to Computer Science - but the format does. Talks are welcome if
+Generally, a lot of talks are welcome on this list. The topic does not matter too much-it
+should be linked to Computer Science-but the format does. Talks are welcome if
 * they were recorded at a conference or meetup (i.e. no screencasts or vlogging) and
 * they are awesome™!
 
@@ -1812,6 +1813,5 @@ I hope that is straightforward, understandable and makes sense.
 When adding a new section/subsection or entry, please try to ensure it's sorted accordingly:
 
 * The two top-level sections (Languages and Theory) have their subsection headings organised alphabetically (`APL` > `VimL`).
-
-* All subsections under `### On Programming Languages` and `### On theory` are sorted descending by year (newest first), then alphabetically by title within each year. For example, an entry with `(2020)` should be above one with `(2015)` regardless of title; entries sharing a year stay in their existing relative order unless you are also alphabetising a tie.
+* All subsections are sorted descending by year (newest first), then alphabetically by title within each year. For example, an entry with `(2020)` should be above one with `(2015)` regardless of title; entries sharing a year stay in their existing relative order unless you are also alphabetising a tie.
   * Separate distinct year groups with `<br>\n` (`<br>` followed by an empty line).
