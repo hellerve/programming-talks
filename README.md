@@ -1435,6 +1435,7 @@ ever.
 * [Designing for Performance](https://www.youtube.com/watch?v=fDGWWpHlzvw) [00:50:17] by **Martin Thompson** (2015)
 
 #### Programming Language Design
+* [Do Programming Language Features Deliver on their Promises](https://www.youtube.com/watch?v=V8sACAhg4vM) [00:51:35] by **Aaron Hsu** (2025)
 * [Jai Demo and Design Explanation](https://www.youtube.com/watch?v=IdpD5QIVOKQ) [01:13:00] by **Jonathan Blow** (2025)
 
 <br>
