@@ -1,0 +1,8 @@
+{
+  "title": "Using SIMD Intrinsics in Rust",
+  "speaker": "Jack Mott",
+  "year": 2019,
+  "url": "https://www.youtube.com/watch?v=4Gs_CA_vm3o",
+  "tags": ["rust", "simd", "performance"],
+  "description": "A talk demonstrating how to use SIMD intrinsics with Rust, applicable to C/C++ as well."
+}
