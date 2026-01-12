@@ -172,6 +172,7 @@ ever.
 
 #### Clojure
 * [Evolving Clojure with Virtual Threads](https://www.youtube.com/watch?v=umeUXG56JA8) [00:40:24] by **Alex Miller** (2025)
+* [Making Tools Developers Actually Use](https://www.youtube.com/watch?app=desktop&v=119qVkHxPkM) [00:27:33] by **Michiel Borkent** (2025)
 
 <br>
 
