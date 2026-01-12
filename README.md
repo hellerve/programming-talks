@@ -932,6 +932,7 @@ ever.
 #### Compilers/Interpreters
 * [A Beginners’ Guide to SelectionDAG](https://www.youtube.com/watch?v=nNQ6AF6i5FI) [00:52:09] by **Alex MacLean, Justin Fargnoli** (2025)
 * [Auto-Vectorization in HotSpot](https://www.youtube.com/watch?v=UVsevEdYSwI) [00:42:29] by **Emanuel Peter** (2025)
+* [Building Modern Language Frontends with MLIR: Lessons from Mojo](https://www.youtube.com/watch?v=5RpOF-F0Gps) [00:22:50] by **Chris Lattner & Billy Zhu** (2025)
 
 <br>
 
