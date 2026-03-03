@@ -1556,6 +1556,10 @@ ever.
 * [28c3: The Science of Insecurity](https://www.youtube.com/watch?v=3kEfedtQVOY) [00:59:22] by **Meredith L. Patterson, Sergey** (2011)
 
 #### Software Development
+* [The Best Simple System for Now](https://www.youtube.com/watch?v=aIh2XBS4pr0) [00:55:43] by **Daniel Terhorst-North** (2025) [A]
+
+<br/>
+
 * [Design in Practice](https://www.youtube.com/watch?v=fTtnx1AAJ-c) [01:00:45] by **Rich Hickey** (2023)
 * [Is Software Engineering Real Engineering?](https://www.youtube.com/watch?v=6pO7jT794uc) [00:37:31] by **Hillel Wayne** (2023)
 
