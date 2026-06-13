@@ -827,6 +827,9 @@ ever.
 * [What Killed Smalltalk Could Kill Ruby, Too](https://www.youtube.com/watch?v=YX3iRjKj7C0) [01:00:55] by **Robert Martin** (2009)
 
 #### Rust
+* [Miri: Practical Undefined Behavior Detection for Rust](https://www.youtube.com/watch?v=9A8ZeDIStAs) [00:24:40] by **Ralf Jung** (2026) [A]
+<br>
+
 * [Rust at speed - building a fast concurrent database](https://www.youtube.com/watch?v=s19G6n0UjsM) [00:52:53] by **Jon Gjengset** (2018)
 * [Using Rust For Game Development](https://www.youtube.com/watch?v=aKLntZcp27M) [00:42:29] by **Catherine West** (2018)
 <br>
