@@ -1342,6 +1342,10 @@ ever.
 * [Scaling Yourself](https://www.youtube.com/watch?v=FS1mnISoG7U) [00:28:51] by **Scott Hanselman** (2012)
 
 #### On the Industry/Community
+* [Don't Take the Black Pill](https://www.youtube.com/watch?v=zLZwpH5lCD4) [00:35:10] by **Andrew Kelley** (2026) [A]
+
+<br>
+
 * [X Marks the Spot: Navigating Possible Futures with Wardley Maps](https://www.youtube.com/watch?v=ShAzlhS_TCg) [00:39:25] by **Simon Wardley** (2025)
 
 <br>
