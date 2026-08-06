@@ -1151,6 +1151,10 @@ ever.
 * [Your infrastructure is not a unique snowflake, and that's ok!](https://www.youtube.com/watch?v=x-zwxuIb1lY) [00:37:39] by **Jeremy Edberg** (2015)
 
 #### Distributed Systems
+* [How to Find Bugs in Systems That Don't Exist](https://www.youtube.com/watch?v=zSZkLyD9ILI) [00:38:16] by **Hillel Wayne** (2026) [A]
+
+<br>
+
 * [Squashing the Heisenbug with Deterministic Simulation Testing](https://mirrors.dotsrc.org/fosdem/2025/ud6215/fosdem-2025-4279-squashing-the-heisenbug-with-deterministic-simulation-testing.mp4) [00:25:58] by **Dominik Tornow** (2025)
 
 <br>
