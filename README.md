@@ -1567,6 +1567,10 @@ ever.
 * [28c3: The Science of Insecurity](https://www.youtube.com/watch?v=3kEfedtQVOY) [00:59:22] by **Meredith L. Patterson, Sergey** (2011)
 
 #### Software Development
+* [System Daydreams and Logarithmic Colored Glasses](https://www.youtube.com/watch?v=Q4y0xNFoW00) [00:48:44] by **Marianne Bellotti** (2026) [A]
+
+<br>
+
 * [The Best Simple System for Now](https://www.youtube.com/watch?v=aIh2XBS4pr0) [00:55:43] by **Daniel Terhorst-North** (2025) [A]
 
 <br/>
