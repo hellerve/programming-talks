@@ -1691,6 +1691,10 @@ ever.
 * [Scalability at YouTube](https://youtu.be/G-lGCC4KKok?t=9m12s) [00:38:43] by **Mike Solomon** (long intro; starts at 9:12 minutes in) (2012)
 
 #### Testing
+* [Reliability Lessons From SQLite](https://www.youtube.com/watch?v=V_qzqY1bb7I) [00:54:21] by **Richard Hipp** (2026) [A]
+
+<br>
+
 * [Backtracking Generators for Random Testing](https://www.youtube.com/watch?v=dfZ94N0hS4I) [01:03:30] by **Benjamin Pierce** (2020) [A]
 
 <br>
