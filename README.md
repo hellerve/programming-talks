@@ -1575,7 +1575,7 @@ ever.
 
 <br/>
 
-* [Design in Practice](https://www.youtube.com/watch?v=fTtnx1AAJ-c) [01:00:45] by **Rich Hickey** (2023)
+* [Design in Practice](https://www.youtube.com/watch?v=c5QF2HjHLSE) [01:00:45] by **Rich Hickey** (2023)
 * [Is Software Engineering Real Engineering?](https://www.youtube.com/watch?v=6pO7jT794uc) [00:37:31] by **Hillel Wayne** (2023)
 
 <br>
